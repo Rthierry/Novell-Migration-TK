@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf8 -*-
 # @Author: Thierry Rangeard <Gandalf>
 # @Date:   04-Oct-2016
 # @Email:  trangeard@net-online.fr
@@ -5,15 +7,19 @@
 # @Last modified by:   Gandalf
 # @Last modified time: 26-Oct-2016
 
+import sys, getopt
+reload(sys);
+sys.setdefaultencoding("utf8")
+
 import ldap
 Server = "ldap://172.16.48.220"
 
 BaseAD = "dc=netonline,dc=loc"
 BaseeDir = "O=netonline"
 Scope = ldap.SCOPE_SUBTREE
-FilterAD = "(objectClass=user)"
+FilterAD = "(&(objectClass=user)(!(objectClass=computer)))"
 FiltereDir = ""
-Attrs = ["SamAccountName"]
+Attrs = ['SamAccountName','memberOf']
 
 l =ldap.initialize(Server)
 l.protocol_version = 3
