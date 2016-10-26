@@ -1,12 +1,24 @@
 # @Author: Thierry Rangeard <Gandalf>
 # @Date:   04-Oct-2016
 # @Email:  trangeard@net-online.fr
-# @Project: Utilitaire de conversion metamig - csv - pandas
+# @Project: Utilitaire de lecture ldap
 # @Last modified by:   Gandalf
-# @Last modified time: 04-Oct-2016
+# @Last modified time: 26-Oct-2016
 
 import ldap
-l =ldap.initialize('ldap://172.16.48.222:389')
-r = l.search_s('O=netonline', ldap.SCOPE_SUBTREE, '(objectClass=Group)', ['member'])
+Server = "ldap://172.16.48.220"
+
+BaseAD = "dc=netonline,dc=loc"
+BaseeDir = "O=netonline"
+Scope = ldap.SCOPE_SUBTREE
+FilterAD = "(objectClass=user)"
+FiltereDir = ""
+Attrs = ["SamAccountName"]
+
+l =ldap.initialize(Server)
+l.protocol_version = 3
+l.set_option(ldap.OPT_REFERRALS, 0)
+l.simple_bind_s('Administrateur@netonline.loc', 'Netonline@26')
+r = l.search_s(BaseAD, Scope, FilterAD, Attrs)
 for dn in r:
     print 'Processing', repr(dn)
