@@ -19,7 +19,7 @@ BaseeDir = "O=netonline"
 Scope = ldap.SCOPE_SUBTREE
 FilterAD = "(&(objectClass=user)(!(objectClass=computer)))"
 FiltereDir = ""
-Attrs = ['SamAccountName','memberOf']
+Attrs = ['SamAccountName']
 
 l =ldap.initialize(Server)
 l.protocol_version = 3
