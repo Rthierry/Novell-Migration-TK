@@ -44,4 +44,4 @@ def CleanHomeDir(input_file, output_file):
 
 if __name__ == "__main__":
    main(sys.argv[1:])
-   CleanHomeDir(sys.argv[1],'out.csv')
+   CleanHomeDir(sys.argv[1],'CleanHomedir-out.csv')
