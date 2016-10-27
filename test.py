@@ -3,7 +3,7 @@
 # @Email:  trangeard@net-online.fr
 # @Project: Moficication du fichier Groupe en sortie de la commande ldapsearch
 # fichier entrée : listegrp en sortie out1.csv
-
+# Création du fichier importAD_Group.csv
 # @Last modified by:   Gandalf
 # @Last modified time: 27-Oct-2016
 #!/usr/bin/python
@@ -51,12 +51,3 @@ def ADDElementGRP(input_file, output_file):
 if __name__ == "__main__":
     GETclean('listegrp.txt','out1.csv')
     ADDElementGRP('out1.csv','importAD_Group.csv')
-
-# for line in grouplistOut:
-    # content =
-    # print line[1]
-    # for line in list2:
-    # print line
-    #for cn in list:
-    #    name = re.sub(r"cn=",r"", cn)
-    #print(name)
