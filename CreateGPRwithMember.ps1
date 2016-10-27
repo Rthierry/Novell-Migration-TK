@@ -1,4 +1,12 @@
-﻿Param(
+﻿# @Author: Adrien Neel <AdrienN>
+# @Date:   27-Oct-2016
+# @Email:  aneel@net-online.fr
+# @Project: CreateGRPwithMember
+# @Fonction: cree des groupe dans un AD en ajoutant des membres avec un fichiers csv en entree
+# @Last modified by:   AdrienN
+# @Last modified time: 27-Oct-2016
+
+Param(
   [string]$groupList,
   [string]$groupMemberList,
   [string]$destinationDN
