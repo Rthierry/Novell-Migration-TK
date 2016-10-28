@@ -1,12 +1,4 @@
-﻿# @Author: Adrien Neel <AdrienN>
-# @Date:   27-Oct-2016
-# @Email:  aneel@net-online.fr
-# @Project: CreateGRPwithMember
-# @Fonction: cree des groupe dans un AD en ajoutant des membres avec un fichiers csv en entree
-# @Last modified by:   AdrienN
-# @Last modified time: 27-Oct-2016
-
-Param(
+﻿Param(
   [string]$groupList,
   [string]$groupMemberList,
   [string]$destinationDN
@@ -19,8 +11,23 @@ Import-CSV $groupList | Foreach{
     $membercn = $_.memberCN
     $memberadd = $membercn.Split("{,}")
     #Write-Host "${dn},${destinationDN}"
-    New-ADGroup -Name "$name" -SamAccountName $name -GroupCategory Security -GroupScope Global -DisplayName "$name" -Path "OU=Groupes-AD,DC=tephadet,DC=lan" -Description "Groupe $oldname dans eDirectrory"
+    try {
+    New-ADGroup -Name "$name" -SamAccountName $name -GroupCategory Security -GroupScope Global -DisplayName "$name" -Path "OU=Group-Annecy,DC=tephadet,DC=lan" -Description "Groupe $oldname dans eDirectrory"
+    }
+    catch
+    {
+      "Error when Create group ${name}." | Out-File .\Addgroupe.log -Append
+      "$_.Message" | Out-File .\addgroupe.log -Append
+    }
+    try{
     Add-ADGroupMember -identity ${name} -Member $memberadd
-
+    }
+    catch
+    {
+      "Error when adding user: ${memberadd} on ${name}." | Out-File .\Adduser.log -Append
+      "$_.Message" | Out-File .\adduser.log -Append
+    }
     
 }
+
+
