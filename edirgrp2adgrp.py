@@ -42,8 +42,8 @@ def ADDElementGRP(input_file, output_file):
             Grp_Data_head = ['oldGroup','groupName','memberCN']
             all =[]
             for row in csvreader:
-                oldGroup = "GG-"+row[0]
-                row.insert(0, oldGroup)
+                oldGroup = "GG-"+row[1]
+                row.insert(1, oldGroup)
                 csvwriter.writerow(row)
     print('Ajout colonne')
     return()
