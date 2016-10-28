@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
 # @Author: Thierry Rangeard <Gandalf>
-# @Date:   18-Oct-201
+# @Date:   18-Oct-2016
 # @Email:  trangeard@net-online.fr
 # @Project: Moficication du fichier Groupe en sortie de la commande ldapsearch
 # fichier entrée : listegrp en sortie out1.csv
