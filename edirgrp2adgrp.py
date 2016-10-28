@@ -1,3 +1,5 @@
+#!/usr/bin/python
+#-*- coding: utf-8 -*-
 # @Author: Thierry Rangeard <Gandalf>
 # @Date:   18-Oct-201
 # @Email:  trangeard@net-online.fr
@@ -6,8 +8,7 @@
 # Création du fichier importAD_Group.csv
 # @Last modified by:   Gandalf
 # @Last modified time: 27-Oct-2016
-#!/usr/bin/python
-#-*- coding: utf-8 -*-
+
 import sys, getopt
 reload(sys);
 sys.setdefaultencoding("utf8")
@@ -42,7 +43,7 @@ def ADDElementGRP(input_file, output_file):
             Grp_Data_head = ['oldGroup','groupName','memberCN']
             all =[]
             for row in csvreader:
-                oldGroup = "GG-"+row[1]
+                oldGroup = "GG-"+row[0]
                 row.insert(1, oldGroup)
                 csvwriter.writerow(row)
     print('Ajout colonne')
