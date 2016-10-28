@@ -32,7 +32,7 @@ def GETclean(input_file, output_file):
                 list5 = re.sub(r' ','',list4)
                 list6 = list5.split(',')
                 writer.writerow(list6)
-    print('Netoyage du fichier')
+    print('Nettoyage du fichier')
     return()
 
 def ADDElementGRP(input_file, output_file):
@@ -42,9 +42,12 @@ def ADDElementGRP(input_file, output_file):
             csvwriter = csv.writer(csvoutput)
             Grp_Data_head = ['oldGroup','groupName','memberCN']
             all =[]
+            sep =", "
             for row in csvreader:
                 oldGroup = "GG-"+row[0]
                 row.insert(1, oldGroup)
+                merged = sep.join(x for x in row[2:] if x.strip())
+                row[2:] = [merged]
                 csvwriter.writerow(row)
     print('Ajout colonne')
     return()
