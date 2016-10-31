@@ -7,7 +7,7 @@
 # fichier entrée : listegrp en sortie out1.csv
 # Création du fichier importAD_Group.csv
 # @Last modified by:   Gandalf
-# @Last modified time: 27-Oct-2016
+# @Last modified time: 28-Oct-2016
 
 import sys, getopt
 reload(sys);
