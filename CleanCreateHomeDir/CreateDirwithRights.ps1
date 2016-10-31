@@ -20,11 +20,11 @@ Import-Csv $rightsList-utf8 | Foreach {
     $directory = $_.path
     $rights = $_.trustee
     $appliesto = $_.appliesto
-    
+
     Write-Host New-Item -ItemType Directory -Force -Path "${rootPath}\${directory}"
     try {
         New-Item -ItemType Directory -Force -Path "${rootPath}\${directory}"
-        Add-NTFSAccess -Account "${domain}\${upn}" -Path "${rootPath}${directory}" -AccessRights "${rights}" -AppliesTo "${appliesto}"     
+        Add-NTFSAccess -Account "${domain}\${upn}" -Path "${rootPath}${directory}" -AccessRights "${rights}" -AppliesTo "${appliesto}"
     }
     catch
     {

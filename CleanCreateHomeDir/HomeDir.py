@@ -36,13 +36,13 @@ def CleanHomeDir(input_file, output_file):
        with open (output_file, 'w') as o:
            for lines in content:
                print (lines)
-               out = re.sub(r'^\"CN=.*.\"[,]\"', "", lines)
-               out1 = re.sub(r'\"', "", out)
-               out12 = re.sub("\r\n", "",out1)
+               #out = re.sub(r'^\"CN=.*.\"[,]\"', "", lines)
+               #out1 = re.sub(r'\"', "", out)
+               out12 = re.sub("\r\n", "", lines)
                out2 = out12 + ",\\" + out12 + ",\"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory\",ThisFolderSubFoldersAndFiles\n"
                o.write(out2)
    return()
 
 if __name__ == "__main__":
    main(sys.argv[1:])
-   CleanHomeDir(sys.argv[1],'CleanHomedir-out.csv')
+   CleanHomeDir(sys.argv[1],'Homedir-out.csv')
