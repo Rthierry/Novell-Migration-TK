@@ -16,7 +16,7 @@ import re
 import csv
 
 def GETclean(input_file, output_file):
-    ldapgetcn = re.compile("cn=[0-9A-Za-z--]+", re.IGNORECASE)
+    ldapgetcn = re.compile("cn=[0-9A-Z_a-z--]+", re.IGNORECASE)
     list0 = []
     grouplistOut = []
     with open(input_file, 'r') as i:
