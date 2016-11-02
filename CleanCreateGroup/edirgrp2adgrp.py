@@ -3,8 +3,9 @@
 # @Author: Thierry Rangeard <Gandalf>
 # @Date:   18-Oct-2016
 # @Email:  trangeard@net-online.fr
-# @Project: Moficication du fichier Groupe en sortie de la commande ldapsearch
+# @Project: Modification du fichier Groupe en sortie de la commande ldapsearch
 # fichier entrée : listegrp en sortie out1.csv
+# fichier entrée : onlyUserComm.csv
 # Création du fichier importAD_Group.csv
 # @Last modified by:   Gandalf
 # @Last modified time: 02-Nov-2016
@@ -47,6 +48,7 @@ def ADDElementGRP(input_file, listuser, output_file):
                 all =[]
                 sep =", "
                 for row in csvreader:
+                    # je cherche si utilisateur
                     if row[0] not in onlyUserComm:
                         oldGroup = "GG-"+row[0]
                         row.insert(1, oldGroup)
