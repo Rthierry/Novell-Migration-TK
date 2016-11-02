@@ -35,21 +35,28 @@ def GETclean(input_file, output_file):
     print('Nettoyage du fichier')
     return()
 
-def ADDElementGRP(input_file, output_file):
+def ADDElementGRP(input_file, listuser, output_file):
     with open(input_file, 'r') as csvinput:
         csvreader = csv.reader(csvinput)
-        with open(output_file, 'w') as csvoutput:
-            csvwriter = csv.writer(csvoutput)
-            Grp_Data_head = ['oldGroup','groupName','memberCN']
-            all =[]
-            sep =", "
-            for row in csvreader:
-                oldGroup = "GG-"+row[0]
-                row.insert(1, oldGroup)
-                merged = sep.join(x for x in row[2:] if x.strip())
-                row[2:] = [merged]
-                csvwriter.writerow(row)
-    print('Ajout colonne')
+        with open(listuser, 'rb') as csvuserlist:
+            csvreaderrowuser = csv.reader(csvuserlist)
+            onlyUserComm = [row[0] for row in csvreaderrowuser]
+            with open(output_file, 'w') as csvoutput:
+                csvwriter = csv.writer(csvoutput)
+                Grp_Data_head = ['oldGroup','groupName','memberCN']
+                all =[]
+                sep =", "
+                for row in csvreader:
+                    if row[0] not in onlyUserComm:
+                        oldGroup = "GG-"+row[0]
+                        row.insert(1, oldGroup)
+                        merged = sep.join(x for x in row[2:] if x.strip())
+                        row[2:] = [merged]
+                        csvwriter.writerow(row)
+                    else:
+                        print ("Found:" + row[0])
+                        continue
+            print('File parsed, columns added, users direct assigments cleared')
     return()
 
 def FINDUserGRP(input_user, input_group):
@@ -57,20 +64,20 @@ def FINDUserGRP(input_user, input_group):
         csvreaderrowuser = csv.reader(csvuserlist)
         with open(input_group, 'rb') as csvgrplist:
             csvreaderrowgrp = csv.reader(csvgrplist)
-                rows_user_col1 = [row[0] for row in csvreaderrowuser]
-                rows_grp_col2 = [row[0] for row in csvreaderrowgrp]
-                linenum = 0
-                for item in rows_grp_col2:
-                    if item not in rows_user_col1:
-                        linenum = linenum + 1
-                    else:
-                        linenum = linenum + 1
-                        print("trouvé:" + item)
-                        print("ligne :" + str(linenum))
-                        print "dans fichier :" + input_group
+            rows_user_col1 = [row[0] for row in csvreaderrowuser]
+            rows_grp_col2 = [row[0] for row in csvreaderrowgrp]
+            linenum = 0
+            for item in rows_grp_col2:
+                if item not in rows_user_col1:
+                    linenum = linenum + 1
+                else:
+                    linenum = linenum + 1
+                    print("trouvé:" + item)
+                    print("ligne :" + str(linenum))
+                    print "dans fichier :" + input_group
     return()
 
 if __name__ == "__main__":
-    #GETclean('listegrp.txt','out1.csv')
-    #ADDElementGRP('out1.csv','importAD_Group.csv')
-    FINDUserGRP('only-user-comm.csv','importAD_Group.csv','testoutput.csv')
+    GETclean('listegrp.txt','out1.csv')
+    ADDElementGRP('out1.csv','only-user-comm.csv','importAD_Group.csv')
+    #FINDUserGRP('only-user-comm.csv','importAD_Group.csv')
