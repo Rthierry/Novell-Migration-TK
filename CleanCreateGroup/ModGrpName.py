@@ -13,6 +13,14 @@ import sys, getopt
 reload(sys);
 sys.setdefaultencoding("utf8")
 import csv
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("input_aclfile", type=str, help="Fichier trustee acl")
+parser.add_argument("input_grpfile", type=str, help="Fichier groupe")
+
+args = parser.parse_args()
+
 
 def FindGRP(input_aclfile, input_grpfile):
     with open(input_aclfile, 'rb') as csvacllist:
@@ -44,4 +52,6 @@ def FindGRP(input_aclfile, input_grpfile):
                         writeracl.writerow(item)
     return()
 if __name__ == "__main__":
-    FindGRP('trusteeStellaDOC3110.xml-acl.csv','importAD_Group.csv')
+    aclfile = args.input_aclfile
+    groupefile = args.input_grpfile
+    FindGRP(aclfile, groupefile)
