@@ -7,35 +7,35 @@
 # @Last modified by:   FullTacos
 # @Last modified time: 24-Oct-2016
 
-import sys, getopt
+import sys
 import ldap
 
-def main(argv):
-   servername = ''
-   username = ''
-   password = ''
-   dnbase = ''
-   try:
-       opts, args = getopt.getopt(argv,"hs:u:p:d:",["help","server_ldap=","username=","password=","dn_base="])
-   except getopt.GetoptError:
-       print 'getuser_ldap.py -s <Ldap_Serveur_Adresse>'
-       sys.exit(2)
-   for opt, arg in opts:
-       if opt in ("-h","--help"):
-           print ("getuser_ldap.py -s adresse du serveur ldap")
-           sys.exit()
-       elif opt in ("-s","--server_ldap"):
-           servername = arg
-       elif opt in ("-u", "--username"):
-           username = arg
-       elif opt in ("-p", "--password"):
-           password = arg
-       elif opt in ("-d", "--dn_base"):
-           dnbase = arg
-       else:
-           assert False, "unhandled option"
-   print 'Le traitement recuperation'
-   print (servername)
+def  main(argv):
+    servername = ''
+    username = ''
+    password = ''
+    dnbase = ''
+    try:
+        opts, args = getopt.getopt(argv,"hs:u:p:d:",["help","server_ldap=","username=","password=","dn_base="])
+    except getopt.GetoptError:
+        print 'getuser_ldap.py -s <Ldap_Serveur_Adresse>'
+        sys.exit(2)
+        for opt, arg in opts:
+            if opt in ("-h","--help"):
+                print ("getuser_ldap.py -s adresse du serveur ldap")
+                sys.exit()
+            elif opt in ("-s","--server_ldap"):
+                servername = arg
+            elif opt in ("-u", "--username"):
+                username = arg
+            elif opt in ("-p", "--password"):
+                password = arg
+            elif opt in ("-d", "--dn_base"):
+                dnbase = arg
+            else:
+                assert False, "unhandled option"
+        print 'Le traitement recuperation'
+        print (servername)
 
 if __name__ == "__main__":
    main(sys.argv[1:])
