@@ -36,12 +36,12 @@ def GETclean(input_file, output_file):
     print('Nettoyage du fichier')
     return()
 
-def ADDElementGRP(input_file, listuser, output_file):
+def ADDElementGRP(input_file, output_file):
     with open(input_file, 'r') as csvinput:
         csvreader = csv.reader(csvinput)
-        with open(listuser, 'rb') as csvuserlist:
-            csvreaderrowuser = csv.reader(csvuserlist)
-            onlyUserComm = [row[0] for row in csvreaderrowuser]
+        #with open(listuser, 'rb') as csvuserlist:
+        #    csvreaderrowuser = csv.reader(csvuserlist)
+        #    onlyUserComm = [row[0] for row in csvreaderrowuser]
             with open(output_file, 'w') as csvoutput:
                 csvwriter = csv.writer(csvoutput)
                 Grp_Data_head = ['oldGroup','groupName','memberCN']
@@ -49,19 +49,18 @@ def ADDElementGRP(input_file, listuser, output_file):
                 sep =", "
                 for row in csvreader:
                     # je cherche si utilisateur
-                    if row[0] not in onlyUserComm:
+                    #if row[0] not in onlyUserComm:
                         oldGroup = "GG_"+row[0]
                         row.insert(1, oldGroup)
                         merged = sep.join(x for x in row[2:] if x.strip())
                         row[2:] = [merged]
                         csvwriter.writerow(row)
-                    else:
-                        print ("Found:" + row[0])
-                        continue
-            print('File parsed, columns added, users direct assigments cleared')
+                    #else:
+                    #    print ("Found:" + row[0])
+                    #    continue
+            print('File parsed, columns added')
     return()
 
 if __name__ == "__main__":
     GETclean('listegrp.txt','out1.csv')
-    ADDElementGRP('out1.csv','only-user-comm.csv','importAD_Group.csv')
-    #FINDUserGRP('only-user-comm.csv','importAD_Group.csv')
+    ADDElementGRP('out1.csv','importAD_Group.csv')
