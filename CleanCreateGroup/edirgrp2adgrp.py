@@ -61,24 +61,6 @@ def ADDElementGRP(input_file, listuser, output_file):
             print('File parsed, columns added, users direct assigments cleared')
     return()
 
-def FINDUserGRP(input_user, input_group):
-    with open(input_user, 'rb') as csvuserlist:
-        csvreaderrowuser = csv.reader(csvuserlist)
-        with open(input_group, 'rb') as csvgrplist:
-            csvreaderrowgrp = csv.reader(csvgrplist)
-            rows_user_col1 = [row[0] for row in csvreaderrowuser]
-            rows_grp_col2 = [row[0] for row in csvreaderrowgrp]
-            linenum = 0
-            for item in rows_grp_col2:
-                if item not in rows_user_col1:
-                    linenum = linenum + 1
-                else:
-                    linenum = linenum + 1
-                    print("trouvé:" + item)
-                    print("ligne :" + str(linenum))
-                    print "dans fichier :" + input_group
-    return()
-
 if __name__ == "__main__":
     GETclean('listegrp.txt','out1.csv')
     ADDElementGRP('out1.csv','only-user-comm.csv','importAD_Group.csv')
