@@ -16,8 +16,8 @@ import csv
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument("input_aclfile", type=str, help="Fichier trustee acl")
-parser.add_argument("input_grpfile", type=str, help="Fichier groupe")
+parser.add_argument("input_aclfile", type=str, help=" -> Fichier trustee XXX.xml-acl.csv")
+parser.add_argument("input_grpfile", type=str, help=" -> Fichier groupe importAD_Group.csv")
 
 args = parser.parse_args()
 
