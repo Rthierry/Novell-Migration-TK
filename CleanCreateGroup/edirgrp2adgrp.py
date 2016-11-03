@@ -50,7 +50,7 @@ def ADDElementGRP(input_file, listuser, output_file):
                 for row in csvreader:
                     # je cherche si utilisateur
                     if row[0] not in onlyUserComm:
-                        oldGroup = "GG-"+row[0]
+                        oldGroup = "GG_"+row[0]
                         row.insert(1, oldGroup)
                         merged = sep.join(x for x in row[2:] if x.strip())
                         row[2:] = [merged]
