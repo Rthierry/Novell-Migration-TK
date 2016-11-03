@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 # @Author: Thierry Rangeard <Gandalf>
 # @Date:   03-Nov-2016
 # @Email:  trangeard@net-online.fr
@@ -9,11 +9,13 @@
 # @Input file : volumename.acl
 # @Output file : volumename-gprmod.acl
 
-import sys, getopt
-reload(sys);
-sys.setdefaultencoding("utf8")
+
 import csv
 import argparse
+import sys
+reload(sys)
+sys.setdefaultencoding("utf8")
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument("input_aclfile", type=str, help=" -> Fichier trustee XXX.xml-acl.csv")
