@@ -7,50 +7,50 @@
 # @Last modified by:   Gandalf
 # @Last modified time: 20-Oct-2016
 
-import sys, getopt
-reload(sys);
-sys.setdefaultencoding("utf8")
 from xml.etree import ElementTree
 import csv
+import sys
+import getopt
+reload(sys)
+sys.setdefaultencoding("utf8")
 
 
 def main(argv):
-   inputfile = ''
-   try:
-      opts, args = getopt.getopt(argv,"hi:",["ifile="])
-   except getopt.GetoptError:
-      print 'trustee2csv.py -i <inputfile.xml>'
-      sys.exit(2)
-   for opt, arg in opts:
-      if opt == '-h':
-         print 'trustee2csv.py -i <inputfile.xml> un fichier en sortie _trustee.csv'
-         sys.exit()
-      elif opt in ("-i", "--ifile"):
-         inputfile = arg
-   print 'Le fichier traité est :', inputfile
-   return()
+    inputfile = ''
+    try:
+        opts, args = getopt.getopt(argv, "hi:", ["ifile="])
+    except getopt.GetoptError:
+        print 'trustee2csv.py -i <inputfile.xml>'
+        sys.exit(2)
+        for opt, arg in opts:
+            if opt == '-h':
+                print 'trustee2csv.py -i <inputfile.xml> un fichier en sortie _trustee.csv'
+                sys.exit()
+            elif opt in ("-i", "--ifile"):
+                inputfile = arg
+        print 'Le fichier traité est :', inputfile
+    return()
 
 
-def GETclean(xml_file):
-    with open (xml_file, 'r+') as f:
+def  GETclean(xml_file):
+    with open(xml_file, 'r+') as f:
         content = f.read()
         f.seek(0)
         f.truncate()
         f.write(content.replace('&', '&amp;'))
-        return()
+    return()
 
-def GETtrustee(xml_file):
-    with open( xml_file, 'rt') as f:
+
+def  GETtrustee(xml_file):
+    with open(xml_file, 'rt') as f:
         tree = ElementTree.parse(f)
         root = tree.getroot()
         print (root)
-
         trustee_data = open(sys.argv[1].strip('.xml')+"_trustees.csv", 'w')
         csvwriter = csv.writer(trustee_data)
         trustee_data_head = ['chemin', 'ayant-droits', 'droits']
         csvwriter.writerow(trustee_data_head)
-
-        #for member in tree.findall('trustee'):
+        # for member in tree.findall('trustee'):
         #    fichier = []
         for element in root.findall('trustee'):
             print (element)
@@ -61,7 +61,7 @@ def GETtrustee(xml_file):
                 fichier.append(chemin)
                 ayant_droits = trustees.text
                 print ayant_droits
-                droits =[]
+                droits = []
                 fichier.append(ayant_droits)
                 droits = element.find('rights')
                 print droits.text
@@ -78,7 +78,7 @@ def GETquota(xml_file):
 
         quota_data = open(sys.argv[1].strip('.xml')+"_quota.csv", 'w')
         csvwriter = csv.writer(quota_data)
-        quota_data_head = ['Utilisateur' ,'Espace utilisé' ,'Quota']
+        quota_data_head = ['Utilisateur', 'Espace utilisé', 'Quota']
         csvwriter.writerow(quota_data_head)
 
         for items in root.findall('userInfo/user'):
