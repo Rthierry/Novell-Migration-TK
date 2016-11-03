@@ -21,6 +21,10 @@ parser.add_argument("dnbase", type=str, help=" -> dnbase")
 args = parser.parse_args()
 
 if __name__ == "__main__":
+    servername = args.servername
+    username = args.username
+    password = args.password
+    dnbase = args.dnbase
     print (servername, username, password, dnbase)
     # adjust this to your base dn for searching
     connect = ldap.open('ldap://'+servername+':389')
