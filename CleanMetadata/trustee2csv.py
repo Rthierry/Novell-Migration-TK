@@ -10,26 +10,14 @@
 from xml.etree import ElementTree
 import csv
 import sys
-import getopt
+import argparse
 reload(sys)
 sys.setdefaultencoding("utf8")
 
+parser = argparse.ArgumentParser()
+parser.add_argument("xml_file", type=str, help=" -> Fichier trustee.xml")
 
-def main(argv):
-    inputfile = ''
-    try:
-        opts, args = getopt.getopt(argv, "hi:", ["ifile="])
-    except getopt.GetoptError:
-        print 'trustee2csv.py -i <inputfile.xml>'
-        sys.exit(2)
-        for opt, arg in opts:
-            if opt == '-h':
-                print 'trustee2csv.py -i <inputfile.xml> un fichier en sortie _trustee.csv'
-                sys.exit()
-            elif opt in ("-i", "--ifile"):
-                inputfile = arg
-        print 'Le fichier traité est :', inputfile
-    return()
+args = parser.parse_args()
 
 
 def  GETclean(xml_file):
@@ -98,5 +86,5 @@ def GETquota(xml_file):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1:])
-    GETtrustee(sys.argv[1])
+    xml_file = args.xml_file
+    GETtrustee(xml_file)
