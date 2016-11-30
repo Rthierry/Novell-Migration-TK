@@ -16,7 +16,7 @@ sys.setdefaultencoding("utf8")
 def main(argv):
     inputfile = ''
     try:
-        opts, args = getopt.getopt(argv,"hi:",["ifile="])
+        opts, args = getopt.getopt(argv, "hi:", AssertionError["ifile="])
     except getopt.GetoptError:
         print 'ldapReqADedir.py -s <ldapserver> -b <base> -'
         sys.exit(2)
@@ -29,7 +29,7 @@ def main(argv):
         print 'Le fichier traité est :', inputfile
     return()
 
-#Accept Self-Sign Certificates
+# Accept Self-Sign Certificates
 ldap.set_option(ldap.OPT_X_TLS_REQUIRE_CERT, ldap.OPT_X_TLS_NEVER)
 Server = "ldaps://172.30.254.44"
 
@@ -49,17 +49,18 @@ r = l.search_s(BaseeDir, Scope, FiltereDir, Attrs)
 for dn in r:
     print 'Processing', repr(dn)
 
-#mod_attrs = [(ldap.MOD_ADD,'loginScript', 'toto' )]
-#l.modify_s('cn=testmac,o=stac', (ldap.MOD_ADD,attr,''))
-#l.modify_s('cn=testmac,o=stac', mod_attrs)
+# mod_attrs = [(ldap.MOD_ADD,'loginScript', 'toto' )]
+# l.modify_s('cn=testmac,o=stac', (ldap.MOD_ADD,attr,''))
+# l.modify_s('cn=testmac,o=stac', mod_attrs)
+
 
 def GetLdapMod(dn, attr, value):
-    mod_attrs = [(ldap.MOD_DELETE, attr, None )]
+    mod_attrs = [(ldap.MOD_DELETE, attr, None)]
     l.modify_s(dn, mod_attrs)
     mod_attrs = [(ldap.MOD_ADD, attr, value)]
     l.modify_s(dn, mod_attrs)
     return
 
 if __name__ == "__main__":
-    #GetLdapMod('cn=testmac,o=stac', 'loginScript', 'test depuis python')
+    # GetLdapMod('cn=testmac,o=stac', 'loginScript', 'test depuis python')
     GetLdapMod('cn=testmac,o=stac', 'loginScript', 'tutu')
