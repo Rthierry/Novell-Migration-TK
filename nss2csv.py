@@ -66,7 +66,6 @@ def GETtrustee(xml_file):
         trustee_data.close()
         return()
 
-
 def GETquota(xml_file):
         f = xml_file
         tree = ElementTree.parse(f)
@@ -97,4 +96,4 @@ if __name__ == "__main__":
     main(sys.argv[1:])
     GETclean(sys.argv[1])
     GETtrustee(sys.argv[1])
-    GETquota(sys.argv[1])
+    # GETquota(sys.argv[1])

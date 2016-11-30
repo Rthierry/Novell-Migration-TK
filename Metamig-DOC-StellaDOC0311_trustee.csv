@@ -1,0 +1,448 @@
+chemin,ayant-droits,droits
+/,['Info'],rwcefm
+/Agenda 21,['Agenda-21'],rwcefm
+/Arcadium,['Arcadium'],rwcefm
+/Arcadium,['1-Arcadiumgestion'],rwcefm
+/Cadre de Vie,['Cadre-Vie'],rf
+/ECHANGES,['Everybody'],rwcfm
+/EPI,['1-EPI'],rwcefm
+/INFO,['Info'],rwcefm
+/Liste Syndics Vieille Ville Autorisations de Travaux,['1-Syndic'],rwcefm
+/Logistique_événements,['1-Logistique'],rf
+/Propreté Urbaine,['PropreteUrbaine'],rwcefm
+/Sapa,['PellicierC'],rwcefm
+/Prévention Tranquillité,['PreventionTranquillite'],rwcefm
+/batiment,['Manufacture'],
+/cabinet,['Cabinet'],rf
+/comerart,['1-DirCommerce'],rwcefm
+/culturel,['Creche_HDV'],
+/culturel,['Culturel'],rf
+/dgre,['Dgre'],rwcefm
+/drh,['Drh'],rf
+/finances,['ControleGestion'],rwcefm
+/parcst,['FeteduLac'],
+/secregal,['Secregal'],rwcefm
+/social,['NivetM'],rwcefm
+/sports,['Sports'],rwcefm
+/voirie,['Voirie'],rf
+/voirie,['1-voiriexclu'],
+/Agenda 21/Plan Climat,['LethiaisJ'],rwcefm
+/Arcadium/COMMUN/GESTION,['ControleGestion'],rwcefm
+/Arcadium/COMMUN/GESTION,['MaitriasE'],rwcefm
+/Cadre de Vie/Bezzi,['BezziS'],rwcefm
+/Cadre de Vie/Bel,['BelS'],rwcefm
+/Cadre de Vie/COMMUN,['Cadre-Vie'],rwcefm
+/Cadre de Vie/Congés,['GroupeSalubrite'],rwcefm
+/DVQSP/Lathoud,['DVQSP'],
+/INFO/COMMUN,['MussonP'],rwcefm
+/INFO/COMMUN,['Reprographie'],rwcefm
+/INFO/Documentation_Support,['Reprographie'],rwcefm
+/INFO/ISABELLE,['Everybody'],
+/INFO/Repro,['MondiniC'],rwcefm
+/INFO/Imprimerie,['Reprographie'],rwcefm
+/INFO/Fabrice/Perso,['WinieskiF'],rwcefm
+/INFO/Fabrice/Perso,['Everybody'],
+/INFO/Fabrice/Perso,['Info'],
+/INFO/ISABELLE/Perso,['Info'],
+/INFO/ISABELLE/Perso,['LepetitI'],rwcefm
+/INFO/ISABELLE/Perso,['Everybody'],
+/INFO/Repro/Cadoux,['CadouxL'],rwcefm
+/Logistique_événements/Ateliers_Electricité_Fetes,['DirectionFetes'],rwcefm
+/Logistique_événements/Berthet,['Fetes'],
+/Logistique_événements/Berthet,['1-LogistiqueDir'],rwcefm
+/Logistique_événements/Fontaine/Fontaine,['Fetes'],rwceafm
+/Logistique_événements/Fontaine,['Fetes'],rwcefm
+/Logistique_événements/Guizzon,['DirectionFetes'],rwcefm
+/Logistique_événements/Atelier_Logev,['Atelier_Sle'],rwcefm
+/Logistique_événements/Depres,['DepresV'],rwcefm
+/Logistique_événements/Duverney,['DuverneyA'],rwcefm
+/Logistique_événements/Commun,['Fetes'],rwcefm
+/MEDECINE/Pithois,['PithoisK'],rwcefm
+/MEDECINE/Spirowin,['Medecine'],rwcefm
+/OpenOffice/Galerie,['Everybody'],rf
+/OpenOffice/Modeles,['Everybody'],rf
+/Propreté Urbaine/NETTOIEMENT,['FischbachG'],rwcefm
+/Propreté Urbaine/Commun,['PropreteUrbaine'],rwcefm
+/Propreté Urbaine/Vittoz,['VittozM'],rwcefm
+/Propreté Urbaine/TELLIER,['TellierM'],rwcefm
+/Propreté Urbaine/Françon,['FranconC'],rwcefm
+/Propreté Urbaine/Achouri,['AchouriN'],rwcefm
+/STATIO/BALDACCHINO,['Stationnement'],
+/STATIO/BARRIQUAND,['BarriquandH'],rwcefm
+/STATIO/COMMUN,['1-Statio-Commun'],rwcefm
+/STATIO/COMMUN,['Stationnement'],
+/STATIO/Dupont,['DupontM'],rwcefm
+/STATIO/Fol,['FolJF'],rwcefm
+/STATIO/Régies,['1-ParkingRegie'],rwcefm
+/STATIO/Levant,['LevantJ'],rwcefm
+/STATIO/Pc_Parking,['pc_parkings'],rwcefm
+/STATIO/Pc_Parking,['Stationnement'],
+/STATIO/Pc_Parking,['1-Statio-Commun'],rwcefm
+/STATIO/Rota,['RotaX'],rwcefm
+/STATIO/Tech_partage,['1-ParkingTech'],rwcefm
+/STATIO/Scaramucci,['ScaramucciP'],rwcefm
+/STATIO/Gandon,['GandonE'],rwcefm
+/STATIO/COMMUN/Secretariat,['1-Statio-secretariat'],rwcefm
+/STATIO/Exploitation,['1-Statio-exploitation'],rwcefm
+/STATIO/BARRIQUAND/Dossiers parkings,['Stationnement'],
+/Prévention Tranquillité/Commun,['1-PrevTranq'],rwcefm
+/Prévention Tranquillité/Gac,['GacC'],rwcefm
+/Prévention Tranquillité/Gac,['PreventionTranquillite'],
+/Prévention Tranquillité/Marco,['1-PrevTranq2'],rwcefm
+/Prévention Tranquillité/Brigade Environnement,['Brigade_environnement'],rwcefm
+/Prévention Tranquillité/Janssens,['JanssensD'],rwcefm
+/Prévention Tranquillité/Marco/à supprimer/SECURITE PREVENTION ROUTIERE,['DonzierH'],rwcefm
+/batiment/Diagnostics,['1-BatDiagn'],rwcefm
+/batiment/Manufacture,['Manufacture'],rwcefm
+/batiment/Ménage,['1-BatMenage'],rwcefm
+/batiment/Daudin,['DaudinC'],rwcefm
+/batiment/Revil,['RevilL'],rwcefm
+/batiment/Pôle Comptabilité,['1-BatCompt'],rwcefm
+/batiment/Pôle énergie,['PoleEnergie'],rwcefm
+/batiment/Cousin,['CousinS'],rwcefm
+/batiment/Senet,['SenetY'],rwcefm
+/batiment/Fatmi,['FatmiT'],rwcefm
+/batiment/Energie_Plomberie,['1-EnergiePlom'],rwcefm
+/batiment/Energie_Elec,['1-Energieelec'],rwcefm
+/batiment/Energie_Chauffage,['1-EnergieChauff'],rwcefm
+/batiment/Clés,['1-BatClefs'],rwcefm
+/batiment/Belhadj,['BelhadjA'],rwcefm
+/batiment/Caunday,['CaundayS'],rwcefm
+/batiment/Briffod,['BriffodN'],rwcefm
+/batiment/Sironi,['SironiD'],rwcefm
+/batiment/Nouvelle CC,['1-BatCC'],rwcefm
+/batiment/Millet,['MilletN'],rwcefm
+/batiment/Revil/A secure,['Batiment'],
+/batiment/Revil/A secure,['RevilL'],rwcefm
+/batiment/Pôle Comptabilité/FONCTIONNEMENT/REMBOURSEMENT PAR -  TITRES RECETTE - frais PAR d'autres redevables - 70878 - 70876,['BuzioF'],rwcefm
+/batiment/Pôle Comptabilité/FONCTIONNEMENT/REMBOURSEMENT PAR -  TITRES RECETTE - frais PAR d'autres redevables - 70878 - 70876,['PetrierJ'],rwcefm
+/batiment/Pôle Comptabilité/FONCTIONNEMENT/REMBOURSEMENT PAR -  TITRES RECETTE - frais PAR d'autres redevables - 70878 - 70876,['1-Bat'],rwcefm
+/batiment/Pôle Comptabilité/FONCTIONNEMENT/REMBOURSEMENT A - FACTURES - frais  A d'autres organismes -  62878 - 62876,['1-Bat'],rwcefm
+/batiment/Senet/A Secure,['Batiment'],
+/batiment/Senet/A Secure,['SenetY'],rwcefm
+/bonlieu/Colletti,['CollettiF'],rwcefm
+/bonlieu/Colletti/Dufour,['CollettiF'],rwcefm
+/bonlieu/Frid,['FridA'],rwcefm
+/bonlieu/Frid,['BouissonnieJ'],rf
+/bonlieu/Lamerac,['LameracV'],rwcefm
+/bonlieu/Secretariat,['Chavasse-fretazK'],rwcefm
+/bonlieu/Secretariat,['1-BonlieuSec'],rf
+/bonlieu/Fete du lac,['1-FDL'],rwcefm
+/bonlieu/Stagiaire,['Bonlieu_stagiaire'],rwcefm
+/bonlieu/Administration,['Bonlieu'],
+/bonlieu/Administration,['1-BonlieuAdmin'],rwcefm
+/Direction Bonlieu,['1-BonlieuRestrein'],rwcefm
+/bonlieu/Favre-Bonvin,['Favre-bonvinS'],rwcefm
+/bonlieu/Saulnier,['SaulnierC'],rwcefm
+/cabinet/Cheffi,['CheffiE'],rwcefm
+/cabinet/LEBEAU,['LebeauJ'],rwcefm
+/cabinet/Jarnier,['LebeauJ'],rwcefm
+/cabinet/Répertoire,['Cabinet-Repertoire'],rwcefm
+/cabinet/Yamani,['YamaniA'],rwcefm
+/cabinet/Fournier,['FournierM'],rwcefm
+/cabinet/Arnoux-Herlemont,['HerlemontS'],rwcefm
+/cabinet/COMMUN/Salles,['Cabinet'],rf
+/cabinet/COMMUN/Salles,['1-CabinetSalles'],rwcefm
+/comerart/ACARE,['Comerart'],rwcefm
+/comerart/Alili,['AliliW'],rwcefm
+/comerart/Bouissonnie,['BouissonnieJ'],rwcefm
+/comerart/ACARE/CAMPING/Camping,['AuclairS'],rwcefm
+/comerart/Donzier,['DonzierH'],rwcefm
+/comerart/Grimaud,['AliliW'],rwcefm
+/comerart/Guilarmois,['AliliW'],rwcefm
+/comerart/PSIMARK2,['1-Placiers'],rwcefm
+/comerart/ACARE/VIE ECONOMIQUE/Etienne,['EtienneA'],rwcefm
+/comerart/COMMUN/DroitsVoirie,['1-Droitvoirie'],rwcefm
+/culturel/Delande,['DelandeA'],rwcefm
+/culturel/Denhez,['DenhezA1'],rwcefm
+/culturel/Chenu,['ChenuB'],rwcefm
+/culturel/Creche_HDV,['Culturel'],
+/culturel/Creche_HDV,['1-CrecheHDV'],rwcefm
+/culturel/Etudiant,['1-Bij'],rwcefm
+/culturel/Martins,['Martins_da_cunhaA'],rwcefm
+/culturel/CRECHE FA,['1-Creche'],rwcefm
+/culturel/Mangione,['MangioneS'],rwcefm
+/culturel/Onde-Manel,['Culturel'],
+/culturel/Vernet,['VernetS'],rwcefm
+/culturel/Caullireau,['CaullireauC'],rwcefm
+/culturel/Ameline,['LimassetC'],rwcefm
+/culturel/Meo,['MeoM'],rwcefm
+/culturel/Contat,['ContatS'],rwcefm
+/culturel/Lefebvre-PAPE-RAM,['1-Ram'],rwcefm
+/culturel/Blampey,['BlampeyC'],rwcefm
+/culturel/Fournil,['FournilD'],rwcefm
+/culturel/Blairvacq,['BlairvacqM'],rwcefm
+/culturel/Delaye,['DelayeR'],rwcefm
+/culturel/Maquenhen,['MaquenhenJ'],rwcefm
+/culturel/Creche_HDV/Educatrices,['Creche_HDV'],rwcefm
+/culturel/Creche_HDV/Educatrices,['LecomteS'],rwcefm
+/culturel/Creche_HDV/Educatrices,['Onde-ManelD'],rwcefm
+/dgre/COMMUN,['Dgre'],rwcefm
+/dgre/FeteDucLac,['1-Dgre-FDL'],rwcefm
+/dgre/COMMUN/Terrier,['TerrierL'],rwcefm
+/dgre/COMMUN/Terrier,['KillD'],rwcefm
+/dgre/Terrier,['TerrierL'],rwcefm
+/dgre/Terrier,['1-DGRE-HDV'],rwcefm
+/dgre/GestionSalles/Alonso,['AlonsoE'],rwcefm
+/dgre/Vero Combe FDL 2014,['CombeV'],rwcefm
+/dgre/Chapapria,['ChapapriaC'],rwcefm
+/directio/Vernet,['VernetP'],rwcefm
+/drh/Accueil,['Bochet-CadetJ'],rwcefm
+/drh/Accueil,['Drh'],rwcefm
+/drh/Artaud,['ArtaudS'],rwcefm
+/drh/MASSET,['MassetI'],rwcefm
+/drh/Cotton,['CottonC'],rwcefm
+/drh/Didierjean,['MunierC'],rwcefm
+/drh/Didierjean,['DidierjeanE'],rwcefm
+/drh/Barbier,['BarbierM'],rwcefm
+/drh/Bochet-Cadet,['Bochet-CadetJ'],rwcefm
+/drh/CHAPPAZ,['ChappazS'],rwcefm
+/drh/COLOMBIER,['ColombierJ'],rwcefm
+/drh/COMMUN,['PithoisK'],rwcefm
+/drh/COMMUN,['Le_DrogoffG'],rwcefm
+/drh/COMMUN,['Drh'],rwcefm
+/drh/Secretariat Gestion,['Secretariat_Gestion'],rwcefm
+/drh/Secretariat Gestion,['Bochet-CadetJ'],rwcefm
+/drh/Secretariat Gestion,['Drh'],rwcefm
+/drh/Canchy,['CanchyA'],rwcefm
+/drh/Chettabi,['ChettabiC'],rwcefm
+/drh/Cloez,['CloezJ'],rwcefm
+/drh/Contrôle_URSSAF,['DucruetD'],rwcefm
+/drh/Contrôle_URSSAF,['Drh'],rwcefm
+/drh/DUCRUET,['DucruetD'],rwcefm
+/drh/Duverney,['DuverneyM'],rwcefm
+/drh/FALLETTI,['FallettiC'],rwcefm
+/drh/Mesle/UNITE DE GESTION/Gobbo,['BarbierM'],rwcefm
+/drh/Legain-Dzierbicki,['LegainS'],rwcefm
+/drh/Mahé,['MaheG'],rwcefm
+/drh/Mesle,['MesleC'],rwcefm
+/drh/Wrobel,['WrobelS'],rwcefm
+/drh/PACCARD,['Paccard-GuillemaudJ'],rwcefm
+/drh/PERRILLAT,['PerrillatG'],rwcefm
+/drh/PINAZO,['PinazoM'],rwcefm
+/drh/Poncelet,['PonceletE'],rwcefm
+/drh/Rey,['ReyF'],rwcefm
+/drh/Stage_Drh,['Stage_DRH'],rwcefm
+/drh/Sédit,['Drh'],rwcefm
+/drh/Univers BO,['Drh'],rwcefm
+/drh/Legain-Dzierbicki/VINDRET,['LegainS'],rwcefm
+/drh/ZARAMELLA,['ZaramellaJ'],rwcefm
+/drh/modèles,['Drh'],rwcefm
+/drh/Meo,['MeoM'],rwcefm
+/drh/Krattinger,['KrattingerE'],rwcefm
+/drh/Dumermuth,['DumermuthC'],rwcefm
+/drh/Boivin,['BoivinV'],rwcefm
+/drh/Etienne,['EtienneA'],rwcefm
+/drh/old,['Drh'],rwcefm
+/drh/Lehoux,['LehouxM'],rwcefm
+/drh/Munier,['MunierC'],rwcefm
+/drh/Cotton/Réservation de salles,['CottonC'],rwcefm
+/drh/COMMUN/SANTE SECURITE,['Secretaire_Medecine'],rwcefm
+/drh/COMMUN/SANTE SECURITE,['FerlinC'],rwcefm
+/drh/COMMUN/FIPHFP,['IsouxC'],rwcefm
+/drh/COMMUN/DRH/Documents_textes/Recrutement,['Le_DrogoffG'],rwcefm
+/drh/Mesle/UNITE DE GESTION/Gobbo/GOBBO Christine,['BoivinV'],rwcefm
+/enseigne/Ateliers_Vie_Scolaire,['Laverie'],rwcefm
+/enseigne/Chmamadi,['ChmamadiK'],rwcefm
+/enseigne/Clavel,['ClavelJ'],rwcefm
+/enseigne/Franceschini,['1-Enseigne'],rwcefm
+/enseigne/Periscolaire_Plaine,['1-Plaine'],rwcefm
+/enseigne/Periscolaire_Teppes,['Teppes'],rwcefm
+/enseigne/Salamat,['SalamatG'],rwcefm
+/enseigne/Avundo,['AvundoM'],rwcefm
+/enseigne/Avundo,['ChmamadiK'],rwcefm
+/enseigne/Sommerfeld,['SommerfeldM'],rwcefm
+/enseigne/Pilliard,['PilliardS'],rwcefm
+/enseigne/Modica,['ModicaS'],rwcefm
+/enseigne/Roux,['RouxE'],rwcefm
+/enseigne/Denhez,['DenhezA'],rwcefm
+/enseigne/Denhez,['ChmamadiK'],rwcefm
+/enseigne/Rachex,['RachexM'],rwcefm
+/enseigne/Chmamadi/Compta chmamadi,['SommerfeldM'],rwcefm
+/enseigne/Franceschini/dossier agents,['Enseigne'],
+/enseigne/Franceschini/dossier agents,['FranceschiniC'],rwcefm
+/enseigne/Franceschini/dossier agents,['Goddet-ChoplinO'],rwcefm
+/enseigne/Franceschini/dossier agents,['MasternakC'],rwcefm
+/etacivil/Hollingue,['HollingueD'],rwcefm
+/etacivil/INSEE Envoi,['Rodrigues_de_AlmeidaD'],rwcefm
+/etacivil/SCRP,['Etacivil'],
+/etacivil/SCRP,['ETC-SRCP'],rwcefm
+/etacivil/Coureux-Hamon,['Coureux-hamonS'],rwcefm
+/etacivil/Commun/Secrétariat/Agents/Sylvie,['Favre-bonvinS'],rwcefm
+/etacivil/Commun/Secrétariat/Agents/Sylvie,['Etacivil'],
+/etacivil/Commun/Secrétariat/Agents/Sylvie,['Rodrigues_de_AlmeidaD'],rwcefm
+/drh/Etienne/Perso,['Etacivil'],
+/drh/Etienne/Perso,['EtienneA'],rwcefm
+/finances/Z COMMUN ANCIENNE ARBORESCENCE,['Finances'],rf
+/finances/Z COMMUN ANCIENNE ARBORESCENCE,['1-Finances'],rwcefm
+/finances/Anciens collaborateurs/BEL G,['GoddetL'],rwcefm
+/finances/Benmbarek,['BenmbarekC'],rwcefm
+/finances/Duchene,['DucheneC'],rwcefm
+/finances/Gonthier,['Hamdi_CherifS'],rwcefm
+/finances/Maitrias DSF,['MaitriasE'],rwcefm
+/finances/Maitrias DSF,['ChaoudourL'],rwcefm
+/finances/Anciens collaborateurs,['MaitriasE'],rwcefm
+/finances/Anciens collaborateurs,['YvraitC'],rwcefm
+/finances/Barat,['BaratS'],rwcefm
+/finances/Fluor,['ControleGestion'],rwcefm
+/finances/Fluor,['Finances'],rwcefm
+/finances/Fluor,['1-Fluor'],rwcefm
+/finances/01_COMMUN,['Finances'],rwcefm
+/finances/Cohard,['CohardS'],rwcefm
+/finances/Sanchez,['SanchezL'],rwcefm
+/juridic/COELHO,['CoelhoA'],rwcefm
+/juridic/Ponza,['NiveleauA'],rwcefm
+/Archives/RAYSSAC,['1-ArchivesDir'],rwcefm
+/Archives/VEYRAT,['1-Archives'],rwcefm
+/juridic/Nyault,['NyaultN'],rwcefm
+/juridic/VEYRAT,['Veyrat_de_lachenalC'],rwcefm
+/juridic/Telbois,['TelboisM'],rwcefm
+/juridic/COMMUN/TELETRANSMISSION Accusés Réception,['Juridic'],rwcfm
+/marches/Dumonteil,['DumonteilM'],rwcefm
+/marches/Gazon,['GazonM'],rwcefm
+/parcst/ATELIERS BATIMENTS,['FatmiT'],rwcefm
+/parcst/Benito,['BenitoJ'],rwcefm
+/parcst/Perrin,['PerrinT'],rwcefm
+/parcst/Mulatier,['Mulatier-GachetN'],rwcefm
+/parcst/Mulatier,['DirectionFetes'],rf
+/parcst/Swist,['SwistE'],rwcefm
+/parcst/Bournel,['BournelS'],rwcefm
+/parcst/Commun,['1-Parcst'],rwcefm
+/parcst/Ducamp,['DucampH'],rwcefm
+/parcst/Jehan,['JehanH'],rwcefm
+/parcst/ATELIERS BATIMENTS/CONGES,['PerrillatG'],rf
+/parcst/ATELIERS BATIMENTS/CONGES,['ClavelL'],rwcefm
+/parcst/ATELIERS BATIMENTS/CONGES,['FatmiT'],rwcefm
+/parcst/ATELIERS BATIMENTS/CONGES,['SadaouiJ'],rwcefm
+/parcst/Mulatier/LOGISTIQUE EVENEMENTS,['CollombM'],rwcefm
+/parcst/WOILLET/EXCEL/DOCUMENTS ADMINISTRATIFS VEHICULES,[],rf
+/police/Dataciat,['Police'],
+/police/Fourrière,['1-Fourriere'],rwcefm
+/police/Jallifier,['JallifierJ'],rwcefm
+/police/Jallifier,['Police'],
+/police/Misse,['BelmonteR'],rf
+/police/Belmonte,['BelmonteR'],rwcefm
+/police/Belmonte,['Police'],
+/police/Belmonte,['MisseM'],rf
+/Prévention Tranquillité/Centre Opérationnel,['PreventionTranquillite'],
+/Prévention Tranquillité/Centre Opérationnel,['1-PrevOpe'],rwcefm
+/police/Terre,['TerreG'],rwceafm
+/quartier/GRIMAULT,['GrimaultC'],rwcefm
+/secregal/COMMUN,['Secregal'],rwcefm
+/Contrôle de gestion/COMMUN,['Secregal'],rwcefm
+/Contrôle de gestion/COMMUN,['ControleGestion'],rwcefm
+/Contrôle de gestion/Crevoisier,['CrevoisierS'],rwcefm
+/Contrôle de gestion/MORESI,['MoresiM'],rwcefm
+/Contrôle de gestion/MAITRIAS,['MaitriasE'],rwcefm
+/sigdu/Canonge,['CanongeP'],rwcefm
+/sigdu/Maiga,['MaigaM'],rwcefm
+/social/Accueil_assistantes,['1-Social-AS'],rwcefm
+/social/modeles/Personnels Direction/Ducloz,['1-Jos-Sba'],rwcefm
+/social/GWISE,['Social'],rwcefm
+/social/Z avant 1 janvier 2015/agents partis/Grandchamp,['1-Jos-Sba'],rwcefm
+/social/Personnels Pôle Seniors/Violet,['VioletB'],rwcefm
+/social/Z avant 1 janvier 2015/Romains-Loft,['CrestiaR'],rwcefm
+/social/Z avant 1 janvier 2015/Romains-Loft,['LatbiN'],rwcefm
+/social/Personnels Pôle Solidarités,['Social-Pole-Solidarites'],rwcefm
+/social/Personnels Pôle Seniors,['1-Social-Seniors'],rwcefm
+/social/Personnels Pôle Promotion Santé et Développement Social,['Social-Pole-Promotion-Sante'],rwcefm
+/social/COMMUN,['Social'],rwcefm
+/social/Z avant 1 janvier 2015/Action sociale territorialisée,['KiefferV'],rwcefm
+/sports/JarnierM,['JarnierM'],rwcefm
+/sports/COMMUN,['Sports'],rwcefm
+/sports/Aguilar,['Parc_des_sports'],rwcefm
+/sports/Parc des Sports,['1-ParcSports'],rwcefm
+/sports/Tetevuide,['TetevuideS'],rwcefm
+/sports/Rosset,['RossetS'],rwcefm
+/sports/Streiff,['StreiffA'],rwcefm
+/urba/A.Sutto,['SuttoA'],rwcefm
+/urba/Stemmelin,['StemmelinL'],rwcefm
+/urba/Fritschmann,['FritschmannV'],rwcefm
+/urba/commun/Occupation du domaine public/CHANTIERS  EN COURS,['JournetD'],rwcefm
+/voirie/Arrêtés_Voirie,['Voirie'],rf
+/voirie/Arrêtés_Voirie,[u'1-Arret\xe9Voirie'],rwcefm
+/voirie/Veyrat_de_lachenal,['Veyrat_de_lachenalJ'],rwcefm
+/voirie/Basuyaux,['Voirie'],
+/voirie/Beauquis,['BeauquisG'],rwcefm
+/voirie/Berteraut,['BeauquisG'],rwcefm
+/voirie/Bogdanoff,['BogdanoffM'],rwcefm
+/voirie/Brard,['BrardJ'],rwcefm
+/voirie/Brard,['Voirie'],
+/voirie/CLAVEL,['DelannayA'],rwcefm
+/voirie/COMMUN,['PropreteUrbaine'],rwcefm
+/voirie/Eclairage-feux-tricolores,['Imalux'],rwcefm
+/voirie/Eclairage-feux-tricolores,['1-VoirieFeux'],rwcefm
+/voirie/Journet,['JournetD'],rwcefm
+/voirie/Signalisation,['KrasnoplakhtoffJ'],rwcefm
+/voirie/Lucchesi,['LucchesiA'],rwcefm
+/voirie/Gestion domaine public,['1-VoireDomPublic'],rwcefm
+/voirie/Delannay,['DelannayA'],rwcefm
+/voirie/Pétrier,['PetrierJ'],rwcefm
+/voirie/Perrot,['PerrotM'],rwcefm
+/batiment/Pôle énergie/SCHEMAS ELECTRIQUES DES BÂTIMENTS &amp; DOE Courants Faibles,['PoleEnergie'],rwcafm
+/social/Personnels Direction/Ducloz/Bouvier/Secours,['1-SocialSecours'],rwcefm
+/DUER,['Everybody'],rwcefm
+/INFO/Clement,['ChautainC'],rwcefm
+/INFO/Raphael,['PortesR'],rwcefm
+/INFO/Philippe_Musson,['MussonP'],rwcefm
+/Archives,['Juridic'],rf
+/Contrôle de gestion,['ControleGestion'],rwcefm
+/Contrôle de gestion,['Finances'],rf
+/Taxe Urbanisme,['Everybody'],
+/Taxe Urbanisme,['1-TaxeUrba'],rwcefm
+/social/Personnels Direction/Ducloz/Bouvier/Secours/Euros,['1-SocialSecours'],rwcefm
+/bonlieu/Administration/01 - SGB SECRETARIAT,['Favre-bonvinS'],rwcefm
+/batiment/Pôle énergie/~~~CONTROLE DES BATIMENTS~~~,['PoleEnergie'],rwceafm
+/juridic/COMMUN/VS Locatif,['BuzioF'],rf
+/dst/COMMUN/VALLIN FIER,['StemmelinL'],rwcefm
+/batiment/Buzio/A Secure,['Batiment'],
+/batiment/Buzio/A Secure,['BuzioF'],rwcefm
+/social/Personnels Direction/Ducloz/Bouvier/Secours/Euros/Secours2000.mdb,['LefebvreS'],rwcefm
+/INFO/Raphael/Supp Novell,['PorcherotB'],rwcefm
+/INFO/PHILIPPE/perso,['SageP'],rwcefm
+/INFO/PHILIPPE/perso,['Info'],
+/INFO/PHILIPPE/perso,['Everybody'],
+/dgre/Sandra LORGEOU,['Stage_Dgre'],rwcefm
+/dgre/Sandra LORGEOU,['TerrierL'],rwcefm
+/Archives/Commun,['Juridic'],rwcefm
+/Archives/Fernandez,['FernandezC'],rwcefm
+/Archives/Servettaz,['ServettazM'],rwcefm
+/Archives/Bouvier,['BouvierC'],rwcefm
+/Archives/Lenfant,['LenfantC'],rwcefm
+/Archives/Lenfant,['Veyrat_de_lachenalC'],rwcefm
+/voirie/Hubout/Commande 2013,['DelannayA'],rwcefm
+/culturel/Creche_HDV/Année 2013/2013Cuisine,['Culturel'],rwcefm
+/culturel/Creche_HDV/Année 2013/Grands,['Culturel'],rwcefm
+/etacivil/Commun/Secrétariat/Agents/Dina,['Rodrigues_de_AlmeidaD'],rwcefm
+/culturel/Etudiant/BABY SITTING,['DonyM'],rwcefm
+/comerart/ACARE/VIE ECONOMIQUE/Perso,['EtienneA'],
+/comerart/ACARE/VIE ECONOMIQUE/Perso,['Comerart'],rf
+/comerart/COMMUN/DroitsVoirie/Install 2.8.0,['Adm'],rwcefm
+/STATIO/COMMUN/ARCHIVES/ACHATS/Achats FRS  2013,['Stationnement'],rf
+/STATIO/COMMUN/ARCHIVES/ACHATS/Achats FRS  2013,['1-StatioAchats'],rwcefm
+/drh/Didierjean/Service gestion administrative,['Drh_Documentation'],
+/drh/Didierjean/Service gestion administrative,['Drh'],
+/voirie/Hubout/Commande 2014,['DelannayA'],rwcefm
+/comerart/Alili/Perso,['Comerart'],
+/comerart/Bertet-Pilon,['Bertet-pilonS'],rwceafm
+/Modeles,['Everybody'],rf
+/drh/Philippe,['PhilippeM'],rwcefm
+/voirie/Hubout/Commande 2015,['DelannayA'],rwcefm
+/social/Personnels Pôle Solidarités/Intervalle,['1-Intervalle'],rwcefm
+/social/COMMUN/Social2000.mdb,['Social'],rwcefm
+/social/modeles,['Social'],rf
+/social/modeles/Personnels Direction/Billaud,['BillaudC'],rwcefm
+/INFO/Jean-Baptiste,['DefontaineJ'],rwcefm
+/INFO/Echanges dématérialisés,['1-InfoDemat'],rwcefm
+/INFO/Projets Sherpa,['1-Sherpa'],rwcefm
+/dst/COMMUN/AD'AP,['1-Urba-ADAP'],rwcefm
+/Prévention Tranquillité/Janssens/Privé,['PreventionTranquillite'],
+/social/Personnels Direction,['Social-Pole-Direction'],rwcefm
+/batiment/Nouvelle CC/Suivi budgétaire quotidien 2016-2017/dossier suivi Cathy  2016-2017,['1-BatCC-2'],rwcefm
+/INFO/COMMUN/Marchés/Infra_2016/Systèmes d'impression,['MonardA'],rwcefm
+/finances/01_COMMUN/21. ANALYSES FIN. &amp; PROJETS/21.1 Projet Commune Nouvelle/21.1.1 CN à 6/21.1.1.3 Données communes/21.1.1.3.6 Seynod/2. Données budgétaires/1. CA,['CrevoisierS'],rwcefm
+/ECHANGES/SITUATIONS MENSUELLES BUDGETAIRE (ne pas supprimer),['1-Fin'],rwcefm
+/social/modeles/Personnels Direction/Bouvier/Secours/Euros,['Canicule'],rwcefm
+/social/modeles/Personnels Direction/Bouvier/Secours/Euros,['KiefferV'],rwcefm
+/social/modeles/Personnels Direction/Bouvier/Secours/Euros/Secours2000.mdb,['LefebvreS'],rwcefm
+/social/Personnels Direction/Bouvier/Secours,['1-SocialSecours'],rwcefm

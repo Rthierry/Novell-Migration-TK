@@ -20,6 +20,7 @@ parser.add_argument("input_metamig", type=str, help=" -> Fichier metamig XXX.xml
 
 args = parser.parse_args()
 
+
 def GETtrustee(xml_file):
     Killpoint = re.compile("^.(.*?)\.", re.IGNORECASE)
     with open(xml_file, 'rt') as f:
@@ -100,20 +101,20 @@ def CompRights(input_user1, input_user2):
                 # Use the same field names for the output file.
                 writeracl.writeheader()
                 # list built from the first row
-                rows_user2 = [row[1] for row in csvreaderuser2]
+                rows_user2 = [row[0] for row in csvreaderuser2]
                 print rows_user2
                 linenum = 0
                 for item in csvuser1:
                     # looking for the key 'uid'
-                    if item.get('ayant-droits') in rows_user2:
+                    if item.get('chemin') in rows_user2:
                         linenum = linenum + 1
                         # print("Correspondance trouvé : " + str(linenum) + " " + item.get('Users'))
                         # writing
                     else:
                         # if match get the value with the 'uid' key
-                        print ("Différence trouvée entre metamig: " + item['ayant-droits'] + " et Trustees")
+                        # print ("Différence trouvée entre metamig: " + item['ayant-droits'] + " et Trustees")
                         # writing the row to the new file
-                        print(item)
+                        # print(item)
                         writeracl.writerow(item)
     return()
 

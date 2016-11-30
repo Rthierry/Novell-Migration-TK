@@ -1,0 +1,3292 @@
+<volume_trustees>
+  <trustee path="/">
+    <name>.Info.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d181-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/cabinet/COMMUN">
+    <name>.Cabinet.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d184-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/cabinet/FONTAINE">
+    <name>.FontaineJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>95211c0e-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/cabinet/GWISE">
+    <name>.Cabinet.HDV.ANNECY</name>
+    <rights>RWCMFA</rights>
+    <object_guid>8fc3d184-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Aubry">
+    <name>.AubryA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a702bf06-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Sophie O/MODELES">
+    <name>.Cabinet.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d184-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Guttiere">
+    <name>.GuttierezE.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>aff39086-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Muriel">
+    <name>.GarcetteM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b5a08400-3ce3-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Sophie O">
+    <name>.OdenS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4edfc700-3ec7-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/comerart">
+    <name>.Comerart.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>90f4fe80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/comerart">
+    <name>.1-DirCommerce.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>51fc9dd8-0c1d-42b8-179e-d89dfc511d0c</object_guid>
+  </trustee>
+  <trustee path="/comerart/COMMUN">
+    <name>.Comerart.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/comerart/COMMUN">
+    <name>.Camping.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>83fe7980-5541-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/comerart/Guilarmois">
+    <name>.GrimaudM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a407ce87-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/comerart/Guilarmois">
+    <name>.GuilarmoisP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>97837603-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/comerart/Guilarmois">
+    <name>.AliliW.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0d8b25a6-35ac-4c33-c194-a6258b0dac35</object_guid>
+  </trustee>
+  <trustee path="/comerart/GWISE">
+    <name>.Comerart.HDV.ANNECY</name>
+    <rights>RWCMFA</rights>
+    <object_guid>90f4fe80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/comerart/Grimaud">
+    <name>.AliliW.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0d8b25a6-35ac-4c33-c194-a6258b0dac35</object_guid>
+  </trustee>
+  <trustee path="/comerart/Grimaud">
+    <name>.GrimaudM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a407ce87-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/comerart/ACARE">
+    <name>.Comerart.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel">
+    <name>.Culturel.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>90f4fe82-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel">
+    <name>.Creche_HDV.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>f855b680-15f4-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/culturel/COMMUN">
+    <name>.Culturel.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe82-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/Magnette">
+    <name>.MagnetteC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9d795708-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/GILLET">
+    <name>.Gillet-GarnierM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>96524905-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/Dony">
+    <name>.DonyM.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4fb04600-6641-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/culturel/Deny">
+    <name>.DenyC.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>20e2cd80-59e0-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/culturel/Bouet">
+    <name>.BouetB.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>25337e00-3a4e-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/culturel/modeles">
+    <name>.Culturel.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe82-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/Maffioli">
+    <name>.MaffioliG.NOVEL.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0a1b9200-6f1e-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/culturel/Zengler">
+    <name>.ZenglerI.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>504de0a0-d6b4-01db-80b8-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/culturel/Denhez">
+    <name>.DenhezA1.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e668d9fa-1db5-4644-0590-fad968e6b51d</object_guid>
+  </trustee>
+  <trustee path="/culturel/Mangin">
+    <name>.ManginV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8329a3d0-cd7a-01db-80b8-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/DVQSP">
+    <name>.DVQSP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9e11ed85-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dst">
+    <name>.PavesiS.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>92262b87-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dst/EFFRANCE">
+    <name>.EffranceyJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>96eadf8b-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dst/COMMUN">
+    <name>.Dst.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d187-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dst/COMMUN/Direction Voirie (E.T.)">
+    <name>.BasuyauxO.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>7c075200-31f6-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/dst/Vigouroux">
+    <name>.VigourouxF.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>2c401880-e7e7-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/dst/modeles">
+    <name>.Dst.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d187-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne">
+    <name>.Enseigne.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>905c680a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Commun">
+    <name>.Enseigne.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c680a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/DUER">
+    <name>.Enseigne.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c680a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Goddet">
+    <name>.Goddet-ChoplinO.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9c482a04-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/GWISE">
+    <name>.Enseigne.HDV.ANNECY</name>
+    <rights>RWCMFA</rights>
+    <object_guid>905c680a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Clavel">
+    <name>.ClavelJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e78a5fd1-0466-4fd5-df8e-d15f8ae76604</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Clavel">
+    <name>.Cardona-RenaudF.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8437d700-f4bc-11d7-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Franceschini">
+    <name>.FranceschiniC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>266d9d00-217f-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Franceschini">
+    <name>.1-Enseigne.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>84843166-b82e-46d4-fa8a-663184842eb8</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Masternak">
+    <name>.Goddet-ChoplinO.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9c482a04-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Masternak">
+    <name>.FranceschiniC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>266d9d00-217f-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Masternak">
+    <name>.MasternakC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a5139200-744c-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Cardona">
+    <name>.ThouzetC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f92a1580-3180-11d9-8dba-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Cardona">
+    <name>.Cardona-RenaudF.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8437d700-f4bc-11d7-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/enseigne/modeles">
+    <name>.Enseigne.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c680a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Nivet">
+    <name>.NivetM.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9c482a01-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Marco">
+    <name>.MarcoJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>aec26387-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Garcin">
+    <name>.GarcinG.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>29d30900-30e2-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/social/Accueil_assistantes">
+    <name>.1-Social-AS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>1c07bee1-6233-4f88-75a3-e1be071c3362</object_guid>
+  </trustee>
+  <trustee path="/social/GWISE/COMMUN/SIGNATUR">
+    <name>.Social.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>905c6805-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/social/GWISE/COMMUN/SIGNATUR">
+    <name>.Social-signatures.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>9ce0c08a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Direction/Ducloz/Bouvier">
+    <name>.Social.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>905c6805-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Direction/Ducloz/Bouvier">
+    <name>.BouvierM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a9fdaf82-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Pôle Seniors/Peccoux">
+    <name>.PeccouxA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a9fdaf80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/social/GWISE/COMMUN">
+    <name>.Social.HDV.ANNECY</name>
+    <rights>RWCEMFA</rights>
+    <object_guid>905c6805-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/social/GWISE">
+    <name>.Social.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6805-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/DVQSP/Lathoud">
+    <name>.MarcoC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a074478a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/DVQSP/Lathoud">
+    <name>.VernetP.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a0744780-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/DVQSP/Lathoud">
+    <name>.DVQSP.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>9e11ed85-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/OpenOffice/Services">
+    <name>.Everybody.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8f2b3b2a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/bonlieu">
+    <name>.Bonlieu.BONLIEU.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>90f4fe83-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dgre">
+    <name>.Dgre.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9e11ed90-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/etacivil">
+    <name>.Etacivil.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>90f4fe87-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/XP-Manager">
+    <name>.Telegil.ANNECY</name>
+    <rights>F</rights>
+    <object_guid>acf8a004-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/Creche_HDV">
+    <name>.Culturel.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>90f4fe82-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/Creche_HDV">
+    <name>.1-CrecheHDV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c394bee0-2773-492a-0fb2-e0be94c37327</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Commun">
+    <name>.Bonlieu.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe83-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Commun">
+    <name>.Bonlieu_Tech.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f713f800-3d09-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Frid">
+    <name>.FridA.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4a18cdd0-ffb3-01db-8011-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Frid">
+    <name>.BouissonnieJ.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>010d44ce-67fd-42d2-ed80-ce440d01fd67</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/GWISE">
+    <name>.Bonlieu.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe83-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Modeles">
+    <name>.Bonlieu.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe83-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dgre/KILL">
+    <name>.KillD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>95211c11-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dgre/GWISE">
+    <name>.Dgre.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9e11ed90-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dgre/ADRESSES">
+    <name>.Dgre.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9e11ed90-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dgre/ADRESSES">
+    <name>.Cabinet.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d184-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dgre/Betrix">
+    <name>.BetrixN.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>92bec205-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dgre/Accueil_Commun">
+    <name>.Accueil_Standard.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>17b21b00-b0f6-11d6-8db5-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/dgre/Accueil_Commun">
+    <name>.Accueil_Mairie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>2f035200-212d-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/dgre/Arnoux">
+    <name>.ArnouxD.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>81002280-dd30-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/Cadre de Vie/Baudrot">
+    <name>.BaudrotC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>2fdcd401-ae6c-11d5-8db0-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/Cadre de Vie/LYARD">
+    <name>.LyardD.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>95b9b280-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Cadre de Vie/Augay">
+    <name>.AugayY.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e79f0400-d797-11d6-8db7-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/Cadre de Vie/LYARD/BouvierM">
+    <name>.BouvierM1.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9baf9381-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Cadre de Vie/ROCHAIX">
+    <name>.RochaixC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6e3c5f80-41eb-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/etacivil/Commun">
+    <name>.Etacivil.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe87-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/etacivil/GWISE">
+    <name>.Etacivil.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe87-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/etacivil/modeles">
+    <name>.Etacivil.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe87-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/finances">
+    <name>.Finances.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8fc3d183-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/finances">
+    <name>.ControleGestion.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>2886bc1e-d720-4f23-a6aa-1ebc862820d7</object_guid>
+  </trustee>
+  <trustee path="/juridic">
+    <name>.Juridic.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>905c6808-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/marches">
+    <name>.Marches.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8fc3d188-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/finances/Goddet">
+    <name>.GoddetL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93efef0b-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/finances/Gonthier">
+    <name>.Hamdi_CherifS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9a9ff300-d4e3-48d8-a281-00f39f9ae3d4</object_guid>
+  </trustee>
+  <trustee path="/finances/Gonthier">
+    <name>.GonthierF.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>836ab781-a04e-11d5-a882-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/finances/YVRAIT">
+    <name>.YvraitC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9b965900-5de3-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/finances/Z COMMUN ANCIENNE ARBORESCENCE">
+    <name>.Finances.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8fc3d183-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/finances/Z COMMUN ANCIENNE ARBORESCENCE">
+    <name>.1-Finances.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0fbcec47-67ca-4b4f-b8ba-47ecbc0fca67</object_guid>
+  </trustee>
+  <trustee path="/finances/Leroy">
+    <name>.LeroyI.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>95b9b28e-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/finances/Brousseaud">
+    <name>.BrousseaudM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b787ff00-c01d-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/finances/Ravnak">
+    <name>.RavnakC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ae4ed980-191d-11da-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/Archives/PIERRE">
+    <name>.LanternierR.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9eaa8403-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/juridic/COMMUN">
+    <name>.Juridic.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6808-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/juridic/BRUNIER">
+    <name>.BrunierC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93575880-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/juridic/MARTINCH">
+    <name>.MartinC1.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>92bec216-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/juridic/Mauboussin">
+    <name>.MauboussinB.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>fae70c00-7941-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/juridic/GWISE">
+    <name>.Juridic.HDV.ANNECY</name>
+    <rights>RWCMFA</rights>
+    <object_guid>905c6808-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/juridic/Pachod">
+    <name>.PachodS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>199e9b00-8fce-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/juridic/Ponza">
+    <name>.NiveleauA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6ca01180-2f5a-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/juridic/Ponza">
+    <name>.PonzaB.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a5d19214-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/juridic/NIVELEAU">
+    <name>.NiveleauA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6ca01180-2f5a-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/marches/PERRILLAT">
+    <name>.Perrillat-boiteuxC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9652490b-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/marches/BRUN">
+    <name>.BrunS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a10cde08-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/marches/Monniot">
+    <name>.MonniotO.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>464c5680-dc63-11d7-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/marches/CARTIER">
+    <name>.CartierC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>35dfba80-9d9d-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/marches/COMMUN">
+    <name>.Marches.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d188-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/marches/Sequestre">
+    <name>.Marches.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d188-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/COMMUN">
+    <name>.Police.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe8d-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/GWISE">
+    <name>.Police.HDV.ANNECY</name>
+    <rights>RWCMFA</rights>
+    <object_guid>90f4fe8d-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/Imbert">
+    <name>.ImbertN.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93efef0e-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/modeles">
+    <name>.Police.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe8d-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/ETI">
+    <name>.Police.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe8d-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/Dataciat">
+    <name>.Police.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>90f4fe8d-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/Bonaventure F">
+    <name>.BonaventureF.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0d618380-89c7-11d6-8db5-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/police/Bonaventure F">
+    <name>.ImbertN.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93efef0e-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/Misse">
+    <name>.BelmonteR.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>0e0ff0d6-6206-4454-96bc-d6f00f0e0662</object_guid>
+  </trustee>
+  <trustee path="/police/Misse">
+    <name>.Police.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>90f4fe8d-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/Misse">
+    <name>.MisseM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8a003c00-5423-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/police/HAITAYAN">
+    <name>.Police.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>90f4fe8d-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/directio">
+    <name>.Directio.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe84-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/quartier">
+    <name>.Quartier.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8fc3d182-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/secregal">
+    <name>.Secregal.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6807-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/sports">
+    <name>.Sports.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6806-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/STATIO">
+    <name>.Stationnement.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>9e11ed80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/Onde-Manel">
+    <name>.Onde-ManelD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>eece7780-aeab-11da-a4a5-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/culturel/Onde-Manel">
+    <name>.Culturel.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>90f4fe82-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/STATIO/COMMUN">
+    <name>.Stationnement.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>9e11ed80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/STATIO/COMMUN">
+    <name>.1-Statio-Commun.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>659addf1-9454-4b4b-e8b2-f1dd9a655494</object_guid>
+  </trustee>
+  <trustee path="/STATIO/BALDACCHINO">
+    <name>.BaldacchinoD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>2269c400-5331-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/STATIO/BALDACCHINO">
+    <name>.Stationnement.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>9e11ed80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/STATIO/CHARMOY">
+    <name>.CharmoyD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a2ae9500-da32-11d8-8dba-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/STATIO/COLLETTI">
+    <name>.CollettiF.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9a674300-3c15-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/STATIO/LAFAY">
+    <name>.LafayJ.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9e11ed82-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/STATIO/ROBERT">
+    <name>.Robertl.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a2d6a184-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/STATIO/VERNEX">
+    <name>.VernexV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9e11ed89-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/directio/Harcouet">
+    <name>.HarcouetM.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>225ea580-ace4-11da-a4a5-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/directio/Harcouet/restauration municipale/Indicateurs de gestion">
+    <name>.PitollatC.CUISINE.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>981c0c89-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/secregal/GENAND">
+    <name>.GenandM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93575889-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/secregal/GWISE">
+    <name>.Secregal.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6807-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Contrôle de gestion/DEPOLLIER">
+    <name>.DepollierN.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>95b9b281-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/quartier/COMMUN">
+    <name>.Quartier.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d182-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/quartier/LALLIER">
+    <name>.LallierR.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>918d950b-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/quartier/GWISE">
+    <name>.Quartier.HDV.ANNECY</name>
+    <rights>RWCMFA</rights>
+    <object_guid>8fc3d182-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/quartier/modeles">
+    <name>.Quartier.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d182-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/sports/FOL B">
+    <name>.FolB.SITES_ADSL.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>96c0af00-2933-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/sports/COMMUN">
+    <name>.Sports.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6806-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/sports/CARRIER">
+    <name>.CarrierH.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a9651913-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/sports/modeles">
+    <name>.Sports.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6806-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/sports/Aguilar">
+    <name>.Parc_des_sports.SITES_ADSL.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e0dd5e75-906a-4bdc-a1a9-755edde06a90</object_guid>
+  </trustee>
+  <trustee path="/sports/Aguilar">
+    <name>.FatmiT.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9dad9900-1efc-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/voirie">
+    <name>.Voirie.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>905c6800-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie">
+    <name>.1-voiriexclu.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>67c5a522-baf6-4df0-0b80-22a5c567f6ba</object_guid>
+  </trustee>
+  <trustee path="/urba">
+    <name>.Urba.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8fc3d189-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/sigdu">
+    <name>.Sigdu.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>cf8ff680-8a8a-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/parcst">
+    <name>.ParcST.PST.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>a538fb81-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst">
+    <name>.FeteduLac.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>95b2bd00-3078-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/batiment">
+    <name>.Manufacture.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>e8f05f00-4097-11de-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/batiment">
+    <name>.Batiment.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>905c6801-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/TERRITOR">
+    <name>.Batiment.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6801-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/COMMUN">
+    <name>.Batiment.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6801-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/BOUVRY">
+    <name>.BouvryM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93efef11-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/LACHAUX">
+    <name>.LachauxF.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9c482a07-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/GARIN">
+    <name>.GarinB.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93efef10-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/GWISE">
+    <name>.Batiment.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6801-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/Buzio">
+    <name>.BuzioF.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9c482a03-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/POUGET">
+    <name>.PougetF.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9c482a02-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/CROCHET">
+    <name>.CrochetS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a0744784-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/Chatel">
+    <name>.ChatelV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>51671600-cbd2-11d7-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/batiment/PERNOUD">
+    <name>.PernoudP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a1a5748c-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/Lucchesi">
+    <name>.LucchesiA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>dbd3e780-d83d-11d5-8db1-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/batiment/CHEDECAL">
+    <name>.GehinD.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>016a0d00-26f5-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/urba/commun">
+    <name>.Urba.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d189-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/urba/GODART">
+    <name>.GodartO.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>df3d1000-badd-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/urba/LAUGIER">
+    <name>.LaugierE.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b4c34501-9251-11d5-a882-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/urba/DEVAUX">
+    <name>.DevauxE.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>918d9515-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/urba/Guerin">
+    <name>.GuerinC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>92262b95-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/urba/JOUSSELIN">
+    <name>.JousselinP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>92262b89-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/urba/Aurieres">
+    <name>.AurieresM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>29240e00-2bea-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/urba/Camare">
+    <name>.CamareI.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>92262b88-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/urba/LAMBERT">
+    <name>.LambertF.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>92262b8f-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/urba/GWISE">
+    <name>.Urba.HDV.ANNECY</name>
+    <rights>RWCMF</rights>
+    <object_guid>8fc3d189-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/urba/modeles">
+    <name>.Urba.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d189-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/Eclairage-feux-tricolores">
+    <name>.Imalux.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>3f136b00-85df-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/voirie/Eclairage-feux-tricolores">
+    <name>.1-VoirieFeux.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>7025bb80-22fc-4b4f-8495-80bb2570fc22</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/MICHAUD">
+    <name>.MichaudP.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9652490f-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/MICHAUD/FINANCE">
+    <name>.MichaudP.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9652490f-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/MICHAUD/RH">
+    <name>.MichaudP.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9652490f-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/MICHAUD/LOCAUX">
+    <name>.MichaudP.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9652490f-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/PAVESI">
+    <name>.PavesiS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>92262b87-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/Modeles">
+    <name>.Voirie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6800-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/THIBAULT">
+    <name>.ThibaultJ.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>918d951e-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/PETIT">
+    <name>.PetitA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>918d951b-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/COMMUN">
+    <name>.Voirie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6800-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/COMMUN">
+    <name>.PropreteUrbaine.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e74d20c0-a2b7-01de-8019-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/voirie/Gestion Trav. Courants 2005">
+    <name>.Voirie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6800-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/MICHAUD/HANON/b-VOIRIE/Gestion du Service">
+    <name>.Voirie.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>905c6800-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/Lucchesi">
+    <name>.LucchesiA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>dbd3e780-d83d-11d5-8db1-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/voirie/Basuyaux">
+    <name>.Voirie.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>905c6800-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/Basuyaux">
+    <name>.BasuyauxO.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>7c075200-31f6-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/voirie/VOIRIE-ENTRETIEN">
+    <name>.HuboutD.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b0657a80-c57e-11d6-8db7-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/voirie/Marcow">
+    <name>.Voirie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6800-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/Marcow">
+    <name>.GillerF.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>97837606-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/Pouzol Michel">
+    <name>.Voirie-Eclairage.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>42330500-8328-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/voirie/Pouzol Michel">
+    <name>.PouzolM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f14de680-65b2-01db-80d8-000c29b050a6</object_guid>
+  </trustee>
+  <trustee path="/voirie/Barnaba">
+    <name>.BarnabaM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d219eb80-83df-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/CASSORLA">
+    <name>.CassorlaM.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d7d7b100-2614-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/voirie/CLAVEL">
+    <name>.DelannayA.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>5e54f615-d0dd-447a-a1a1-15f6545eddd0</object_guid>
+  </trustee>
+  <trustee path="/voirie/Hubout">
+    <name>.HuboutD.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b0657a80-c57e-11d6-8db7-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/voirie/Decarroz">
+    <name>.DecarrozY.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b7b4a570-dc2d-01db-80b5-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/MEDECINE">
+    <name>.Medecine.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a2d6a182-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/MEDECINE/Secretaire_Medecine/Isoux">
+    <name>.IsouxC.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a527d000-c0e2-11d6-8db7-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/PEL">
+    <name>.PEL-Auteurs.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>478c8800-cb98-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/PEL">
+    <name>.PEL.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>b4ebe900-cb97-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/Liste Syndics Vieille Ville Autorisations de Travaux">
+    <name>.Urba.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d189-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Liste Syndics Vieille Ville Autorisations de Travaux">
+    <name>.1-Syndic.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>df614889-428f-42b0-14af-894861df8f42</object_guid>
+  </trustee>
+  <trustee path="/Logistique_événements/Berthet">
+    <name>.Fetes.PST.ANNECY</name>
+    <rights></rights>
+    <object_guid>ad913682-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Logistique_événements/Berthet">
+    <name>.1-LogistiqueDir.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>1d4a21de-b3ff-4e8d-8c93-de214a1dffb3</object_guid>
+  </trustee>
+  <trustee path="/parcst/Mulatier">
+    <name>.DirectionFetes.PST.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>80c42720-059c-01df-803f-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/parcst/Mulatier">
+    <name>.AdministrationParc.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a5d19215-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/Mulatier">
+    <name>.Mulatier-GachetN.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a538fb93-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/Mulatier/LOGISTIQUE EVENEMENTS/COURRIER">
+    <name>.BerthetP.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a538fb80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/Perrin">
+    <name>.AdministrationParc.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a5d19215-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/Perrin">
+    <name>.PerrinT.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d517b580-f9f8-11de-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/parcst/Goddet">
+    <name>.AdministrationParc.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a5d19215-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/ATELIERS BATIMENTS">
+    <name>.FatmiT.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9dad9900-1efc-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/parcst/ATELIERS BATIMENTS">
+    <name>.ClavelL.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9cf99f80-0517-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/parcst/ATELIERS BATIMENTS">
+    <name>.SadaouiJ.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f19ef880-26f5-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/parcst/ATELIERS BATIMENTS">
+    <name>.MilletN.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d7171e00-40d0-11d6-8db3-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/parcst/Bernollin">
+    <name>.BernollinT.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a5d19208-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/PARC-AUTO">
+    <name>.AdministrationParc.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a5d19215-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/WOILLET">
+    <name>.AdministrationParc.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a5d19215-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/ATELIER">
+    <name>.AdministrationParc.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a5d19215-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/ATELIER">
+    <name>.ClavelL.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9cf99f80-0517-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/parcst/Deflin">
+    <name>.DeflinV.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4c9cdc80-e41b-01db-80f1-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/parcst/modeles">
+    <name>.ParcST.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a538fb81-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/Atal">
+    <name>.Parcatal.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a79b5580-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/Clavel">
+    <name>.ClavelL.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9cf99f80-0517-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/parcst/Sadaoui">
+    <name>.SadaouiJ.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f19ef880-26f5-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/sigdu/Commun">
+    <name>.Sigdu.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>cf8ff680-8a8a-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/sigdu/Gagic">
+    <name>.GagicA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a23e0b0c-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/sigdu/Paris">
+    <name>.ParisP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9bb14980-3e72-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/sigdu/Paccoret">
+    <name>.PaccoretP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>994d3980-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/MARCHAL">
+    <name>.MarchalC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>95b9b289-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Frid/BONLIEU/FRID">
+    <name>.FridA.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4a18cdd0-ffb3-01db-8011-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/culturel/Gautier">
+    <name>.GautierA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>dac0f5c0-1d8f-01dc-8023-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/comerart/ACARE/CAMPING/Camping">
+    <name>.AuclairS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a04d6400-4fdf-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/comerart/ACARE/CAMPING/Camping">
+    <name>.Camping.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>83fe7980-5541-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/batiment/Debroux">
+    <name>.DebrouxC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>89b9a950-e370-01db-80f1-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/juridic/Brando">
+    <name>.BrandoC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>61571b80-7be8-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Laverie">
+    <name>.Laverie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a18a0620-8c4d-01dc-80bb-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Ateliers_Vie_Scolaire">
+    <name>.Ateliers_Vie_Sco.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a40eaaa0-8c4c-01dc-80bb-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Ateliers_Vie_Scolaire">
+    <name>.Laverie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a18a0620-8c4d-01dc-80bb-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Sicamois">
+    <name>.SicamoisL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>60515800-9686-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/voirie/Negler">
+    <name>.NeglerE.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d1389080-b911-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/finances/Gomez">
+    <name>.GomezJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>11d1cb80-c27b-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/comerart/SANDRINE">
+    <name>.Camping.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>83fe7980-5541-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/comerart/SANDRINE">
+    <name>.AuclairS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a04d6400-4fdf-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/urba/Marouteix">
+    <name>.ChatelC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>678a9e80-c375-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Pôle Seniors/Passera">
+    <name>.PasseraB.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>939c3200-ea63-11da-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/dst/DSO">
+    <name>.HarcouetM.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>225ea580-ace4-11da-a4a5-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/dst/DSO">
+    <name>.FridA.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4a18cdd0-ffb3-01db-8011-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/dst/DSO">
+    <name>.GuillotB.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93efef00-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/juridic/Archives">
+    <name>.MartinC1.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>92bec216-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/juridic/Archives">
+    <name>.Juridic.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>905c6808-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/Vittoz">
+    <name>.VittozM.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>32625e40-21a9-01dd-8071-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/voirie/Signalisation">
+    <name>.KrasnoplakhtoffJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>211e7d00-1694-01dd-80dc-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/finances/Duchene">
+    <name>.DucheneC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>96eadf84-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/ECHANGES">
+    <name>.Everybody.ANNECY</name>
+    <rights>RWCMF</rights>
+    <object_guid>8f2b3b2a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/OpenOffice/Galerie">
+    <name>.Everybody.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8f2b3b2a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Cadre de Vie/COMMUN">
+    <name>.Cadre-Vie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>3b336d80-77f2-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/sigdu/Canonge">
+    <name>.CanongeP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c517d480-8a46-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/sigdu/Maiga">
+    <name>.MaigaM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d1039680-8a46-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/urba/A.Sutto">
+    <name>.SuttoA.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c701ee00-e2ea-11dd-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/voirie/Beauquis">
+    <name>.BeauquisG.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>cf270380-2995-11de-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Cheffi">
+    <name>.CheffiE.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>433aac80-e95d-11da-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/comerart/Alili">
+    <name>.AliliW.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0d8b25a6-35ac-4c33-c194-a6258b0dac35</object_guid>
+  </trustee>
+  <trustee path="/finances/Benmbarek">
+    <name>.BenmbarekC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>12901240-5049-01de-806c-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Periscolaire_Teppes">
+    <name>.Teppes.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>356a1e80-51ae-11de-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/Prévention Tranquillité/Marco/à supprimer/SECURITE PREVENTION ROUTIERE">
+    <name>.DonzierH.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f44e9900-5625-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/batiment/Manufacture">
+    <name>.Manufacture.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e8f05f00-4097-11de-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/voirie/Berteraut">
+    <name>.BeauquisG.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>cf270380-2995-11de-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/Cadre de Vie/Bel">
+    <name>.BelS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6226b680-76c6-11de-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/sports/JarnierM">
+    <name>.JarnierM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>cbce4c9b-9402-462f-9b87-9b4ccecb0294</object_guid>
+  </trustee>
+  <trustee path="/Prévention Tranquillité/Gac">
+    <name>.PreventionTranquillite.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>3ff82180-77f2-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/Prévention Tranquillité/Gac">
+    <name>.GacC.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>81929785-9ad7-4fae-59bd-85979281d79a</object_guid>
+  </trustee>
+  <trustee path="/Cadre de Vie/Congés">
+    <name>.GroupeSalubrite.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4fdf6580-96d3-11de-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/cabinet/LEBEAU">
+    <name>.LebeauJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b08c2704-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Contrôle de gestion/MAITRIAS">
+    <name>.MaitriasE.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d1bb2402-43a6-47e6-d6b4-0224bbd1a643</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine">
+    <name>.PropreteUrbaine.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e74d20c0-a2b7-01de-8019-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/Commun">
+    <name>.PropreteUrbaine.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e74d20c0-a2b7-01de-8019-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/parcst/Mulatier/LOGISTIQUE EVENEMENTS">
+    <name>.CollombM.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>32992301-66dd-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/Jallifier">
+    <name>.JallifierJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b124bd83-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/Jallifier">
+    <name>.Police.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>90f4fe8d-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Prévention Tranquillité/Centre Opérationnel">
+    <name>.PreventionTranquillite.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>3ff82180-77f2-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/Prévention Tranquillité/Centre Opérationnel">
+    <name>.1-PrevOpe.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>30ff4f58-ce21-4f54-0f96-584fff3021ce</object_guid>
+  </trustee>
+  <trustee path="/culturel/Martins">
+    <name>.Martins_da_cunhaA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4db97710-85a2-01de-8095-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/Prévention Tranquillité/Marco">
+    <name>.1-PrevTranq2.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b89ef3f7-74d9-45f7-e5b7-f7f39eb8d974</object_guid>
+  </trustee>
+  <trustee path="/juridic/COELHO">
+    <name>.CoelhoA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>5d931480-9f5c-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/etacivil/INSEE Envoi">
+    <name>.Rodrigues_de_AlmeidaD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8e67e559-c344-44aa-42ac-59e5678e44c3</object_guid>
+  </trustee>
+  <trustee path="/juridic/COMMUN/TELETRANSMISSION Accusés Réception">
+    <name>.Juridic.HDV.ANNECY</name>
+    <rights>RWCMF</rights>
+    <object_guid>905c6808-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/etacivil/SCRP">
+    <name>.Etacivil.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>90f4fe87-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/etacivil/SCRP">
+    <name>.ETC-SRCP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e33d6256-c79c-41df-8d89-56623de39cc7</object_guid>
+  </trustee>
+  <trustee path="/voirie/Journet">
+    <name>.JournetD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8a4319ae-f547-49c9-c997-ae19438a47f5</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Jarnier">
+    <name>.LebeauJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b08c2704-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/Arrêtés_Voirie">
+    <name>.Voirie.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>905c6800-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/Arrêtés_Voirie">
+    <name>.1-ArretéVoirie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b5f13a92-2d64-4ba3-298a-923af1b5642d</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Levant">
+    <name>.LevantJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>182d3b43-8387-4112-7fa6-433b2d188783</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Secretariat">
+    <name>.Chavasse-fretazK.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>78e7e370-de74-466b-4081-70e3e77874de</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Secretariat">
+    <name>.1-BonlieuSec.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>4127683b-cb0f-46af-edbb-3b6827410fcb</object_guid>
+  </trustee>
+  <trustee path="/culturel/Vernet">
+    <name>.VernetS.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>313c7eb8-76f3-4b68-61b5-b87e3c31f376</object_guid>
+  </trustee>
+  <trustee path="/STATIO/BARRIQUAND">
+    <name>.BarriquandH.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6bb9f608-64b8-4e94-268b-08f6b96bb864</object_guid>
+  </trustee>
+  <trustee path="/finances/Anciens collaborateurs/BEL G">
+    <name>.GoddetL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93efef0b-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Rota">
+    <name>.RotaX.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d07c88d6-ad01-40fc-5598-d6887cd001ad</object_guid>
+  </trustee>
+  <trustee path="/marches/Gazon">
+    <name>.GazonM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>97837608-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Chmamadi">
+    <name>.ChmamadiK.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>be5049fb-b50a-4c15-8ebf-fb4950be0ab5</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Fol">
+    <name>.FolJF.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>dd151f80-9da6-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/voirie/Brard">
+    <name>.Voirie.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>905c6800-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/Brard">
+    <name>.BrardJ.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b797e000-805a-11df-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/Logistique_événements/Ateliers_Electricité_Fetes">
+    <name>.DirectionFetes.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>80c42720-059c-01df-803f-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/Logistique_événements/Guizzon">
+    <name>.DirectionFetes.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>80c42720-059c-01df-803f-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/parcst/Benito">
+    <name>.BenitoJ.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>47b82869-88f7-4b31-b0ad-6928b847f788</object_guid>
+  </trustee>
+  <trustee path="/comerart/Donzier">
+    <name>.DonzierH.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f44e9900-5625-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Salamat">
+    <name>.SalamatG.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>7b0468ce-25ef-4d59-d28d-ce68047bef25</object_guid>
+  </trustee>
+  <trustee path="/Sapa">
+    <name>.PellicierC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93575881-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/EPI">
+    <name>.1-EPI.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>1cb003ef-54a6-4bff-a788-ef03b01ca654</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Lamerac">
+    <name>.LameracV.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c5b6d792-b45a-4bd8-9ab5-92d7b6c55ab4</object_guid>
+  </trustee>
+  <trustee path="/directio/Vernet">
+    <name>.VernetP.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a0744780-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/urba/commun/Occupation du domaine public/CHANTIERS  EN COURS">
+    <name>.JournetD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8a4319ae-f547-49c9-c997-ae19438a47f5</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Dupont">
+    <name>.DupontM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>95b2b4d9-d567-4e75-40b5-d9b4b29567d5</object_guid>
+  </trustee>
+  <trustee path="/batiment/Pôle énergie">
+    <name>.PoleEnergie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>1fbe5afa-20aa-40fb-bfa4-fa5abe1faa20</object_guid>
+  </trustee>
+  <trustee path="/comerart/Bouissonnie">
+    <name>.BouissonnieJ.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>010d44ce-67fd-42d2-ed80-ce440d01fd67</object_guid>
+  </trustee>
+  <trustee path="/batiment/Senet">
+    <name>.SenetY.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>1ce29084-7570-495e-458b-8490e21c7075</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Colletti">
+    <name>.CollettiF.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9a674300-3c15-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/parcst/Swist">
+    <name>.SwistE.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f273ba48-ed75-4cb1-5ebe-48ba73f275ed</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Colletti/Dufour">
+    <name>.CollettiF.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9a674300-3c15-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/culturel/Delande">
+    <name>.DelandeA.NOVEL.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6f0c4ae5-01bf-48d0-d4af-e54a0c6fbf01</object_guid>
+  </trustee>
+  <trustee path="/batiment/Fatmi">
+    <name>.FatmiT.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9dad9900-1efc-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/Contrôle de gestion/MORESI">
+    <name>.MoresiM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0c3fa780-7ffb-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/secregal/COMMUN">
+    <name>.Secregal.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6807-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Logistique_événements/Atelier_Logev">
+    <name>.Atelier_Sle.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a5c6f008-9302-4cbf-9f91-08f0c6a50293</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Stagiaire">
+    <name>.Bonlieu_stagiaire.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e4ab7b80-9304-11df-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Pôle Seniors/Violet">
+    <name>.VioletB.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>629203b6-af12-4d7e-afb6-b603926212af</object_guid>
+  </trustee>
+  <trustee path="/Cadre de Vie/Bezzi">
+    <name>.BezziS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>bd59b180-3b74-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/cabinet">
+    <name>.Cabinet.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8fc3d184-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/DUER">
+    <name>.Everybody.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8f2b3b2a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Contrôle de gestion/COMMUN">
+    <name>.Secregal.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6807-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Contrôle de gestion/COMMUN">
+    <name>.ControleGestion.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>2886bc1e-d720-4f23-a6aa-1ebc862820d7</object_guid>
+  </trustee>
+  <trustee path="/finances/Maitrias DSF">
+    <name>.MaitriasE.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d1bb2402-43a6-47e6-d6b4-0224bbd1a643</object_guid>
+  </trustee>
+  <trustee path="/finances/Maitrias DSF">
+    <name>.ChaoudourL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>62aa3990-f18d-01df-8006-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/finances/Anciens collaborateurs">
+    <name>.YvraitC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9b965900-5de3-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/finances/Anciens collaborateurs">
+    <name>.MaitriasE.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d1bb2402-43a6-47e6-d6b4-0224bbd1a643</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Administration">
+    <name>.Bonlieu.BONLIEU.ANNECY</name>
+    <rights></rights>
+    <object_guid>90f4fe83-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Administration">
+    <name>.1-BonlieuAdmin.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e8f9079f-7f0a-40f0-e0ad-9f07f9e80a7f</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Avundo">
+    <name>.ChmamadiK.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>be5049fb-b50a-4c15-8ebf-fb4950be0ab5</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Avundo">
+    <name>.AvundoM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d45d9770-0116-4cd6-8586-70975dd41601</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Répertoire">
+    <name>.Cabinet-Repertoire.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>3308e242-9a00-4df4-53a1-42e20833009a</object_guid>
+  </trustee>
+  <trustee path="/culturel/Caullireau">
+    <name>.CaullireauC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>735a9101-2f73-4b08-d786-01915a73732f</object_guid>
+  </trustee>
+  <trustee path="/sports/Tetevuide">
+    <name>.TetevuideS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9c482a10-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/ATELIERS BATIMENTS/CONGES">
+    <name>.FatmiT.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9dad9900-1efc-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/parcst/ATELIERS BATIMENTS/CONGES">
+    <name>.SadaouiJ.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f19ef880-26f5-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/parcst/ATELIERS BATIMENTS/CONGES">
+    <name>.ClavelL.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9cf99f80-0517-11d6-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/parcst/ATELIERS BATIMENTS/CONGES">
+    <name>.PerrillatG.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8f3bd380-75ea-11d9-a888-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Logistique_événements/Depres">
+    <name>.DepresV.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ea9036c8-c4b1-4aad-73b5-c83690eab1c4</object_guid>
+  </trustee>
+  <trustee path="/quartier/GRIMAULT">
+    <name>.GrimaultC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ce62aa00-03fe-11da-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/dgre/COMMUN/Terrier">
+    <name>.KillD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>95211c11-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/dgre/COMMUN/Terrier">
+    <name>.TerrierL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>37cbe820-db6a-01de-808d-000c29ccf502</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Sommerfeld">
+    <name>.SommerfeldM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>344333a0-4175-4f60-5da7-a03343347541</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Scaramucci">
+    <name>.ScaramucciP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0a718858-3944-456b-f588-5888710a4439</object_guid>
+  </trustee>
+  <trustee path="/juridic/COMMUN/VS Locatif">
+    <name>.BuzioF.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>9c482a03-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/Clés">
+    <name>.1-BatClefs.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4c78f6b8-ca15-4782-8cb2-b8f6784c15ca</object_guid>
+  </trustee>
+  <trustee path="/etacivil/Commun/Secrétariat/Agents/Sylvie">
+    <name>.Rodrigues_de_AlmeidaD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8e67e559-c344-44aa-42ac-59e5678e44c3</object_guid>
+  </trustee>
+  <trustee path="/etacivil/Commun/Secrétariat/Agents/Sylvie">
+    <name>.Etacivil.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>90f4fe87-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/etacivil/Commun/Secrétariat/Agents/Sylvie">
+    <name>.Favre-bonvinS.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>593abe01-f2fc-11d5-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Gandon">
+    <name>.GandonE.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>33bbb3e5-c89a-4833-a195-e5b3bb339ac8</object_guid>
+  </trustee>
+  <trustee path="/marches/Dumonteil">
+    <name>.DumonteilM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0168ed00-d84e-11d5-8db1-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/urba/Stemmelin">
+    <name>.StemmelinL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c62d1f1b-cd2c-4a28-d6ae-1b1f2dc62ccd</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Pilliard">
+    <name>.PilliardS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>33ac4d00-dd49-11d7-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Modica">
+    <name>.ModicaS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0da1ff80-6a75-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/culturel/Meo">
+    <name>.MeoM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>bf286854-a8b7-4bcd-c7ba-546828bfb7a8</object_guid>
+  </trustee>
+  <trustee path="/culturel/Contat">
+    <name>.ContatS.SITES_ADSL.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e7fca1e5-4d16-42b9-9084-e5a1fce7164d</object_guid>
+  </trustee>
+  <trustee path="/dgre/Terrier">
+    <name>.TerrierL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>37cbe820-db6a-01de-808d-000c29ccf502</object_guid>
+  </trustee>
+  <trustee path="/dgre/Terrier">
+    <name>.1-DGRE-HDV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b8549778-ca02-430e-3cbb-789754b802ca</object_guid>
+  </trustee>
+  <trustee path="/Archives">
+    <name>.Juridic.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>905c6808-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Archives/Commun">
+    <name>.Juridic.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6808-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Archives/Fernandez">
+    <name>.FernandezC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4b036d00-d5ba-11da-a4a5-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/sports/Rosset">
+    <name>.RossetS.SITES_ADSL.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>76cdf3e5-7ade-4104-e7b4-e5f3cd76de7a</object_guid>
+  </trustee>
+  <trustee path="/batiment/Belhadj">
+    <name>.BelhadjA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b1705dc9-5340-4694-a58f-c95d70b14053</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Roux">
+    <name>.RouxE.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>cdccb4e1-3ccc-4a9e-1682-e1b4cccdcc3c</object_guid>
+  </trustee>
+  <trustee path="/comerart/ACARE/VIE ECONOMIQUE/Perso">
+    <name>.Comerart.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>90f4fe80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/comerart/ACARE/VIE ECONOMIQUE/Perso">
+    <name>.EtienneA.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights></rights>
+    <object_guid>7f0cce00-a883-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/dst/COMMUN/VALLIN FIER">
+    <name>.StemmelinL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c62d1f1b-cd2c-4a28-d6ae-1b1f2dc62ccd</object_guid>
+  </trustee>
+  <trustee path="/Contrôle de gestion">
+    <name>.ControleGestion.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>2886bc1e-d720-4f23-a6aa-1ebc862820d7</object_guid>
+  </trustee>
+  <trustee path="/Contrôle de gestion">
+    <name>.Finances.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8fc3d183-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/finances/Fluor">
+    <name>.Finances.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d183-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/finances/Fluor">
+    <name>.ControleGestion.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>2886bc1e-d720-4f23-a6aa-1ebc862820d7</object_guid>
+  </trustee>
+  <trustee path="/finances/Fluor">
+    <name>.1-Fluor.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ea56c6b3-5eab-4b4f-6184-b3c656eaab5e</object_guid>
+  </trustee>
+  <trustee path="/juridic/Nyault">
+    <name>.NyaultN.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>206f3a03-d716-4951-f19c-033a6f2016d7</object_guid>
+  </trustee>
+  <trustee path="/dgre/GestionSalles/Alonso">
+    <name>.AlonsoE.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0386f166-1703-4048-d48e-66f186030317</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Yamani">
+    <name>.YamaniA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c5a6f24d-b234-40ff-b690-4df2a6c534b2</object_guid>
+  </trustee>
+  <trustee path="/etacivil/Commun/Secrétariat/Agents/Dina">
+    <name>.Rodrigues_de_AlmeidaD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8e67e559-c344-44aa-42ac-59e5678e44c3</object_guid>
+  </trustee>
+  <trustee path="/batiment/Caunday">
+    <name>.CaundayS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0591bcbc-1f8d-4072-2990-bcbc91058d1f</object_guid>
+  </trustee>
+  <trustee path="/etacivil/Hollingue">
+    <name>.HollingueD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>3e635d5d-7991-4f49-4490-5d5d633e9179</object_guid>
+  </trustee>
+  <trustee path="/MEDECINE/Pithois">
+    <name>.PithoisK.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6571f52f-317f-483b-2791-2ff571657f31</object_guid>
+  </trustee>
+  <trustee path="/voirie/Hubout/Commande 2013">
+    <name>.DelannayA.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>5e54f615-d0dd-447a-a1a1-15f6545eddd0</object_guid>
+  </trustee>
+  <trustee path="/cabinet/COMMUN/Salles">
+    <name>.Cabinet.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8fc3d184-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/cabinet/COMMUN/Salles">
+    <name>.1-CabinetSalles.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4e955bda-ad01-4bc4-9c8b-da5b954e01ad</object_guid>
+  </trustee>
+  <trustee path="/STATIO/COMMUN/ARCHIVES/ACHATS/Achats FRS  2013">
+    <name>.Stationnement.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>9e11ed80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/STATIO/COMMUN/ARCHIVES/ACHATS/Achats FRS  2013">
+    <name>.1-StatioAchats.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>fd9331d7-7d87-42d9-83a9-d73193fd877d</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Fournier">
+    <name>.FournierM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>418e0c7f-2c42-4ffa-7fa5-7f0c8e41422c</object_guid>
+  </trustee>
+  <trustee path="/Taxe Urbanisme">
+    <name>.Everybody.ANNECY</name>
+    <rights></rights>
+    <object_guid>8f2b3b2a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Taxe Urbanisme">
+    <name>.1-TaxeUrba.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f217657f-7540-4a65-9eac-7f6517f24075</object_guid>
+  </trustee>
+  <trustee path="/Agenda 21/Plan Climat">
+    <name>.LethiaisJ.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>fc4a3ed0-2475-01dc-8023-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/voirie/Delannay">
+    <name>.DelannayA.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>5e54f615-d0dd-447a-a1a1-15f6545eddd0</object_guid>
+  </trustee>
+  <trustee path="/voirie/Veyrat_de_lachenal">
+    <name>.Veyrat_de_lachenalJ.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>724570e5-5f32-4422-e3a3-e5704572325f</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Chmamadi/Compta chmamadi">
+    <name>.SommerfeldM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>344333a0-4175-4f60-5da7-a03343347541</object_guid>
+  </trustee>
+  <trustee path="/juridic/VEYRAT">
+    <name>.Veyrat_de_lachenalC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>96eadf91-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Archives/Bouvier">
+    <name>.BouvierC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>33e4f000-ece1-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/culturel/Creche_HDV/Année 2013/2013Cuisine">
+    <name>.Culturel.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe82-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/Creche_HDV/Année 2013/Grands">
+    <name>.Culturel.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>90f4fe82-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/social">
+    <name>.NivetM.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9c482a01-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/parcst/WOILLET/EXCEL/DOCUMENTS ADMINISTRATIFS VEHICULES">
+    <name>.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>58ac5300-ab66-11d5-a882-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Denhez">
+    <name>.DenhezA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>3e854180-08ba-11d9-8dba-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Denhez">
+    <name>.ChmamadiK.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>be5049fb-b50a-4c15-8ebf-fb4950be0ab5</object_guid>
+  </trustee>
+  <trustee path="/Cadre de Vie">
+    <name>.Cadre-Vie.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>3b336d80-77f2-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/police/Belmonte">
+    <name>.BelmonteR.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0e0ff0d6-6206-4454-96bc-d6f00f0e0662</object_guid>
+  </trustee>
+  <trustee path="/police/Belmonte">
+    <name>.Police.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>90f4fe8d-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/police/Belmonte">
+    <name>.MisseM.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8a003c00-5423-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/batiment/Sironi">
+    <name>.SironiD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9de04cc5-53ad-45a1-c297-c54ce09dad53</object_guid>
+  </trustee>
+  <trustee path="/comerart/ACARE/VIE ECONOMIQUE/Etienne">
+    <name>.EtienneA.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>7f0cce00-a883-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/voirie/Hubout/Commande 2014">
+    <name>.DelannayA.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>5e54f615-d0dd-447a-a1a1-15f6545eddd0</object_guid>
+  </trustee>
+  <trustee path="/batiment/Buzio/A Secure">
+    <name>.BuzioF.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9c482a03-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/Buzio/A Secure">
+    <name>.Batiment.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>905c6801-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/Senet/A Secure">
+    <name>.Batiment.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>905c6801-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/Senet/A Secure">
+    <name>.SenetY.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>1ce29084-7570-495e-458b-8490e21c7075</object_guid>
+  </trustee>
+  <trustee path="/police/Terre">
+    <name>.TerreG.HDV.ANNECY</name>
+    <rights>RWCEMFA</rights>
+    <object_guid>bd9cf3c2-c975-4e81-55b2-c2f39cbd75c9</object_guid>
+  </trustee>
+  <trustee path="/Archives/Lenfant">
+    <name>.Veyrat_de_lachenalC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>96eadf91-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Archives/Lenfant">
+    <name>.LenfantC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6e43d280-5843-11d6-8db4-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/MEDECINE/Spirowin">
+    <name>.Medecine.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a2d6a182-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/OpenOffice/Modeles">
+    <name>.Everybody.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8f2b3b2a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Direction/Ducloz/Bouvier/Secours/Euros/Secours2000.mdb">
+    <name>.LefebvreS.NOVEL.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>19b0f360-20c3-47eb-3486-60f3b019c320</object_guid>
+  </trustee>
+  <trustee path="/dgre/Sandra LORGEOU">
+    <name>.TerrierL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>37cbe820-db6a-01de-808d-000c29ccf502</object_guid>
+  </trustee>
+  <trustee path="/dgre/Sandra LORGEOU">
+    <name>.Stage_Dgre.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>fec67e83-fe57-4b8a-3a9e-837ec6fe57fe</object_guid>
+  </trustee>
+  <trustee path="/dgre/Vero Combe FDL 2014">
+    <name>.CombeV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8672d680-a6d6-11e0-a4aa-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/culturel/Blampey">
+    <name>.BlampeyC.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>01eadecf-c02f-4bb8-6a8b-cfdeea012fc0</object_guid>
+  </trustee>
+  <trustee path="/culturel/Fournil">
+    <name>.FournilD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>dfa25e03-58a3-4c88-aab1-035ea2dfa358</object_guid>
+  </trustee>
+  <trustee path="/Prévention Tranquillité">
+    <name>.PreventionTranquillite.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>3ff82180-77f2-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/batiment/Daudin">
+    <name>.DaudinC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9df3a3fa-62af-464f-d3a2-faa3f39daf62</object_guid>
+  </trustee>
+  <trustee path="/social/Z avant 1 janvier 2015/Romains-Loft">
+    <name>.LatbiN.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>71aba300-6bd9-11da-a4a4-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/social/Z avant 1 janvier 2015/Romains-Loft">
+    <name>.CrestiaR.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>71b72a00-de66-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/cabinet/Arnoux-Herlemont">
+    <name>.HerlemontS.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a8e8bd80-ed0a-11d7-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Pôle Promotion Santé et Développement Social">
+    <name>.Social-Pole-Promotion-Sante.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6eaffb3c-0d37-41a9-6d91-3cfbaf6e370d</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Pôle Solidarités">
+    <name>.Social-Pole-Solidarites.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d456cd12-1a91-414a-90b9-12cd56d4911a</object_guid>
+  </trustee>
+  <trustee path="/comerart/Bertet-Pilon">
+    <name>.Bertet-pilonS.HDV.ANNECY</name>
+    <rights>RWCEMFA</rights>
+    <object_guid>b1d921b5-0a51-4397-6492-b521d9b1510a</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Favre-Bonvin">
+    <name>.Favre-bonvinS.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>593abe01-f2fc-11d5-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/batiment/Pôle énergie/~~~CONTROLE DES BATIMENTS~~~">
+    <name>.PoleEnergie.HDV.ANNECY</name>
+    <rights>RWCEMFA</rights>
+    <object_guid>1fbe5afa-20aa-40fb-bfa4-fa5abe1faa20</object_guid>
+  </trustee>
+  <trustee path="/batiment/Pôle énergie/SCHEMAS ELECTRIQUES DES BÂTIMENTS &amp;amp;amp; DOE Courants Faibles">
+    <name>.PoleEnergie.HDV.ANNECY</name>
+    <rights>RWCMFA</rights>
+    <object_guid>1fbe5afa-20aa-40fb-bfa4-fa5abe1faa20</object_guid>
+  </trustee>
+  <trustee path="/voirie/Hubout/Commande 2015">
+    <name>.DelannayA.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>5e54f615-d0dd-447a-a1a1-15f6545eddd0</object_guid>
+  </trustee>
+  <trustee path="/culturel/Blairvacq">
+    <name>.BlairvacqM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>bb4fe94a-fdec-47f7-e19a-4ae94fbbecfd</object_guid>
+  </trustee>
+  <trustee path="/INFO/Clement">
+    <name>.ChautainC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>50ac5212-580b-4379-d4a0-1252ac500b58</object_guid>
+  </trustee>
+  <trustee path="/INFO/COMMUN">
+    <name>.MussonP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9b16fd0a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/INFO/COMMUN">
+    <name>.Reprographie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>484cb480-669d-11e0-a4a9-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/INFO/Documentation_Support">
+    <name>.Reprographie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>484cb480-669d-11e0-a4a9-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/INFO/Fabrice/Perso">
+    <name>.WinieskiF.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>09438f80-4239-11d6-8db3-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/INFO/Fabrice/Perso">
+    <name>.Info.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>8fc3d181-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/INFO/Fabrice/Perso">
+    <name>.Everybody.ANNECY</name>
+    <rights></rights>
+    <object_guid>8f2b3b2a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/INFO/Imprimerie">
+    <name>.Reprographie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>484cb480-669d-11e0-a4a9-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/INFO/ISABELLE">
+    <name>.Everybody.ANNECY</name>
+    <rights></rights>
+    <object_guid>8f2b3b2a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/INFO/ISABELLE/Perso">
+    <name>.Info.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>8fc3d181-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/INFO/ISABELLE/Perso">
+    <name>.Everybody.ANNECY</name>
+    <rights></rights>
+    <object_guid>8f2b3b2a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/INFO/ISABELLE/Perso">
+    <name>.LepetitI.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e5f9d080-482f-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/INFO/PHILIPPE/perso">
+    <name>.Info.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>8fc3d181-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/INFO/PHILIPPE/perso">
+    <name>.SageP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93575886-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/INFO/PHILIPPE/perso">
+    <name>.Everybody.ANNECY</name>
+    <rights></rights>
+    <object_guid>8f2b3b2a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/INFO/Philippe_Musson">
+    <name>.MussonP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9b16fd0a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/INFO/Raphael">
+    <name>.PortesR.Smartphones.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>fccf87f7-1bf4-4be3-9383-f787cffcf41b</object_guid>
+  </trustee>
+  <trustee path="/INFO/Repro">
+    <name>.MondiniC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>15a6d500-837c-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/INFO/Repro/Cadoux">
+    <name>.CadouxL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>aef9c41a-9110-4c3d-feb6-1ac4f9ae1091</object_guid>
+  </trustee>
+  <trustee path="/social/COMMUN/Social2000.mdb">
+    <name>.Social.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6805-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Administration/01 - SGB SECRETARIAT">
+    <name>.Favre-bonvinS.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>593abe01-f2fc-11d5-8db2-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/culturel/Etudiant/BABY SITTING">
+    <name>.DonyM.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4fb04600-6641-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/etacivil/Coureux-Hamon">
+    <name>.Coureux-hamonS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>2d09754e-b883-44ae-2593-4e75092d83b8</object_guid>
+  </trustee>
+  <trustee path="/parcst/Bournel">
+    <name>.BournelS.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>3f67a08f-7c81-4359-5d9d-8fa0673f817c</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Franceschini/dossier agents">
+    <name>.Goddet-ChoplinO.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9c482a04-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Franceschini/dossier agents">
+    <name>.Enseigne.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>905c680a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Franceschini/dossier agents">
+    <name>.FranceschiniC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>266d9d00-217f-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Franceschini/dossier agents">
+    <name>.MasternakC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a5139200-744c-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/sports/Streiff">
+    <name>.StreiffA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9af87b0a-2012-4d16-f58d-0a7bf89a1220</object_guid>
+  </trustee>
+  <trustee path="/Logistique_événements/Duverney">
+    <name>.DuverneyA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e2922804-b3d1-40da-60af-042892e2d1b3</object_guid>
+  </trustee>
+  <trustee path="/Modeles">
+    <name>.Everybody.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8f2b3b2a-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/voirie/Pétrier">
+    <name>.PetrierJ.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>2426abf4-b272-41a4-1c9c-f4ab262472b2</object_guid>
+  </trustee>
+  <trustee path="/Logistique_événements/Commun">
+    <name>.Fetes.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ad913682-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Prévention Tranquillité/Brigade Environnement">
+    <name>.Brigade_environnement.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>7f9a05ef-555f-4564-2595-ef059a7f5f55</object_guid>
+  </trustee>
+  <trustee path="/finances/Barat">
+    <name>.BaratS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>017ee08b-ec9a-4a7d-31ba-8be07e019aec</object_guid>
+  </trustee>
+  <trustee path="/Archives/Servettaz">
+    <name>.ServettazM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ad3d5fdb-cf09-4e29-dca1-db5f3dad09cf</object_guid>
+  </trustee>
+  <trustee path="/urba/Fritschmann">
+    <name>.FritschmannV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4794788e-10ae-40cf-159e-8e789447ae10</object_guid>
+  </trustee>
+  <trustee path="/voirie/Perrot">
+    <name>.PerrotM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>cdc13f1b-0258-41df-8f99-1b3fc1cd5802</object_guid>
+  </trustee>
+  <trustee path="/parcst/Ducamp">
+    <name>.DucampH.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>1892ea1c-6cc2-4e61-38bd-1cea9218c26c</object_guid>
+  </trustee>
+  <trustee path="/batiment/Revil">
+    <name>.RevilL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0698275a-4f9e-43bc-3197-5a2798069e4f</object_guid>
+  </trustee>
+  <trustee path="/batiment/Revil/A secure">
+    <name>.Batiment.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>905c6801-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/batiment/Revil/A secure">
+    <name>.RevilL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0698275a-4f9e-43bc-3197-5a2798069e4f</object_guid>
+  </trustee>
+  <trustee path="/Prévention Tranquillité/Janssens">
+    <name>.JanssensD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>352ee980-88ea-11d6-8db5-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/Prévention Tranquillité/Janssens/Privé">
+    <name>.PreventionTranquillite.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>3ff82180-77f2-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/INFO">
+    <name>.Info.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d181-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/comerart/Alili/Perso">
+    <name>.Comerart.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>90f4fe80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/Creche_HDV/Educatrices">
+    <name>.LecomteS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>784a7500-a817-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/culturel/Creche_HDV/Educatrices">
+    <name>.Creche_HDV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f855b680-15f4-11d8-8db9-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/culturel/Creche_HDV/Educatrices">
+    <name>.Onde-ManelD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>eece7780-aeab-11da-a4a5-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/dgre/COMMUN">
+    <name>.Dgre.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9e11ed90-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/Delaye">
+    <name>.DelayeR.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>42b6f3a6-fdd4-40d3-dab6-a6f3b642d4fd</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/NETTOIEMENT">
+    <name>.FischbachG.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f412721a-395e-4382-12bc-1a7212f45e39</object_guid>
+  </trustee>
+  <trustee path="/culturel/Chenu">
+    <name>.ChenuB.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>15371c74-31d0-4e5c-01a2-741c3715d031</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/TELLIER">
+    <name>.TellierM.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>47010df9-283b-4ad4-e182-f90d01473b28</object_guid>
+  </trustee>
+  <trustee path="/juridic/Telbois">
+    <name>.TelboisM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>30dd8d45-a96a-464a-fd9a-458ddd306aa9</object_guid>
+  </trustee>
+  <trustee path="/finances/01_COMMUN">
+    <name>.Finances.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d183-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/Maquenhen">
+    <name>.MaquenhenJ.BONLIEU.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>056be2a5-9431-46c2-38ae-a5e26b053194</object_guid>
+  </trustee>
+  <trustee path="/social/modeles/Personnels Direction/Billaud">
+    <name>.BillaudC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6e31674d-68ef-4f01-e788-4d67316eef68</object_guid>
+  </trustee>
+  <trustee path="/STATIO/BARRIQUAND/Dossiers parkings">
+    <name>.Stationnement.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>9e11ed80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/Arcadium">
+    <name>.Arcadium.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>65eead00-2194-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/Arcadium">
+    <name>.1-Arcadiumgestion.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>7f77c340-4fa0-4ed0-4782-40c3777fa04f</object_guid>
+  </trustee>
+  <trustee path="/voirie/Bogdanoff">
+    <name>.BogdanoffM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8ff8c011-cc82-4582-dbaf-11c0f88f82cc</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/Françon">
+    <name>.FranconC.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>318ded5c-23fd-419f-98b4-5ced8d31fd23</object_guid>
+  </trustee>
+  <trustee path="/drh">
+    <name>.Drh.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>8fc3d185-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/COLOMBIER">
+    <name>.ColombierJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>93efef06-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/Artaud">
+    <name>.ArtaudS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>724b4e80-6d1d-11dd-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/drh/Barbier">
+    <name>.BarbierM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>fc781b00-65b3-11d7-8db8-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/drh/Bochet-Cadet">
+    <name>.Bochet-CadetJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f4d14a80-5331-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/drh/Boivin">
+    <name>.BoivinV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f1b29200-49f4-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/drh/Canchy">
+    <name>.CanchyA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c5bdec40-c17e-01db-80d9-000c2951544a</object_guid>
+  </trustee>
+  <trustee path="/drh/CHAPPAZ">
+    <name>.ChappazS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b90ee780-dbdd-11dd-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/drh/Chettabi">
+    <name>.ChettabiC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>16c3cb00-4864-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/drh/Cloez">
+    <name>.CloezJ.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c145c780-474a-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/drh/Cotton">
+    <name>.CottonC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ed59c5c0-39bc-01db-80fe-000000000000</object_guid>
+  </trustee>
+  <trustee path="/drh/Didierjean">
+    <name>.DidierjeanE.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ec28c2f4-0f19-482a-2d94-f4c228ec190f</object_guid>
+  </trustee>
+  <trustee path="/drh/DUCRUET">
+    <name>.DucruetD.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>92262b82-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/Dumermuth">
+    <name>.DumermuthC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e3e0aa37-ab9e-42ba-dca2-37aae0e39eab</object_guid>
+  </trustee>
+  <trustee path="/drh/FALLETTI">
+    <name>.FallettiC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9488858d-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/Krattinger">
+    <name>.KrattingerE.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c70f30e8-373a-46f5-6db6-e8300fc73a37</object_guid>
+  </trustee>
+  <trustee path="/drh/Legain-Dzierbicki">
+    <name>.LegainS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d56b9d6e-2e8b-4769-7aaa-6e9d6bd58b2e</object_guid>
+  </trustee>
+  <trustee path="/drh/Lehoux">
+    <name>.LehouxM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>7da71ed0-96f2-01de-8019-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/drh/Mahé">
+    <name>.MaheG.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ca364300-f63d-11d6-8db7-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/drh/MASSET">
+    <name>.MassetI.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ae29cd05-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/Meo">
+    <name>.MeoM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>bf286854-a8b7-4bcd-c7ba-546828bfb7a8</object_guid>
+  </trustee>
+  <trustee path="/drh/Mesle">
+    <name>.MesleC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>95211c08-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/PACCARD">
+    <name>.Paccard-GuillemaudJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9baf938f-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/PERRILLAT">
+    <name>.PerrillatG.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8f3bd380-75ea-11d9-a888-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/PINAZO">
+    <name>.PinazoM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>98b4a30b-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/Poncelet">
+    <name>.PonceletE.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ec71dddc-747b-44d9-b2ae-dcdd71ec7b74</object_guid>
+  </trustee>
+  <trustee path="/drh/Rey">
+    <name>.ReyF.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0ab5fe80-74ba-11db-a4a6-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/drh/Wrobel">
+    <name>.WrobelS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4c0eda14-8f18-42b9-ee85-14da0e4c188f</object_guid>
+  </trustee>
+  <trustee path="/drh/Stage_Drh">
+    <name>.Stage_DRH.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>722838ec-48eb-484a-a580-ec382872eb48</object_guid>
+  </trustee>
+  <trustee path="/drh/Accueil">
+    <name>.Drh.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d185-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/COMMUN">
+    <name>.Drh.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d185-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/Contrôle_URSSAF">
+    <name>.Drh.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d185-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/modèles">
+    <name>.Drh.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d185-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/old">
+    <name>.Drh.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d185-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/Secretariat Gestion">
+    <name>.Drh.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d185-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/Sédit">
+    <name>.Drh.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d185-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/Univers BO">
+    <name>.Drh.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8fc3d185-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/ZARAMELLA">
+    <name>.ZaramellaJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0fb51081-5a47-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/drh/Duverney">
+    <name>.DuverneyM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>62505480-b98c-11d6-8db7-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/drh/Etienne">
+    <name>.EtienneA.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>7f0cce00-a883-11dc-a4a7-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/drh/Munier">
+    <name>.MunierC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a1000ef0-bcbd-01de-8008-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/Propreté Urbaine/Achouri">
+    <name>.AchouriN.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a820129f-57ac-4ef8-e8a4-9f1220a8ac57</object_guid>
+  </trustee>
+  <trustee path="/social/modeles/Personnels Direction/Bouvier/Secours/Euros">
+    <name>.Canicule.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>cf234180-4b98-11de-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/social/modeles/Personnels Direction/Bouvier/Secours/Euros">
+    <name>.KiefferV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8228f600-f533-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/social/modeles/Personnels Direction/Bouvier/Secours/Euros/Secours2000.mdb">
+    <name>.LefebvreS.NOVEL.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>19b0f360-20c3-47eb-3486-60f3b019c320</object_guid>
+  </trustee>
+  <trustee path="/finances/01_COMMUN/21. ANALYSES FIN. &amp;amp;amp; PROJETS/21.1 Projet Commune Nouvelle/21.1.1 CN à 6/21.1.1.3 Données communes/21.1.1.3.6 Seynod/2. Données budgétaires/1. CA">
+    <name>.CrevoisierS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f543a1bf-82d8-42f7-aaad-bfa143f5d882</object_guid>
+  </trustee>
+  <trustee path="/INFO/Raphael/Supp Novell">
+    <name>.PorcherotB.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>92bec204-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Rachex">
+    <name>.RachexM.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d9a3d22b-aeeb-4de6-fa9f-2bd2a3d9ebae</object_guid>
+  </trustee>
+  <trustee path="/batiment/Millet">
+    <name>.MilletN.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d7171e00-40d0-11d6-8db3-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/drh/Mesle/UNITE DE GESTION/Gobbo/GOBBO Christine">
+    <name>.BoivinV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f1b29200-49f4-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/parcst/Jehan">
+    <name>.JehanH.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>56cc3e1e-0210-4c99-87aa-1e3ecc561002</object_guid>
+  </trustee>
+  <trustee path="/batiment/Cousin">
+    <name>.CousinS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a7e1e5f4-3ec0-429c-3394-f4e5e1a7c03e</object_guid>
+  </trustee>
+  <trustee path="/finances/Cohard">
+    <name>.CohardS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6a7e3bff-9870-4812-eb9a-ff3b7e6a7098</object_guid>
+  </trustee>
+  <trustee path="/finances/Sanchez">
+    <name>.SanchezL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c7a64314-d83f-43dd-ad97-1443a6c73fd8</object_guid>
+  </trustee>
+  <trustee path="/INFO/COMMUN/Marchés/Infra_2016/Systèmes d&amp;amp;apos;impression">
+    <name>.MonardA.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>a83d6900-23d6-11d8-a887-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Saulnier">
+    <name>.SaulnierC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>23fd777f-000d-408a-2295-7f77fd230d00</object_guid>
+  </trustee>
+  <trustee path="/dgre/Chapapria">
+    <name>.ChapapriaC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>92262b84-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/culturel/Mangione">
+    <name>.MangioneS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b460c4a7-8f0d-4a41-1f88-a7c460b40d8f</object_guid>
+  </trustee>
+  <trustee path="/INFO/Jean-Baptiste">
+    <name>.DefontaineJ.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>165a9ccc-417c-4778-fcbe-cc9c5a167c41</object_guid>
+  </trustee>
+  <trustee path="/comerart/COMMUN/DroitsVoirie/Install 2.8.0">
+    <name>.Adm.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>5fe08546-ad8f-4eb4-07a2-4685e05f8fad</object_guid>
+  </trustee>
+  <trustee path="/Arcadium/COMMUN/GESTION">
+    <name>.MaitriasE.Iphone.Comptes_Speciaux.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d1bb2402-43a6-47e6-d6b4-0224bbd1a643</object_guid>
+  </trustee>
+  <trustee path="/Arcadium/COMMUN/GESTION">
+    <name>.ControleGestion.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>2886bc1e-d720-4f23-a6aa-1ebc862820d7</object_guid>
+  </trustee>
+  <trustee path="/batiment/Briffod">
+    <name>.BriffodN.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>38470f19-5400-4027-b880-190f47380054</object_guid>
+  </trustee>
+  <trustee path="/INFO/Projets Sherpa">
+    <name>.1-Sherpa.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>27fe67df-1887-4d71-61a3-df67fe278718</object_guid>
+  </trustee>
+  <trustee path="/Logistique_événements">
+    <name>.1-Logistique.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>706d7c4c-3f81-4ad3-1cb2-4c7c6d70813f</object_guid>
+  </trustee>
+  <trustee path="/Logistique_événements/Fontaine">
+    <name>.Fetes.PST.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>ad913682-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Régies">
+    <name>.1-ParkingRegie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>dc70083e-7ea1-4dba-a98b-3e0870dca17e</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Tech_partage">
+    <name>.1-ParkingTech.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>5b0c7f5f-21f1-46ed-40ac-5f7f0c5bf121</object_guid>
+  </trustee>
+  <trustee path="/Prévention Tranquillité/Commun">
+    <name>.1-PrevTranq.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d4ee4f01-1b6c-4ea2-e5ba-014feed46c1b</object_guid>
+  </trustee>
+  <trustee path="/batiment/Diagnostics">
+    <name>.1-BatDiagn.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f151a235-b80c-4f64-a18d-35a251f10cb8</object_guid>
+  </trustee>
+  <trustee path="/batiment/Pôle Comptabilité">
+    <name>.1-BatCompt.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d51bcaa9-f365-404b-a88e-a9ca1bd565f3</object_guid>
+  </trustee>
+  <trustee path="/batiment/Energie_Plomberie">
+    <name>.1-EnergiePlom.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>450831ec-cd3d-41af-c39d-ec3108453dcd</object_guid>
+  </trustee>
+  <trustee path="/batiment/Energie_Elec">
+    <name>.1-Energieelec.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>be625b96-9f65-4c63-bda0-965b62be659f</object_guid>
+  </trustee>
+  <trustee path="/batiment/Energie_Chauffage">
+    <name>.1-EnergieChauff.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d0f665e4-0c25-4290-0f93-e465f6d0250c</object_guid>
+  </trustee>
+  <trustee path="/batiment/Nouvelle CC">
+    <name>.1-BatCC.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>174dcbad-bfa9-4d25-dfaa-adcb4d17a9bf</object_guid>
+  </trustee>
+  <trustee path="/batiment/Pôle Comptabilité/FONCTIONNEMENT/REMBOURSEMENT A - FACTURES - frais  A d&amp;amp;apos;autres organismes -  62878 - 62876">
+    <name>.1-Bat.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d80f01fb-1a2e-4ebe-2681-fb010fd82e1a</object_guid>
+  </trustee>
+  <trustee path="/batiment/Pôle Comptabilité/FONCTIONNEMENT/REMBOURSEMENT PAR -  TITRES RECETTE - frais PAR d&amp;amp;apos;autres redevables - 70878 - 70876">
+    <name>.1-Bat.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d80f01fb-1a2e-4ebe-2681-fb010fd82e1a</object_guid>
+  </trustee>
+  <trustee path="/bonlieu/Fete du lac">
+    <name>.1-FDL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>c7a636e8-f401-42ba-0da2-e836a6c701f4</object_guid>
+  </trustee>
+  <trustee path="/Direction Bonlieu">
+    <name>.1-BonlieuRestrein.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b2991b50-39e2-461a-098d-501b99b2e239</object_guid>
+  </trustee>
+  <trustee path="/comerart/PSIMARK2">
+    <name>.1-Placiers.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>46b475ea-7fe6-40f5-df9a-ea75b446e67f</object_guid>
+  </trustee>
+  <trustee path="/comerart/COMMUN/DroitsVoirie">
+    <name>.1-Droitvoirie.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6f008782-1f43-4936-dcb9-8287006f431f</object_guid>
+  </trustee>
+  <trustee path="/culturel/Etudiant">
+    <name>.1-Bij.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e80b17e8-899b-4e4f-17a0-e8170be89b89</object_guid>
+  </trustee>
+  <trustee path="/culturel/CRECHE FA">
+    <name>.1-Creche.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>69af6aca-084c-4843-e998-ca6aaf694c08</object_guid>
+  </trustee>
+  <trustee path="/culturel/Lefebvre-PAPE-RAM">
+    <name>.1-Ram.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f785d215-0619-495d-46ac-15d285f71906</object_guid>
+  </trustee>
+  <trustee path="/dgre/FeteDucLac">
+    <name>.1-Dgre-FDL.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>e7621a96-21b3-499f-ce8b-961a62e7b321</object_guid>
+  </trustee>
+  <trustee path="/enseigne/Periscolaire_Plaine">
+    <name>.1-Plaine.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>86ac22ae-9475-4b37-f4bb-ae22ac867594</object_guid>
+  </trustee>
+  <trustee path="/Archives/VEYRAT">
+    <name>.1-Archives.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>3d1021c9-be4f-4484-51b7-c921103d4fbe</object_guid>
+  </trustee>
+  <trustee path="/parcst/Commun">
+    <name>.1-Parcst.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>d14900f0-d5b1-436d-0cb8-f00049d1b1d5</object_guid>
+  </trustee>
+  <trustee path="/social/modeles/Personnels Direction/Ducloz">
+    <name>.1-Jos-Sba.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8382424f-5ac6-49ca-fb87-4f428283c65a</object_guid>
+  </trustee>
+  <trustee path="/social/Z avant 1 janvier 2015/agents partis/Grandchamp">
+    <name>.1-Jos-Sba.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8382424f-5ac6-49ca-fb87-4f428283c65a</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Pôle Solidarités/Intervalle">
+    <name>.1-Intervalle.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>95fb7aa2-447a-4d41-cba1-a27afb957a44</object_guid>
+  </trustee>
+  <trustee path="/police/Fourrière">
+    <name>.1-Fourriere.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>68aa605e-7d88-4f41-eb9a-5e60aa68887d</object_guid>
+  </trustee>
+  <trustee path="/sports/Parc des Sports">
+    <name>.1-ParcSports.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0a2d6a03-dc73-428c-0dab-036a2d0a73dc</object_guid>
+  </trustee>
+  <trustee path="/voirie/Gestion domaine public">
+    <name>.1-VoireDomPublic.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>b29c124c-c236-42e5-23a5-4c129cb236c2</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Direction/Ducloz/Bouvier/Secours">
+    <name>.1-SocialSecours.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f60a23f3-3b1a-476a-5186-f3230af61a3b</object_guid>
+  </trustee>
+  <trustee path="/INFO/Echanges dématérialisés">
+    <name>.1-InfoDemat.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>9cb0583d-069c-4c0b-0d92-3d58b09c9c06</object_guid>
+  </trustee>
+  <trustee path="/ECHANGES/SITUATIONS MENSUELLES BUDGETAIRE (ne pas supprimer)">
+    <name>.1-Fin.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4ada972a-2aba-449d-159a-2a97da4aba2a</object_guid>
+  </trustee>
+  <trustee path="/batiment/Nouvelle CC/Suivi budgétaire quotidien 2016-2017/dossier suivi Cathy  2016-2017">
+    <name>.1-BatCC-2.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>525358b6-7a32-4fcf-4c98-b6585352327a</object_guid>
+  </trustee>
+  <trustee path="/Agenda 21">
+    <name>.Agenda-21.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>6c1145a0-77ff-01dd-805f-000c290d04a5</object_guid>
+  </trustee>
+  <trustee path="/dst/COMMUN/AD&amp;amp;apos;AP">
+    <name>.1-Urba-ADAP.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f7f36404-8c96-4e1c-58ba-0464f3f7968c</object_guid>
+  </trustee>
+  <trustee path="/Logistique_événements/Fontaine/Fontaine">
+    <name>.Fetes.PST.ANNECY</name>
+    <rights>RWCEMFA</rights>
+    <object_guid>ad913682-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Direction/Ducloz/Bouvier/Secours/Euros">
+    <name>.1-SocialSecours.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f60a23f3-3b1a-476a-5186-f3230af61a3b</object_guid>
+  </trustee>
+  <trustee path="/culturel/Ameline">
+    <name>.LimassetC.NOVEL.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8f547cbe-165e-4517-bc9b-be7c548f5e16</object_guid>
+  </trustee>
+  <trustee path="/STATIO/COMMUN/Secretariat">
+    <name>.1-Statio-secretariat.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4a5d5ddd-0cc8-415f-c0ab-dd5d5d4ac80c</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Exploitation">
+    <name>.1-Statio-exploitation.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>dc066907-6079-4db7-4a85-076906dc7960</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Pc_Parking">
+    <name>.pc_parkings.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>4e89b900-6d89-11df-a4a8-000c29b0233e</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Pc_Parking">
+    <name>.Stationnement.HDV.ANNECY</name>
+    <rights></rights>
+    <object_guid>9e11ed80-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/STATIO/Pc_Parking">
+    <name>.1-Statio-Commun.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>659addf1-9454-4b4b-e8b2-f1dd9a655494</object_guid>
+  </trustee>
+  <trustee path="/Contrôle de gestion/Crevoisier">
+    <name>.CrevoisierS.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f543a1bf-82d8-42f7-aaad-bfa143f5d882</object_guid>
+  </trustee>
+  <trustee path="/Archives/RAYSSAC">
+    <name>.1-ArchivesDir.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>53de3716-0609-467c-719b-1637de530906</object_guid>
+  </trustee>
+  <trustee path="/batiment/Ménage">
+    <name>.1-BatMenage.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>55155127-d46d-4352-43a0-275115556dd4</object_guid>
+  </trustee>
+  <trustee path="/social/modeles">
+    <name>.Social.HDV.ANNECY</name>
+    <rights>RF</rights>
+    <object_guid>905c6805-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Pôle Seniors">
+    <name>.1-Social-Seniors.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>03cd8f3b-6fe8-4b7f-eb93-3b8fcd03e86f</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Direction/Bouvier/Secours">
+    <name>.1-SocialSecours.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>f60a23f3-3b1a-476a-5186-f3230af61a3b</object_guid>
+  </trustee>
+  <trustee path="/social/Z avant 1 janvier 2015/Action sociale territorialisée">
+    <name>.KiefferV.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>8228f600-f533-11d9-8dbb-0002a58753a9</object_guid>
+  </trustee>
+  <trustee path="/social/COMMUN">
+    <name>.Social.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>905c6805-3346-11d5-a881-00902735e523</object_guid>
+  </trustee>
+  <trustee path="/social/Personnels Direction">
+    <name>.Social-Pole-Direction.HDV.ANNECY</name>
+    <rights>RWCEMF</rights>
+    <object_guid>0d168856-39e0-49d1-7e9f-5688160de039</object_guid>
+  </trustee>
+</volume_trustees>

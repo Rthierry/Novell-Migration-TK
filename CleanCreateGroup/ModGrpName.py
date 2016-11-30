@@ -43,7 +43,7 @@ def FindGRP(input_aclfile, input_grpfile):
                     # looking for the key 'uid'
                     if item.get('uid') not in rows_grp_col2:
                         linenum = linenum + 1
-                        print("NB droits utilisateur trouvé : " + str(linenum) + " " +item.get('uid'))
+                        print("NB droits utilisateur trouvé : " + str(linenum) + " " + item.get('uid'))
                         # writing
                         writeracl.writerow(item)
                     else:

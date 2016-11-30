@@ -1,0 +1,1030 @@
+user,uid,path,trustee,appliesto
+.CN=Info.OU=HDV.O=ANNECY.T=MRY.,GG_Info,\,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Agenda-21.OU=HDV.O=ANNECY.T=MRY.,GG_Agenda-21,\Agenda 21,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Arcadium.OU=HDV.O=ANNECY.T=MRY.,GG_Arcadium,\Arcadium,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Arcadiumgestion.OU=HDV.O=ANNECY.T=MRY.,GG_1-Arcadiumgestion,\Arcadium,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Cadre-Vie.OU=HDV.O=ANNECY.T=MRY.,GG_Cadre-Vie,\Cadre de Vie,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\ECHANGES,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-EPI.OU=HDV.O=ANNECY.T=MRY.,GG_1-EPI,\EPI,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Info.OU=HDV.O=ANNECY.T=MRY.,GG_Info,\INFO,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Syndic.OU=HDV.O=ANNECY.T=MRY.,GG_1-Syndic,\Liste Syndics Vieille Ville Autorisations de Travaux,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Logistique.OU=HDV.O=ANNECY.T=MRY.,GG_1-Logistique,\Logistique_événements,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PropreteUrbaine.OU=PST.O=ANNECY.T=MRY.,GG_PropreteUrbaine,\Propreté Urbaine,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PellicierC.OU=HDV.O=ANNECY.T=MRY.,PellicierC,\Sapa,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PreventionTranquillite.OU=HDV.O=ANNECY.T=MRY.,GG_PreventionTranquillite,\Prévention Tranquillité,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Manufacture.OU=HDV.O=ANNECY.T=MRY.,Manufacture,\batiment,,ThisFolderSubFoldersAndFiles
+.CN=Cabinet.OU=HDV.O=ANNECY.T=MRY.,GG_Cabinet,\cabinet,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-DirCommerce.OU=HDV.O=ANNECY.T=MRY.,GG_1-DirCommerce,\comerart,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Creche_HDV.OU=HDV.O=ANNECY.T=MRY.,Creche_HDV,\culturel,,ThisFolderSubFoldersAndFiles
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Dgre.OU=HDV.O=ANNECY.T=MRY.,GG_Dgre,\dgre,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ControleGestion.OU=HDV.O=ANNECY.T=MRY.,GG_ControleGestion,\finances,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FeteduLac.OU=HDV.O=ANNECY.T=MRY.,FeteduLac,\parcst,,ThisFolderSubFoldersAndFiles
+.CN=Secregal.OU=HDV.O=ANNECY.T=MRY.,GG_Secregal,\secregal,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=NivetM.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,NivetM,\social,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Sports.OU=HDV.O=ANNECY.T=MRY.,GG_Sports,\sports,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Voirie.OU=HDV.O=ANNECY.T=MRY.,GG_Voirie,\voirie,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-voiriexclu.OU=HDV.O=ANNECY.T=MRY.,GG_1-voiriexclu,\voirie,,ThisFolderSubFoldersAndFiles
+.CN=LethiaisJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,LethiaisJ,\Agenda 21\Plan Climat,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LethiaisJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,LethiaisJ,\Agenda 21,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ControleGestion.OU=HDV.O=ANNECY.T=MRY.,GG_ControleGestion,\Arcadium\COMMUN\GESTION,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ControleGestion.OU=HDV.O=ANNECY.T=MRY.,GG_ControleGestion,\Arcadium\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ControleGestion.OU=HDV.O=ANNECY.T=MRY.,GG_ControleGestion,\Arcadium,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MaitriasE.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,MaitriasE,\Arcadium\COMMUN\GESTION,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MaitriasE.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,MaitriasE,\Arcadium\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MaitriasE.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,MaitriasE,\Arcadium,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BezziS.OU=HDV.O=ANNECY.T=MRY.,BezziS,\Cadre de Vie\Bezzi,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BezziS.OU=HDV.O=ANNECY.T=MRY.,BezziS,\Cadre de Vie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BelS.OU=HDV.O=ANNECY.T=MRY.,BelS,\Cadre de Vie\Bel,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BelS.OU=HDV.O=ANNECY.T=MRY.,BelS,\Cadre de Vie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Cadre-Vie.OU=HDV.O=ANNECY.T=MRY.,GG_Cadre-Vie,\Cadre de Vie\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Cadre-Vie.OU=HDV.O=ANNECY.T=MRY.,GG_Cadre-Vie,\Cadre de Vie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=GroupeSalubrite.OU=HDV.O=ANNECY.T=MRY.,GG_GroupeSalubrite,\Cadre de Vie\Congés,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=GroupeSalubrite.OU=HDV.O=ANNECY.T=MRY.,GG_GroupeSalubrite,\Cadre de Vie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DVQSP.OU=HDV.O=ANNECY.T=MRY.,GG_DVQSP,\DVQSP\Lathoud,,ThisFolderSubFoldersAndFiles
+.CN=DVQSP.OU=HDV.O=ANNECY.T=MRY.,GG_DVQSP,\DVQSP,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MussonP.OU=HDV.O=ANNECY.T=MRY.,MussonP,\INFO\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MussonP.OU=HDV.O=ANNECY.T=MRY.,MussonP,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Reprographie.OU=HDV.O=ANNECY.T=MRY.,GG_Reprographie,\INFO\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Reprographie.OU=HDV.O=ANNECY.T=MRY.,GG_Reprographie,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Reprographie.OU=HDV.O=ANNECY.T=MRY.,GG_Reprographie,\INFO\Documentation_Support,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Reprographie.OU=HDV.O=ANNECY.T=MRY.,GG_Reprographie,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\INFO\ISABELLE,,ThisFolderSubFoldersAndFiles
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MondiniC.OU=HDV.O=ANNECY.T=MRY.,MondiniC,\INFO\Repro,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MondiniC.OU=HDV.O=ANNECY.T=MRY.,MondiniC,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Reprographie.OU=HDV.O=ANNECY.T=MRY.,GG_Reprographie,\INFO\Imprimerie,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Reprographie.OU=HDV.O=ANNECY.T=MRY.,GG_Reprographie,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=WinieskiF.OU=HDV.O=ANNECY.T=MRY.,WinieskiF,\INFO\Fabrice\Perso,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=WinieskiF.OU=HDV.O=ANNECY.T=MRY.,WinieskiF,\INFO\Fabrice,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=WinieskiF.OU=HDV.O=ANNECY.T=MRY.,WinieskiF,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\INFO\Fabrice\Perso,,ThisFolderSubFoldersAndFiles
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\INFO\Fabrice,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Info.OU=HDV.O=ANNECY.T=MRY.,GG_Info,\INFO\Fabrice\Perso,,ThisFolderSubFoldersAndFiles
+.CN=Info.OU=HDV.O=ANNECY.T=MRY.,GG_Info,\INFO\Fabrice,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Info.OU=HDV.O=ANNECY.T=MRY.,GG_Info,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Info.OU=HDV.O=ANNECY.T=MRY.,GG_Info,\INFO\ISABELLE\Perso,,ThisFolderSubFoldersAndFiles
+.CN=Info.OU=HDV.O=ANNECY.T=MRY.,GG_Info,\INFO\ISABELLE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Info.OU=HDV.O=ANNECY.T=MRY.,GG_Info,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LepetitI.OU=HDV.O=ANNECY.T=MRY.,LepetitI,\INFO\ISABELLE\Perso,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LepetitI.OU=HDV.O=ANNECY.T=MRY.,LepetitI,\INFO\ISABELLE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LepetitI.OU=HDV.O=ANNECY.T=MRY.,LepetitI,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\INFO\ISABELLE\Perso,,ThisFolderSubFoldersAndFiles
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\INFO\ISABELLE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CadouxL.OU=HDV.O=ANNECY.T=MRY.,CadouxL,\INFO\Repro\Cadoux,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CadouxL.OU=HDV.O=ANNECY.T=MRY.,CadouxL,\INFO\Repro,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CadouxL.OU=HDV.O=ANNECY.T=MRY.,CadouxL,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DirectionFetes.OU=PST.O=ANNECY.T=MRY.,GG_DirectionFetes,\Logistique_événements\Ateliers_Electricité_Fetes,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DirectionFetes.OU=PST.O=ANNECY.T=MRY.,GG_DirectionFetes,\Logistique_événements,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Fetes.OU=PST.O=ANNECY.T=MRY.,GG_Fetes,\Logistique_événements\Berthet,,ThisFolderSubFoldersAndFiles
+.CN=Fetes.OU=PST.O=ANNECY.T=MRY.,GG_Fetes,\Logistique_événements,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-LogistiqueDir.OU=HDV.O=ANNECY.T=MRY.,GG_1-LogistiqueDir,\Logistique_événements\Berthet,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-LogistiqueDir.OU=HDV.O=ANNECY.T=MRY.,GG_1-LogistiqueDir,\Logistique_événements,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Fetes.OU=PST.O=ANNECY.T=MRY.,GG_Fetes,\Logistique_événements\Fontaine\Fontaine,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory,ReadPermissions,ChangePermissions",ThisFolderSubFoldersAndFiles
+.CN=Fetes.OU=PST.O=ANNECY.T=MRY.,GG_Fetes,\Logistique_événements\Fontaine,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Fetes.OU=PST.O=ANNECY.T=MRY.,GG_Fetes,\Logistique_événements,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Fetes.OU=PST.O=ANNECY.T=MRY.,GG_Fetes,\Logistique_événements\Fontaine,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Fetes.OU=PST.O=ANNECY.T=MRY.,GG_Fetes,\Logistique_événements,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DirectionFetes.OU=PST.O=ANNECY.T=MRY.,GG_DirectionFetes,\Logistique_événements\Guizzon,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DirectionFetes.OU=PST.O=ANNECY.T=MRY.,GG_DirectionFetes,\Logistique_événements,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Atelier_Sle.OU=PST.O=ANNECY.T=MRY.,Atelier_Sle,\Logistique_événements\Atelier_Logev,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Atelier_Sle.OU=PST.O=ANNECY.T=MRY.,Atelier_Sle,\Logistique_événements,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DepresV.OU=PST.O=ANNECY.T=MRY.,DepresV,\Logistique_événements\Depres,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DepresV.OU=PST.O=ANNECY.T=MRY.,DepresV,\Logistique_événements,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DuverneyA.OU=HDV.O=ANNECY.T=MRY.,DuverneyA,\Logistique_événements\Duverney,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DuverneyA.OU=HDV.O=ANNECY.T=MRY.,DuverneyA,\Logistique_événements,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Fetes.OU=PST.O=ANNECY.T=MRY.,GG_Fetes,\Logistique_événements\Commun,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Fetes.OU=PST.O=ANNECY.T=MRY.,GG_Fetes,\Logistique_événements,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PithoisK.OU=PST.O=ANNECY.T=MRY.,PithoisK,\MEDECINE\Pithois,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PithoisK.OU=PST.O=ANNECY.T=MRY.,PithoisK,\MEDECINE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Medecine.OU=PST.O=ANNECY.T=MRY.,GG_Medecine,\MEDECINE\Spirowin,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Medecine.OU=PST.O=ANNECY.T=MRY.,GG_Medecine,\MEDECINE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\OpenOffice\Galerie,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\OpenOffice,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\OpenOffice\Modeles,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\OpenOffice,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FischbachG.OU=PST.O=ANNECY.T=MRY.,FischbachG,\Propreté Urbaine\NETTOIEMENT,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FischbachG.OU=PST.O=ANNECY.T=MRY.,FischbachG,\Propreté Urbaine,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PropreteUrbaine.OU=PST.O=ANNECY.T=MRY.,GG_PropreteUrbaine,\Propreté Urbaine\Commun,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PropreteUrbaine.OU=PST.O=ANNECY.T=MRY.,GG_PropreteUrbaine,\Propreté Urbaine,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=VittozM.OU=PST.O=ANNECY.T=MRY.,VittozM,\Propreté Urbaine\Vittoz,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=VittozM.OU=PST.O=ANNECY.T=MRY.,VittozM,\Propreté Urbaine,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=TellierM.OU=PST.O=ANNECY.T=MRY.,TellierM,\Propreté Urbaine\TELLIER,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=TellierM.OU=PST.O=ANNECY.T=MRY.,TellierM,\Propreté Urbaine,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FranconC.OU=PST.O=ANNECY.T=MRY.,FranconC,\Propreté Urbaine\Françon,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FranconC.OU=PST.O=ANNECY.T=MRY.,FranconC,\Propreté Urbaine,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=AchouriN.OU=PST.O=ANNECY.T=MRY.,AchouriN,\Propreté Urbaine\Achouri,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=AchouriN.OU=PST.O=ANNECY.T=MRY.,AchouriN,\Propreté Urbaine,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO\BALDACCHINO,,ThisFolderSubFoldersAndFiles
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BarriquandH.OU=HDV.O=ANNECY.T=MRY.,BarriquandH,\STATIO\BARRIQUAND,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BarriquandH.OU=HDV.O=ANNECY.T=MRY.,BarriquandH,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Statio-Commun.OU=HDV.O=ANNECY.T=MRY.,GG_1-Statio-Commun,\STATIO\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Statio-Commun.OU=HDV.O=ANNECY.T=MRY.,GG_1-Statio-Commun,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO\COMMUN,,ThisFolderSubFoldersAndFiles
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DupontM.OU=HDV.O=ANNECY.T=MRY.,DupontM,\STATIO\Dupont,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DupontM.OU=HDV.O=ANNECY.T=MRY.,DupontM,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FolJF.OU=HDV.O=ANNECY.T=MRY.,FolJF,\STATIO\Fol,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FolJF.OU=HDV.O=ANNECY.T=MRY.,FolJF,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-ParkingRegie.OU=HDV.O=ANNECY.T=MRY.,GG_1-ParkingRegie,\STATIO\Régies,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-ParkingRegie.OU=HDV.O=ANNECY.T=MRY.,GG_1-ParkingRegie,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LevantJ.OU=HDV.O=ANNECY.T=MRY.,LevantJ,\STATIO\Levant,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LevantJ.OU=HDV.O=ANNECY.T=MRY.,LevantJ,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=pc_parkings.OU=HDV.O=ANNECY.T=MRY.,pc_parkings,\STATIO\Pc_Parking,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=pc_parkings.OU=HDV.O=ANNECY.T=MRY.,pc_parkings,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO\Pc_Parking,,ThisFolderSubFoldersAndFiles
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Statio-Commun.OU=HDV.O=ANNECY.T=MRY.,GG_1-Statio-Commun,\STATIO\Pc_Parking,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Statio-Commun.OU=HDV.O=ANNECY.T=MRY.,GG_1-Statio-Commun,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=RotaX.OU=HDV.O=ANNECY.T=MRY.,RotaX,\STATIO\Rota,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=RotaX.OU=HDV.O=ANNECY.T=MRY.,RotaX,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-ParkingTech.OU=HDV.O=ANNECY.T=MRY.,GG_1-ParkingTech,\STATIO\Tech_partage,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-ParkingTech.OU=HDV.O=ANNECY.T=MRY.,GG_1-ParkingTech,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ScaramucciP.OU=HDV.O=ANNECY.T=MRY.,ScaramucciP,\STATIO\Scaramucci,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ScaramucciP.OU=HDV.O=ANNECY.T=MRY.,ScaramucciP,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=GandonE.OU=HDV.O=ANNECY.T=MRY.,GandonE,\STATIO\Gandon,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=GandonE.OU=HDV.O=ANNECY.T=MRY.,GandonE,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Statio-secretariat.OU=HDV.O=ANNECY.T=MRY.,GG_1-Statio-secretariat,\STATIO\COMMUN\Secretariat,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Statio-secretariat.OU=HDV.O=ANNECY.T=MRY.,GG_1-Statio-secretariat,\STATIO\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Statio-secretariat.OU=HDV.O=ANNECY.T=MRY.,GG_1-Statio-secretariat,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Statio-exploitation.OU=HDV.O=ANNECY.T=MRY.,GG_1-Statio-exploitation,\STATIO\Exploitation,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Statio-exploitation.OU=HDV.O=ANNECY.T=MRY.,GG_1-Statio-exploitation,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO\BARRIQUAND\Dossiers parkings,,ThisFolderSubFoldersAndFiles
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO\BARRIQUAND,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-PrevTranq.OU=HDV.O=ANNECY.T=MRY.,GG_1-PrevTranq,\Prévention Tranquillité\Commun,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-PrevTranq.OU=HDV.O=ANNECY.T=MRY.,GG_1-PrevTranq,\Prévention Tranquillité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=GacC.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,GacC,\Prévention Tranquillité\Gac,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=GacC.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,GacC,\Prévention Tranquillité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PreventionTranquillite.OU=HDV.O=ANNECY.T=MRY.,GG_PreventionTranquillite,\Prévention Tranquillité\Gac,,ThisFolderSubFoldersAndFiles
+.CN=PreventionTranquillite.OU=HDV.O=ANNECY.T=MRY.,GG_PreventionTranquillite,\Prévention Tranquillité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-PrevTranq2.OU=HDV.O=ANNECY.T=MRY.,GG_1-PrevTranq2,\Prévention Tranquillité\Marco,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-PrevTranq2.OU=HDV.O=ANNECY.T=MRY.,GG_1-PrevTranq2,\Prévention Tranquillité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Brigade_environnement.OU=HDV.O=ANNECY.T=MRY.,Brigade_environnement,\Prévention Tranquillité\Brigade Environnement,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Brigade_environnement.OU=HDV.O=ANNECY.T=MRY.,Brigade_environnement,\Prévention Tranquillité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=JanssensD.OU=HDV.O=ANNECY.T=MRY.,JanssensD,\Prévention Tranquillité\Janssens,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=JanssensD.OU=HDV.O=ANNECY.T=MRY.,JanssensD,\Prévention Tranquillité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DonzierH.OU=HDV.O=ANNECY.T=MRY.,DonzierH,\Prévention Tranquillité\Marco\à supprimer\SECURITE PREVENTION ROUTIERE,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DonzierH.OU=HDV.O=ANNECY.T=MRY.,DonzierH,\Prévention Tranquillité\Marco\à supprimer,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DonzierH.OU=HDV.O=ANNECY.T=MRY.,DonzierH,\Prévention Tranquillité\Marco,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DonzierH.OU=HDV.O=ANNECY.T=MRY.,DonzierH,\Prévention Tranquillité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-BatDiagn.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatDiagn,\batiment\Diagnostics,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-BatDiagn.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatDiagn,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Manufacture.OU=HDV.O=ANNECY.T=MRY.,Manufacture,\batiment\Manufacture,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Manufacture.OU=HDV.O=ANNECY.T=MRY.,Manufacture,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-BatMenage.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatMenage,\batiment\Ménage,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-BatMenage.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatMenage,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DaudinC.OU=HDV.O=ANNECY.T=MRY.,DaudinC,\batiment\Daudin,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DaudinC.OU=HDV.O=ANNECY.T=MRY.,DaudinC,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=RevilL.OU=HDV.O=ANNECY.T=MRY.,RevilL,\batiment\Revil,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=RevilL.OU=HDV.O=ANNECY.T=MRY.,RevilL,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-BatCompt.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatCompt,\batiment\Pôle Comptabilité,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-BatCompt.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatCompt,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PoleEnergie.OU=HDV.O=ANNECY.T=MRY.,GG_PoleEnergie,\batiment\Pôle énergie,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PoleEnergie.OU=HDV.O=ANNECY.T=MRY.,GG_PoleEnergie,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CousinS.OU=HDV.O=ANNECY.T=MRY.,CousinS,\batiment\Cousin,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CousinS.OU=HDV.O=ANNECY.T=MRY.,CousinS,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SenetY.OU=PST.O=ANNECY.T=MRY.,SenetY,\batiment\Senet,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SenetY.OU=PST.O=ANNECY.T=MRY.,SenetY,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FatmiT.OU=PST.O=ANNECY.T=MRY.,FatmiT,\batiment\Fatmi,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FatmiT.OU=PST.O=ANNECY.T=MRY.,FatmiT,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-EnergiePlom.OU=HDV.O=ANNECY.T=MRY.,GG_1-EnergiePlom,\batiment\Energie_Plomberie,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-EnergiePlom.OU=HDV.O=ANNECY.T=MRY.,GG_1-EnergiePlom,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Energieelec.OU=HDV.O=ANNECY.T=MRY.,GG_1-Energieelec,\batiment\Energie_Elec,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Energieelec.OU=HDV.O=ANNECY.T=MRY.,GG_1-Energieelec,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-EnergieChauff.OU=HDV.O=ANNECY.T=MRY.,GG_1-EnergieChauff,\batiment\Energie_Chauffage,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-EnergieChauff.OU=HDV.O=ANNECY.T=MRY.,GG_1-EnergieChauff,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-BatClefs.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatClefs,\batiment\Clés,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-BatClefs.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatClefs,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BelhadjA.OU=HDV.O=ANNECY.T=MRY.,BelhadjA,\batiment\Belhadj,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BelhadjA.OU=HDV.O=ANNECY.T=MRY.,BelhadjA,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CaundayS.OU=HDV.O=ANNECY.T=MRY.,CaundayS,\batiment\Caunday,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CaundayS.OU=HDV.O=ANNECY.T=MRY.,CaundayS,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BriffodN.OU=HDV.O=ANNECY.T=MRY.,BriffodN,\batiment\Briffod,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BriffodN.OU=HDV.O=ANNECY.T=MRY.,BriffodN,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SironiD.OU=HDV.O=ANNECY.T=MRY.,SironiD,\batiment\Sironi,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SironiD.OU=HDV.O=ANNECY.T=MRY.,SironiD,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-BatCC.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatCC,\batiment\Nouvelle CC,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-BatCC.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatCC,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MilletN.OU=HDV.O=ANNECY.T=MRY.,MilletN,\batiment\Millet,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MilletN.OU=HDV.O=ANNECY.T=MRY.,MilletN,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Batiment.OU=HDV.O=ANNECY.T=MRY.,GG_Batiment,\batiment\Revil\A secure,,ThisFolderSubFoldersAndFiles
+.CN=Batiment.OU=HDV.O=ANNECY.T=MRY.,GG_Batiment,\batiment\Revil,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Batiment.OU=HDV.O=ANNECY.T=MRY.,GG_Batiment,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=RevilL.OU=HDV.O=ANNECY.T=MRY.,RevilL,\batiment\Revil\A secure,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=RevilL.OU=HDV.O=ANNECY.T=MRY.,RevilL,\batiment\Revil,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=RevilL.OU=HDV.O=ANNECY.T=MRY.,RevilL,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BuzioF.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BuzioF,\batiment\Pôle Comptabilité\FONCTIONNEMENT\REMBOURSEMENT PAR -  TITRES RECETTE - frais PAR d'autres redevables - 70878 - 70876,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BuzioF.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BuzioF,\batiment\Pôle Comptabilité\FONCTIONNEMENT,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BuzioF.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BuzioF,\batiment\Pôle Comptabilité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BuzioF.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BuzioF,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PetrierJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,PetrierJ,\batiment\Pôle Comptabilité\FONCTIONNEMENT\REMBOURSEMENT PAR -  TITRES RECETTE - frais PAR d'autres redevables - 70878 - 70876,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PetrierJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,PetrierJ,\batiment\Pôle Comptabilité\FONCTIONNEMENT,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PetrierJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,PetrierJ,\batiment\Pôle Comptabilité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PetrierJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,PetrierJ,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Bat.OU=HDV.O=ANNECY.T=MRY.,GG_1-Bat,\batiment\Pôle Comptabilité\FONCTIONNEMENT\REMBOURSEMENT PAR -  TITRES RECETTE - frais PAR d'autres redevables - 70878 - 70876,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Bat.OU=HDV.O=ANNECY.T=MRY.,GG_1-Bat,\batiment\Pôle Comptabilité\FONCTIONNEMENT,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Bat.OU=HDV.O=ANNECY.T=MRY.,GG_1-Bat,\batiment\Pôle Comptabilité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Bat.OU=HDV.O=ANNECY.T=MRY.,GG_1-Bat,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Bat.OU=HDV.O=ANNECY.T=MRY.,GG_1-Bat,\batiment\Pôle Comptabilité\FONCTIONNEMENT\REMBOURSEMENT A - FACTURES - frais  A d'autres organismes -  62878 - 62876,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Bat.OU=HDV.O=ANNECY.T=MRY.,GG_1-Bat,\batiment\Pôle Comptabilité\FONCTIONNEMENT,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Bat.OU=HDV.O=ANNECY.T=MRY.,GG_1-Bat,\batiment\Pôle Comptabilité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Bat.OU=HDV.O=ANNECY.T=MRY.,GG_1-Bat,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Batiment.OU=HDV.O=ANNECY.T=MRY.,GG_Batiment,\batiment\Senet\A Secure,,ThisFolderSubFoldersAndFiles
+.CN=Batiment.OU=HDV.O=ANNECY.T=MRY.,GG_Batiment,\batiment\Senet,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Batiment.OU=HDV.O=ANNECY.T=MRY.,GG_Batiment,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SenetY.OU=PST.O=ANNECY.T=MRY.,SenetY,\batiment\Senet\A Secure,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SenetY.OU=PST.O=ANNECY.T=MRY.,SenetY,\batiment\Senet,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SenetY.OU=PST.O=ANNECY.T=MRY.,SenetY,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CollettiF.OU=BONLIEU.O=ANNECY.T=MRY.,CollettiF,\bonlieu\Colletti,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CollettiF.OU=BONLIEU.O=ANNECY.T=MRY.,CollettiF,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CollettiF.OU=BONLIEU.O=ANNECY.T=MRY.,CollettiF,\bonlieu\Colletti\Dufour,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CollettiF.OU=BONLIEU.O=ANNECY.T=MRY.,CollettiF,\bonlieu\Colletti,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CollettiF.OU=BONLIEU.O=ANNECY.T=MRY.,CollettiF,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FridA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,FridA,\bonlieu\Frid,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FridA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,FridA,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BouissonnieJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BouissonnieJ,\bonlieu\Frid,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BouissonnieJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BouissonnieJ,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LameracV.OU=BONLIEU.O=ANNECY.T=MRY.,LameracV,\bonlieu\Lamerac,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LameracV.OU=BONLIEU.O=ANNECY.T=MRY.,LameracV,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Chavasse-fretazK.OU=BONLIEU.O=ANNECY.T=MRY.,Chavasse-fretazK,\bonlieu\Secretariat,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Chavasse-fretazK.OU=BONLIEU.O=ANNECY.T=MRY.,Chavasse-fretazK,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-BonlieuSec.OU=HDV.O=ANNECY.T=MRY.,GG_1-BonlieuSec,\bonlieu\Secretariat,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-BonlieuSec.OU=HDV.O=ANNECY.T=MRY.,GG_1-BonlieuSec,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-FDL.OU=HDV.O=ANNECY.T=MRY.,GG_1-FDL,\bonlieu\Fete du lac,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-FDL.OU=HDV.O=ANNECY.T=MRY.,GG_1-FDL,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Bonlieu_stagiaire.OU=BONLIEU.O=ANNECY.T=MRY.,Bonlieu_stagiaire,\bonlieu\Stagiaire,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Bonlieu_stagiaire.OU=BONLIEU.O=ANNECY.T=MRY.,Bonlieu_stagiaire,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Bonlieu.OU=BONLIEU.O=ANNECY.T=MRY.,GG_Bonlieu,\bonlieu\Administration,,ThisFolderSubFoldersAndFiles
+.CN=Bonlieu.OU=BONLIEU.O=ANNECY.T=MRY.,GG_Bonlieu,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-BonlieuAdmin.OU=HDV.O=ANNECY.T=MRY.,GG_1-BonlieuAdmin,\bonlieu\Administration,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-BonlieuAdmin.OU=HDV.O=ANNECY.T=MRY.,GG_1-BonlieuAdmin,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-BonlieuRestrein.OU=HDV.O=ANNECY.T=MRY.,GG_1-BonlieuRestrein,\Direction Bonlieu,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Favre-bonvinS.OU=BONLIEU.O=ANNECY.T=MRY.,Favre-bonvinS,\bonlieu\Favre-Bonvin,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Favre-bonvinS.OU=BONLIEU.O=ANNECY.T=MRY.,Favre-bonvinS,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SaulnierC.OU=HDV.O=ANNECY.T=MRY.,SaulnierC,\bonlieu\Saulnier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SaulnierC.OU=HDV.O=ANNECY.T=MRY.,SaulnierC,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CheffiE.OU=HDV.O=ANNECY.T=MRY.,CheffiE,\cabinet\Cheffi,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CheffiE.OU=HDV.O=ANNECY.T=MRY.,CheffiE,\cabinet,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LebeauJ.OU=HDV.O=ANNECY.T=MRY.,LebeauJ,\cabinet\LEBEAU,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LebeauJ.OU=HDV.O=ANNECY.T=MRY.,LebeauJ,\cabinet,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LebeauJ.OU=HDV.O=ANNECY.T=MRY.,LebeauJ,\cabinet\Jarnier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LebeauJ.OU=HDV.O=ANNECY.T=MRY.,LebeauJ,\cabinet,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Cabinet-Repertoire.OU=HDV.O=ANNECY.T=MRY.,GG_Cabinet-Repertoire,\cabinet\Répertoire,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Cabinet-Repertoire.OU=HDV.O=ANNECY.T=MRY.,GG_Cabinet-Repertoire,\cabinet,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=YamaniA.OU=HDV.O=ANNECY.T=MRY.,YamaniA,\cabinet\Yamani,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=YamaniA.OU=HDV.O=ANNECY.T=MRY.,YamaniA,\cabinet,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FournierM.OU=HDV.O=ANNECY.T=MRY.,FournierM,\cabinet\Fournier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FournierM.OU=HDV.O=ANNECY.T=MRY.,FournierM,\cabinet,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=HerlemontS.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,HerlemontS,\cabinet\Arnoux-Herlemont,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=HerlemontS.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,HerlemontS,\cabinet,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Cabinet.OU=HDV.O=ANNECY.T=MRY.,GG_Cabinet,\cabinet\COMMUN\Salles,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Cabinet.OU=HDV.O=ANNECY.T=MRY.,GG_Cabinet,\cabinet\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Cabinet.OU=HDV.O=ANNECY.T=MRY.,GG_Cabinet,\cabinet,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-CabinetSalles.OU=HDV.O=ANNECY.T=MRY.,GG_1-CabinetSalles,\cabinet\COMMUN\Salles,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-CabinetSalles.OU=HDV.O=ANNECY.T=MRY.,GG_1-CabinetSalles,\cabinet\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-CabinetSalles.OU=HDV.O=ANNECY.T=MRY.,GG_1-CabinetSalles,\cabinet,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Comerart.OU=HDV.O=ANNECY.T=MRY.,GG_Comerart,\comerart\ACARE,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Comerart.OU=HDV.O=ANNECY.T=MRY.,GG_Comerart,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=AliliW.OU=HDV.O=ANNECY.T=MRY.,AliliW,\comerart\Alili,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=AliliW.OU=HDV.O=ANNECY.T=MRY.,AliliW,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BouissonnieJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BouissonnieJ,\comerart\Bouissonnie,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BouissonnieJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BouissonnieJ,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=AuclairS.OU=HDV.O=ANNECY.T=MRY.,AuclairS,\comerart\ACARE\CAMPING\Camping,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=AuclairS.OU=HDV.O=ANNECY.T=MRY.,AuclairS,\comerart\ACARE\CAMPING,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=AuclairS.OU=HDV.O=ANNECY.T=MRY.,AuclairS,\comerart\ACARE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=AuclairS.OU=HDV.O=ANNECY.T=MRY.,AuclairS,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DonzierH.OU=HDV.O=ANNECY.T=MRY.,DonzierH,\comerart\Donzier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DonzierH.OU=HDV.O=ANNECY.T=MRY.,DonzierH,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=AliliW.OU=HDV.O=ANNECY.T=MRY.,AliliW,\comerart\Grimaud,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=AliliW.OU=HDV.O=ANNECY.T=MRY.,AliliW,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=AliliW.OU=HDV.O=ANNECY.T=MRY.,AliliW,\comerart\Guilarmois,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=AliliW.OU=HDV.O=ANNECY.T=MRY.,AliliW,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Placiers.OU=HDV.O=ANNECY.T=MRY.,GG_1-Placiers,\comerart\PSIMARK2,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Placiers.OU=HDV.O=ANNECY.T=MRY.,GG_1-Placiers,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\comerart\ACARE\VIE ECONOMIQUE\Etienne,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\comerart\ACARE\VIE ECONOMIQUE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\comerart\ACARE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Droitvoirie.OU=HDV.O=ANNECY.T=MRY.,GG_1-Droitvoirie,\comerart\COMMUN\DroitsVoirie,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Droitvoirie.OU=HDV.O=ANNECY.T=MRY.,GG_1-Droitvoirie,\comerart\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Droitvoirie.OU=HDV.O=ANNECY.T=MRY.,GG_1-Droitvoirie,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DelandeA.OU=NOVEL.O=ANNECY.T=MRY.,DelandeA,\culturel\Delande,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DelandeA.OU=NOVEL.O=ANNECY.T=MRY.,DelandeA,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DenhezA1.OU=HDV.O=ANNECY.T=MRY.,DenhezA1,\culturel\Denhez,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DenhezA1.OU=HDV.O=ANNECY.T=MRY.,DenhezA1,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ChenuB.OU=HDV.O=ANNECY.T=MRY.,ChenuB,\culturel\Chenu,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ChenuB.OU=HDV.O=ANNECY.T=MRY.,ChenuB,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel\Creche_HDV,,ThisFolderSubFoldersAndFiles
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-CrecheHDV.OU=HDV.O=ANNECY.T=MRY.,GG_1-CrecheHDV,\culturel\Creche_HDV,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-CrecheHDV.OU=HDV.O=ANNECY.T=MRY.,GG_1-CrecheHDV,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Bij.OU=HDV.O=ANNECY.T=MRY.,GG_1-Bij,\culturel\Etudiant,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Bij.OU=HDV.O=ANNECY.T=MRY.,GG_1-Bij,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Martins_da_cunhaA.OU=HDV.O=ANNECY.T=MRY.,Martins_da_cunhaA,\culturel\Martins,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Martins_da_cunhaA.OU=HDV.O=ANNECY.T=MRY.,Martins_da_cunhaA,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Creche.OU=HDV.O=ANNECY.T=MRY.,GG_1-Creche,\culturel\CRECHE FA,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Creche.OU=HDV.O=ANNECY.T=MRY.,GG_1-Creche,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MangioneS.OU=HDV.O=ANNECY.T=MRY.,MangioneS,\culturel\Mangione,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MangioneS.OU=HDV.O=ANNECY.T=MRY.,MangioneS,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel\Onde-Manel,,ThisFolderSubFoldersAndFiles
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=VernetS.OU=BONLIEU.O=ANNECY.T=MRY.,VernetS,\culturel\Vernet,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=VernetS.OU=BONLIEU.O=ANNECY.T=MRY.,VernetS,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CaullireauC.OU=HDV.O=ANNECY.T=MRY.,CaullireauC,\culturel\Caullireau,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CaullireauC.OU=HDV.O=ANNECY.T=MRY.,CaullireauC,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LimassetC.OU=NOVEL.O=ANNECY.T=MRY.,LimassetC,\culturel\Ameline,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LimassetC.OU=NOVEL.O=ANNECY.T=MRY.,LimassetC,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MeoM.OU=HDV.O=ANNECY.T=MRY.,MeoM,\culturel\Meo,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MeoM.OU=HDV.O=ANNECY.T=MRY.,MeoM,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ContatS.OU=SITES_ADSL.O=ANNECY.T=MRY.,ContatS,\culturel\Contat,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ContatS.OU=SITES_ADSL.O=ANNECY.T=MRY.,ContatS,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Ram.OU=HDV.O=ANNECY.T=MRY.,GG_1-Ram,\culturel\Lefebvre-PAPE-RAM,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Ram.OU=HDV.O=ANNECY.T=MRY.,GG_1-Ram,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BlampeyC.OU=BONLIEU.O=ANNECY.T=MRY.,BlampeyC,\culturel\Blampey,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BlampeyC.OU=BONLIEU.O=ANNECY.T=MRY.,BlampeyC,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FournilD.OU=HDV.O=ANNECY.T=MRY.,FournilD,\culturel\Fournil,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FournilD.OU=HDV.O=ANNECY.T=MRY.,FournilD,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BlairvacqM.OU=HDV.O=ANNECY.T=MRY.,BlairvacqM,\culturel\Blairvacq,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BlairvacqM.OU=HDV.O=ANNECY.T=MRY.,BlairvacqM,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DelayeR.OU=HDV.O=ANNECY.T=MRY.,DelayeR,\culturel\Delaye,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DelayeR.OU=HDV.O=ANNECY.T=MRY.,DelayeR,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MaquenhenJ.OU=BONLIEU.O=ANNECY.T=MRY.,MaquenhenJ,\culturel\Maquenhen,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MaquenhenJ.OU=BONLIEU.O=ANNECY.T=MRY.,MaquenhenJ,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Creche_HDV.OU=HDV.O=ANNECY.T=MRY.,Creche_HDV,\culturel\Creche_HDV\Educatrices,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Creche_HDV.OU=HDV.O=ANNECY.T=MRY.,Creche_HDV,\culturel\Creche_HDV,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Creche_HDV.OU=HDV.O=ANNECY.T=MRY.,Creche_HDV,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LecomteS.OU=HDV.O=ANNECY.T=MRY.,LecomteS,\culturel\Creche_HDV\Educatrices,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LecomteS.OU=HDV.O=ANNECY.T=MRY.,LecomteS,\culturel\Creche_HDV,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LecomteS.OU=HDV.O=ANNECY.T=MRY.,LecomteS,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Onde-ManelD.OU=HDV.O=ANNECY.T=MRY.,Onde-ManelD,\culturel\Creche_HDV\Educatrices,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Onde-ManelD.OU=HDV.O=ANNECY.T=MRY.,Onde-ManelD,\culturel\Creche_HDV,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Onde-ManelD.OU=HDV.O=ANNECY.T=MRY.,Onde-ManelD,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Dgre.OU=HDV.O=ANNECY.T=MRY.,GG_Dgre,\dgre\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Dgre.OU=HDV.O=ANNECY.T=MRY.,GG_Dgre,\dgre,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Dgre-FDL.OU=HDV.O=ANNECY.T=MRY.,GG_1-Dgre-FDL,\dgre\FeteDucLac,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Dgre-FDL.OU=HDV.O=ANNECY.T=MRY.,GG_1-Dgre-FDL,\dgre,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=TerrierL.OU=HDV.O=ANNECY.T=MRY.,TerrierL,\dgre\COMMUN\Terrier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=TerrierL.OU=HDV.O=ANNECY.T=MRY.,TerrierL,\dgre\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=TerrierL.OU=HDV.O=ANNECY.T=MRY.,TerrierL,\dgre,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=KillD.OU=HDV.O=ANNECY.T=MRY.,KillD,\dgre\COMMUN\Terrier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=KillD.OU=HDV.O=ANNECY.T=MRY.,KillD,\dgre\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=KillD.OU=HDV.O=ANNECY.T=MRY.,KillD,\dgre,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=TerrierL.OU=HDV.O=ANNECY.T=MRY.,TerrierL,\dgre\Terrier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=TerrierL.OU=HDV.O=ANNECY.T=MRY.,TerrierL,\dgre,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-DGRE-HDV.OU=HDV.O=ANNECY.T=MRY.,GG_1-DGRE-HDV,\dgre\Terrier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-DGRE-HDV.OU=HDV.O=ANNECY.T=MRY.,GG_1-DGRE-HDV,\dgre,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=AlonsoE.OU=HDV.O=ANNECY.T=MRY.,AlonsoE,\dgre\GestionSalles\Alonso,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=AlonsoE.OU=HDV.O=ANNECY.T=MRY.,AlonsoE,\dgre\GestionSalles,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=AlonsoE.OU=HDV.O=ANNECY.T=MRY.,AlonsoE,\dgre,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CombeV.OU=HDV.O=ANNECY.T=MRY.,CombeV,\dgre\Vero Combe FDL 2014,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CombeV.OU=HDV.O=ANNECY.T=MRY.,CombeV,\dgre,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ChapapriaC.OU=HDV.O=ANNECY.T=MRY.,ChapapriaC,\dgre\Chapapria,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ChapapriaC.OU=HDV.O=ANNECY.T=MRY.,ChapapriaC,\dgre,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=VernetP.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,VernetP,\directio\Vernet,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=VernetP.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,VernetP,\directio,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Bochet-CadetJ.OU=HDV.O=ANNECY.T=MRY.,Bochet-CadetJ,\drh\Accueil,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Bochet-CadetJ.OU=HDV.O=ANNECY.T=MRY.,Bochet-CadetJ,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh\Accueil,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ArtaudS.OU=HDV.O=ANNECY.T=MRY.,ArtaudS,\drh\Artaud,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ArtaudS.OU=HDV.O=ANNECY.T=MRY.,ArtaudS,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MassetI.OU=HDV.O=ANNECY.T=MRY.,MassetI,\drh\MASSET,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MassetI.OU=HDV.O=ANNECY.T=MRY.,MassetI,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CottonC.OU=HDV.O=ANNECY.T=MRY.,CottonC,\drh\Cotton,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CottonC.OU=HDV.O=ANNECY.T=MRY.,CottonC,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MunierC.OU=HDV.O=ANNECY.T=MRY.,MunierC,\drh\Didierjean,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MunierC.OU=HDV.O=ANNECY.T=MRY.,MunierC,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DidierjeanE.OU=HDV.O=ANNECY.T=MRY.,DidierjeanE,\drh\Didierjean,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DidierjeanE.OU=HDV.O=ANNECY.T=MRY.,DidierjeanE,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BarbierM.OU=HDV.O=ANNECY.T=MRY.,BarbierM,\drh\Barbier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BarbierM.OU=HDV.O=ANNECY.T=MRY.,BarbierM,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Bochet-CadetJ.OU=HDV.O=ANNECY.T=MRY.,Bochet-CadetJ,\drh\Bochet-Cadet,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Bochet-CadetJ.OU=HDV.O=ANNECY.T=MRY.,Bochet-CadetJ,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ChappazS.OU=HDV.O=ANNECY.T=MRY.,ChappazS,\drh\CHAPPAZ,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ChappazS.OU=HDV.O=ANNECY.T=MRY.,ChappazS,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ColombierJ.OU=HDV.O=ANNECY.T=MRY.,ColombierJ,\drh\COLOMBIER,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ColombierJ.OU=HDV.O=ANNECY.T=MRY.,ColombierJ,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PithoisK.OU=PST.O=ANNECY.T=MRY.,PithoisK,\drh\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PithoisK.OU=PST.O=ANNECY.T=MRY.,PithoisK,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Le_DrogoffG.OU=HDV.O=ANNECY.T=MRY.,Le_DrogoffG,\drh\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Le_DrogoffG.OU=HDV.O=ANNECY.T=MRY.,Le_DrogoffG,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Secretariat_Gestion.OU=HDV.O=ANNECY.T=MRY.,Secretariat_Gestion,\drh\Secretariat Gestion,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Secretariat_Gestion.OU=HDV.O=ANNECY.T=MRY.,Secretariat_Gestion,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Bochet-CadetJ.OU=HDV.O=ANNECY.T=MRY.,Bochet-CadetJ,\drh\Secretariat Gestion,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Bochet-CadetJ.OU=HDV.O=ANNECY.T=MRY.,Bochet-CadetJ,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh\Secretariat Gestion,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CanchyA.OU=HDV.O=ANNECY.T=MRY.,CanchyA,\drh\Canchy,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CanchyA.OU=HDV.O=ANNECY.T=MRY.,CanchyA,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ChettabiC.OU=HDV.O=ANNECY.T=MRY.,ChettabiC,\drh\Chettabi,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ChettabiC.OU=HDV.O=ANNECY.T=MRY.,ChettabiC,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CloezJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,CloezJ,\drh\Cloez,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CloezJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,CloezJ,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DucruetD.OU=HDV.O=ANNECY.T=MRY.,DucruetD,\drh\Contrôle_URSSAF,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DucruetD.OU=HDV.O=ANNECY.T=MRY.,DucruetD,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh\Contrôle_URSSAF,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DucruetD.OU=HDV.O=ANNECY.T=MRY.,DucruetD,\drh\DUCRUET,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DucruetD.OU=HDV.O=ANNECY.T=MRY.,DucruetD,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DuverneyM.OU=HDV.O=ANNECY.T=MRY.,DuverneyM,\drh\Duverney,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DuverneyM.OU=HDV.O=ANNECY.T=MRY.,DuverneyM,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FallettiC.OU=HDV.O=ANNECY.T=MRY.,FallettiC,\drh\FALLETTI,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FallettiC.OU=HDV.O=ANNECY.T=MRY.,FallettiC,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BarbierM.OU=HDV.O=ANNECY.T=MRY.,BarbierM,\drh\Mesle\UNITE DE GESTION\Gobbo,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BarbierM.OU=HDV.O=ANNECY.T=MRY.,BarbierM,\drh\Mesle\UNITE DE GESTION,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BarbierM.OU=HDV.O=ANNECY.T=MRY.,BarbierM,\drh\Mesle,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BarbierM.OU=HDV.O=ANNECY.T=MRY.,BarbierM,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LegainS.OU=HDV.O=ANNECY.T=MRY.,LegainS,\drh\Legain-Dzierbicki,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LegainS.OU=HDV.O=ANNECY.T=MRY.,LegainS,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MaheG.OU=HDV.O=ANNECY.T=MRY.,MaheG,\drh\Mahé,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MaheG.OU=HDV.O=ANNECY.T=MRY.,MaheG,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MesleC.OU=HDV.O=ANNECY.T=MRY.,MesleC,\drh\Mesle,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MesleC.OU=HDV.O=ANNECY.T=MRY.,MesleC,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=WrobelS.OU=HDV.O=ANNECY.T=MRY.,WrobelS,\drh\Wrobel,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=WrobelS.OU=HDV.O=ANNECY.T=MRY.,WrobelS,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Paccard-GuillemaudJ.OU=HDV.O=ANNECY.T=MRY.,Paccard-GuillemaudJ,\drh\PACCARD,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Paccard-GuillemaudJ.OU=HDV.O=ANNECY.T=MRY.,Paccard-GuillemaudJ,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PerrillatG.OU=HDV.O=ANNECY.T=MRY.,PerrillatG,\drh\PERRILLAT,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PerrillatG.OU=HDV.O=ANNECY.T=MRY.,PerrillatG,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PinazoM.OU=HDV.O=ANNECY.T=MRY.,PinazoM,\drh\PINAZO,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PinazoM.OU=HDV.O=ANNECY.T=MRY.,PinazoM,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PonceletE.OU=HDV.O=ANNECY.T=MRY.,PonceletE,\drh\Poncelet,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PonceletE.OU=HDV.O=ANNECY.T=MRY.,PonceletE,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ReyF.OU=HDV.O=ANNECY.T=MRY.,ReyF,\drh\Rey,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ReyF.OU=HDV.O=ANNECY.T=MRY.,ReyF,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Stage_DRH.OU=HDV.O=ANNECY.T=MRY.,Stage_DRH,\drh\Stage_Drh,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Stage_DRH.OU=HDV.O=ANNECY.T=MRY.,Stage_DRH,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh\Sédit,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh\Univers BO,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LegainS.OU=HDV.O=ANNECY.T=MRY.,LegainS,\drh\Legain-Dzierbicki\VINDRET,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LegainS.OU=HDV.O=ANNECY.T=MRY.,LegainS,\drh\Legain-Dzierbicki,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LegainS.OU=HDV.O=ANNECY.T=MRY.,LegainS,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ZaramellaJ.OU=HDV.O=ANNECY.T=MRY.,ZaramellaJ,\drh\ZARAMELLA,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ZaramellaJ.OU=HDV.O=ANNECY.T=MRY.,ZaramellaJ,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh\modèles,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MeoM.OU=HDV.O=ANNECY.T=MRY.,MeoM,\drh\Meo,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MeoM.OU=HDV.O=ANNECY.T=MRY.,MeoM,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=KrattingerE.OU=HDV.O=ANNECY.T=MRY.,KrattingerE,\drh\Krattinger,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=KrattingerE.OU=HDV.O=ANNECY.T=MRY.,KrattingerE,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DumermuthC.OU=HDV.O=ANNECY.T=MRY.,DumermuthC,\drh\Dumermuth,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DumermuthC.OU=HDV.O=ANNECY.T=MRY.,DumermuthC,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BoivinV.OU=HDV.O=ANNECY.T=MRY.,BoivinV,\drh\Boivin,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BoivinV.OU=HDV.O=ANNECY.T=MRY.,BoivinV,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\drh\Etienne,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh\old,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LehouxM.OU=HDV.O=ANNECY.T=MRY.,LehouxM,\drh\Lehoux,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LehouxM.OU=HDV.O=ANNECY.T=MRY.,LehouxM,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MunierC.OU=HDV.O=ANNECY.T=MRY.,MunierC,\drh\Munier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MunierC.OU=HDV.O=ANNECY.T=MRY.,MunierC,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CottonC.OU=HDV.O=ANNECY.T=MRY.,CottonC,\drh\Cotton\Réservation de salles,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CottonC.OU=HDV.O=ANNECY.T=MRY.,CottonC,\drh\Cotton,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CottonC.OU=HDV.O=ANNECY.T=MRY.,CottonC,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Secretaire_Medecine.OU=PST.O=ANNECY.T=MRY.,Secretaire_Medecine,\drh\COMMUN\SANTE SECURITE,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Secretaire_Medecine.OU=PST.O=ANNECY.T=MRY.,Secretaire_Medecine,\drh\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Secretaire_Medecine.OU=PST.O=ANNECY.T=MRY.,Secretaire_Medecine,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FerlinC.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,FerlinC,\drh\COMMUN\SANTE SECURITE,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FerlinC.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,FerlinC,\drh\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FerlinC.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,FerlinC,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=IsouxC.OU=PST.O=ANNECY.T=MRY.,IsouxC,\drh\COMMUN\FIPHFP,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=IsouxC.OU=PST.O=ANNECY.T=MRY.,IsouxC,\drh\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=IsouxC.OU=PST.O=ANNECY.T=MRY.,IsouxC,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Le_DrogoffG.OU=HDV.O=ANNECY.T=MRY.,Le_DrogoffG,\drh\COMMUN\DRH\Documents_textes\Recrutement,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Le_DrogoffG.OU=HDV.O=ANNECY.T=MRY.,Le_DrogoffG,\drh\COMMUN\DRH\Documents_textes,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Le_DrogoffG.OU=HDV.O=ANNECY.T=MRY.,Le_DrogoffG,\drh\COMMUN\DRH,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Le_DrogoffG.OU=HDV.O=ANNECY.T=MRY.,Le_DrogoffG,\drh\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Le_DrogoffG.OU=HDV.O=ANNECY.T=MRY.,Le_DrogoffG,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BoivinV.OU=HDV.O=ANNECY.T=MRY.,BoivinV,\drh\Mesle\UNITE DE GESTION\Gobbo\GOBBO Christine,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BoivinV.OU=HDV.O=ANNECY.T=MRY.,BoivinV,\drh\Mesle\UNITE DE GESTION\Gobbo,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BoivinV.OU=HDV.O=ANNECY.T=MRY.,BoivinV,\drh\Mesle\UNITE DE GESTION,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BoivinV.OU=HDV.O=ANNECY.T=MRY.,BoivinV,\drh\Mesle,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BoivinV.OU=HDV.O=ANNECY.T=MRY.,BoivinV,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Laverie.OU=HDV.O=ANNECY.T=MRY.,Laverie,\enseigne\Ateliers_Vie_Scolaire,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Laverie.OU=HDV.O=ANNECY.T=MRY.,Laverie,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ChmamadiK.OU=HDV.O=ANNECY.T=MRY.,ChmamadiK,\enseigne\Chmamadi,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ChmamadiK.OU=HDV.O=ANNECY.T=MRY.,ChmamadiK,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ClavelJ.OU=HDV.O=ANNECY.T=MRY.,ClavelJ,\enseigne\Clavel,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ClavelJ.OU=HDV.O=ANNECY.T=MRY.,ClavelJ,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Enseigne.OU=HDV.O=ANNECY.T=MRY.,GG_1-Enseigne,\enseigne\Franceschini,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Enseigne.OU=HDV.O=ANNECY.T=MRY.,GG_1-Enseigne,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Plaine.OU=HDV.O=ANNECY.T=MRY.,GG_1-Plaine,\enseigne\Periscolaire_Plaine,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Plaine.OU=HDV.O=ANNECY.T=MRY.,GG_1-Plaine,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Teppes.OU=HDV.O=ANNECY.T=MRY.,Teppes,\enseigne\Periscolaire_Teppes,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Teppes.OU=HDV.O=ANNECY.T=MRY.,Teppes,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SalamatG.OU=HDV.O=ANNECY.T=MRY.,SalamatG,\enseigne\Salamat,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SalamatG.OU=HDV.O=ANNECY.T=MRY.,SalamatG,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=AvundoM.OU=HDV.O=ANNECY.T=MRY.,AvundoM,\enseigne\Avundo,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=AvundoM.OU=HDV.O=ANNECY.T=MRY.,AvundoM,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ChmamadiK.OU=HDV.O=ANNECY.T=MRY.,ChmamadiK,\enseigne\Avundo,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ChmamadiK.OU=HDV.O=ANNECY.T=MRY.,ChmamadiK,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SommerfeldM.OU=HDV.O=ANNECY.T=MRY.,SommerfeldM,\enseigne\Sommerfeld,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SommerfeldM.OU=HDV.O=ANNECY.T=MRY.,SommerfeldM,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PilliardS.OU=HDV.O=ANNECY.T=MRY.,PilliardS,\enseigne\Pilliard,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PilliardS.OU=HDV.O=ANNECY.T=MRY.,PilliardS,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ModicaS.OU=HDV.O=ANNECY.T=MRY.,ModicaS,\enseigne\Modica,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ModicaS.OU=HDV.O=ANNECY.T=MRY.,ModicaS,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=RouxE.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,RouxE,\enseigne\Roux,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=RouxE.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,RouxE,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DenhezA.OU=HDV.O=ANNECY.T=MRY.,DenhezA,\enseigne\Denhez,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DenhezA.OU=HDV.O=ANNECY.T=MRY.,DenhezA,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ChmamadiK.OU=HDV.O=ANNECY.T=MRY.,ChmamadiK,\enseigne\Denhez,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ChmamadiK.OU=HDV.O=ANNECY.T=MRY.,ChmamadiK,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=RachexM.OU=HDV.O=ANNECY.T=MRY.,RachexM,\enseigne\Rachex,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=RachexM.OU=HDV.O=ANNECY.T=MRY.,RachexM,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SommerfeldM.OU=HDV.O=ANNECY.T=MRY.,SommerfeldM,\enseigne\Chmamadi\Compta chmamadi,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SommerfeldM.OU=HDV.O=ANNECY.T=MRY.,SommerfeldM,\enseigne\Chmamadi,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SommerfeldM.OU=HDV.O=ANNECY.T=MRY.,SommerfeldM,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Enseigne.OU=HDV.O=ANNECY.T=MRY.,GG_Enseigne,\enseigne\Franceschini\dossier agents,,ThisFolderSubFoldersAndFiles
+.CN=Enseigne.OU=HDV.O=ANNECY.T=MRY.,GG_Enseigne,\enseigne\Franceschini,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Enseigne.OU=HDV.O=ANNECY.T=MRY.,GG_Enseigne,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FranceschiniC.OU=HDV.O=ANNECY.T=MRY.,FranceschiniC,\enseigne\Franceschini\dossier agents,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FranceschiniC.OU=HDV.O=ANNECY.T=MRY.,FranceschiniC,\enseigne\Franceschini,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FranceschiniC.OU=HDV.O=ANNECY.T=MRY.,FranceschiniC,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Goddet-ChoplinO.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,Goddet-ChoplinO,\enseigne\Franceschini\dossier agents,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Goddet-ChoplinO.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,Goddet-ChoplinO,\enseigne\Franceschini,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Goddet-ChoplinO.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,Goddet-ChoplinO,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MasternakC.OU=HDV.O=ANNECY.T=MRY.,MasternakC,\enseigne\Franceschini\dossier agents,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MasternakC.OU=HDV.O=ANNECY.T=MRY.,MasternakC,\enseigne\Franceschini,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MasternakC.OU=HDV.O=ANNECY.T=MRY.,MasternakC,\enseigne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=HollingueD.OU=HDV.O=ANNECY.T=MRY.,HollingueD,\etacivil\Hollingue,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=HollingueD.OU=HDV.O=ANNECY.T=MRY.,HollingueD,\etacivil,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil\INSEE Envoi,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Etacivil.OU=HDV.O=ANNECY.T=MRY.,GG_Etacivil,\etacivil\SCRP,,ThisFolderSubFoldersAndFiles
+.CN=Etacivil.OU=HDV.O=ANNECY.T=MRY.,GG_Etacivil,\etacivil,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ETC-SRCP.OU=HDV.O=ANNECY.T=MRY.,GG_ETC-SRCP,\etacivil\SCRP,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ETC-SRCP.OU=HDV.O=ANNECY.T=MRY.,GG_ETC-SRCP,\etacivil,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Coureux-hamonS.OU=HDV.O=ANNECY.T=MRY.,Coureux-hamonS,\etacivil\Coureux-Hamon,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Coureux-hamonS.OU=HDV.O=ANNECY.T=MRY.,Coureux-hamonS,\etacivil,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Favre-bonvinS.OU=BONLIEU.O=ANNECY.T=MRY.,Favre-bonvinS,\etacivil\Commun\Secrétariat\Agents\Sylvie,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Favre-bonvinS.OU=BONLIEU.O=ANNECY.T=MRY.,Favre-bonvinS,\etacivil\Commun\Secrétariat\Agents,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Favre-bonvinS.OU=BONLIEU.O=ANNECY.T=MRY.,Favre-bonvinS,\etacivil\Commun\Secrétariat,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Favre-bonvinS.OU=BONLIEU.O=ANNECY.T=MRY.,Favre-bonvinS,\etacivil\Commun,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Favre-bonvinS.OU=BONLIEU.O=ANNECY.T=MRY.,Favre-bonvinS,\etacivil,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Etacivil.OU=HDV.O=ANNECY.T=MRY.,GG_Etacivil,\etacivil\Commun\Secrétariat\Agents\Sylvie,,ThisFolderSubFoldersAndFiles
+.CN=Etacivil.OU=HDV.O=ANNECY.T=MRY.,GG_Etacivil,\etacivil\Commun\Secrétariat\Agents,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Etacivil.OU=HDV.O=ANNECY.T=MRY.,GG_Etacivil,\etacivil\Commun\Secrétariat,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Etacivil.OU=HDV.O=ANNECY.T=MRY.,GG_Etacivil,\etacivil\Commun,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Etacivil.OU=HDV.O=ANNECY.T=MRY.,GG_Etacivil,\etacivil,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil\Commun\Secrétariat\Agents\Sylvie,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil\Commun\Secrétariat\Agents,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil\Commun\Secrétariat,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil\Commun,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Etacivil.OU=HDV.O=ANNECY.T=MRY.,GG_Etacivil,\drh\Etienne\Perso,,ThisFolderSubFoldersAndFiles
+.CN=Etacivil.OU=HDV.O=ANNECY.T=MRY.,GG_Etacivil,\drh\Etienne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Etacivil.OU=HDV.O=ANNECY.T=MRY.,GG_Etacivil,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\drh\Etienne\Perso,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\drh\Etienne,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Finances.OU=HDV.O=ANNECY.T=MRY.,GG_Finances,\finances\Z COMMUN ANCIENNE ARBORESCENCE,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Finances.OU=HDV.O=ANNECY.T=MRY.,GG_Finances,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Finances.OU=HDV.O=ANNECY.T=MRY.,GG_1-Finances,\finances\Z COMMUN ANCIENNE ARBORESCENCE,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Finances.OU=HDV.O=ANNECY.T=MRY.,GG_1-Finances,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=GoddetL.OU=HDV.O=ANNECY.T=MRY.,GoddetL,\finances\Anciens collaborateurs\BEL G,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=GoddetL.OU=HDV.O=ANNECY.T=MRY.,GoddetL,\finances\Anciens collaborateurs,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=GoddetL.OU=HDV.O=ANNECY.T=MRY.,GoddetL,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BenmbarekC.OU=HDV.O=ANNECY.T=MRY.,BenmbarekC,\finances\Benmbarek,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BenmbarekC.OU=HDV.O=ANNECY.T=MRY.,BenmbarekC,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DucheneC.OU=HDV.O=ANNECY.T=MRY.,DucheneC,\finances\Duchene,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DucheneC.OU=HDV.O=ANNECY.T=MRY.,DucheneC,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Hamdi_CherifS.OU=HDV.O=ANNECY.T=MRY.,Hamdi_CherifS,\finances\Gonthier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Hamdi_CherifS.OU=HDV.O=ANNECY.T=MRY.,Hamdi_CherifS,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MaitriasE.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,MaitriasE,\finances\Maitrias DSF,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MaitriasE.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,MaitriasE,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ChaoudourL.OU=HDV.O=ANNECY.T=MRY.,ChaoudourL,\finances\Maitrias DSF,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ChaoudourL.OU=HDV.O=ANNECY.T=MRY.,ChaoudourL,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MaitriasE.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,MaitriasE,\finances\Anciens collaborateurs,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MaitriasE.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,MaitriasE,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=YvraitC.OU=HDV.O=ANNECY.T=MRY.,YvraitC,\finances\Anciens collaborateurs,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=YvraitC.OU=HDV.O=ANNECY.T=MRY.,YvraitC,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BaratS.OU=HDV.O=ANNECY.T=MRY.,BaratS,\finances\Barat,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BaratS.OU=HDV.O=ANNECY.T=MRY.,BaratS,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ControleGestion.OU=HDV.O=ANNECY.T=MRY.,GG_ControleGestion,\finances\Fluor,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ControleGestion.OU=HDV.O=ANNECY.T=MRY.,GG_ControleGestion,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Finances.OU=HDV.O=ANNECY.T=MRY.,GG_Finances,\finances\Fluor,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Finances.OU=HDV.O=ANNECY.T=MRY.,GG_Finances,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Fluor.OU=HDV.O=ANNECY.T=MRY.,GG_1-Fluor,\finances\Fluor,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Fluor.OU=HDV.O=ANNECY.T=MRY.,GG_1-Fluor,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Finances.OU=HDV.O=ANNECY.T=MRY.,GG_Finances,\finances\01_COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Finances.OU=HDV.O=ANNECY.T=MRY.,GG_Finances,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CohardS.OU=HDV.O=ANNECY.T=MRY.,CohardS,\finances\Cohard,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CohardS.OU=HDV.O=ANNECY.T=MRY.,CohardS,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SanchezL.OU=HDV.O=ANNECY.T=MRY.,SanchezL,\finances\Sanchez,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SanchezL.OU=HDV.O=ANNECY.T=MRY.,SanchezL,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CoelhoA.OU=HDV.O=ANNECY.T=MRY.,CoelhoA,\juridic\COELHO,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CoelhoA.OU=HDV.O=ANNECY.T=MRY.,CoelhoA,\juridic,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=NiveleauA.OU=HDV.O=ANNECY.T=MRY.,NiveleauA,\juridic\Ponza,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=NiveleauA.OU=HDV.O=ANNECY.T=MRY.,NiveleauA,\juridic,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-ArchivesDir.OU=HDV.O=ANNECY.T=MRY.,GG_1-ArchivesDir,\Archives\RAYSSAC,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-ArchivesDir.OU=HDV.O=ANNECY.T=MRY.,GG_1-ArchivesDir,\Archives,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Archives.OU=HDV.O=ANNECY.T=MRY.,GG_1-Archives,\Archives\VEYRAT,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Archives.OU=HDV.O=ANNECY.T=MRY.,GG_1-Archives,\Archives,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=NyaultN.OU=HDV.O=ANNECY.T=MRY.,NyaultN,\juridic\Nyault,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=NyaultN.OU=HDV.O=ANNECY.T=MRY.,NyaultN,\juridic,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Veyrat_de_lachenalC.OU=HDV.O=ANNECY.T=MRY.,Veyrat_de_lachenalC,\juridic\VEYRAT,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Veyrat_de_lachenalC.OU=HDV.O=ANNECY.T=MRY.,Veyrat_de_lachenalC,\juridic,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=TelboisM.OU=HDV.O=ANNECY.T=MRY.,TelboisM,\juridic\Telbois,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=TelboisM.OU=HDV.O=ANNECY.T=MRY.,TelboisM,\juridic,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Juridic.OU=HDV.O=ANNECY.T=MRY.,GG_Juridic,\juridic\COMMUN\TELETRANSMISSION Accusés Réception,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Juridic.OU=HDV.O=ANNECY.T=MRY.,GG_Juridic,\juridic\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Juridic.OU=HDV.O=ANNECY.T=MRY.,GG_Juridic,\juridic,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DumonteilM.OU=HDV.O=ANNECY.T=MRY.,DumonteilM,\marches\Dumonteil,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DumonteilM.OU=HDV.O=ANNECY.T=MRY.,DumonteilM,\marches,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=GazonM.OU=HDV.O=ANNECY.T=MRY.,GazonM,\marches\Gazon,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=GazonM.OU=HDV.O=ANNECY.T=MRY.,GazonM,\marches,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FatmiT.OU=PST.O=ANNECY.T=MRY.,FatmiT,\parcst\ATELIERS BATIMENTS,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FatmiT.OU=PST.O=ANNECY.T=MRY.,FatmiT,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BenitoJ.OU=PST.O=ANNECY.T=MRY.,BenitoJ,\parcst\Benito,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BenitoJ.OU=PST.O=ANNECY.T=MRY.,BenitoJ,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PerrinT.OU=PST.O=ANNECY.T=MRY.,PerrinT,\parcst\Perrin,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PerrinT.OU=PST.O=ANNECY.T=MRY.,PerrinT,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Mulatier-GachetN.OU=PST.O=ANNECY.T=MRY.,Mulatier-GachetN,\parcst\Mulatier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Mulatier-GachetN.OU=PST.O=ANNECY.T=MRY.,Mulatier-GachetN,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DirectionFetes.OU=PST.O=ANNECY.T=MRY.,GG_DirectionFetes,\parcst\Mulatier,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DirectionFetes.OU=PST.O=ANNECY.T=MRY.,GG_DirectionFetes,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SwistE.OU=PST.O=ANNECY.T=MRY.,SwistE,\parcst\Swist,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SwistE.OU=PST.O=ANNECY.T=MRY.,SwistE,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BournelS.OU=PST.O=ANNECY.T=MRY.,BournelS,\parcst\Bournel,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BournelS.OU=PST.O=ANNECY.T=MRY.,BournelS,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Parcst.OU=HDV.O=ANNECY.T=MRY.,GG_1-Parcst,\parcst\Commun,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Parcst.OU=HDV.O=ANNECY.T=MRY.,GG_1-Parcst,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DucampH.OU=PST.O=ANNECY.T=MRY.,DucampH,\parcst\Ducamp,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DucampH.OU=PST.O=ANNECY.T=MRY.,DucampH,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=JehanH.OU=PST.O=ANNECY.T=MRY.,JehanH,\parcst\Jehan,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=JehanH.OU=PST.O=ANNECY.T=MRY.,JehanH,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PerrillatG.OU=HDV.O=ANNECY.T=MRY.,PerrillatG,\parcst\ATELIERS BATIMENTS\CONGES,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PerrillatG.OU=HDV.O=ANNECY.T=MRY.,PerrillatG,\parcst\ATELIERS BATIMENTS,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PerrillatG.OU=HDV.O=ANNECY.T=MRY.,PerrillatG,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ClavelL.OU=PST.O=ANNECY.T=MRY.,ClavelL,\parcst\ATELIERS BATIMENTS\CONGES,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ClavelL.OU=PST.O=ANNECY.T=MRY.,ClavelL,\parcst\ATELIERS BATIMENTS,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ClavelL.OU=PST.O=ANNECY.T=MRY.,ClavelL,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FatmiT.OU=PST.O=ANNECY.T=MRY.,FatmiT,\parcst\ATELIERS BATIMENTS\CONGES,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FatmiT.OU=PST.O=ANNECY.T=MRY.,FatmiT,\parcst\ATELIERS BATIMENTS,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FatmiT.OU=PST.O=ANNECY.T=MRY.,FatmiT,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SadaouiJ.OU=PST.O=ANNECY.T=MRY.,SadaouiJ,\parcst\ATELIERS BATIMENTS\CONGES,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SadaouiJ.OU=PST.O=ANNECY.T=MRY.,SadaouiJ,\parcst\ATELIERS BATIMENTS,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SadaouiJ.OU=PST.O=ANNECY.T=MRY.,SadaouiJ,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CollombM.OU=PST.O=ANNECY.T=MRY.,CollombM,\parcst\Mulatier\LOGISTIQUE EVENEMENTS,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CollombM.OU=PST.O=ANNECY.T=MRY.,CollombM,\parcst\Mulatier,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CollombM.OU=PST.O=ANNECY.T=MRY.,CollombM,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.O=ANNECY.T=MRY.,grp-ANNECY,\parcst\WOILLET\EXCEL\DOCUMENTS ADMINISTRATIFS VEHICULES,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.O=ANNECY.T=MRY.,grp-ANNECY,\parcst\WOILLET\EXCEL,"ReadAndExecute,Synchronize",ThisFolderOnly
+.O=ANNECY.T=MRY.,grp-ANNECY,\parcst\WOILLET,"ReadAndExecute,Synchronize",ThisFolderOnly
+.O=ANNECY.T=MRY.,grp-ANNECY,\parcst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Police.OU=HDV.O=ANNECY.T=MRY.,GG_Police,\police\Dataciat,,ThisFolderSubFoldersAndFiles
+.CN=Police.OU=HDV.O=ANNECY.T=MRY.,GG_Police,\police,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Fourriere.OU=HDV.O=ANNECY.T=MRY.,GG_1-Fourriere,\police\Fourrière,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Fourriere.OU=HDV.O=ANNECY.T=MRY.,GG_1-Fourriere,\police,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=JallifierJ.OU=HDV.O=ANNECY.T=MRY.,JallifierJ,\police\Jallifier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=JallifierJ.OU=HDV.O=ANNECY.T=MRY.,JallifierJ,\police,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Police.OU=HDV.O=ANNECY.T=MRY.,GG_Police,\police\Jallifier,,ThisFolderSubFoldersAndFiles
+.CN=Police.OU=HDV.O=ANNECY.T=MRY.,GG_Police,\police,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BelmonteR.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BelmonteR,\police\Misse,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BelmonteR.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BelmonteR,\police,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BelmonteR.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BelmonteR,\police\Belmonte,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BelmonteR.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BelmonteR,\police,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Police.OU=HDV.O=ANNECY.T=MRY.,GG_Police,\police\Belmonte,,ThisFolderSubFoldersAndFiles
+.CN=Police.OU=HDV.O=ANNECY.T=MRY.,GG_Police,\police,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MisseM.OU=HDV.O=ANNECY.T=MRY.,MisseM,\police\Belmonte,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MisseM.OU=HDV.O=ANNECY.T=MRY.,MisseM,\police,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PreventionTranquillite.OU=HDV.O=ANNECY.T=MRY.,GG_PreventionTranquillite,\Prévention Tranquillité\Centre Opérationnel,,ThisFolderSubFoldersAndFiles
+.CN=PreventionTranquillite.OU=HDV.O=ANNECY.T=MRY.,GG_PreventionTranquillite,\Prévention Tranquillité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-PrevOpe.OU=HDV.O=ANNECY.T=MRY.,GG_1-PrevOpe,\Prévention Tranquillité\Centre Opérationnel,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-PrevOpe.OU=HDV.O=ANNECY.T=MRY.,GG_1-PrevOpe,\Prévention Tranquillité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=TerreG.OU=HDV.O=ANNECY.T=MRY.,TerreG,\police\Terre,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory,ReadPermissions,ChangePermissions",ThisFolderSubFoldersAndFiles
+.CN=TerreG.OU=HDV.O=ANNECY.T=MRY.,TerreG,\police,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=GrimaultC.OU=HDV.O=ANNECY.T=MRY.,GrimaultC,\quartier\GRIMAULT,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=GrimaultC.OU=HDV.O=ANNECY.T=MRY.,GrimaultC,\quartier,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Secregal.OU=HDV.O=ANNECY.T=MRY.,GG_Secregal,\secregal\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Secregal.OU=HDV.O=ANNECY.T=MRY.,GG_Secregal,\secregal,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Secregal.OU=HDV.O=ANNECY.T=MRY.,GG_Secregal,\Contrôle de gestion\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Secregal.OU=HDV.O=ANNECY.T=MRY.,GG_Secregal,\Contrôle de gestion,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ControleGestion.OU=HDV.O=ANNECY.T=MRY.,GG_ControleGestion,\Contrôle de gestion\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ControleGestion.OU=HDV.O=ANNECY.T=MRY.,GG_ControleGestion,\Contrôle de gestion,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CrevoisierS.OU=HDV.O=ANNECY.T=MRY.,CrevoisierS,\Contrôle de gestion\Crevoisier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CrevoisierS.OU=HDV.O=ANNECY.T=MRY.,CrevoisierS,\Contrôle de gestion,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MoresiM.OU=HDV.O=ANNECY.T=MRY.,MoresiM,\Contrôle de gestion\MORESI,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MoresiM.OU=HDV.O=ANNECY.T=MRY.,MoresiM,\Contrôle de gestion,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MaitriasE.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,MaitriasE,\Contrôle de gestion\MAITRIAS,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MaitriasE.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,MaitriasE,\Contrôle de gestion,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CanongeP.OU=HDV.O=ANNECY.T=MRY.,CanongeP,\sigdu\Canonge,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CanongeP.OU=HDV.O=ANNECY.T=MRY.,CanongeP,\sigdu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MaigaM.OU=HDV.O=ANNECY.T=MRY.,MaigaM,\sigdu\Maiga,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MaigaM.OU=HDV.O=ANNECY.T=MRY.,MaigaM,\sigdu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Social-AS.OU=HDV.O=ANNECY.T=MRY.,GG_1-Social-AS,\social\Accueil_assistantes,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Social-AS.OU=HDV.O=ANNECY.T=MRY.,GG_1-Social-AS,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Jos-Sba.OU=HDV.O=ANNECY.T=MRY.,GG_1-Jos-Sba,\social\modeles\Personnels Direction\Ducloz,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Jos-Sba.OU=HDV.O=ANNECY.T=MRY.,GG_1-Jos-Sba,\social\modeles\Personnels Direction,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Jos-Sba.OU=HDV.O=ANNECY.T=MRY.,GG_1-Jos-Sba,\social\modeles,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Jos-Sba.OU=HDV.O=ANNECY.T=MRY.,GG_1-Jos-Sba,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Social.OU=HDV.O=ANNECY.T=MRY.,GG_Social,\social\GWISE,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Social.OU=HDV.O=ANNECY.T=MRY.,GG_Social,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Jos-Sba.OU=HDV.O=ANNECY.T=MRY.,GG_1-Jos-Sba,\social\Z avant 1 janvier 2015\agents partis\Grandchamp,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Jos-Sba.OU=HDV.O=ANNECY.T=MRY.,GG_1-Jos-Sba,\social\Z avant 1 janvier 2015\agents partis,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Jos-Sba.OU=HDV.O=ANNECY.T=MRY.,GG_1-Jos-Sba,\social\Z avant 1 janvier 2015,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Jos-Sba.OU=HDV.O=ANNECY.T=MRY.,GG_1-Jos-Sba,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=VioletB.OU=HDV.O=ANNECY.T=MRY.,VioletB,\social\Personnels Pôle Seniors\Violet,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=VioletB.OU=HDV.O=ANNECY.T=MRY.,VioletB,\social\Personnels Pôle Seniors,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=VioletB.OU=HDV.O=ANNECY.T=MRY.,VioletB,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CrestiaR.OU=HDV.O=ANNECY.T=MRY.,CrestiaR,\social\Z avant 1 janvier 2015\Romains-Loft,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CrestiaR.OU=HDV.O=ANNECY.T=MRY.,CrestiaR,\social\Z avant 1 janvier 2015,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CrestiaR.OU=HDV.O=ANNECY.T=MRY.,CrestiaR,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LatbiN.OU=HDV.O=ANNECY.T=MRY.,LatbiN,\social\Z avant 1 janvier 2015\Romains-Loft,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LatbiN.OU=HDV.O=ANNECY.T=MRY.,LatbiN,\social\Z avant 1 janvier 2015,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LatbiN.OU=HDV.O=ANNECY.T=MRY.,LatbiN,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Social-Pole-Solidarites.OU=HDV.O=ANNECY.T=MRY.,GG_Social-Pole-Solidarites,\social\Personnels Pôle Solidarités,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Social-Pole-Solidarites.OU=HDV.O=ANNECY.T=MRY.,GG_Social-Pole-Solidarites,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Social-Seniors.OU=HDV.O=ANNECY.T=MRY.,GG_1-Social-Seniors,\social\Personnels Pôle Seniors,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Social-Seniors.OU=HDV.O=ANNECY.T=MRY.,GG_1-Social-Seniors,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Social-Pole-Promotion-Sante.OU=HDV.O=ANNECY.T=MRY.,GG_Social-Pole-Promotion-Sante,\social\Personnels Pôle Promotion Santé et Développement Social,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Social-Pole-Promotion-Sante.OU=HDV.O=ANNECY.T=MRY.,GG_Social-Pole-Promotion-Sante,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Social.OU=HDV.O=ANNECY.T=MRY.,GG_Social,\social\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Social.OU=HDV.O=ANNECY.T=MRY.,GG_Social,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=KiefferV.OU=HDV.O=ANNECY.T=MRY.,KiefferV,\social\Z avant 1 janvier 2015\Action sociale territorialisée,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=KiefferV.OU=HDV.O=ANNECY.T=MRY.,KiefferV,\social\Z avant 1 janvier 2015,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=KiefferV.OU=HDV.O=ANNECY.T=MRY.,KiefferV,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=JarnierM.OU=HDV.O=ANNECY.T=MRY.,JarnierM,\sports\JarnierM,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=JarnierM.OU=HDV.O=ANNECY.T=MRY.,JarnierM,\sports,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Sports.OU=HDV.O=ANNECY.T=MRY.,GG_Sports,\sports\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Sports.OU=HDV.O=ANNECY.T=MRY.,GG_Sports,\sports,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Parc_des_sports.OU=SITES_ADSL.O=ANNECY.T=MRY.,Parc_des_sports,\sports\Aguilar,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Parc_des_sports.OU=SITES_ADSL.O=ANNECY.T=MRY.,Parc_des_sports,\sports,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-ParcSports.OU=HDV.O=ANNECY.T=MRY.,GG_1-ParcSports,\sports\Parc des Sports,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-ParcSports.OU=HDV.O=ANNECY.T=MRY.,GG_1-ParcSports,\sports,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=TetevuideS.OU=HDV.O=ANNECY.T=MRY.,TetevuideS,\sports\Tetevuide,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=TetevuideS.OU=HDV.O=ANNECY.T=MRY.,TetevuideS,\sports,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=RossetS.OU=SITES_ADSL.O=ANNECY.T=MRY.,RossetS,\sports\Rosset,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=RossetS.OU=SITES_ADSL.O=ANNECY.T=MRY.,RossetS,\sports,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=StreiffA.OU=HDV.O=ANNECY.T=MRY.,StreiffA,\sports\Streiff,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=StreiffA.OU=HDV.O=ANNECY.T=MRY.,StreiffA,\sports,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SuttoA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,SuttoA,\urba\A.Sutto,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SuttoA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,SuttoA,\urba,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=StemmelinL.OU=HDV.O=ANNECY.T=MRY.,StemmelinL,\urba\Stemmelin,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=StemmelinL.OU=HDV.O=ANNECY.T=MRY.,StemmelinL,\urba,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FritschmannV.OU=HDV.O=ANNECY.T=MRY.,FritschmannV,\urba\Fritschmann,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FritschmannV.OU=HDV.O=ANNECY.T=MRY.,FritschmannV,\urba,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=JournetD.OU=HDV.O=ANNECY.T=MRY.,JournetD,\urba\commun\Occupation du domaine public\CHANTIERS  EN COURS,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=JournetD.OU=HDV.O=ANNECY.T=MRY.,JournetD,\urba\commun\Occupation du domaine public,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=JournetD.OU=HDV.O=ANNECY.T=MRY.,JournetD,\urba\commun,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=JournetD.OU=HDV.O=ANNECY.T=MRY.,JournetD,\urba,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Voirie.OU=HDV.O=ANNECY.T=MRY.,GG_Voirie,\voirie\Arrêtés_Voirie,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Voirie.OU=HDV.O=ANNECY.T=MRY.,GG_Voirie,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-ArretéVoirie.OU=HDV.O=ANNECY.T=MRY.,1-ArretéVoirie,\voirie\Arrêtés_Voirie,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-ArretéVoirie.OU=HDV.O=ANNECY.T=MRY.,1-ArretéVoirie,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Veyrat_de_lachenalJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,Veyrat_de_lachenalJ,\voirie\Veyrat_de_lachenal,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Veyrat_de_lachenalJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,Veyrat_de_lachenalJ,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Voirie.OU=HDV.O=ANNECY.T=MRY.,GG_Voirie,\voirie\Basuyaux,,ThisFolderSubFoldersAndFiles
+.CN=Voirie.OU=HDV.O=ANNECY.T=MRY.,GG_Voirie,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BeauquisG.OU=PST.O=ANNECY.T=MRY.,BeauquisG,\voirie\Beauquis,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BeauquisG.OU=PST.O=ANNECY.T=MRY.,BeauquisG,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BeauquisG.OU=PST.O=ANNECY.T=MRY.,BeauquisG,\voirie\Berteraut,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BeauquisG.OU=PST.O=ANNECY.T=MRY.,BeauquisG,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BogdanoffM.OU=HDV.O=ANNECY.T=MRY.,BogdanoffM,\voirie\Bogdanoff,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BogdanoffM.OU=HDV.O=ANNECY.T=MRY.,BogdanoffM,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BrardJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BrardJ,\voirie\Brard,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BrardJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BrardJ,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Voirie.OU=HDV.O=ANNECY.T=MRY.,GG_Voirie,\voirie\Brard,,ThisFolderSubFoldersAndFiles
+.CN=Voirie.OU=HDV.O=ANNECY.T=MRY.,GG_Voirie,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie\CLAVEL,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PropreteUrbaine.OU=PST.O=ANNECY.T=MRY.,GG_PropreteUrbaine,\voirie\COMMUN,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PropreteUrbaine.OU=PST.O=ANNECY.T=MRY.,GG_PropreteUrbaine,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Imalux.OU=PST.O=ANNECY.T=MRY.,Imalux,\voirie\Eclairage-feux-tricolores,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Imalux.OU=PST.O=ANNECY.T=MRY.,Imalux,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-VoirieFeux.OU=HDV.O=ANNECY.T=MRY.,GG_1-VoirieFeux,\voirie\Eclairage-feux-tricolores,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-VoirieFeux.OU=HDV.O=ANNECY.T=MRY.,GG_1-VoirieFeux,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=JournetD.OU=HDV.O=ANNECY.T=MRY.,JournetD,\voirie\Journet,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=JournetD.OU=HDV.O=ANNECY.T=MRY.,JournetD,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=KrasnoplakhtoffJ.OU=HDV.O=ANNECY.T=MRY.,KrasnoplakhtoffJ,\voirie\Signalisation,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=KrasnoplakhtoffJ.OU=HDV.O=ANNECY.T=MRY.,KrasnoplakhtoffJ,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LucchesiA.OU=HDV.O=ANNECY.T=MRY.,LucchesiA,\voirie\Lucchesi,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LucchesiA.OU=HDV.O=ANNECY.T=MRY.,LucchesiA,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-VoireDomPublic.OU=HDV.O=ANNECY.T=MRY.,GG_1-VoireDomPublic,\voirie\Gestion domaine public,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-VoireDomPublic.OU=HDV.O=ANNECY.T=MRY.,GG_1-VoireDomPublic,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie\Delannay,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PetrierJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,PetrierJ,\voirie\Pétrier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PetrierJ.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,PetrierJ,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PerrotM.OU=HDV.O=ANNECY.T=MRY.,PerrotM,\voirie\Perrot,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PerrotM.OU=HDV.O=ANNECY.T=MRY.,PerrotM,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PoleEnergie.OU=HDV.O=ANNECY.T=MRY.,GG_PoleEnergie,\batiment\Pôle énergie\SCHEMAS ELECTRIQUES DES BÂTIMENTS & DOE Courants Faibles,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Modify,ListDirectory,ReadPermissions,ChangePermissions",ThisFolderSubFoldersAndFiles
+.CN=PoleEnergie.OU=HDV.O=ANNECY.T=MRY.,GG_PoleEnergie,\batiment\Pôle énergie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PoleEnergie.OU=HDV.O=ANNECY.T=MRY.,GG_PoleEnergie,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction\Ducloz\Bouvier\Secours,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction\Ducloz\Bouvier,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction\Ducloz,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\DUER,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ChautainC.OU=HDV.O=ANNECY.T=MRY.,ChautainC,\INFO\Clement,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ChautainC.OU=HDV.O=ANNECY.T=MRY.,ChautainC,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PortesR.OU=Smartphones.O=ANNECY.T=MRY.,PortesR,\INFO\Raphael,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PortesR.OU=Smartphones.O=ANNECY.T=MRY.,PortesR,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MussonP.OU=HDV.O=ANNECY.T=MRY.,MussonP,\INFO\Philippe_Musson,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MussonP.OU=HDV.O=ANNECY.T=MRY.,MussonP,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Juridic.OU=HDV.O=ANNECY.T=MRY.,GG_Juridic,\Archives,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ControleGestion.OU=HDV.O=ANNECY.T=MRY.,GG_ControleGestion,\Contrôle de gestion,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Finances.OU=HDV.O=ANNECY.T=MRY.,GG_Finances,\Contrôle de gestion,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\Taxe Urbanisme,,ThisFolderSubFoldersAndFiles
+.CN=1-TaxeUrba.OU=HDV.O=ANNECY.T=MRY.,GG_1-TaxeUrba,\Taxe Urbanisme,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction\Ducloz\Bouvier\Secours\Euros,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction\Ducloz\Bouvier\Secours,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction\Ducloz\Bouvier,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction\Ducloz,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Favre-bonvinS.OU=BONLIEU.O=ANNECY.T=MRY.,Favre-bonvinS,\bonlieu\Administration\01 - SGB SECRETARIAT,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Favre-bonvinS.OU=BONLIEU.O=ANNECY.T=MRY.,Favre-bonvinS,\bonlieu\Administration,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Favre-bonvinS.OU=BONLIEU.O=ANNECY.T=MRY.,Favre-bonvinS,\bonlieu,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PoleEnergie.OU=HDV.O=ANNECY.T=MRY.,GG_PoleEnergie,\batiment\Pôle énergie\~~~CONTROLE DES BATIMENTS~~~,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory,ReadPermissions,ChangePermissions",ThisFolderSubFoldersAndFiles
+.CN=PoleEnergie.OU=HDV.O=ANNECY.T=MRY.,GG_PoleEnergie,\batiment\Pôle énergie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PoleEnergie.OU=HDV.O=ANNECY.T=MRY.,GG_PoleEnergie,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BuzioF.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BuzioF,\juridic\COMMUN\VS Locatif,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BuzioF.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BuzioF,\juridic\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BuzioF.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BuzioF,\juridic,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=StemmelinL.OU=HDV.O=ANNECY.T=MRY.,StemmelinL,\dst\COMMUN\VALLIN FIER,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=StemmelinL.OU=HDV.O=ANNECY.T=MRY.,StemmelinL,\dst\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=StemmelinL.OU=HDV.O=ANNECY.T=MRY.,StemmelinL,\dst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Batiment.OU=HDV.O=ANNECY.T=MRY.,GG_Batiment,\batiment\Buzio\A Secure,,ThisFolderSubFoldersAndFiles
+.CN=Batiment.OU=HDV.O=ANNECY.T=MRY.,GG_Batiment,\batiment\Buzio,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Batiment.OU=HDV.O=ANNECY.T=MRY.,GG_Batiment,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BuzioF.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BuzioF,\batiment\Buzio\A Secure,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BuzioF.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BuzioF,\batiment\Buzio,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BuzioF.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,BuzioF,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\Personnels Direction\Ducloz\Bouvier\Secours\Euros\Secours2000.mdb,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\Personnels Direction\Ducloz\Bouvier\Secours\Euros,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\Personnels Direction\Ducloz\Bouvier\Secours,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\Personnels Direction\Ducloz\Bouvier,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\Personnels Direction\Ducloz,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\Personnels Direction,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PorcherotB.OU=HDV.O=ANNECY.T=MRY.,PorcherotB,\INFO\Raphael\Supp Novell,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PorcherotB.OU=HDV.O=ANNECY.T=MRY.,PorcherotB,\INFO\Raphael,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PorcherotB.OU=HDV.O=ANNECY.T=MRY.,PorcherotB,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SageP.OU=HDV.O=ANNECY.T=MRY.,SageP,\INFO\PHILIPPE\perso,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=SageP.OU=HDV.O=ANNECY.T=MRY.,SageP,\INFO\PHILIPPE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=SageP.OU=HDV.O=ANNECY.T=MRY.,SageP,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Info.OU=HDV.O=ANNECY.T=MRY.,GG_Info,\INFO\PHILIPPE\perso,,ThisFolderSubFoldersAndFiles
+.CN=Info.OU=HDV.O=ANNECY.T=MRY.,GG_Info,\INFO\PHILIPPE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Info.OU=HDV.O=ANNECY.T=MRY.,GG_Info,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\INFO\PHILIPPE\perso,,ThisFolderSubFoldersAndFiles
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\INFO\PHILIPPE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Stage_Dgre.OU=HDV.O=ANNECY.T=MRY.,Stage_Dgre,\dgre\Sandra LORGEOU,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Stage_Dgre.OU=HDV.O=ANNECY.T=MRY.,Stage_Dgre,\dgre,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=TerrierL.OU=HDV.O=ANNECY.T=MRY.,TerrierL,\dgre\Sandra LORGEOU,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=TerrierL.OU=HDV.O=ANNECY.T=MRY.,TerrierL,\dgre,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Juridic.OU=HDV.O=ANNECY.T=MRY.,GG_Juridic,\Archives\Commun,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Juridic.OU=HDV.O=ANNECY.T=MRY.,GG_Juridic,\Archives,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=FernandezC.OU=HDV.O=ANNECY.T=MRY.,FernandezC,\Archives\Fernandez,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=FernandezC.OU=HDV.O=ANNECY.T=MRY.,FernandezC,\Archives,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=ServettazM.OU=HDV.O=ANNECY.T=MRY.,ServettazM,\Archives\Servettaz,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=ServettazM.OU=HDV.O=ANNECY.T=MRY.,ServettazM,\Archives,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BouvierC.OU=HDV.O=ANNECY.T=MRY.,BouvierC,\Archives\Bouvier,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BouvierC.OU=HDV.O=ANNECY.T=MRY.,BouvierC,\Archives,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LenfantC.OU=HDV.O=ANNECY.T=MRY.,LenfantC,\Archives\Lenfant,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LenfantC.OU=HDV.O=ANNECY.T=MRY.,LenfantC,\Archives,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Veyrat_de_lachenalC.OU=HDV.O=ANNECY.T=MRY.,Veyrat_de_lachenalC,\Archives\Lenfant,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Veyrat_de_lachenalC.OU=HDV.O=ANNECY.T=MRY.,Veyrat_de_lachenalC,\Archives,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie\Hubout\Commande 2013,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie\Hubout,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel\Creche_HDV\Année 2013\2013Cuisine,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel\Creche_HDV\Année 2013,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel\Creche_HDV,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel\Creche_HDV\Année 2013\Grands,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel\Creche_HDV\Année 2013,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel\Creche_HDV,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Culturel.OU=HDV.O=ANNECY.T=MRY.,GG_Culturel,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil\Commun\Secrétariat\Agents\Dina,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil\Commun\Secrétariat\Agents,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil\Commun\Secrétariat,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil\Commun,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Rodrigues_de_AlmeidaD.OU=HDV.O=ANNECY.T=MRY.,Rodrigues_de_AlmeidaD,\etacivil,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DonyM.OU=BONLIEU.O=ANNECY.T=MRY.,DonyM,\culturel\Etudiant\BABY SITTING,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DonyM.OU=BONLIEU.O=ANNECY.T=MRY.,DonyM,\culturel\Etudiant,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DonyM.OU=BONLIEU.O=ANNECY.T=MRY.,DonyM,\culturel,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\comerart\ACARE\VIE ECONOMIQUE\Perso,,ThisFolderSubFoldersAndFiles
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\comerart\ACARE\VIE ECONOMIQUE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\comerart\ACARE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=EtienneA.OU=Iphone.OU=Comptes_Speciaux.O=ANNECY.T=MRY.,EtienneA,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Comerart.OU=HDV.O=ANNECY.T=MRY.,GG_Comerart,\comerart\ACARE\VIE ECONOMIQUE\Perso,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Comerart.OU=HDV.O=ANNECY.T=MRY.,GG_Comerart,\comerart\ACARE\VIE ECONOMIQUE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Comerart.OU=HDV.O=ANNECY.T=MRY.,GG_Comerart,\comerart\ACARE,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Comerart.OU=HDV.O=ANNECY.T=MRY.,GG_Comerart,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Adm.OU=HDV.O=ANNECY.T=MRY.,Adm,\comerart\COMMUN\DroitsVoirie\Install 2.8.0,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Adm.OU=HDV.O=ANNECY.T=MRY.,Adm,\comerart\COMMUN\DroitsVoirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Adm.OU=HDV.O=ANNECY.T=MRY.,Adm,\comerart\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Adm.OU=HDV.O=ANNECY.T=MRY.,Adm,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO\COMMUN\ARCHIVES\ACHATS\Achats FRS  2013,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO\COMMUN\ARCHIVES\ACHATS,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO\COMMUN\ARCHIVES,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Stationnement.OU=HDV.O=ANNECY.T=MRY.,GG_Stationnement,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-StatioAchats.OU=HDV.O=ANNECY.T=MRY.,GG_1-StatioAchats,\STATIO\COMMUN\ARCHIVES\ACHATS\Achats FRS  2013,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-StatioAchats.OU=HDV.O=ANNECY.T=MRY.,GG_1-StatioAchats,\STATIO\COMMUN\ARCHIVES\ACHATS,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-StatioAchats.OU=HDV.O=ANNECY.T=MRY.,GG_1-StatioAchats,\STATIO\COMMUN\ARCHIVES,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-StatioAchats.OU=HDV.O=ANNECY.T=MRY.,GG_1-StatioAchats,\STATIO\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-StatioAchats.OU=HDV.O=ANNECY.T=MRY.,GG_1-StatioAchats,\STATIO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh_Documentation.OU=HDV.O=ANNECY.T=MRY.,Drh_Documentation,\drh\Didierjean\Service gestion administrative,,ThisFolderSubFoldersAndFiles
+.CN=Drh_Documentation.OU=HDV.O=ANNECY.T=MRY.,Drh_Documentation,\drh\Didierjean,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh_Documentation.OU=HDV.O=ANNECY.T=MRY.,Drh_Documentation,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh\Didierjean\Service gestion administrative,,ThisFolderSubFoldersAndFiles
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh\Didierjean,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Drh.OU=HDV.O=ANNECY.T=MRY.,GG_Drh,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie\Hubout\Commande 2014,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie\Hubout,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Comerart.OU=HDV.O=ANNECY.T=MRY.,GG_Comerart,\comerart\Alili\Perso,,ThisFolderSubFoldersAndFiles
+.CN=Comerart.OU=HDV.O=ANNECY.T=MRY.,GG_Comerart,\comerart\Alili,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Comerart.OU=HDV.O=ANNECY.T=MRY.,GG_Comerart,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Bertet-pilonS.OU=HDV.O=ANNECY.T=MRY.,Bertet-pilonS,\comerart\Bertet-Pilon,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory,ReadPermissions,ChangePermissions",ThisFolderSubFoldersAndFiles
+.CN=Bertet-pilonS.OU=HDV.O=ANNECY.T=MRY.,Bertet-pilonS,\comerart,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Everybody.O=ANNECY.T=MRY.,GG_Everybody,\Modeles,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PhilippeM.OU=HDV.O=ANNECY.T=MRY.,PhilippeM,\drh\Philippe,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=PhilippeM.OU=HDV.O=ANNECY.T=MRY.,PhilippeM,\drh,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie\Hubout\Commande 2015,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie\Hubout,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DelannayA.OU=PST.O=ANNECY.T=MRY.,DelannayA,\voirie,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Intervalle.OU=HDV.O=ANNECY.T=MRY.,GG_1-Intervalle,\social\Personnels Pôle Solidarités\Intervalle,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Intervalle.OU=HDV.O=ANNECY.T=MRY.,GG_1-Intervalle,\social\Personnels Pôle Solidarités,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Intervalle.OU=HDV.O=ANNECY.T=MRY.,GG_1-Intervalle,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Social.OU=HDV.O=ANNECY.T=MRY.,GG_Social,\social\COMMUN\Social2000.mdb,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Social.OU=HDV.O=ANNECY.T=MRY.,GG_Social,\social\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Social.OU=HDV.O=ANNECY.T=MRY.,GG_Social,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Social.OU=HDV.O=ANNECY.T=MRY.,GG_Social,\social\modeles,"Read,ReadAndExecute,Synchronize,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Social.OU=HDV.O=ANNECY.T=MRY.,GG_Social,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BillaudC.OU=HDV.O=ANNECY.T=MRY.,BillaudC,\social\modeles\Personnels Direction\Billaud,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=BillaudC.OU=HDV.O=ANNECY.T=MRY.,BillaudC,\social\modeles\Personnels Direction,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BillaudC.OU=HDV.O=ANNECY.T=MRY.,BillaudC,\social\modeles,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=BillaudC.OU=HDV.O=ANNECY.T=MRY.,BillaudC,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=DefontaineJ.OU=HDV.O=ANNECY.T=MRY.,DefontaineJ,\INFO\Jean-Baptiste,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=DefontaineJ.OU=HDV.O=ANNECY.T=MRY.,DefontaineJ,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-InfoDemat.OU=HDV.O=ANNECY.T=MRY.,GG_1-InfoDemat,\INFO\Echanges dématérialisés,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-InfoDemat.OU=HDV.O=ANNECY.T=MRY.,GG_1-InfoDemat,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Sherpa.OU=HDV.O=ANNECY.T=MRY.,GG_1-Sherpa,\INFO\Projets Sherpa,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Sherpa.OU=HDV.O=ANNECY.T=MRY.,GG_1-Sherpa,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Urba-ADAP.OU=HDV.O=ANNECY.T=MRY.,GG_1-Urba-ADAP,\dst\COMMUN\AD'AP,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Urba-ADAP.OU=HDV.O=ANNECY.T=MRY.,GG_1-Urba-ADAP,\dst\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Urba-ADAP.OU=HDV.O=ANNECY.T=MRY.,GG_1-Urba-ADAP,\dst,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PreventionTranquillite.OU=HDV.O=ANNECY.T=MRY.,GG_PreventionTranquillite,\Prévention Tranquillité\Janssens\Privé,,ThisFolderSubFoldersAndFiles
+.CN=PreventionTranquillite.OU=HDV.O=ANNECY.T=MRY.,GG_PreventionTranquillite,\Prévention Tranquillité\Janssens,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=PreventionTranquillite.OU=HDV.O=ANNECY.T=MRY.,GG_PreventionTranquillite,\Prévention Tranquillité,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Social-Pole-Direction.OU=HDV.O=ANNECY.T=MRY.,GG_Social-Pole-Direction,\social\Personnels Direction,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Social-Pole-Direction.OU=HDV.O=ANNECY.T=MRY.,GG_Social-Pole-Direction,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-BatCC-2.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatCC-2,\batiment\Nouvelle CC\Suivi budgétaire quotidien 2016-2017\dossier suivi Cathy  2016-2017,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-BatCC-2.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatCC-2,\batiment\Nouvelle CC\Suivi budgétaire quotidien 2016-2017,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-BatCC-2.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatCC-2,\batiment\Nouvelle CC,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-BatCC-2.OU=HDV.O=ANNECY.T=MRY.,GG_1-BatCC-2,\batiment,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MonardA.OU=HDV.O=ANNECY.T=MRY.,MonardA,\INFO\COMMUN\Marchés\Infra_2016\Systèmes d'impression,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=MonardA.OU=HDV.O=ANNECY.T=MRY.,MonardA,\INFO\COMMUN\Marchés\Infra_2016,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MonardA.OU=HDV.O=ANNECY.T=MRY.,MonardA,\INFO\COMMUN\Marchés,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MonardA.OU=HDV.O=ANNECY.T=MRY.,MonardA,\INFO\COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=MonardA.OU=HDV.O=ANNECY.T=MRY.,MonardA,\INFO,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CrevoisierS.OU=HDV.O=ANNECY.T=MRY.,CrevoisierS,\finances\01_COMMUN\21. ANALYSES FIN. & PROJETS\21.1 Projet Commune Nouvelle\21.1.1 CN à 6\21.1.1.3 Données communes\21.1.1.3.6 Seynod\2. Données budgétaires\1. CA,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=CrevoisierS.OU=HDV.O=ANNECY.T=MRY.,CrevoisierS,\finances\01_COMMUN\21. ANALYSES FIN. & PROJETS\21.1 Projet Commune Nouvelle\21.1.1 CN à 6\21.1.1.3 Données communes\21.1.1.3.6 Seynod\2. Données budgétaires,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CrevoisierS.OU=HDV.O=ANNECY.T=MRY.,CrevoisierS,\finances\01_COMMUN\21. ANALYSES FIN. & PROJETS\21.1 Projet Commune Nouvelle\21.1.1 CN à 6\21.1.1.3 Données communes\21.1.1.3.6 Seynod,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CrevoisierS.OU=HDV.O=ANNECY.T=MRY.,CrevoisierS,\finances\01_COMMUN\21. ANALYSES FIN. & PROJETS\21.1 Projet Commune Nouvelle\21.1.1 CN à 6\21.1.1.3 Données communes,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CrevoisierS.OU=HDV.O=ANNECY.T=MRY.,CrevoisierS,\finances\01_COMMUN\21. ANALYSES FIN. & PROJETS\21.1 Projet Commune Nouvelle\21.1.1 CN à 6,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CrevoisierS.OU=HDV.O=ANNECY.T=MRY.,CrevoisierS,\finances\01_COMMUN\21. ANALYSES FIN. & PROJETS\21.1 Projet Commune Nouvelle,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CrevoisierS.OU=HDV.O=ANNECY.T=MRY.,CrevoisierS,\finances\01_COMMUN\21. ANALYSES FIN. & PROJETS,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CrevoisierS.OU=HDV.O=ANNECY.T=MRY.,CrevoisierS,\finances\01_COMMUN,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=CrevoisierS.OU=HDV.O=ANNECY.T=MRY.,CrevoisierS,\finances,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-Fin.OU=HDV.O=ANNECY.T=MRY.,GG_1-Fin,\ECHANGES\SITUATIONS MENSUELLES BUDGETAIRE (ne pas supprimer),"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-Fin.OU=HDV.O=ANNECY.T=MRY.,GG_1-Fin,\ECHANGES,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Canicule.OU=HDV.O=ANNECY.T=MRY.,Canicule,\social\modeles\Personnels Direction\Bouvier\Secours\Euros,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=Canicule.OU=HDV.O=ANNECY.T=MRY.,Canicule,\social\modeles\Personnels Direction\Bouvier\Secours,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Canicule.OU=HDV.O=ANNECY.T=MRY.,Canicule,\social\modeles\Personnels Direction\Bouvier,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Canicule.OU=HDV.O=ANNECY.T=MRY.,Canicule,\social\modeles\Personnels Direction,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Canicule.OU=HDV.O=ANNECY.T=MRY.,Canicule,\social\modeles,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=Canicule.OU=HDV.O=ANNECY.T=MRY.,Canicule,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=KiefferV.OU=HDV.O=ANNECY.T=MRY.,KiefferV,\social\modeles\Personnels Direction\Bouvier\Secours\Euros,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=KiefferV.OU=HDV.O=ANNECY.T=MRY.,KiefferV,\social\modeles\Personnels Direction\Bouvier\Secours,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=KiefferV.OU=HDV.O=ANNECY.T=MRY.,KiefferV,\social\modeles\Personnels Direction\Bouvier,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=KiefferV.OU=HDV.O=ANNECY.T=MRY.,KiefferV,\social\modeles\Personnels Direction,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=KiefferV.OU=HDV.O=ANNECY.T=MRY.,KiefferV,\social\modeles,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=KiefferV.OU=HDV.O=ANNECY.T=MRY.,KiefferV,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\modeles\Personnels Direction\Bouvier\Secours\Euros\Secours2000.mdb,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\modeles\Personnels Direction\Bouvier\Secours\Euros,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\modeles\Personnels Direction\Bouvier\Secours,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\modeles\Personnels Direction\Bouvier,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\modeles\Personnels Direction,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social\modeles,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=LefebvreS.OU=NOVEL.O=ANNECY.T=MRY.,LefebvreS,\social,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction\Bouvier\Secours,"Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory",ThisFolderSubFoldersAndFiles
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction\Bouvier,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social\Personnels Direction,"ReadAndExecute,Synchronize",ThisFolderOnly
+.CN=1-SocialSecours.OU=HDV.O=ANNECY.T=MRY.,GG_1-SocialSecours,\social,"ReadAndExecute,Synchronize",ThisFolderOnly

@@ -1,0 +1,72 @@
+chemin,ayant-droits,droits
+/,['Info'],rwcefm
+/Batiment,['Batiment-Etudes'],rwcefm
+/Batiment,['PetrierJ'],rf
+/Bonlieu,['FridA'],rwcefm
+/Bonlieu,['BouissonnieJ'],rf
+/Bonlieu,['Bonlieu_Tech'],rf
+/Communication,['Communic'],rwcefm
+/ECHANGES,['Everybody'],rwcefm
+/OpenOffice,['Communic'],rwcefm
+/OpenOffice,['Info'],rwcefm
+/Photos_Commerce_Urba,['Comerart'],rwcefm
+/Photos_Commerce_Urba,['Info'],rwcefm
+/Photos_Commerce_Urba,['Urba'],rwcefm
+/SIGDU,['PetrierJ'],rwcefm
+/SIGDU,['Sigdu'],rwcefm
+/Sapa,['Info'],rwcefm
+/Sapa,['Sapa'],rf
+/Voirie,['1-VoirieEtudes'],rwcefm
+/Voirie,['Voirie'],rf
+/groupeme,['Groupement'],rf
+/jardins,['Jardins'],rwceafm
+/DRH,['Drh'],rwcefm
+/source,['Everybody'],rf
+/Marchés,['Marches'],rwcefm
+/Batiment/Photothèque Bâtiments &  PLANS,['Batiment-Etudes'],rwcefm
+/Batiment/Photothèque Bâtiments &  PLANS,['1-BatPhototout'],rwcefm
+/Batiment/Photothèque Bâtiments &  PLANS,['1-BatPhotoRestrein'],rf
+/Communication/ECHARD,['EchardI'],rwcefm
+/Communication/de Fossey,['Mathieu_de_FosseyP'],rwcefm
+/Communication/Emilie,['BulleE'],rwcefm
+/Communication/Quentin,['TrillotQ'],rwcefm
+/Etat-Civil/Affaires funéraires,['FeugereD1'],rwcefm
+/Etat-Civil/sercl,['Etacivil'],rwcefm
+/SIGDU/Données Géographiques de Référence,['TrillotQ'],rf
+/Sapa/Commun,['Stagiaire_Sapa'],rwcefm
+/Sapa/Commun,['BirotA'],rwcefm
+/Sapa/Commun,['BenchetritI'],rwcefm
+/Sapa/Commun,['DeloryS'],rwcefm
+/Sapa/Jourdaine,['JourdaineM'],rwcefm
+/Sapa/Jourdaine,['Sapa-Admin'],
+/Sapa/Ritz_Animation,['BenchetritI'],wcefm
+/Sapa/Ritz_Animation,['ChapuisL'],wcefm
+/Sapa/Ritz_Animation,['MorelF'],wcefm
+/Sapa/Ritz_Animation,['Sapa-Admin'],f
+/Sapa/Ritz_Sport,['Blanchart-DominguezC'],rwcefm
+/Sapa/Ritz_Sport,['Sapa-Admin'],rf
+/Sapa/Birot,['BirotA'],rwcefm
+/Sapa/Commun Administratif,['MattanaA'],rwcefm
+/Sapa/Commun Administratif,['Stagiaire_Sapa'],rwcefm
+/Sapa/Commun Administratif,['DeloryS'],rwcefm
+/Sapa/Commun Administratif,['BirotA'],rwcefm
+/Sapa/Mattana,['MattanaA'],rwcefm
+/Sapa/Morel,['MorelF'],rwcefm
+/Voirie/Bureau-etudes,['1-VoirieEtudes2'],rwcefm
+/groupeme/De_Luca,['ChaumeryE'],rwcefm
+/groupeme/Deperdussin,['DeperdussinE'],rwcefm
+/groupeme/Lo_Presti,['Lo_PrestiS'],rwcefm
+/jardins/BAUDIER,['BaudierF'],rwcefm
+/jardins/CAMUZAT,['CamuzatS'],rwcefm
+/jardins/ENJALBERT,['EnjalbertM'],rwcefm
+/jardins/Ferlin,['FerlinC'],rwcefm
+/jardins/GILLER,['GillerF'],rwcefm
+/jardins/Roy,['RoyP'],rwcefm
+/jardins/Cimetière Iles,['LarosaR'],rwcefm
+/jardins/Cimetière Iles,['BeriniG'],rwcefm
+/jardins/Cimetière Iles,['RobineB'],rwcefm
+/jardins/Robine,['RobineB'],rwcefm
+/jardins/Marchienne,['MarchienneD'],rwcefm
+/jardins/Ricard,['RicardL'],rwcefm
+/Sapa/Commun SAPA,['Sapa'],rwcefm
+/jardins/Robine/Évaluation,['FerlinC'],rwcefm

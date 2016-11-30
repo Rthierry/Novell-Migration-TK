@@ -1,0 +1,151 @@
+['ayant-droits', "['Info']", "['Agenda-21']", "['Arcadium']", "['1-Arcadiumgestion']", "['Cadre-Vie']", "['Everybody']", "['1-EPI']", "['Info']", "['1-Syndic']", "['1-Logistique']", "['PropreteUrbaine']", "['PellicierC']", "['PreventionTranquillite']", "['Manufacture']", "['Cabinet']", "['1-DirCommerce']", "['Creche_HDV']", "['Culturel']", "['Dgre']", "['Drh']", "['ControleGestion']", "['FeteduLac']", "['Secregal']", "['NivetM']", "['Sports']", "['Voirie']", "['1-voiriexclu']", "['LethiaisJ']", "['ControleGestion']", "['MaitriasE']", "['BezziS']", "['BelS']", "['Cadre-Vie']", "['GroupeSalubrite']", "['DVQSP']", "['MussonP']", "['Reprographie']", "['Reprographie']", "['Everybody']", "['MondiniC']", "['Reprographie']", "['WinieskiF']", "['Everybody']", "['Info']", "['Info']", "['LepetitI']", "['Everybody']", "['CadouxL']", "['DirectionFetes']", "['Fetes']", "['1-LogistiqueDir']", "['Fetes']", "['Fetes']", "['DirectionFetes']", "['Atelier_Sle']", "['DepresV']", "['DuverneyA']", "['Fetes']", "['PithoisK']", "['Medecine']", "['Everybody']", "['Everybody']", "['FischbachG']", "['PropreteUrbaine']", "['VittozM']", "['TellierM']", "['FranconC']", "['AchouriN']", "['Stationnement']", "['BarriquandH']", "['1-Statio-Commun']", "['Stationnement']", "['DupontM']", "['FolJF']", "['1-ParkingRegie']", "['LevantJ']", "['pc_parkings']", "['Stationnement']", "['1-Statio-Commun']", "['RotaX']", "['1-ParkingTech']", "['ScaramucciP']", "['GandonE']", "['1-Statio-secretariat']", "['1-Statio-exploitation']", "['Stationnement']", "['1-PrevTranq']", "['GacC']", "['PreventionTranquillite']", "['1-PrevTranq2']", "['Brigade_environnement']", "['JanssensD']", "['DonzierH']", "['1-BatDiagn']", "['Manufacture']", "['1-BatMenage']", "['DaudinC']", "['RevilL']", "['1-BatCompt']", "['PoleEnergie']", "['CousinS']", "['SenetY']", "['FatmiT']", "['1-EnergiePlom']", "['1-Energieelec']", "['1-EnergieChauff']", "['1-BatClefs']", "['BelhadjA']", "['CaundayS']", "['BriffodN']", "['SironiD']", "['1-BatCC']", "['MilletN']", "['Batiment']", "['RevilL']", "['BuzioF']", "['PetrierJ']", "['1-Bat']", "['1-Bat']", "['Batiment']", "['SenetY']", "['CollettiF']", "['CollettiF']", "['FridA']", "['BouissonnieJ']", "['LameracV']", "['Chavasse-fretazK']", "['1-BonlieuSec']", "['1-FDL']", "['Bonlieu_stagiaire']", "['Bonlieu']", "['1-BonlieuAdmin']", "['1-BonlieuRestrein']", "['Favre-bonvinS']", "['SaulnierC']", "['CheffiE']", "['LebeauJ']", "['LebeauJ']", "['Cabinet-Repertoire']", "['YamaniA']", "['FournierM']", "['HerlemontS']", "['Cabinet']", "['1-CabinetSalles']", "['Comerart']", "['AliliW']", "['BouissonnieJ']", "['AuclairS']", "['DonzierH']", "['AliliW']", "['AliliW']", "['1-Placiers']", "['EtienneA']", "['1-Droitvoirie']", "['DelandeA']", "['DenhezA1']", "['ChenuB']", "['Culturel']", "['1-CrecheHDV']", "['1-Bij']", "['Martins_da_cunhaA']", "['1-Creche']", "['MangioneS']", "['Culturel']", "['VernetS']", "['CaullireauC']", "['LimassetC']", "['MeoM']", "['ContatS']", "['1-Ram']", "['BlampeyC']", "['FournilD']", "['BlairvacqM']", "['DelayeR']", "['MaquenhenJ']", "['Creche_HDV']", "['LecomteS']", "['Onde-ManelD']", "['Dgre']", "['1-Dgre-FDL']", "['TerrierL']", "['KillD']", "['TerrierL']", "['1-DGRE-HDV']", "['AlonsoE']", "['CombeV']", "['ChapapriaC']", "['VernetP']", "['Bochet-CadetJ']", "['Drh']", "['ArtaudS']", "['MassetI']", "['CottonC']", "['MunierC']", "['DidierjeanE']", "['BarbierM']", "['Bochet-CadetJ']", "['ChappazS']", "['ColombierJ']", "['PithoisK']", "['Le_DrogoffG']", "['Drh']", "['Secretariat_Gestion']", "['Bochet-CadetJ']", "['Drh']", "['CanchyA']", "['ChettabiC']", "['CloezJ']", "['DucruetD']", "['Drh']", "['DucruetD']", "['DuverneyM']", "['FallettiC']", "['BarbierM']", "['LegainS']", "['MaheG']", "['MesleC']", "['WrobelS']", "['Paccard-GuillemaudJ']", "['PerrillatG']", "['PinazoM']", "['PonceletE']", "['ReyF']", "['Stage_DRH']", "['Drh']", "['Drh']", "['LegainS']", "['ZaramellaJ']", "['Drh']", "['MeoM']", "['KrattingerE']", "['DumermuthC']", "['BoivinV']", "['EtienneA']", "['Drh']", "['LehouxM']", "['MunierC']", "['CottonC']", "['Secretaire_Medecine']", "['FerlinC']", "['IsouxC']", "['Le_DrogoffG']", "['BoivinV']", "['Laverie']", "['ChmamadiK']", "['ClavelJ']", "['1-Enseigne']", "['1-Plaine']", "['Teppes']", "['SalamatG']", "['AvundoM']", "['ChmamadiK']", "['SommerfeldM']", "['PilliardS']", "['ModicaS']", "['RouxE']", "['DenhezA']", "['ChmamadiK']", "['RachexM']", "['SommerfeldM']", "['Enseigne']", "['FranceschiniC']", "['Goddet-ChoplinO']", "['MasternakC']", "['HollingueD']", "['Rodrigues_de_AlmeidaD']", "['Etacivil']", "['ETC-SRCP']", "['Coureux-hamonS']", "['Favre-bonvinS']", "['Etacivil']", "['Rodrigues_de_AlmeidaD']", "['Etacivil']", "['EtienneA']", "['Finances']", "['1-Finances']", "['GoddetL']", "['BenmbarekC']", "['DucheneC']", "['Hamdi_CherifS']", "['MaitriasE']", "['ChaoudourL']", "['MaitriasE']", "['YvraitC']", "['BaratS']", "['ControleGestion']", "['Finances']", "['1-Fluor']", "['Finances']", "['CohardS']", "['SanchezL']", "['CoelhoA']", "['NiveleauA']", "['1-ArchivesDir']", "['1-Archives']", "['NyaultN']", "['Veyrat_de_lachenalC']", "['TelboisM']", "['Juridic']", "['DumonteilM']", "['GazonM']", "['FatmiT']", "['BenitoJ']", "['PerrinT']", "['Mulatier-GachetN']", "['DirectionFetes']", "['SwistE']", "['BournelS']", "['1-Parcst']", "['DucampH']", "['JehanH']", "['PerrillatG']", "['ClavelL']", "['FatmiT']", "['SadaouiJ']", "['CollombM']", '[]', "['Police']", "['1-Fourriere']", "['JallifierJ']", "['Police']", "['BelmonteR']", "['BelmonteR']", "['Police']", "['MisseM']", "['PreventionTranquillite']", "['1-PrevOpe']", "['TerreG']", "['GrimaultC']", "['Secregal']", "['Secregal']", "['ControleGestion']", "['CrevoisierS']", "['MoresiM']", "['MaitriasE']", "['CanongeP']", "['MaigaM']", "['1-Social-AS']", "['1-Jos-Sba']", "['Social']", "['1-Jos-Sba']", "['VioletB']", "['CrestiaR']", "['LatbiN']", "['Social-Pole-Solidarites']", "['1-Social-Seniors']", "['Social-Pole-Promotion-Sante']", "['Social']", "['KiefferV']", "['JarnierM']", "['Sports']", "['Parc_des_sports']", "['1-ParcSports']", "['TetevuideS']", "['RossetS']", "['StreiffA']", "['SuttoA']", "['StemmelinL']", "['FritschmannV']", "['JournetD']", "['Voirie']", "[u'1-Arret\\xe9Voirie']", "['Veyrat_de_lachenalJ']", "['Voirie']", "['BeauquisG']", "['BeauquisG']", "['BogdanoffM']", "['BrardJ']", "['Voirie']", "['DelannayA']", "['PropreteUrbaine']", "['Imalux']", "['1-VoirieFeux']", "['JournetD']", "['KrasnoplakhtoffJ']", "['LucchesiA']", "['1-VoireDomPublic']", "['DelannayA']", "['PetrierJ']", "['PerrotM']", "['PoleEnergie']", "['1-SocialSecours']", "['Everybody']", "['ChautainC']", "['PortesR']", "['MussonP']", "['Juridic']", "['ControleGestion']", "['Finances']", "['Everybody']", "['1-TaxeUrba']", "['1-SocialSecours']", "['Favre-bonvinS']", "['PoleEnergie']", "['BuzioF']", "['StemmelinL']", "['Batiment']", "['BuzioF']", "['LefebvreS']", "['PorcherotB']", "['SageP']", "['Info']", "['Everybody']", "['Stage_Dgre']", "['TerrierL']", "['Juridic']", "['FernandezC']", "['ServettazM']", "['BouvierC']", "['LenfantC']", "['Veyrat_de_lachenalC']", "['DelannayA']", "['Culturel']", "['Culturel']", "['Rodrigues_de_AlmeidaD']", "['DonyM']", "['EtienneA']", "['Comerart']", "['Adm']", "['Stationnement']", "['1-StatioAchats']", "['Drh_Documentation']", "['Drh']", "['DelannayA']", "['Comerart']", "['Bertet-pilonS']", "['Everybody']", "['PhilippeM']", "['DelannayA']", "['1-Intervalle']", "['Social']", "['Social']", "['BillaudC']", "['DefontaineJ']", "['1-InfoDemat']", "['1-Sherpa']", "['1-Urba-ADAP']", "['PreventionTranquillite']", "['Social-Pole-Direction']", "['1-BatCC-2']", "['MonardA']", "['CrevoisierS']", "['1-Fin']", "['Canicule']", "['KiefferV']", "['LefebvreS']", "['1-SocialSecours']"]
+{'ayant-droits': "['FontaineJ']", 'chemin': '/cabinet/FONTAINE', 'droits': 'RWCEMF'}
+{'ayant-droits': "['AubryA']", 'chemin': '/cabinet/Aubry', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GuttierezE']", 'chemin': '/cabinet/Guttiere', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GarcetteM']", 'chemin': '/cabinet/Muriel', 'droits': 'RWCEMF'}
+{'ayant-droits': "['OdenS']", 'chemin': '/cabinet/Sophie O', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Camping']", 'chemin': '/comerart/COMMUN', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GrimaudM']", 'chemin': '/comerart/Guilarmois', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GuilarmoisP']", 'chemin': '/comerart/Guilarmois', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GrimaudM']", 'chemin': '/comerart/Grimaud', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MagnetteC']", 'chemin': '/culturel/Magnette', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Gillet-GarnierM']", 'chemin': '/culturel/GILLET', 'droits': 'RWCEMF'}
+{'ayant-droits': "['DenyC']", 'chemin': '/culturel/Deny', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BouetB']", 'chemin': '/culturel/Bouet', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MaffioliG']", 'chemin': '/culturel/Maffioli', 'droits': 'RWCEMF'}
+{'ayant-droits': "['ZenglerI']", 'chemin': '/culturel/Zengler', 'droits': 'RWCEMF'}
+{'ayant-droits': "['ManginV']", 'chemin': '/culturel/Mangin', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PavesiS']", 'chemin': '/dst', 'droits': 'RF'}
+{'ayant-droits': "['EffranceyJ']", 'chemin': '/dst/EFFRANCE', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Dst']", 'chemin': '/dst/COMMUN', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BasuyauxO']", 'chemin': '/dst/COMMUN/Direction Voirie (E.T.)', 'droits': 'RWCEMF'}
+{'ayant-droits': "['VigourouxF']", 'chemin': '/dst/Vigouroux', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Dst']", 'chemin': '/dst/modeles', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Cardona-RenaudF']", 'chemin': '/enseigne/Clavel', 'droits': 'RWCEMF'}
+{'ayant-droits': "['ThouzetC']", 'chemin': '/enseigne/Cardona', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Cardona-RenaudF']", 'chemin': '/enseigne/Cardona', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MarcoJ']", 'chemin': '/enseigne/Marco', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GarcinG']", 'chemin': '/enseigne/Garcin', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Social-signatures']", 'chemin': '/social/GWISE/COMMUN/SIGNATUR', 'droits': 'RF'}
+{'ayant-droits': "['BouvierM']", 'chemin': '/social/Personnels Direction/Ducloz/Bouvier', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PeccouxA']", 'chemin': '/social/Personnels P\xc3\xb4le Seniors/Peccoux', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MarcoC']", 'chemin': '/DVQSP/Lathoud', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Telegil']", 'chemin': '/XP-Manager', 'droits': 'F'}
+{'ayant-droits': "['Bonlieu_Tech']", 'chemin': '/bonlieu/Commun', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BetrixN']", 'chemin': '/dgre/Betrix', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Accueil_Standard']", 'chemin': '/dgre/Accueil_Commun', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Accueil_Mairie']", 'chemin': '/dgre/Accueil_Commun', 'droits': 'RWCEMF'}
+{'ayant-droits': "['ArnouxD']", 'chemin': '/dgre/Arnoux', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BaudrotC']", 'chemin': '/Cadre de Vie/Baudrot', 'droits': 'RWCEMF'}
+{'ayant-droits': "['LyardD']", 'chemin': '/Cadre de Vie/LYARD', 'droits': 'RWCEMF'}
+{'ayant-droits': "['AugayY']", 'chemin': '/Cadre de Vie/Augay', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BouvierM1']", 'chemin': '/Cadre de Vie/LYARD/BouvierM', 'droits': 'RWCEMF'}
+{'ayant-droits': "['RochaixC']", 'chemin': '/Cadre de Vie/ROCHAIX', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Marches']", 'chemin': '/marches', 'droits': 'RF'}
+{'ayant-droits': "['GonthierF']", 'chemin': '/finances/Gonthier', 'droits': 'RWCEMF'}
+{'ayant-droits': "['LeroyI']", 'chemin': '/finances/Leroy', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BrousseaudM']", 'chemin': '/finances/Brousseaud', 'droits': 'RWCEMF'}
+{'ayant-droits': "['RavnakC']", 'chemin': '/finances/Ravnak', 'droits': 'RWCEMF'}
+{'ayant-droits': "['LanternierR']", 'chemin': '/Archives/PIERRE', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BrunierC']", 'chemin': '/juridic/BRUNIER', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MartinC1']", 'chemin': '/juridic/MARTINCH', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MauboussinB']", 'chemin': '/juridic/Mauboussin', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PachodS']", 'chemin': '/juridic/Pachod', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PonzaB']", 'chemin': '/juridic/Ponza', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Perrillat-boiteuxC']", 'chemin': '/marches/PERRILLAT', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BrunS']", 'chemin': '/marches/BRUN', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MonniotO']", 'chemin': '/marches/Monniot', 'droits': 'RWCEMF'}
+{'ayant-droits': "['CartierC']", 'chemin': '/marches/CARTIER', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Marches']", 'chemin': '/marches/COMMUN', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Marches']", 'chemin': '/marches/Sequestre', 'droits': 'RWCEMF'}
+{'ayant-droits': "['ImbertN']", 'chemin': '/police/Imbert', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BonaventureF']", 'chemin': '/police/Bonaventure F', 'droits': 'RWCEMF'}
+{'ayant-droits': "['ImbertN']", 'chemin': '/police/Bonaventure F', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Directio']", 'chemin': '/directio', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Quartier']", 'chemin': '/quartier', 'droits': 'RF'}
+{'ayant-droits': "['BaldacchinoD']", 'chemin': '/STATIO/BALDACCHINO', 'droits': 'RWCEMF'}
+{'ayant-droits': "['CharmoyD']", 'chemin': '/STATIO/CHARMOY', 'droits': 'RWCEMF'}
+{'ayant-droits': "['LafayJ']", 'chemin': '/STATIO/LAFAY', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Robertl']", 'chemin': '/STATIO/ROBERT', 'droits': 'RWCEMF'}
+{'ayant-droits': "['VernexV']", 'chemin': '/STATIO/VERNEX', 'droits': 'RWCEMF'}
+{'ayant-droits': "['HarcouetM']", 'chemin': '/directio/Harcouet', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PitollatC']", 'chemin': '/directio/Harcouet/restauration municipale/Indicateurs de gestion', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GenandM']", 'chemin': '/secregal/GENAND', 'droits': 'RWCEMF'}
+{'ayant-droits': "['DepollierN']", 'chemin': '/Contr\xc3\xb4le de gestion/DEPOLLIER', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Quartier']", 'chemin': '/quartier/COMMUN', 'droits': 'RWCEMF'}
+{'ayant-droits': "['LallierR']", 'chemin': '/quartier/LALLIER', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Quartier']", 'chemin': '/quartier/GWISE', 'droits': 'RWCMFA'}
+{'ayant-droits': "['Quartier']", 'chemin': '/quartier/modeles', 'droits': 'RWCEMF'}
+{'ayant-droits': "['FolB']", 'chemin': '/sports/FOL B', 'droits': 'RWCEMF'}
+{'ayant-droits': "['CarrierH']", 'chemin': '/sports/CARRIER', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Urba']", 'chemin': '/urba', 'droits': 'RF'}
+{'ayant-droits': "['Sigdu']", 'chemin': '/sigdu', 'droits': 'RF'}
+{'ayant-droits': "['ParcST']", 'chemin': '/parcst', 'droits': 'RF'}
+{'ayant-droits': "['BouvryM']", 'chemin': '/batiment/BOUVRY', 'droits': 'RWCEMF'}
+{'ayant-droits': "['LachauxF']", 'chemin': '/batiment/LACHAUX', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GarinB']", 'chemin': '/batiment/GARIN', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PougetF']", 'chemin': '/batiment/POUGET', 'droits': 'RWCEMF'}
+{'ayant-droits': "['CrochetS']", 'chemin': '/batiment/CROCHET', 'droits': 'RWCEMF'}
+{'ayant-droits': "['ChatelV']", 'chemin': '/batiment/Chatel', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PernoudP']", 'chemin': '/batiment/PERNOUD', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GehinD']", 'chemin': '/batiment/CHEDECAL', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Urba']", 'chemin': '/urba/commun', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GodartO']", 'chemin': '/urba/GODART', 'droits': 'RWCEMF'}
+{'ayant-droits': "['LaugierE']", 'chemin': '/urba/LAUGIER', 'droits': 'RWCEMF'}
+{'ayant-droits': "['DevauxE']", 'chemin': '/urba/DEVAUX', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GuerinC']", 'chemin': '/urba/Guerin', 'droits': 'RWCEMF'}
+{'ayant-droits': "['JousselinP']", 'chemin': '/urba/JOUSSELIN', 'droits': 'RWCEMF'}
+{'ayant-droits': "['AurieresM']", 'chemin': '/urba/Aurieres', 'droits': 'RWCEMF'}
+{'ayant-droits': "['CamareI']", 'chemin': '/urba/Camare', 'droits': 'RWCEMF'}
+{'ayant-droits': "['LambertF']", 'chemin': '/urba/LAMBERT', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Urba']", 'chemin': '/urba/GWISE', 'droits': 'RWCMF'}
+{'ayant-droits': "['Urba']", 'chemin': '/urba/modeles', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MichaudP']", 'chemin': '/Propret\xc3\xa9 Urbaine/MICHAUD', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MichaudP']", 'chemin': '/Propret\xc3\xa9 Urbaine/MICHAUD/FINANCE', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MichaudP']", 'chemin': '/Propret\xc3\xa9 Urbaine/MICHAUD/RH', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MichaudP']", 'chemin': '/Propret\xc3\xa9 Urbaine/MICHAUD/LOCAUX', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PavesiS']", 'chemin': '/voirie/PAVESI', 'droits': 'RWCEMF'}
+{'ayant-droits': "['ThibaultJ']", 'chemin': '/voirie/THIBAULT', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PetitA']", 'chemin': '/voirie/PETIT', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BasuyauxO']", 'chemin': '/voirie/Basuyaux', 'droits': 'RWCEMF'}
+{'ayant-droits': "['HuboutD']", 'chemin': '/voirie/VOIRIE-ENTRETIEN', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GillerF']", 'chemin': '/voirie/Marcow', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Voirie-Eclairage']", 'chemin': '/voirie/Pouzol Michel', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PouzolM']", 'chemin': '/voirie/Pouzol Michel', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BarnabaM']", 'chemin': '/voirie/Barnaba', 'droits': 'RWCEMF'}
+{'ayant-droits': "['CassorlaM']", 'chemin': '/Propret\xc3\xa9 Urbaine/CASSORLA', 'droits': 'RWCEMF'}
+{'ayant-droits': "['HuboutD']", 'chemin': '/voirie/Hubout', 'droits': 'RWCEMF'}
+{'ayant-droits': "['DecarrozY']", 'chemin': '/voirie/Decarroz', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PEL-Auteurs']", 'chemin': '/PEL', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PEL']", 'chemin': '/PEL', 'droits': 'RF'}
+{'ayant-droits': "['Urba']", 'chemin': '/Liste Syndics Vieille Ville Autorisations de Travaux', 'droits': 'RWCEMF'}
+{'ayant-droits': "['AdministrationParc']", 'chemin': '/parcst/Mulatier', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BerthetP']", 'chemin': '/parcst/Mulatier/LOGISTIQUE EVENEMENTS/COURRIER', 'droits': 'RWCEMF'}
+{'ayant-droits': "['AdministrationParc']", 'chemin': '/parcst/Perrin', 'droits': 'RWCEMF'}
+{'ayant-droits': "['AdministrationParc']", 'chemin': '/parcst/Goddet', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BernollinT']", 'chemin': '/parcst/Bernollin', 'droits': 'RWCEMF'}
+{'ayant-droits': "['AdministrationParc']", 'chemin': '/parcst/PARC-AUTO', 'droits': 'RWCEMF'}
+{'ayant-droits': "['AdministrationParc']", 'chemin': '/parcst/WOILLET', 'droits': 'RWCEMF'}
+{'ayant-droits': "['AdministrationParc']", 'chemin': '/parcst/ATELIER', 'droits': 'RWCEMF'}
+{'ayant-droits': "['DeflinV']", 'chemin': '/parcst/Deflin', 'droits': 'RWCEMF'}
+{'ayant-droits': "['ParcST']", 'chemin': '/parcst/modeles', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Parcatal']", 'chemin': '/parcst/Atal', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Sigdu']", 'chemin': '/sigdu/Commun', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GagicA']", 'chemin': '/sigdu/Gagic', 'droits': 'RWCEMF'}
+{'ayant-droits': "['ParisP']", 'chemin': '/sigdu/Paris', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PaccoretP']", 'chemin': '/sigdu/Paccoret', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MarchalC']", 'chemin': '/voirie/MARCHAL', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GautierA']", 'chemin': '/culturel/Gautier', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Camping']", 'chemin': '/comerart/ACARE/CAMPING/Camping', 'droits': 'RWCEMF'}
+{'ayant-droits': "['DebrouxC']", 'chemin': '/batiment/Debroux', 'droits': 'RWCEMF'}
+{'ayant-droits': "['BrandoC']", 'chemin': '/juridic/Brando', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Ateliers_Vie_Sco']", 'chemin': '/enseigne/Ateliers_Vie_Scolaire', 'droits': 'RWCEMF'}
+{'ayant-droits': "['SicamoisL']", 'chemin': '/cabinet/Sicamois', 'droits': 'RWCEMF'}
+{'ayant-droits': "['NeglerE']", 'chemin': '/voirie/Negler', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GomezJ']", 'chemin': '/finances/Gomez', 'droits': 'RWCEMF'}
+{'ayant-droits': "['Camping']", 'chemin': '/comerart/SANDRINE', 'droits': 'RWCEMF'}
+{'ayant-droits': "['ChatelC']", 'chemin': '/urba/Marouteix', 'droits': 'RWCEMF'}
+{'ayant-droits': "['PasseraB']", 'chemin': '/social/Personnels P\xc3\xb4le Seniors/Passera', 'droits': 'RWCEMF'}
+{'ayant-droits': "['HarcouetM']", 'chemin': '/dst/DSO', 'droits': 'RWCEMF'}
+{'ayant-droits': "['GuillotB']", 'chemin': '/dst/DSO', 'droits': 'RWCEMF'}
+{'ayant-droits': "['MartinC1']", 'chemin': '/juridic/Archives', 'droits': 'RWCEMF'}
