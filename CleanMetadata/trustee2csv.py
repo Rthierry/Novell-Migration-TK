@@ -59,7 +59,7 @@ def  GETtrustee(xml_file):
         return()
 
 
-def GETquota(xml_file):
+def GETUserquota(xml_file):
         f = xml_file
         tree = ElementTree.parse(f)
         root = tree.getroot()
@@ -85,6 +85,33 @@ def GETquota(xml_file):
         return()
 
 
+def GETDirquota(xml_file):
+        f = xml_file
+        tree = ElementTree.parse(f)
+        root = tree.getroot()
+
+        quota_data = open(sys.argv[1].strip('.xml')+"_dirquota.csv", 'w')
+        csvwriter = csv.writer(quota_data)
+        quota_data_head = ['Répertoire', 'Espace utilisé', 'Quota']
+        csvwriter.writerow(quota_data_head)
+
+        for items in root.findall('dirInfo/directory'):
+            fichier = []
+            name = items.find('path')
+            path = name.text
+            fichier.append(path)
+            spaceused = items.find('spaceUsed')
+            used = spaceused.text
+            fichier.append(used)
+            quotaAmount = items.find('quotaAmount')
+            quota = quotaAmount.text
+            fichier.append(quota)
+            csvwriter.writerow(fichier)
+        quota_data.close()
+        return()
+
+
 if __name__ == "__main__":
     xml_file = args.xml_file
-    GETtrustee(xml_file)
+    # GETtrustee(xml_file)
+    # GETUserquota(xml_file)
