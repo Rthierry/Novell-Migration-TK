@@ -5,7 +5,7 @@
 # @Email:  trangeard@net-online.fr
 # @Project: Utilitaire de conversion trustee - csv - pandas
 # @Last modified by:   Gandalf
-# @Last modified time: 20-Oct-2016
+# @Last modified time: 13-01-2017
 
 from xml.etree import ElementTree
 import csv
@@ -20,7 +20,7 @@ parser.add_argument("xml_file", type=str, help=" -> Fichier trustee.xml")
 args = parser.parse_args()
 
 
-def  GETclean(xml_file):
+def GETclean(xml_file):
     with open(xml_file, 'r+') as f:
         content = f.read()
         f.seek(0)
@@ -29,7 +29,7 @@ def  GETclean(xml_file):
     return()
 
 
-def  GETtrustee(xml_file):
+def GETtrustee(xml_file):
     with open(xml_file, 'rt') as f:
         tree = ElementTree.parse(f)
         root = tree.getroot()
@@ -115,3 +115,4 @@ if __name__ == "__main__":
     xml_file = args.xml_file
     # GETtrustee(xml_file)
     # GETUserquota(xml_file)
+    GETDirquota(xml_file)
