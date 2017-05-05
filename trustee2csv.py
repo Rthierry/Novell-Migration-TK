@@ -126,7 +126,7 @@ if __name__ == "__main__":
     # GETclean(trustee_file)
     # GETclean(metamig_file)
     # Exportation des trustees csv
-    # GETtrustee(trustee_file)
+    GETtrustee(trustee_file)
     # GETmetamig(metamig_file)
     # Comparaison des fichiers
     CompRights(metamig_file, trustee_file)
