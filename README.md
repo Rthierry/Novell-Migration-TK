@@ -19,3 +19,6 @@ CleanMetadata
 SearchLdap
   - getuser_ldap
   - ldapReqADedir
+Mkt
+  - FindDup
+  - Mkt-updateEmailAddr
