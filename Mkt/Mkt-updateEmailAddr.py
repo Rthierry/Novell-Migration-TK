@@ -55,7 +55,7 @@ if __name__ == "__main__":
         # Copie gwUserId dans samAccountName
         dfi.samAccountNameLogon[index] = dfi.gwUserID[index]
         # Ajout du displayName
-        dfi.displayName[index] = (prenom.capitalize() + " " + nom.capitalize())
+        dfi.displayName[index] = (nom.upper() + " " + prenom.capitalize())
         # ecriture dans le fichier
         dfi.to_csv(fichier_out, index=False)
         print("%d, ligne traitees" % (index))
