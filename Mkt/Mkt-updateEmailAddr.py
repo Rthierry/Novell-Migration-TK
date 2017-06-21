@@ -53,7 +53,7 @@ if __name__ == "__main__":
         # modification upnLogon
         dfi.upnLogon[index] = upn_logon
         # Copie gwUserId dans samAccountName
-        dfi.samAccountNameLogon[index] = dfi.gwUserID[index]
+        dfi.samAccountNameLogon[index] = dfi.cn[index]
         # Ajout du displayName
         dfi.displayName[index] = (nom.upper() + " " + prenom.capitalize())
         # ecriture dans le fichier
