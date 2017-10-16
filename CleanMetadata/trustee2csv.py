@@ -114,6 +114,7 @@ def GETDirquota(xml_file):
 if __name__ == "__main__":
     xml_file = args.xml_file
     print xml_file
-    #GETtrustee(xml_file)
+    #GETclean(xml_file)
+    GETtrustee(xml_file)
     #GETUserquota(xml_file)
     #GETDirquota(xml_file)

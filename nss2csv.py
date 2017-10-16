@@ -96,4 +96,4 @@ if __name__ == "__main__":
     main(sys.argv[1:])
     GETclean(sys.argv[1])
     GETtrustee(sys.argv[1])
-    # GETquota(sys.argv[1])
+    GETquota(sys.argv[1])
