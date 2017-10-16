@@ -60,6 +60,7 @@ def Trait_1(csv_file):
                 droits = row[3]
                 aclentry = calcRights(droits)
                 line.append(aclentry)
+                line.append("ThisFolderSubFoldersAndFiles")
                 csvwriter.writerow(line)
             else:
                 print (rep)
