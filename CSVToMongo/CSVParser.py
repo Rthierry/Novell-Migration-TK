@@ -24,20 +24,21 @@ def insertToDB(rowlist, collection, volname):
         print ("Inserted "+str(count)+" rows into for "+volname)
 
 
-
-
 def main(argv):
 
     importmode = 0
     deletemode = 0
 
-
-
     parser = argparse.ArgumentParser()
     parser.add_argument("-i","--inject", help="Import Mode", action="store_true")
+    parser.add_argument("-s","--search", help="Search Mode", action="store_true")
     parser.add_argument("-d","--delete", help="Delete Mode", action="store_true")
     parser.add_argument("-t","--trustees", type=str, dest='inputfile', help="Fichier trustees Netware")
     parser.add_argument("-v","--volname", type=str, dest='volname', help="Volume Name")
+    parser.add_argument("-f","--filter", type=str, dest='filter', help="Filter")
+    parser.add_argument("-q","--query", type=str, dest='query', help="Query")
+
+
 
     if len(sys.argv)==1:
         parser.print_help()
@@ -50,10 +51,7 @@ def main(argv):
         print ("Incompatible options : -i and -d")
         parser.print_help()
         sys.exit(1)
-    elif ((args.inject == 0) and (args.delete == 0)):
-        print ("Error : Specify -i or -d")
-        parser.print_help()
-        sys.exit(1)
+
     elif ((args.inject) and (args.inputfile == "")):
         print ("Specify trustee file in import mode")
         parser.print_help()
@@ -62,6 +60,7 @@ def main(argv):
         print ("Volume name not defined. -v mandatory")
         parser.print_help()
         sys.exit(1)
+
 
     ### Connect to Database
     client = MongoClient()
@@ -91,9 +90,7 @@ def main(argv):
         ### Use Latin1 for Netware Trustee file
         with codecs.open(args.inputfile, encoding='latin1') as csvfile:
             tl = pd.read_csv(args.inputfile, encoding='latin1')
-
             tl.sort_values(by='Path')
-
 
             ownerrows = tl.loc[tl['TYPE'] == 'OWNER']
             trusteerows = tl.loc[tl['TYPE'] == 'TRUSTEE']
