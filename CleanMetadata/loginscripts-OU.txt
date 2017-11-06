@@ -1,0 +1,551 @@
+# extended LDIF
+#
+# LDAPv3
+# base <o=cr> with scope subtree
+# filter: (objectclass=OrganizationalUnit)
+# requesting: loginscript 
+#
+
+# Toulouse, CR
+dn: ou=Toulouse,o=CR
+
+# RMP, CR
+dn: ou=RMP,o=CR
+loginscript:: NO_DEFAULT
+
+Map root Z:=.URANUS_OUTILS.SERVICE.CR:\SCRIPTS
+Map root H:=%Home Directory
+
+Map root I:=.URANUS_HDR_SERVICES.SERVICE.CR:\Services
+
+# Elus, CR
+dn: ou=Elus,o=CR
+
+# Nouveaux_Users, CR
+dn: ou=Nouveaux_Users,o=CR
+
+# View, Service, CR
+dn: ou=View,ou=Service,o=CR
+
+# Licences, Service, CR
+dn: ou=Licences,ou=Service,o=CR
+
+# Communities, Extend, Service, CR
+dn: ou=Communities,ou=Extend,ou=Service,o=CR
+
+# Tasks, Extend, Service, CR
+dn: ou=Tasks,ou=Extend,ou=Service,o=CR
+
+# Grpwise, Service, CR
+dn: ou=Grpwise,ou=Service,o=CR
+
+# SLPDEFAULT, Service, CR
+dn: ou=SLPDEFAULT,ou=Service,o=CR
+
+# Agents_Ports, SETE, CR-DISTANTS, CR
+dn: ou=Agents_Ports,ou=SETE,ou=CR-DISTANTS,o=CR
+loginscript:: If member of ".R_Donnees-CR_Carto_Echangees.Group.Service.CR" Then begin
+Map root S:=.vmpo2_SIG_PROJETS.SERVICE.CR:\SIG
+End
+
+# Printers, SETE, CR-DISTANTS, CR
+dn: ou=Printers,ou=SETE,ou=CR-DISTANTS,o=CR
+
+# Novell, Services, Configuration, CR
+dn: ou=Novell,cn=Services,cn=Configuration,o=CR
+
+# dns, Service, CR
+dn: ou=dns,ou=Service,o=CR
+
+# TOS, CR
+dn: ou=TOS,o=CR
+
+# SIG-CRLR, CR_Hotel_de_Region, CR
+dn: ou=SIG-CRLR,ou=CR_Hotel_de_Region,o=CR
+loginscript: NO_DEFAULT
+
+# Printers, PLN, CR-DISTANTS, CR
+dn: ou=Printers,ou=PLN,ou=CR-DISTANTS,o=CR
+
+# Extranet, CR_Hotel_de_Region, CR
+dn: ou=Extranet,ou=CR_Hotel_de_Region,o=CR
+
+# iPrinters_groupes, CR_MILLENAIRE, CR
+dn: ou=iPrinters_groupes,ou=CR_MILLENAIRE,o=CR
+
+# iPrinters, CR_MILLENAIRE, CR
+dn: ou=iPrinters,ou=CR_MILLENAIRE,o=CR
+
+# iPrinters, CR_Hotel_de_Region, CR
+dn: ou=iPrinters,ou=CR_Hotel_de_Region,o=CR
+
+# grpwise, Service, CR_MILLENAIRE, CR
+dn: ou=grpwise,ou=Service,ou=CR_MILLENAIRE,o=CR
+
+# Service, CR_MILLENAIRE, CR
+dn: ou=Service,ou=CR_MILLENAIRE,o=CR
+
+# MCR, CR-DISTANTS, CR
+dn: ou=MCR,ou=CR-DISTANTS,o=CR
+
+# Hordyplan, Service, CR
+dn: ou=Hordyplan,ou=Service,o=CR
+loginscript:: Include .CR
+
+
+
+# DriversIDM, CR
+dn: ou=DriversIDM,o=CR
+
+# Exterieur, CR_Hotel_de_Region, CR
+dn: ou=Exterieur,ou=CR_Hotel_de_Region,o=CR
+loginscript:: NO_DEFAULT
+
+If member of ".Everyone.CR" Then
+Map root H:=%Home Directory
+
+If member of ".R_REUNION.Group.Service.CR" then
+Map root T:=.URANUS_HDR_SERVICES.SERVICE.CR:\Echange
+
+If member of ".R_DGA-1_Moyens-generaux_ARCHPLAN_E.Group.Service.CR" Then
+Map root P:=.vmpo1_ARCHPLAN.SERVICE.CR:\BDD-Patrimoine-Bats
+End
+
+# Domain Controllers, CR
+dn: ou=Domain Controllers,o=CR
+
+# Extend, Service, CR
+dn: ou=Extend,ou=Service,o=CR
+
+# WebAccess, Service, CR
+dn: ou=WebAccess,ou=Service,o=CR
+
+# Service, PLN, CR-DISTANTS, CR
+dn: ou=Service,ou=PLN,ou=CR-DISTANTS,o=CR
+
+# Service, SETE, CR-DISTANTS, CR
+dn: ou=Service,ou=SETE,ou=CR-DISTANTS,o=CR
+
+# Capitainerie_PLN, CR-DISTANTS, CR
+dn: ou=Capitainerie_PLN,ou=CR-DISTANTS,o=CR
+
+# Users_CAPIT, SETE, CR-DISTANTS, CR
+dn: ou=Users_CAPIT,ou=SETE,ou=CR-DISTANTS,o=CR
+loginscript:: NO_DEFAULT
+
+Map root K:=.vmposete_CAPIT.SERVICE.SETE.cr-distants.CR:\DOSSIERS
+
+# DGA-1_VPPR, CR_Hotel_de_Region, CR
+dn: ou=DGA-1_VPPR,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# Dgs, CR_Hotel_de_Region, CR
+dn: ou=Dgs,ou=CR_Hotel_de_Region,o=CR
+loginscript:: Include .CR
+
+
+# DGA-2, CR_Hotel_de_Region, CR
+dn: ou=DGA-2,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# ERIT, CR-DISTANTS, CR
+dn: ou=ERIT,ou=CR-DISTANTS,o=CR
+loginscript:: NO_DEFAULT
+
+Map root Z:=.URANUS_OUTILS.SERVICE.CR:\SCRIPTS
+Map root I:=.URANUS_HDR_SERVICES.SERVICE.CR:\Services
+
+# DGA-5, CR_MILLENAIRE, CR
+dn: ou=DGA-5,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# DGA-4, CR_MILLENAIRE, CR
+dn: ou=DGA-4,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# DGA-3, CR_Hotel_de_Region, CR
+dn: ou=DGA-3,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-1, CR_Hotel_de_Region, CR
+dn: ou=DGA-1,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# Users, PLN, CR-DISTANTS, CR
+dn: ou=Users,ou=PLN,ou=CR-DISTANTS,o=CR
+loginscript: include .pln.cr-distants.cr
+
+# PLN, CR-DISTANTS, CR
+dn: ou=PLN,ou=CR-DISTANTS,o=CR
+loginscript:: NO_DEFAULT
+
+Map root Z:=.vmpopln_PLN.SERVICE.pln.cr-distants.CR:SCRIPTS
+Map root H:=%Home Directory
+Map root I:=.vmpopln_PLN.SERVICE.pln.cr-distants.CR:DONNEES
+Map root J:=.vmpopln_PLN.SERVICE.pln.cr-distants.CR:APPLIS
+
+If member of ".R_DGA5_DTC_Sous-Direction-Ports_Echange_E.Group.Service.CR" then 
+Map P:=.URANUS_INVENTAIRE.SERVICE.CR:\Echange-DTC
+End
+
+If member of ".T-Echange.Service.PLN.CR-DISTANTS.CR" Then
+Map root T:=.URANUS_HDR_SERVICES.SERVICE.CR:\Echange
+End
+
+If member of ".R_Donnees-CR_Carto_Echangees.Group.Service.CR" Then begin
+Map root S:=.vmpo2_SIG_PROJETS.SERVICE.CR:\SIG
+End
+
+# Users_RICHELIEU, SETE, CR-DISTANTS, CR
+dn: ou=Users_RICHELIEU,ou=SETE,ou=CR-DISTANTS,o=CR
+loginscript:: NO_DEFAULT
+
+Map root H:=%Home Directory
+Map root I:=.vmposete_RICHELIEU.SERVICE.SETE.cr-distants.CR:\Datas
+
+Map root J:=.vmposete_REGY.SERVICE.SETE.cr-distants.CR:\APPLIS
+
+If member of ".R_DGA5_DTC_Sous-Direction-Ports_Echange_E.Group.Service.CR" then 
+Map P:=.URANUS_INVENTAIRE.SERVICE.CR:\Echange-DTC
+End
+
+If member of ".T-Echange.Service.SETE.CR-DISTANTS.CR" Then
+Map root T:=.URANUS_HDR_SERVICES.SERVICE.CR:\Echange
+End
+
+If member of ".R_Donnees-CR_Carto_Echangees.Group.Service.CR" Then begin
+Map root S:=.vmpo2_SIG_PROJETS.SERVICE.CR:\SIG
+End
+
+If member of ".DRHMarins.Users_RICHELIEU.SETE.CR-DISTANTS.CR" Then
+Map root M:=.vmposete_RICHELIEU.SERVICE.SETE.cr-distants.CR:\DRHMarins
+End
+
+# Users_REGY, SETE, CR-DISTANTS, CR
+dn: ou=Users_REGY,ou=SETE,ou=CR-DISTANTS,o=CR
+loginscript:: NO_DEFAULT
+
+Map root H:=%Home Directory
+Map root I:=.vmposete_REGY.SERVICE.SETE.cr-distants.CR:\Datas
+Map root J:=.vmposete_REGY.SERVICE.SETE.cr-distants.CR:\APPLIS
+
+If member of ".Infrastructure.Users_RICHELIEU.Service.SETE.cr-distants.CR" then 
+Map K:=.vmposete_RICHELIEU.SERVICE.SETE.cr-distants.CR:\Datas
+End
+
+If member of ".R_DGA5_DTC_Sous-Direction-Ports_Echange_E.Group.Service.CR" then 
+Map P:=.URANUS_INVENTAIRE.SERVICE.CR:\Echange-DTC
+End
+
+If member of ".R_REGY_DTC_E.Group.Service.CR" then 
+Map O:=.URANUS_MIL_SERVICES.SERVICE.CR:\Services
+End
+
+If member of ".T-Echange.Service.SETE.CR-DISTANTS.CR" Then
+Map root T:=.URANUS_HDR_SERVICES.SERVICE.CR:\Echange
+End
+
+if member of ".DRHMarins.Users_RICHELIEU.SETE.CR-DISTANTS.CR" Then
+Map root M:=.vmposete_RICHELIEU.SERVICE.SETE.cr-distants.CR:\DRHMarins
+End
+
+If member of ".R_Donnees-CR_Carto_Echangees.Group.Service.CR" Then begin
+Map root S:=.vmpo2_SIG_PROJETS.SERVICE.CR:\SIG
+End
+
+# Users_CRAC, SETE, CR-DISTANTS, CR
+dn: ou=Users_CRAC,ou=SETE,ou=CR-DISTANTS,o=CR
+loginscript:: NO_DEFAULT
+
+Map root H:=%Home Directory
+Map root I:=.vmposete_CRAC.SERVICE.SETE.cr-distants.CR:\Datas
+
+REM If member of ".Everyone.CR" Then
+ rem  Map root T:=.URANUS_HDR_SERVICES.SERVICE.CR:\Echange
+ rem Map J:=.URANUS_APPLIS.SERVICE.CR:
+ End
+
+# SETE, CR-DISTANTS, CR
+dn: ou=SETE,ou=CR-DISTANTS,o=CR
+
+# MDR, CR-DISTANTS, CR
+dn: ou=MDR,ou=CR-DISTANTS,o=CR
+loginscript:: NO_DEFAULT
+
+Map root Z:=.URANUS_OUTILS.SERVICE.CR:\SCRIPTS
+
+If member of ".Everyone.CR" Then
+Map root T:=.URANUS_HDR_SERVICES.SERVICE.CR:\Echange
+Map J:=.URANUS_APPLIS.SERVICE.CR:
+End
+
+if member of ".BRUXELLES.group.service.cr" then
+Include Z:\Scripts\map_bruxelles.log
+End
+
+# Formation, CR_MILLENAIRE, CR
+dn: ou=Formation,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# CASSC, CR_Hotel_de_Region, CR
+dn: ou=CASSC,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# Accueil, CR_Hotel_de_Region, CR
+dn: ou=Accueil,ou=CR_Hotel_de_Region,o=CR
+loginscript:: Include .CR
+
+
+# DGA-5_Environnement, CR_MILLENAIRE, CR
+dn: ou=DGA-5_Environnement,ou=CR_MILLENAIRE,o=CR
+loginscript:: Include .CR_MILLENAIRE.CR
+
+
+# DGA-5_Developpement-Territorial, CR_MILLENAIRE, CR
+dn: ou=DGA-5_Developpement-Territorial,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# DGA-5_DAT, CR_MILLENAIRE, CR
+dn: ou=DGA-5_DAT,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# DGA-4_Tourisme, CR_MILLENAIRE, CR
+dn: ou=DGA-4_Tourisme,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# DGA-4_SRI, CR_MILLENAIRE, CR
+dn: ou=DGA-4_SRI,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# DGA-4_DDE, CR_MILLENAIRE, CR
+dn: ou=DGA-4_DDE,ou=CR_MILLENAIRE,o=CR
+loginscript:: Include .CR_MILLENAIRE.CR
+
+
+# DGA-4_Culture, CR_MILLENAIRE, CR
+dn: ou=DGA-4_Culture,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# DGA-4_Commun, CR_MILLENAIRE, CR
+dn: ou=DGA-4_Commun,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# DGA-3_Jeunesse, CR_Hotel_de_Region, CR
+dn: ou=DGA-3_Jeunesse,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include.CR
+
+# DGA-3_Fse, CR_Hotel_de_Region, CR
+dn: ou=DGA-3_Fse,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-3_Desr, CR_MILLENAIRE, CR
+dn: ou=DGA-3_Desr,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# DGA-3_Apprentissage, CR_Hotel_de_Region, CR
+dn: ou=DGA-3_Apprentissage,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-2_Sports, CR_MILLENAIRE, CR
+dn: ou=DGA-2_Sports,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# DGA-2_Sante, CR_Hotel_de_Region, CR
+dn: ou=DGA-2_Sante,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include.CR
+
+# DGA-2_Finances, CR_Hotel_de_Region, CR
+dn: ou=DGA-2_Finances,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-2_Controle_Gestion, CR_Hotel_de_Region, CR
+dn: ou=DGA-2_Controle_Gestion,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-1_SecGal, CR_Hotel_de_Region, CR
+dn: ou=DGA-1_SecGal,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-1_Juridique, CR_Hotel_de_Region, CR
+dn: ou=DGA-1_Juridique,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-1_Courrier, CR_Hotel_de_Region, CR
+dn: ou=DGA-1_Courrier,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-2_DCP, CR_Hotel_de_Region, CR
+dn: ou=DGA-2_DCP,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-1_Pce, CR_Hotel_de_Region, CR
+dn: ou=DGA-1_Pce,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# MRAC, CR-DISTANTS, CR
+dn: ou=MRAC,ou=CR-DISTANTS,o=CR
+
+# Vice-Presidents, CR_Hotel_de_Region, CR
+dn: ou=Vice-Presidents,ou=CR_Hotel_de_Region,o=CR
+loginscript: include .CR
+
+# DGA-1_DRH, CR_Hotel_de_Region, CR
+dn: ou=DGA-1_DRH,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-2_Doc_Archives, CR_Hotel_de_Region, CR
+dn: ou=DGA-2_Doc_Archives,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# Ces, CR_Hotel_de_Region, CR
+dn: ou=Ces,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-1_Administration_Interne, CR_Hotel_de_Region, CR
+dn: ou=DGA-1_Administration_Interne,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# DGA-3_Form_Pro, CR_Hotel_de_Region, CR
+dn: ou=DGA-3_Form_Pro,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# Service_Hotline, CR
+dn: ou=Service_Hotline,o=CR
+loginscript:: Include .CR
+Map M:=.vmpo1_VOLSTAT1.SERVICE.CR:\OSIATIS
+
+# Communication, CR_Hotel_de_Region, CR
+dn: ou=Communication,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# Cabinet, CR_Hotel_de_Region, CR
+dn: ou=Cabinet,ou=CR_Hotel_de_Region,o=CR
+loginscript: Include .CR
+
+# RolesArcGis, CR
+dn: ou=RolesArcGis,o=CR
+
+# MDREGION, CR-DISTANTS, CR
+dn: ou=MDREGION,ou=CR-DISTANTS,o=CR
+
+# CR-DISTANTS, CR
+dn: ou=CR-DISTANTS,o=CR
+loginscript: NO_DEFAULT
+
+# DGA-3_Education, CR_Hotel_de_Region, CR
+dn: ou=DGA-3_Education,ou=CR_Hotel_de_Region,o=CR
+loginscript:: include .CR
+rem include z:\scripts\acu.log
+
+# CR_Hotel_de_Region, CR
+dn: ou=CR_Hotel_de_Region,o=CR
+loginscript:
+
+# GROUPE-SIG-Windows, CR
+dn: ou=GROUPE-SIG-Windows,o=CR
+
+# DGA-5_DTC, CR_MILLENAIRE, CR
+dn: ou=DGA-5_DTC,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# OESSystemObjects, CR
+dn: ou=OESSystemObjects,o=CR
+
+# Tomcat-Roles, Service, CR
+dn: ou=Tomcat-Roles,ou=Service,o=CR
+
+# Service_Informatique, CR
+dn: ou=Service_Informatique,o=CR
+loginscript:: include .CR
+rem include z:\scripts\acu.log
+
+# Group, Service, CR
+dn: ou=Group,ou=Service,o=CR
+
+# Groupes_Applicatifs, Service, CR
+dn: ou=Groupes_Applicatifs,ou=Service,o=CR
+
+# DGA-4_DRAEL, CR_MILLENAIRE, CR
+dn: ou=DGA-4_DRAEL,ou=CR_MILLENAIRE,o=CR
+loginscript: Include .CR_MILLENAIRE.CR
+
+# CR_MILLENAIRE, CR
+dn: ou=CR_MILLENAIRE,o=CR
+loginscript:: NO_DEFAULT
+
+Map root Z:=.URANUS_OUTILS.SERVICE.CR:\SCRIPTS
+Map root H:=%Home Directory
+
+Map root I:=.URANUS_HDR_SERVICES.SERVICE.CR:\Services
+Map root O:=.URANUS_MIL_SERVICES.SERVICE.CR:\Services
+
+If member of ".S_Volume_TMA_L.Group.Service.CR" then
+Map N:=.URANUS_BULL.SERVICE.CR:\TMA-DSI
+End
+
+If member of ".P_Drh_Civitas.Groupes_Applicatifs.Service.CR" then
+Map root M:=.vmpo5_DRH.SERVICE.CR:\
+End
+
+If member of ".R_DGA-4_Culture_Patrimoine_Disque_L.Group.Service.CR" then 
+Map P:=.URANUS_INVENTAIRE.SERVICE.CR:\Inventaire
+Map Q:=.VMPO1_INVENT2.SERVICE.CR:\Inventaire2
+End
+
+If member of ".R_DGA-4_Culture_Patrimoine_Disque_E.Group.Service.CR" then 
+Map P:=.URANUS_INVENTAIRE.SERVICE.CR:\Inventaire
+Map Q:=.VMPO1_INVENT2.SERVICE.CR:\Inventaire2
+End
+
+If member of ".R_DGA5_DTC_Sous-Direction-Ports_Echange_E.Group.Service.CR" then 
+Map P:=.URANUS_INVENTAIRE.SERVICE.CR:\Echange-DTC
+End
+
+If member of ".VMPO1_POLE-CARTO_E.Group.Service.CR" then 
+Map P:=.VMPO1_VOLSTAT1.SERVICE.CR:\POLE-CARTO
+End
+
+If member of ".VMPO1_POLE-CARTO_L.Group.Service.CR" then 
+Map P:=.VMPO1_VOLSTAT1.SERVICE.CR:\POLE-CARTO
+End
+
+If member of ".R_DGA-2_Partage_DSI-bull.Group.Service.CR" then
+Map N:=.URANUS_BULL.SERVICE.CR:\TMA-DSI
+End
+
+If member of ".Everyone.CR" Then
+Map root T:=.URANUS_HDR_SERVICES.SERVICE.CR:\Echange
+Map J:=.URANUS_APPLIS.SERVICE.CR:
+End
+
+If member of ".Texto_User.CR" or member of ".Texto_Admin.CR" or member of  ".Texto_Gestion.CR" then begin
+Map root s16:=.URANUS_APPLIS.SERVICE.CR:\Windows\Textow
+Dos set user="%Full_Name" 
+End
+
+If member of ".R_COSCA_E.Group.Service.CR" Then
+Map root I:=.URANUS_HDR_SERVICES.SERVICE.CR:\Services
+End
+
+If member of ".GP_info.Service_Informatique.CR"
+Map K:=.URANUS_OUTILS.SERVICE.CR:
+Map L:=.URANUS_BULL.Service.CR:
+End
+
+If member of ".R_MBK_L.Group.Service.CR" Then begin
+Map root L:=.URANUS_HDR_SERVICES.SERVICE.CR:\MBK
+End
+
+If member of ".R_Donnees-CR_Carto_Echangees.Group.Service.CR" Then begin
+Map root S:=.vmpo2_SIG_PROJETS.SERVICE.CR:\SIG
+End
+
+# Service, CR
+dn: ou=Service,o=CR
+
+# search result
+search: 2
+result: 0 Success
+
+# numResponses: 99
+# numEntries: 98
