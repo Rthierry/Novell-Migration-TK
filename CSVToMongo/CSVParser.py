@@ -7,18 +7,8 @@ import getopt
 import pandas as pd
 from pymongo import MongoClient
 import pprint
+import argparse
 
-
-def usage():
-    print ("Invalid Options.\n")
-
-    print ("Usage : \n")
-    print ("Import trustee to MongoDB")
-    print ("./CSVParser.py -i -t <csvtrusteefile> -v <volname> \n")
-
-    print ("Delete trustee collection in MongoDB")
-    print ("./CSVParser.py -d -v <volname> ")
-    sys.exit()
 
 def purgeCollectionByVolName(volname, collection):
     print ("Delete collection for",volname)
@@ -31,57 +21,45 @@ def insertToDB(rowlist, collection, volname):
         post = { "VOL" : volname, "Path" : row['Path'], "Rights" : row['RIGHTS'], "TRUSTEE" : row['TRUSTEE']}
         post_id = collection.insert_one(post).inserted_id
         #print (post_id)
-        print ("Inserted",count,"rows")
-
-
+        print ("Inserted "+str(count)+" rows into for "+volname)
 
 
 def main(argv):
 
-
     importmode = 0
     deletemode = 0
-    inputfile = ""
 
-    ### Get Arguments
-    try:
-        opts, args = getopt.getopt(argv, "idt:v:h", longopts = ["import", "delete", "trustees=", "volname=","help"])
-    except getopt.GetoptError:
-        usage()
-        sys.exit(2)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-i","--inject", help="Import Mode", action="store_true")
+    parser.add_argument("-s","--search", help="Search Mode", action="store_true")
+    parser.add_argument("-d","--delete", help="Delete Mode", action="store_true")
+    parser.add_argument("-t","--trustees", type=str, dest='inputfile', help="Fichier trustees Netware")
+    parser.add_argument("-v","--volname", type=str, dest='volname', help="Volume Name")
+    parser.add_argument("-f","--filter", type=str, dest='filter', help="Filter")
+    parser.add_argument("-q","--query", type=str, dest='query', help="Query")
 
-    for opt, arg in opts:
-        if opt in("-h", "--help"):
-            usage()
-            sys.exit()
 
-        ##Get trustee file
-        elif opt in ( '-i', '--import'):
-            importmode = 1
 
-        ##Get trustee file
-        elif opt in ( '-d', '--delete'):
-            deletemode = 1
+    if len(sys.argv)==1:
+        parser.print_help()
+        sys.exit(1)
+    args = parser.parse_args()
 
-        ##Get trustee file
-        elif opt in ( '-t', '--trustees'):
-            inputfile = arg
 
-        ##Get volume name
-        elif opt in ( '-v', '--volname'):
-            volname = arg
 
-    if ((importmode == 1) and (deletemode == 1)):
+    if ((args.inject) and (args.delete)):
         print ("Incompatible options : -i and -d")
-        usage()
+        parser.print_help()
+        sys.exit(1)
 
-    if ((importmode == 0) and (deletemode == 0)):
-        print ("Error : Specify -i or -d")
-        usage()
-
-    if ((importmode == 1) and (inputfile == "")):
+    elif ((args.inject) and (args.inputfile == "")):
         print ("Specify trustee file in import mode")
-        usage()
+        parser.print_help()
+        sys.exit(1)
+    elif (args.volname == ""):
+        print ("Volume name not defined. -v mandatory")
+        parser.print_help()
+        sys.exit(1)
 
 
     ### Connect to Database
@@ -93,38 +71,36 @@ def main(argv):
     attr = db['attr']
     irm = db['irm']
 
-    if (deletemode == 1):
+    if (args.delete):
         ### Purge records for volname
-        purgeCollectionByVolName(volname, trustees)
+        purgeCollectionByVolName(args.volname, trustees)
 
     ### Import mode enable
-    if (importmode == 1):
-        print ("Import",inputfile," in MongoDB for volume",volname)
+    if (args.inject):
+        print ("Import",args.inputfile," in MongoDB for volume",args.volname)
 
         ### Purge records for volname
-        purgeCollectionByVolName(volname, trustees)
+        purgeCollectionByVolName(args.volname, trustees)
         #purgeCollectionByVolName(volname, owners)
         #purgeCollectionByVolName(volname, attr)
-        purgeCollectionByVolName(volname, irm)
+        purgeCollectionByVolName(args.volname, irm)
 
 
 
         ### Use Latin1 for Netware Trustee file
-        with codecs.open(inputfile, encoding='latin1') as csvfile:
-            tl = pd.read_csv(inputfile, encoding='latin1')
-
+        with codecs.open(args.inputfile, encoding='latin1') as csvfile:
+            tl = pd.read_csv(args.inputfile, encoding='latin1')
             tl.sort_values(by='Path')
-
 
             ownerrows = tl.loc[tl['TYPE'] == 'OWNER']
             trusteerows = tl.loc[tl['TYPE'] == 'TRUSTEE']
             attrrows = tl.loc[tl['TYPE'] == 'ATTR']
             irmrows = tl.loc[tl['TYPE'] == 'IRM']
 
-            #insertToDB(ownerrows, owners, volname)
-            #insertToDB(attrrows, attr, volname)
-            insertToDB(irmrows, irm, volname)
-            insertToDB(trusteerows, trustees, volname)
+            insertToDB(trusteerows, trustees, args.volname)
+            insertToDB(irmrows, irm, args.volname)
+            insertToDB(ownerrows, owners, args.volname)
+            insertToDB(attrrows, attr, args.volname)
 
             #print (row['Path'],row['RIGHTS'],row['TRUSTEE'])
 
