@@ -1,0 +1,5 @@
+"user","uid","path","trustee","appliesto"
+"CN=INFO,OU=HDV,DC=ANNECY,DC=LOC","Inf","/tutu","ReadAndExecute,Synchronize","ThisFolderOnly"
+"CN=INFO,OU=HDV,DC=ANNECY,DC=LOC","Inf","/tutu/toto yoyo","ReadAndExecute,Synchronize","ThisFolderOnly"
+"CN=INFO,OU=HDV,DC=ANNECY,DC=LOC","Inf","/tutu/toto yoyo/tata","Read,ReadAndExecute,Synchronize,Write,CreateFiles,CreateDirectories,Delete,Modify,ListDirectory"
+"CN=INFO,OU=HDV,DC=ANNECY,DC=LOC","Inf","/","Read,ReadAndExecute,Synchronize,CreateFiles,CreateDirectories,Delete,ListDirectory","ThisFolderSubFoldersAndFiles"
