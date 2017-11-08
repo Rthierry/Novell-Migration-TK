@@ -3,7 +3,7 @@
 # @Email:  trangeard@net-online.fr
 # @Project: Conversion des droits Netware en droits NTFS
 # @Last modified by:   Gandalf
-# @Last modified time: 12-oct-2017
+# @Last modified time: 07-nov-2017
 
 import re
 import sys
@@ -78,22 +78,22 @@ def Trait_1(csv_file):
         trustee_data.close()
     return()
 
-
+# Calcul des droits au format NSS pour les basculer en NTFS
 def calcRights(droits):
     acl = []
-    if re.match('.*R.*', droits):
+    if re.match('.*[Rr].*', droits):
         acl.append("Read,ReadAndExecute,Synchronize")
-    if re.match('.*W.*', droits):
+    if re.match('.*[Ww].*', droits):
         acl.append("Write")
-    if re.match('.*C.*', droits):
+    if re.match('.*[Cc].*', droits):
         acl.append("CreateFiles,CreateDirectories")
-    if re.match('.*E.*', droits):
+    if re.match('.*[Ee].*', droits):
         acl.append("Delete")
-    if re.match('.*M.*', droits):
+    if re.match('.*[Mm].*', droits):
         acl.append("Modify")
-    if re.match('.*F.*', droits):
+    if re.match('.*[Ff].*', droits):
         acl.append("ListDirectory")
-    if re.match('.*A.*', droits):
+    if re.match('.*[Aa].*', droits):
         acl.append("ReadPermissions,ChangePermissions")
     aclentry = ','.join(acl)
     return(aclentry)
