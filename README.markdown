@@ -1,4 +1,4 @@
-![NetOnline](http://www.net-online.fr/var/ezwebin_site/storage/images/design/net-online/172-11-fre-FR/Net-Online.png)
+![NetOnline](https://filr.net-online.fr/ssf/s/readFile/share/498/-4477670475218489886/publicLink/V2%202017-logoNO.png)
 
 Title: **README file for NovellToMs migration toolkit**
 
