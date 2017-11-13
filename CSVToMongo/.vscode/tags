@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CSVParser.py	../CSVParser.py	1;"	kind:file	line:1
+MongoClient	../CSVParser.py	/^from pymongo import MongoClient$/;"	kind:namespace	line:8
+codecs	../CSVParser.py	/^import codecs$/;"	kind:namespace	line:5
+csv	../CSVParser.py	/^import csv$/;"	kind:namespace	line:3
+getopt	../CSVParser.py	/^import getopt$/;"	kind:namespace	line:6
+insertToDB	../CSVParser.py	/^def insertToDB(rowlist, collection, volname):$/;"	kind:function	line:27
+main	../CSVParser.py	/^def main(argv):$/;"	kind:function	line:39
+mode	../CSVParser.py	/^        print ("Specify trustee file in import mode")$/;"	kind:namespace	line:83
+pd	../CSVParser.py	/^import pandas as pd$/;"	kind:namespace	line:7
+pprint	../CSVParser.py	/^import pprint$/;"	kind:namespace	line:9
+purgeCollectionByVolName	../CSVParser.py	/^def purgeCollectionByVolName(volname, collection):$/;"	kind:function	line:23
+sys	../CSVParser.py	/^import sys$/;"	kind:namespace	line:4
+usage	../CSVParser.py	/^def usage():$/;"	kind:function	line:12

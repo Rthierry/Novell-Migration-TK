@@ -1,0 +1,18 @@
+CN=FFG-4FLIGHT,OU=Projets,OU=Groupes,DC=crna-n,DC=aviation;FFG-4FLIGHT;/4-FLIGHT CRNA-Nord;RWCEMF
+CN=FFG-4FLIGHT-CRNA-Nord,OU=Projets,OU=Groupes,DC=crna-n,DC=aviation;FFG-4FLIGHT-CRNA-Nord;/4-FLIGHT CRNA-Nord;RWCEMF
+CN=PERENNOU Jean,OU=Service Technique,OU=Utilisateurs,DC=crna-n,DC=aviation;jean.perennou;/4-FLIGHT CRNA-Nord;RF
+CN=FFG-BEP,OU=Services,OU=Groupes,DC=crna-n,DC=aviation;FFG-BEP;/BEP;RWCEMF
+CN=FFG-BEP-CIVILS,OU=Services,OU=Groupes,DC=crna-n,DC=aviation;FFG-BEP-CIVILS;/BEP;RWCEMF
+CN=FFG-BEP-MILITAIRES,OU=Services,OU=Groupes,DC=crna-n,DC=aviation;FFG-BEP-MILITAIRES;/BEP;RWCEMF
+CN=FFG-BEP-MILITAIRES,OU=Services,OU=Groupes,DC=crna-n,DC=aviation;FFG-BEP-MILITAIRES;/BEP/Participation Mil;RWCEMF
+CN=FFG-CCER,OU=Services,OU=Groupes,DC=crna-n,DC=aviation;FFG-CCER;/CCER;RWCEMF
+CN=FFG-CMCC-COMMANDEMENT,OU=Services,OU=Groupes,DC=crna-n,DC=aviation;FFG-CMCC-COMMANDEMENT;/CMCC Paris - CRNA Nord;RWCEMF
+CN=FFG-DIR-CHEF-ADJOINT,OU=Services,OU=Groupes,DC=crna-n,DC=aviation;FFG-DIR-CHEF-ADJOINT;/CMCC Paris - CRNA Nord;RWCEMF
+CN=FFG-SE-CTL-SUBCTL-ENC,OU=Services,OU=Groupes,DC=crna-n,DC=aviation;FFG-SE-CTL-SUBCTL-ENC;/CMCC Paris - CRNA Nord;RWCEMF
+CN=FFG-CMCC-CRNA-QSS,OU=Projets,OU=Groupes,DC=crna-n,DC=aviation;/FFG-CMCC-CRNA-QSS;CMCC Paris - CRNA Nord/QSS;RWCEMF
+CN=FFG-CMCC-CRNA-QSS,OU=Projets,OU=Groupes,DC=crna-n,DC=aviation;/FFG-CMCC-CRNA-QSS;CMCC Paris - CRNA Nord/QSS;RWCEMF
+CN=FFG-CMCC-CRNA-QSS,OU=Projets,OU=Groupes,DC=crna-n,DC=aviation;/FFG-CMCC-CRNA-QSS;CMCC Paris - CRNA Nord/QSS;RWCEMF
+CN=FFG-CMCC-CRNA-QSS,OU=Projets,OU=Groupes,DC=crna-n,DC=aviation;/FFG-CMCC-CRNA-QSS;CMCC Paris - CRNA Nord/QSS;RWCEMF
+CN=FFG-SE-QSS,OU=Services,OU=Groupes,DC=crna-n,DC=aviation;FFG-SE-QSS;/CMCC Paris - CRNA Nord/QSS;RWCEMF
+CN=FFG-ST,OU=Services,OU=Groupes,DC=crna-n,DC=aviation;FFG-ST;/COMMUN CRNA/Artas;RF
+CN=FFG-ST-CAW-CAUTRA,OU=Services,OU=Groupes,DC=crna-n,DC=aviation;FFG-ST-CAW-CAUTRA;/COMMUN CRNA/Artas;RWCEMF

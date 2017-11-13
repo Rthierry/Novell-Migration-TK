@@ -1,0 +1,25 @@
+<metadata>
+<trusteeInfo>
+<file>
+<zid>127</zid><path>/</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=FilrProxy.O=CR.T=RLR.</name><id>2395f8e0-7bcf-46f7-7b-87-e0f89523cf7b</id><rights value="rwcefms"><read/><write/><create/><erase/><fileScan/><modify/><supervisor/></rights></trustee>
+</file>
+<file>
+<zid>128</zid><path>/~DFSINFO.8-P</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>129</zid><path>/._NETWARE</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>130</zid><path>/DSI</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=GUP-DSI.OU=Group.OU=Service.O=CR.T=RLR.</name><id>d307f201-a6ae-42d8-4c-ab-01f207d3aea6</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=GUP-TME.OU=Group.OU=Service.O=CR.T=RLR.</name><id>40bc6cc9-173b-4f66-29-a7-c96cbc403b17</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Dezael_f.OU=RMP.O=CR.T=RLR.</name><id>cafe53d5-334a-4e0a-14-ae-d553feca4a33</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=BRETONG.OU=Toulouse.O=CR.T=RLR.</name><id>cba632cc-5912-4f43-aa-80-cc32a6cb1259</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+</trusteeInfo>
+</metadata>

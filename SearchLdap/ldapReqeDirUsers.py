@@ -20,20 +20,20 @@ parser.add_argument("dnbase", type=str, help=" -> dnbase")
 
 # Accept Self-Sign Certificates
 # ldap.set_option(ldap.OPT_X_TLS_REQUIRE_CERT, ldap.OPT_X_TLS_NEVER)
-server = Server('10.134.2.43' ,port=389, use_ssl=False, get_info=ALL_ATTRIBUTES)
+server = Server('10.2.1.91' ,port=389, use_ssl=False, get_info=ALL_ATTRIBUTES)
 #server = Server('10.4.1.47' ,port=389, use_ssl=False, get_info=ALL_ATTRIBUTES)
 set_config_parameter('DEFAULT_CLIENT_ENCODING', 'utf8')
-BaseAD = "ou=Utilisateurs,dc=adchpg,dc=chpg,dc=mc"
-BaseeDir = "ou=Utilisateurs,ou=chm,O=chpg"
+#BaseAD = "ou=Utilisateurs,dc=adchpg,dc=chpg,dc=mc"
+BaseeDir = "O=cr"
 Scope = 'SUBTREE'
-FilterAD = "(&(objectClass=person)(!(objectClass=computer)))"
-FiltereDir = "(&(objectClass=User))"
-AttrsAD = ['samAccountName','cn', 'pwdLastSet','UserAccountControl','lastlogontimestamp']
-AttrseDir = ['cn','pwdChangedTime','logindisabled']
-conn = Connection(server, 'cn=Netonline,ou=Externes,ou=Utilisateurs,dc=adchpg,dc=chpg,dc=mc', 'Netonline@26', auto_bind=True)
-conn.search(search_base=BaseAD, search_filter=FilterAD, search_scope=Scope, attributes=AttrsAD )
-#conn = Connection(server, 'cn=netonline,ou=presta,ou=ext,o=chpg', 'Netonline@26', auto_bind=True)
-#conn.search(search_base=BaseeDir, search_filter=FiltereDir, search_scope=Scope, attributes=AttrseDir)
+#FilterAD = "(&(objectClass=person)(!(objectClass=computer)))"
+FiltereDir = "(&(objectClass=group))"
+#AttrsAD = ['samAccountName','cn', 'pwdLastSet','UserAccountControl','lastlogontimestamp']
+AttrseDir = ['cn','uid','sn', 'givenName', 'fullName', 'LastLoginTime']
+#conn = Connection(server, 'cn=Netonline,ou=Externes,ou=Utilisateurs,dc=adchpg,dc=chpg,dc=mc', 'Netonline@26', auto_bind=True)
+#conn.search(search_base=BaseAD, search_filter=FilterAD, search_scope=Scope, attributes=AttrsAD )
+conn = Connection(server, 'cn=admin,o=cr', 'zeus', auto_bind=True)
+conn.search(search_base=BaseeDir, search_filter=FiltereDir, search_scope=Scope, attributes=AttrseDir)
 
 print(conn.entries)
 
@@ -55,12 +55,29 @@ def getF2time(pwdChangedTime):
         return(time.ctime(t))
 
 
-trustee_data = open('listAdUser.csv', 'w')
-#trustee_data = open('listedirUser.csv', 'w')
+# trustee_data = open('listAdUser.csv', 'w')
+trustee_data = open('listedirGRP.csv', 'w')
 csvwriter = csv.writer(trustee_data)
-trustee_data_head = ['samAccountName','cn', 'pwdLastSet','UserAccountControl','lastlogontimestamp']
+# trustee_data_head = ['samAccountName','cn', 'pwdLastSet','UserAccountControl','lastlogontimestamp']
+trustee_data_head = ['cn', 'uid', 'givenName', 'fullName','lastlogintime']
 csvwriter.writerow(trustee_data_head)
-#for row in conn.entries:
+
+for row in conn.entries:
+    line = []
+    cn = (row.cn)
+    line.append(cn)
+    uid = (row.uid)
+    line.append(uid)
+    gn = (row.givenName)
+    line.append(gn)
+    fn = (row.fullName)
+    line.append(fn)
+    ld = (row.lastlogintime)
+    line.append(ld)
+    csvwriter.writerow(line)
+
+
+# for row in conn.entries:
 #    line = []
 #    cn = (row.cn[0])
 #    line.append(cn)
@@ -70,17 +87,17 @@ csvwriter.writerow(trustee_data_head)
 #    line.append(logindis)
 #    csvwriter.writerow(line)
 
-for row in conn.entries:
-    line = []
-    sam = (row.samAccountName)
-    line.append(sam)
-    cn = (row.cn)
-    line.append(cn)
-    pwdlast = (row.pwdLastSet.value)
-    line.append(getFtime(pwdlast))
-    logindis = (row.UserAccountControl)
-    line.append(logindis)
-    lastlog = (row.lastlogontimestamp.value)
-    line.append(getFtime(lastlog))
-    csvwriter.writerow(line)
+#for row in conn.entries:
+#    line = []
+#    sam = (row.samAccountName)
+#    line.append(sam)
+#    cn = (row.cn)
+#    line.append(cn)
+#    pwdlast = (row.pwdLastSet.value)
+#    line.append(getFtime(pwdlast))
+#    logindis = (row.UserAccountControl)
+#    line.append(logindis)
+#    lastlog = (row.lastlogontimestamp.value)
+#    line.append(getFtime(lastlog))
+#    csvwriter.writerow(line)
 trustee_data.close()

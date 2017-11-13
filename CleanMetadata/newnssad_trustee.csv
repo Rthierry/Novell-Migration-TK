@@ -1,0 +1,252 @@
+chemin,ayant-droits,droits
+/,.CN=FilrProxy.O=CR.T=RLR.,rwcefms
+/DSI,.CN=GUP-DSI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI,.CN=GUP-TME.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI,.CN=Dezael_f.OU=RMP.O=CR.T=RLR.,rwcefm
+/DSI,.CN=BRETONG.OU=Toulouse.O=CR.T=RLR.,rwcefm
+/Finances,.CN=GUP-Finances.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Secrétariat Présidence,.CN=GUP-Secrétariat Présidence.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Secrétariat DGS,.CN=GUP-Secrétariat DGS.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DGS-DGD,.CN=GUP-DGS-DGD.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DGD-DEIA,.CN=GUP-DGD-DEIA.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DGD-DTAS,.CN=GUP-DGD-DTAS.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSOL,.CN=GUP-DSOL.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DITM,.CN=GUP-DITM.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DATRM,.CN=GUP-DATRM.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DGD-ADMTM,.CN=GUP-DGD-ADMTM.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DTT,.CN=GUP-DTT.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DIGS,.CN=GUP-DIGS.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSGA,.CN=GUP-DSGA.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DTEE,.CN=GUP-DTEE.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DREI,.CN=GUP-DREI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DDA,.CN=GUP-DDA.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Com-Interne,.CN=GUP-Com-Interne.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DRH,.CN=GUP-DRH.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Echange,.OU=Service_Informatique.O=CR.T=RLR.,rwcefm
+/Echange,.OU=Service_Hotline.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-1_Courrier.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.CN=Master_seven.O=CR.T=RLR.,rwcefm
+/Echange,.OU=Accueil.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=Cabinet.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=CASSC.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=Ces.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=Communication.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-1.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-1_Administration_Interne.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-1_DRH.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-1_Juridique.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-1_Pce.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-1_SecGal.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-1_VPPR.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-2.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-2_Controle_Gestion.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-2_DCP.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-2_Doc_Archives.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-2_Finances.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-2_Sante.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-3.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-3_Apprentissage.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-3_Education.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-3_Form_Pro.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-3_Fse.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-3_Jeunesse.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=Dgs.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=Vice-Presidents.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-2_Sports.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-3_Desr.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-4.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-4_Commun.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-4_Culture.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-4_DDE.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-4_DRAEL.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-4_SRI.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-4_Tourisme.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-5.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-5_DAT.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-5_Developpement-Territorial.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-5_DTC.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=DGA-5_Environnement.OU=CR_MILLENAIRE.O=CR.T=RLR.,rwcefm
+/Echange,.OU=Toulouse.O=CR.T=RLR.,rwcefm
+/DGD-JEFS,.CN=GUP-DGD-JEFS.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DPEC,.CN=GUP-DPEC.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DPMG,.CN=GUP-DPMG.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DAJ,.CN=GUP-DAJ.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DMOE,.CN=GUP-DMOE.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/SGS,.CN=GUP-SGS.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/SGS,.CN=Pedrosa_v.OU=Service_Informatique.O=CR.T=RLR.,rwcefm
+/Reseau assistantes,.CN=GUP-Reseau-assistantes.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Maisons_de_Region,.CN=GUP-Maisons-de-Region.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/SGCT,.CN=GUP-SGCT.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DCPA,.CN=GUP-DCPA.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/MAIA,.CN=GUP-MAIA.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DCP,.CN=GUP-DCP.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSPO,.CN=GUP-DSPO.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DRTES,.CN=GUP-DRTES.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DCIC,.CN=GUP-DCIC.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEJ,.CN=GUP-DEJ.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DPFON,.CN=GUP-DPFON.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DAAF,.CN=GUP-DAAF.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEJ-E-QVL-SN,.CN=GUP-DEJ-E-QVL-SN.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEF,.CN=GUP-DEF.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEF,.CN=GUP-DEF-SA.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEF,.CN=GUP-DEF-SEOP.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEF,.CN=GUP-DEF-Direction.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEF,.CN=GUP-DEF-SQP.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEF,.CN=GUP-DEF-SGPE.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEF,.CN=GUP-DEF-SNC.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEF,.CN=GUP-DEF-ST.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/SGDP-Lab,.CN=GUP-SGDP-Lab.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DCPG,.CN=GUP-DCPG.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DRPP,.CN=GUP-DRPP.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/FESI,.CN=GUP-FESI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSGA-Imprimerie,.CN=GUP-DSGA-Imprimerie.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DGD-SPOP,.CN=GUP-DGD-SPOP.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Loi NOTRe – Transport,.CN=GUP-LoiNOTRe.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/CCRRDT,.CN=GUP-CCRRDT.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Réseau référents aides d'Etat,.CN=GUP-Reseau-referents-aides-etat.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Test,.CN=Pedrosa_v.OU=Service_Informatique.O=CR.T=RLR.,rwcefm
+/Test,.OU=Service_Informatique.O=CR.T=RLR.,rwcefm
+/Test,.CN=testgwcal.OU=Service_Informatique.O=CR.T=RLR.,rwcefm
+/Transverse/DISPOSITIF BOURGS-CENTRES,.CN=GUP-DISPOSITIF_BOURGS-CENTRES.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI/Direction,.CN=GUP-DSI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI/Commun,.CN=GUP-TME.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI/Commun,.CN=GUP-DSI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI/Commun,.CN=Dezael_f.OU=RMP.O=CR.T=RLR.,rwcefm
+/DSI/Equipe_Dir,.CN=GUP-Informatique-Equipe_Dir.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI/Doc,.CN=GUP-TMA.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI/Doc,.CN=GUP-HOTLINE.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI/Doc,.CN=GUP-TME.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI/DSI-Infogerants,.CN=GUP-HOTLINE.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI/DSI-Infogerants,.CN=GUP-TME.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DSI/DSI-Infogerants,.CN=GUP-TMA.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DGD-DTAS/Assistantes,.CN=GUP-DGD-DTAS-Assistantes.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DGD-DEIA/Assistantes,.CN=GUP-DGD-DEIA-Assistantes.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/11_SEN/SEN à trier,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/09_service SINAPSE/Service Innov. &amp;amp;amp;amp; Filières,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DITM/Convention TER,.CN=GUP-DITM-ConventionTER.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DTT/DIRECTION,.CN=GUP-DTT-Direction.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DPMG/01 - DIRECTION,.CN=GUP-DPMG-Direction.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DPMG/08 - MOYENS &amp;amp;amp;amp; STD/CONTRAVENTIONS,.CN=GUP-DPMG-Contraventions.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DGD-JEFS/Secretariat,.CN=GUP-DGD-JEFS-Secretariat.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEJ/0 - DIRECTION,.CN=GUP-DEJ-Direction.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DAAF/Direction,.CN=GUP-DAAF-Direction.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEF/01_DIRECTION,.CN=GUP-DEF-Direction.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEF/05_SGPE/SGPE – Document de Travail,.CN=GUP-DEF-SGPE–Document_de_Travail.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/04_IET/Tuilage Infras Ouest,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DMOE/DIRECTION ASSISTANTES CM NF,.CN=GUP-DMOE-Direction.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DPMG/06 - LOGISTIQUE/Qui est où,.CN=Arnaud_v.OU=DGA-2.OU=CR_Hotel_de_Region.O=CR.T=RLR.,rf
+/DCPA/Direction,.CN=GUP-DCPA-DIRECTION.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/01_Direction,.CN=GUP-DEI-Direction.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/01_Direction,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/02_Ingénierie-Financière-FEDER,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/03_EIE,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/04_IET,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/05_Entrepreneuriat,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/06_ESS,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/07_PME-Ouest,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/08_PME-Est,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/09_service SINAPSE,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/10_Filières-AES,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/11_SEN,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/01_Direction/01_Direction-(reservé D,DD,DA, Secrétariat direction)",.CN=GUP-DEI-Direction.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/01_Direction/03_Gestion RH (Fiche de poste, congés, organigramme)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/01_Direction/02_CODIR (réservé CODIR)/02_Budget (BP, DM, Suivi)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rf
+"/DEI/01_Direction/02_CODIR (réservé CODIR)/02_Budget (BP, DM, Suivi)",.CN=GUP-DEI-CODIR.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/01_Direction/04_Fonctionnement (Modèles, Notes, Réunions)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/01_Direction/05_Production (CP_CS_ Bilan_CCT),.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/01_Direction/06_Missions (Veille, fichiers institutions et entreprises)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/01_Direction/07_Projets (SRDEII, Dispositifs, Projets territoire, AAP)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/01_Direction/08_Communication (Ppt, Evènementiels)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/01_Direction/09_Réglementations (Lois, règlements, process)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/01_Direction/02_CODIR (réservé CODIR),.CN=GUP-DEI-CODIR.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/02_Ingénierie-Financière-FEDER/01_Management,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/02_Ingénierie-Financière-FEDER/02_Fonctionnement-service-(Modèles, Réunions de service)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/02_Ingénierie-Financière-FEDER/03_Production-service-(Instruction, Gestion)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/02_Ingénierie-Financière-FEDER/04_Projets-service,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/02_Ingénierie-Financière-FEDER/05_Partenariats,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/02_Ingénierie-Financière-FEDER/06_Organismes financiers,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/02_Ingénierie-Financière-FEDER/07_Transversal,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/03_EIE/05_Actions transverses,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/03_EIE/02_Fonctionnement-service-(dispositifs, Modèles, Réunions de service)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/03_EIE/03_Production-service-(Instruction, Gestion)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/03_EIE/04_Projets-service,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/03_EIE/01_Management,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/04_IET/XX_ autres-thèmes-spécifiques-service,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/04_IET/01_Management,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/04_IET/02_Fonctionnement-service-(Modèles, Réunions de service)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/04_IET/03_Production-service-(Instruction, Gestion)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/04_IET/04_Projets-service-(A décliner),.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/05_Entrepreneuriat/06_ autres-thèmes-autres services,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/05_Entrepreneuriat/01_Management,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/05_Entrepreneuriat/02_Fonctionnement-service-(Modèles, Notes, Réunions de service, Courriers, Fournitures)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/05_Entrepreneuriat/03_Production-service-(Instruction, Gestion)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/05_Entrepreneuriat/04_ Projets service (à décliner),.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/05_Entrepreneuriat/05_ RH (Congés, Fiche de poste, Organigramme)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/06_ESS/XX_ autres-thèmes-spécifiques-service,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/06_ESS/01_Management,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/06_ESS/02_Fonctionnement-service-(Modeles, Reunions-Sce)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/06_ESS/03_Production-service-(Instruction, Gestion)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/06_ESS/04_Projets-service-(A décliner),.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/06_ESS/05_fichiers contacts&amp;amp;amp;amp;partenaires,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/06_ESS/99_Regles_classement_dossiers,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/07_PME-Ouest/01_Management,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/07_PME-Ouest/02_Fonctionnement-service-(Modèles, Réunions de service)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/07_PME-Ouest/03_Production-service-(Instruction, Gestion)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/07_PME-Ouest/04_Projets-service-(A décliner),.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/07_PME-Ouest/05_Politique Bourgs centres,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/08_PME-Est/08_ Ressources,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/08_PME-Est/01_Management,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/08_PME-Est/02_Fonctionnement-service- (Modèles, Réunions de service)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/08_PME-Est/03_Dispositif_Production (Instruction, Gestion)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/08_PME-Est/04_Projets-service-(A décliner),.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/08_PME-Est/05_Thèmatiques,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/09_service SINAPSE/XX_ autres-thèmes-spécifiques-service,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/09_service SINAPSE/01_Management,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/09_service SINAPSE/02_Fonctionnement-service-(Modèles, Réunions de service)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/09_service SINAPSE/03_Production-service-(Instruction, Gestion)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/09_service SINAPSE/04_Projets-service-(A décliner),.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/10_Filières-AES/XX_ autres-thèmes-spécifiques-service,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/10_Filières-AES/01_Management,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/10_Filières-AES/02_Fonctionnement-service-(Modèles, Réunions de service)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/10_Filières-AES/03_Production-service-(Instruction, Gestion)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/10_Filières-AES/04_Projets-service,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/11_SEN/01_Management,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/11_SEN/02_Fonctionnement-service-(Modèles, Réunions de service)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+"/DEI/11_SEN/03_Production-service-(Instruction, Gestion)",.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/11_SEN/04_Projets-service,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DEI/01_Direction/00_Mode d'emploi,.CN=GUP-DEI.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/FESI/PO_LR,.CN=GUP-FESI-EQUIDISTO.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Dossier partagé DCP Autres Directions,.CN=GUP-Dossier-Partage-DCP-Autres-Directions.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DCIC/SERVICE INFORMATION DIGITALE &amp;amp;amp;amp; IMAGES/POLE-IMAGES,.CN=GUP-DCIC-POLE-IMAGES.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DRH/CAP,.CN=GUP-DRH-CAP.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DGD-SPOP/Organisation des Locaux,.CN=GUP-DGD-SPOP-Direction.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Loi NOTRe – Transport/DITM-DRH,.CN=GUP-LoiNOTRe-DITM-DRH.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/GIR,.CN=GUP-GIR.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Elise 2,.CN=GUP-ELISE2.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Bilans consolidés Occitanie,.CN=GUP-Bilans-consolides-Occitanie.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/AO_2014-2020_pièces,.CN=GUP-AO_2014-2020_pieces.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/SRDFP,.CN=GUP-SRDFP.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/AAP READYNOV,.CN=GUP-AAP-READYNOV.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Emplacement partagé DRTES-DCIC,.CN=GUP-Emplacement-partage-DRTES-DCIC.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/MASSIF_CENTRAL,.CN=GUP-MASSIF_CENTRAL.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/DirMer_Plan_Littoral_21,.CN=GUP-DirMer_Plan_Littoral_21.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/GPSO-DAJ-DITM,.CN=GUP-GPSO-DAJ-DITM.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/DAFB – PIECES JUSTIFICATIVES MARCHES - DEJ,.CN=GUP-DAFB-PJ_Marches-DEJ.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/DAFB – NUMERISATION PJ MARCHES - DEJ,.CN=GUP-DAFB-Num_PJ_Marche-DEJ.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Point hebdomadaire DITEE,.CN=GUP-Point hebdomadaire DITEE_Lecture.OU=Group.OU=Service.O=CR.T=RLR.,rf
+/Transverse/Point hebdomadaire DITEE,.CN=GUP-Point hebdomadaire DITEE_Ecriture.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Lycée du futur,.CN=GUP-Lycee-du-futur.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/PJ paiement transport routier,.CN=GUP-PJ_PAIEMENT_TRANSPORT_ROUTIER.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/DAFB – NUMERISATION PJ MARCHES - DEF,.CN=GUP-DAFB-NUM_PJ_MARCHE-DEF.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/DAFB – PIECES JUSTIFICATIVES MARCHES - DEF,.CN=GUP-DAFB-PJ_MARCHES-DEF.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Marchés Publics,.CN=GUP-MARCHES_PUBLICS.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Marchés Publics,.CN=GUP-DCPA.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Halles Latecoere,.CN=GUP-HALLES_LATECOERE.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Procédures lanceur d'alerte,.CN=GUP-PROCEDURES_LANCEUR_ALERTE.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/GLA-MG,.CN=GUP-GLA-MG.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Occitanie 2040/DOC-CLES,.CN=GUP-STU.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/Transverse/Occitanie 2040/DOC-CLES,.CN=Everyone.O=CR.T=RLR.,rf
+/Transverse/Occitanie 2040/CO-CONSTRUCTION,.CN=Everyone.O=CR.T=RLR.,rwcefm
+/DITM/Pôle PTFI/STF/03_MATERIEL ROULANT/081_Confidentiel Régiolis Régio2N,.CN=GUP-DITM-Regiolis.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
+/DDA/Direction,.CN=GUP-DDA-Direction.OU=Group.OU=Service.O=CR.T=RLR.,rwcefm
