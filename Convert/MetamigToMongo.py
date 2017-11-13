@@ -1,13 +1,9 @@
 #!/usr/bin/env python3
 
-import csv
 import sys
-import codecs
 import getopt
-import pandas as pd
 from lxml import etree
 from pymongo import MongoClient
-import pprint
 import argparse
 
 
@@ -24,16 +20,13 @@ def insertToDB(rowlist, collection, volname):
         #print (post_id)
         print ("Inserted "+str(count)+" rows into for "+volname)
 
-
 def main(argv):
-
-
     parser = argparse.ArgumentParser()
     parser.add_argument("-i","--inject", help="Import Mode", action="store_true")
     parser.add_argument("-d","--delete", help="Delete Mode", action="store_true")
     parser.add_argument("-t","--trustees", type=str, dest='inputfile', help="Fichier trustees metamig")
     parser.add_argument("-v","--volname", type=str, dest='volname', help="Volume Name")
-    parser.add_argument("-b","--database", type=str, dest='dbname', help="Volume Name")
+    parser.add_argument("-b","--database", type=str, dest='dbname', help="Database Name")
 
     if len(sys.argv)==1:
         parser.print_help()
@@ -44,7 +37,6 @@ def main(argv):
         print ("Specify trustee file in import mode")
         parser.print_help()
         sys.exit(1)
-
 
     if (args.volname == None):
         print ("Volume name not defined. -v mandatory")
@@ -65,25 +57,21 @@ def main(argv):
     ### Connect to Database
     client = MongoClient()
 
-
     ### Change DB Name here
     db = client[args.dbname]
 
-    trustees = db['trustees']
-    #owners = db['owners']
-    #attr = db['attr']
-    irm = db['irm']
+    NSSTrusteesCollection = db['NSSTrustees']
+    irm = db['NSSIrf']
 
     if (args.delete):
         print (args.delete)
         ### Purge records for volname
-        purgeCollectionByVolName(args.volname, trustees)
+        purgeCollectionByVolName(args.volname, NSSTrusteesCollection)
 
     ### Import mode enable
     if (args.inject):
         print ("Import",args.inputfile," in MongoDB for volume",args.volname)
-
-        purgeCollectionByVolName(args.volname, trustees)
+        purgeCollectionByVolName(args.volname, NSSTrusteesCollection)
 
         ### Import XML file
         tree = etree.parse(args.inputfile)
@@ -102,7 +90,7 @@ def main(argv):
                 trusteerow = { 'path' : trusteepath , 'name' : name , 'rights' : rights }
                 trusteerows.append(trusteerow)
 
-        insertToDB(trusteerows, trustees, args.volname)
+        insertToDB(trusteerows, NSSTrusteesCollection, args.volname)
 
 
 
