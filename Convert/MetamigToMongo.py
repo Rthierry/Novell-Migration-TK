@@ -7,18 +7,19 @@ from pymongo import MongoClient
 import argparse
 
 
+
+
+
+def insertLineToDB(post, collection):
+
+    post_id = collection.update_one(post, { '$set' : post }, upsert=True)
+
+
 def purgeCollectionByVolName(volname, collection):
     print ("Delete collection for",volname)
     result = collection.delete_many({ "Volume" : volname})
 
-def insertToDB(rowlist, collection, volname):
-    count = 0
-    for row in rowlist:
-        count = count + 1
-        post = { "Volume" : volname, "Path" : row['path'], "Rights" : row['rights'], "Trustee" : row['name']}
-        post_id = collection.insert_one(post).inserted_id
-        #print (post_id)
-        print ("Inserted "+str(count)+" rows into for "+volname)
+
 
 def main(argv):
     parser = argparse.ArgumentParser()
@@ -61,7 +62,8 @@ def main(argv):
     db = client[args.dbname]
 
     NSSTrusteesCollection = db['NSSTrustees']
-    irm = db['NSSIrf']
+    NSSQuotasCollection = db['NSSQuotas']
+    IRFCollection = db['NSSIrf']
 
     if (args.delete):
         print (args.delete)
@@ -86,11 +88,30 @@ def main(argv):
                     name = trusteename.text
                 for trusteerights in trustee.xpath("rights"):
                     rights = trusteerights.get("value")
+                    trusteerow = { 'Volume' : args.volname, 'path' : trusteepath , 'name' : name , 'rights' : rights }
+                    insertLineToDB(trusteerow, NSSTrusteesCollection)
 
-                trusteerow = { 'path' : trusteepath , 'name' : name , 'rights' : rights }
-                trusteerows.append(trusteerow)
+            for irf in filenode.xpath("inheritedRightsFilter"):
+                irfentry = irf.get("value")
+                irfrow = {'Volume' : args.volname, 'Path' : trusteepath, 'Filter' : irfentry }
+                insertLineToDB(irfrow, IRFCollection)
 
-        insertToDB(trusteerows, NSSTrusteesCollection, args.volname)
+
+
+        quotarows = []
+
+        for directory in tree.xpath("dirInfo/directory"):
+            for path in directory.xpath("path"):
+                currentPath = path.text
+
+
+            for spaceUsed in directory.xpath("quotaAmount"):
+                if ((spaceUsed.text != "9223372036854775807")):
+                    currentQuotas = spaceUsed.text
+                    quotarow = { 'Volume' : args.volname, 'path' : currentPath, 'quota' : currentQuotas}
+
+                    insertLineToDB(quotarow,NSSQuotasCollection)
+
 
 
 
