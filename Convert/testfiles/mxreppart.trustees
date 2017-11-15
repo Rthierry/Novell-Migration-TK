@@ -1,0 +1,1755 @@
+<metadata>
+<trusteeInfo>
+<file>
+<zid>127</zid><path>/</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=calypso.OU=Bindery.O=FNMF.T=FNMF.</name><id>1617615c-83a4-4230-13-b7-5c611716a483</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=cheops.O=FNMF.T=FNMF.</name><id>b8297f56-6ea0-47e3-2f-bb-567f29b8a06e</id><rights value="raf"><read/><accessControl/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>128</zid><path>/~DFSINFO.8-P</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>129</zid><path>/._NETWARE</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>130</zid><path>/._DUPLICATE_FILES</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>384</zid><path>/Partage/MX_MG</path>
+<trustee><name>.CN=Mx_MG_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>bad9977d-08e9-43ae-a1-92-7d97d9bae908</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_MG_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>2600affe-b55d-4f76-0d-a3-feaf00265db5</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>385</zid><path>/Partage/MX_DSI</path>
+<trustee><name>.CN=secutest.OU=Groupes.OU=DSI.O=FNMF.T=FNMF.</name><id>ee50dd11-40fc-47bf-49-b7-11dd50eefc40</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>387</zid><path>/Partage/Telephonie</path>
+<trustee><name>.CN=Mx_Telephonie_Ecr.OU=Groupes.O=FNMF.T=FNMF.</name><id>1edb0f80-392c-11dd-b1-92-00096ba3cca4</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_Telephonie_Lec.OU=Groupes.O=FNMF.T=FNMF.</name><id>1a165b80-392c-11dd-b1-92-00096ba3cca4</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=NT-Orsyp.OU=Bindery.O=FNMF.T=FNMF.</name><id>3b313280-24b6-11dc-bb-ce-00101800a190</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>512</zid><path>/Partage/MX_MG/Chatillon</path>
+<trustee><name>.CN=Mx_MG_Chatillon_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>bcf5843d-b001-4c0f-bf-99-3d84f5bc01b0</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_MG_Chatillon_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>20f8bc19-f46b-4434-0c-b7-19bcf8206bf4</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>513</zid><path>/Partage/MX_MG/BADGES</path>
+<trustee><name>.CN=Mx_MG_BADGES_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>71247242-db63-4545-d2-8e-4272247163db</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_MG_BADGES_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>b2448d29-a538-4649-56-a7-298d44b238a5</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>17795</zid><path>/Partage/MX_DSI/Contrats</path>
+<trustee><name>.CN=Mx_DSI_Contrats_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>5d0d0807-2614-4c32-4e-95-07080d5d1426</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_Contrats_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>bf8c3577-0017-4283-3f-a3-77358cbf1700</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>17796</zid><path>/Partage/MX_DSI/DED</path>
+<trustee><name>.CN=MX_DSI_DED_Ecriture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>b30daf36-857d-465a-76-98-36af0db37d85</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=MX_DSI_DED_Lecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>9a0db1ab-9628-455f-42-be-abb10d9a2896</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>17797</zid><path>/Partage/MX_DSI/DIR</path>
+<trustee><name>.CN=MX_DSI_DIR_Ecriture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>e345aa1f-8254-41df-76-85-1faa45e35482</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=MX_DSI_DIR_Lecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>f33dd290-e13e-4036-95-88-90d23df33ee1</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>17798</zid><path>/Partage/MX_DSI/DT</path>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>17799</zid><path>/Partage/MX_DSI/Prestataires</path>
+<trustee><name>.CN=MX_DSI_Presta_Ecriture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1f785c7f-cae1-4c6a-a1-83-7f5c781fe1ca</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=MX_DSI_Presta_Lecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>8a24d282-400c-4251-8e-b3-82d2248a0c40</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>17800</zid><path>/Partage/MX_DSI/Public</path>
+<trustee><name>.CN=Mx_DSI_Public_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>9db53b3a-41f7-4139-0f-ad-3a3bb59df741</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_Public_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>d76bf9b3-53dc-42c5-80-92-b3f96bd7dc53</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>17801</zid><path>/Partage/MX_DSI/Direction_Projet</path>
+<trustee><name>.CN=Martin.OU=DSI.O=FNMF.T=FNMF.</name><id>a380452f-5d8a-47fe-bd-b3-2f4580a38a5d</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DeFonseca.OU=DSI.O=FNMF.T=FNMF.</name><id>27afd400-263c-11dc-bb-ce-00101800a190</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=Blouin.OU=DSI.O=FNMF.T=FNMF.</name><id>fd5e140b-5a24-11d3-b0-2e-ef2333109c6f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>17802</zid><path>/Partage/MX_DSI/Datacenter</path>
+<trustee><name>.CN=Mx_DSI_Datacenter_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>7c12059b-dc0b-4189-e4-b1-9b05127c0bdc</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_Datacenter_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>fe5df8ac-f13d-43a2-e4-be-acf85dfe3df1</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>17803</zid><path>/Partage/MX_DSI/Interfaces</path>
+<trustee><name>.CN=Mx_DSI_Interfaces_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1ae7cf51-330a-449e-0a-80-51cfe71a0a33</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_Interfaces_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>91e71494-f507-4e57-60-9f-9414e79107f5</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>17804</zid><path>/Partage/MX_DSI/CDSI</path>
+<trustee><name>.CN=Mx_DSI_CDSI_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>b559b4ec-3e26-48bf-02-91-ecb459b5263e</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_CDSI_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1622cadf-51dc-4c5e-af-ba-dfca2216dc51</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>17809</zid><path>/Partage/MX_DSI/SECO</path>
+<trustee><name>.CN=SECO_RSI_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>fce83178-8899-4f2c-7e-ad-7831e8fc9988</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=SECO_RSI_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>88e1e04c-6c95-4203-e3-a2-4ce0e188956c</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value=""></rights></trustee>
+<trustee><name>.CN=Sécurité.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>826b8ff1-c278-4273-f3-bc-f18f6b8278c2</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Laaroussi.OU=DSI.O=FNMF.T=FNMF.</name><id>a44a3eda-eb01-485a-7a-b0-da3e4aa401eb</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>17923</zid><path>/Partage/MX_DSI/DED/BUDGETS</path>
+<trustee><name>.CN=MX_DSI_DED_BUDGET.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>8f80c6fa-0982-457a-f6-8a-fac6808f8209</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>26756</zid><path>/Partage/MX_DSI/DT/ARCHITECTURE</path>
+<trustee><name>.CN=DT-Projet.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>cf553b9c-169e-46a2-d5-8d-9c3b55cf9e16</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-PCIT.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>d819767b-913d-4b2d-fd-9f-7b7619d83d91</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Production.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>afad051f-1fa7-40e0-4d-a3-1f05adafa71f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>26757</zid><path>/Partage/MX_DSI/DT/DOCUMENTATION</path>
+<trustee><name>.CN=DT-Production.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>afad051f-1fa7-40e0-4d-a3-1f05adafa71f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Projet.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>cf553b9c-169e-46a2-d5-8d-9c3b55cf9e16</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>26759</zid><path>/Partage/MX_DSI/DT/EXPERTISE</path>
+<trustee><name>.CN=DT-Production.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>afad051f-1fa7-40e0-4d-a3-1f05adafa71f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>26760</zid><path>/Partage/MX_DSI/DT/GESTION</path>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-SUP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>20e377df-656c-414b-09-85-df77e3206c65</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Admin.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1cbd0524-2a1d-4f21-54-9b-2405bd1c1d2a</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>26761</zid><path>/Partage/MX_DSI/DT/MANAGEMENT</path>
+<trustee><name>.CN=DT-SUP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>20e377df-656c-414b-09-85-df77e3206c65</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>26762</zid><path>/Partage/MX_DSI/DT/PILOTAGE</path>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-SUP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>20e377df-656c-414b-09-85-df77e3206c65</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>26763</zid><path>/Partage/MX_DSI/DT/PRODUCTION</path>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Production.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>afad051f-1fa7-40e0-4d-a3-1f05adafa71f</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Editique_Repro.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>ab7a8365-ce4d-4d57-b7-ae-65837aab4dce</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>26764</zid><path>/Partage/MX_DSI/DT/PROJET</path>
+<trustee><name>.CN=DT-Support.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>c71101f1-967e-412e-55-b7-f10111c77e96</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Editique_Repro.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>ab7a8365-ce4d-4d57-b7-ae-65837aab4dce</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Production.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>afad051f-1fa7-40e0-4d-a3-1f05adafa71f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Projet.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>cf553b9c-169e-46a2-d5-8d-9c3b55cf9e16</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>26765</zid><path>/Partage/MX_DSI/DT/PUBLIC</path>
+<trustee><name>.CN=DT-Support.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>c71101f1-967e-412e-55-b7-f10111c77e96</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Editique_Repro.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>ab7a8365-ce4d-4d57-b7-ae-65837aab4dce</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Production.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>afad051f-1fa7-40e0-4d-a3-1f05adafa71f</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Projet.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>cf553b9c-169e-46a2-d5-8d-9c3b55cf9e16</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-SUP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>20e377df-656c-414b-09-85-df77e3206c65</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>26766</zid><path>/Partage/MX_DSI/DT/SERVICE</path>
+<trustee><name>.CN=DT-Support.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>c71101f1-967e-412e-55-b7-f10111c77e96</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-SUP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>20e377df-656c-414b-09-85-df77e3206c65</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Editique_Repro.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>ab7a8365-ce4d-4d57-b7-ae-65837aab4dce</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Production.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>afad051f-1fa7-40e0-4d-a3-1f05adafa71f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Projet.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>cf553b9c-169e-46a2-d5-8d-9c3b55cf9e16</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>26767</zid><path>/Partage/MX_DSI/DT/SUIVI FOURNISSEURS</path>
+<trustee><name>.CN=DT-SUP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>20e377df-656c-414b-09-85-df77e3206c65</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>26768</zid><path>/Partage/MX_DSI/DT/SUPPORT</path>
+<trustee><name>.CN=DT-SUP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>20e377df-656c-414b-09-85-df77e3206c65</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Support.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>c71101f1-967e-412e-55-b7-f10111c77e96</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>26769</zid><path>/Partage/MX_DSI/DT/ADMIN</path>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Production.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>afad051f-1fa7-40e0-4d-a3-1f05adafa71f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>26770</zid><path>/Partage/MX_DSI/DT/PCIT</path>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Production.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>afad051f-1fa7-40e0-4d-a3-1f05adafa71f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-PCIT.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>d819767b-913d-4b2d-fd-9f-7b7619d83d91</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>26775</zid><path>/Partage/MX_DSI/DT/BULL_DC_BUILD</path>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Projet.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>cf553b9c-169e-46a2-d5-8d-9c3b55cf9e16</id><rights value="rwef"><read/><write/><erase/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>26776</zid><path>/Partage/MX_DSI/DT/BULL_DC_RUN</path>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-Production.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>afad051f-1fa7-40e0-4d-a3-1f05adafa71f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Projet.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>cf553b9c-169e-46a2-d5-8d-9c3b55cf9e16</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>164357</zid><path>/Partage/MX_DSI/DT/PRODUCTION/APPLICATIONS/NSI/Rep_W</path>
+<trustee><name>.CN=Yang.OU=DSI.O=FNMF.T=FNMF.</name><id>f20ae88c-5a24-11d3-b0-2e-ef2333109c6f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>878853</zid><path>/Partage/MX_DSI/DT/ADMIN/BdD</path>
+<trustee><name>.CN=Outiane.OU=DSI.O=FNMF.T=FNMF.</name><id>0a9d4f20-0eaa-46fb-ef-bc-204f9d0aaa0e</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>961416</zid><path>/Partage/MX_DSI/Datacenter/00-Etude</path>
+<trustee><name>.CN=Mx_DSI_Datacenter_Etude.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>5f30b664-a83e-4ff4-06-ac-64b6305f3ea8</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>961417</zid><path>/Partage/MX_DSI/Datacenter/01-Projet</path>
+<trustee><name>.CN=Mx_DSI_Datacenter_Projet.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1b1a4ab7-ceec-43e9-ff-9a-b74a1a1becce</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>961418</zid><path>/Partage/MX_DSI/Datacenter/02-BULL</path>
+<trustee><name>.CN=Mx_DSI_Datacenter_Bull.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>a319b4fa-a694-41ec-cf-b5-fab419a394a6</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>961419</zid><path>/Partage/MX_DSI/Datacenter/03-KPMG</path>
+<trustee><name>.CN=Mx_DSI_Datacenter_Kpmg.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>dcbcd155-9c7c-4196-5d-b9-55d1bcdc7c9c</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>961420</zid><path>/Partage/MX_DSI/Datacenter/04-Transfert</path>
+<trustee><name>.CN=Mx_DSI_Datacenter_Bull.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>a319b4fa-a694-41ec-cf-b5-fab419a394a6</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_Datacenter_Etude.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>5f30b664-a83e-4ff4-06-ac-64b6305f3ea8</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_Datacenter_Kpmg.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>dcbcd155-9c7c-4196-5d-b9-55d1bcdc7c9c</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_Datacenter_Projet.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1b1a4ab7-ceec-43e9-ff-9a-b74a1a1becce</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>961544</zid><path>/Partage/MX_DSI/Interfaces/DSI&amp;DP</path>
+<trustee><name>.CN=Mx_DSI_Interfaces_DSI_DP_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>008277d1-12f5-4758-25-a7-d1778200f512</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_Interfaces_DSI_DP_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>d9471be4-9ea8-40c1-cf-8c-e41b47d9a89e</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>961545</zid><path>/Partage/MX_DSI/Interfaces/DSI&amp;DT</path>
+<trustee><name>.CN=Mx_DSI_Interfaces_DSI_DT_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>6b54a1e0-61fa-4275-14-b5-e0a1546bfa61</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_Interfaces_DSI_DT_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>c980ce11-163c-402c-86-ad-11ce80c93c16</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>961800</zid><path>/Partage/Dir_Developpement/Communication/PAO archives</path>
+<trustee><name>.CN=Mx_DirDev_PAO_archives.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>b0775366-e8f5-46a4-da-9d-665377b0f5e8</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>967688</zid><path>/Partage/Applications/Coppelia</path>
+<trustee><name>.CN=App_Coppelia_Adm.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>3cfea65e-41a3-4bfb-b6-93-5ea6fe3ca341</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=App_Coppelia_User.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>a4a9deda-831e-41be-5c-b7-dadea9a41e83</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=Mutex_Personnel.OU=Groupes.O=FNMF.T=FNMF.</name><id>be333287-caaa-4cc1-59-af-873233beaaca</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>968584</zid><path>/Partage/MX_Commun/Zoom_et_Flash_Mutex</path>
+<trustee><name>.CN=Mx_Com_ZoomFlash_E.OU=GROUPES.OU=DP.O=FNMF.T=FNMF.</name><id>1475e787-ad41-4f94-f0-96-87e7751441ad</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>968585</zid><path>/Partage/MX_Commun/MutexEtVous</path>
+<trustee><name>.CN=MutexEtVous_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>3853683e-b481-4593-1d-8f-3e68533881b4</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=MutexEtVous_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>59d2942e-1bbf-4259-fd-a8-2e94d259bf1b</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>968586</zid><path>/Partage/MX_Commun/MutexEco</path>
+<trustee><name>.CN=MutexEco.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>cba35c02-5c7b-499e-de-ba-025ca3cb7b5c</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>969609</zid><path>/TousLivrables/MetaAnnuaire</path>
+<trustee><name>.CN=Rawet.OU=DSI.O=FNMF.T=FNMF.</name><id>a0476264-39a8-424a-0b-ac-646247a0a839</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=Aoun.OU=DSI.O=FNMF.T=FNMF.</name><id>98698f80-765c-11d3-b6-31-aff853b11d37</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>4118413</zid><path>/Partage/MX_DSI/SECO/Public</path>
+<trustee><name>.OU=DSI.O=FNMF.T=FNMF.</name><id>ea4b4407-5a24-11d3-b0-2e-ef2333109c6f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+<trustee><name>.CN=Sécurité.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>826b8ff1-c278-4273-f3-bc-f18f6b8278c2</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>4118414</zid><path>/Partage/MX_DSI/SECO/RSI</path>
+<trustee><name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><rights value=""></rights></trustee>
+<trustee><name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><rights value=""></rights></trustee>
+</file>
+<file>
+<zid>4118415</zid><path>/Partage/MX_DSI/SECO/Suivi Clonage</path>
+<trustee><name>.CN=Suivi_clonage-Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>24ea2e35-b166-4367-aa-a1-352eea2466b1</id><rights value=""></rights></trustee>
+<trustee><name>.CN=Suivi_clonage-Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>c5d371a7-e3ac-48a7-63-81-a771d3c5ace3</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>4132020</zid><path>/Partage/MX_DSI/SECO/RSI/Technicals</path>
+<trustee><name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><rights value=""></rights></trustee>
+<trustee><name>.CN=Outiane.OU=DSI.O=FNMF.T=FNMF.</name><id>0a9d4f20-0eaa-46fb-ef-bc-204f9d0aaa0e</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>4179213</zid><path>/Partage/MX_DSI/SECO/Suivi Clonage/Fait</path>
+<trustee><name>.CN=Suivi_clonage-Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>c5d371a7-e3ac-48a7-63-81-a771d3c5ace3</id><rights value="rwcf"><read/><write/><create/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>4179214</zid><path>/Partage/MX_DSI/SECO/Suivi Clonage/A faire</path>
+<trustee><name>.CN=Suivi_clonage-Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>c5d371a7-e3ac-48a7-63-81-a771d3c5ace3</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>5021486</zid><path>/Partage/MX_DSI/SECO/RSI/Technicals/Master</path>
+<trustee><name>.CN=Bombled.OU=DSI.O=FNMF.T=FNMF.</name><id>689cafbd-9188-463d-0e-b2-bdaf9c688891</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>5021488</zid><path>/Partage/MX_DSI/SECO/RSI/Technicals/ACPR</path>
+<trustee><name>.CN=Brandouy.OU=DSI.O=FNMF.T=FNMF.</name><id>8818d1b9-496e-4454-82-81-b9d118886e49</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Outiane.OU=DSI.O=FNMF.T=FNMF.</name><id>0a9d4f20-0eaa-46fb-ef-bc-204f9d0aaa0e</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>5363535</zid><path>/Partage/MX_DSI/DIR/PMO</path>
+<trustee><name>.CN=MX_DSI_DIR_PMO_Ecriture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>0310d203-4a34-4429-32-97-03d21003344a</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=MX_DSI_DIR_PMO_Lecture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>110f16da-e5fa-495f-8c-b7-da160f11fae5</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>5374406</zid><path>/Partage/MX_DSI/DT/SUPPORT/ExtractionMeta</path>
+<trustee><name>.CN=NT-Orsyp.OU=Bindery.O=FNMF.T=FNMF.</name><id>3b313280-24b6-11dc-bb-ce-00101800a190</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>5603013</zid><path>/Partage/MX_DSI/SECO/Suivi Clonage/Historique</path>
+<trustee><name>.CN=Suivi_clonage-Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>c5d371a7-e3ac-48a7-63-81-a771d3c5ace3</id><rights value="rcf"><read/><create/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>5608528</zid><path>/Partage/Tafenscene</path>
+<trustee><name>.CN=Tafenscene_Ecr.OU=Groupes.O=FNMF.T=FNMF.</name><id>012a3b71-f9eb-480e-4a-8c-713b2a01ebf9</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mutex_Personnel.OU=Groupes.O=FNMF.T=FNMF.</name><id>be333287-caaa-4cc1-59-af-873233beaaca</id><rights value="rwcf"><read/><write/><create/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>5829852</zid><path>/Partage/MX_DSI/DT/PROJET/Réorganisation Volumes Novell/Analyse</path>
+<trustee><name>.CN=Rawet.OU=DSI.O=FNMF.T=FNMF.</name><id>a0476264-39a8-424a-0b-ac-646247a0a839</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Garnier.OU=DSI.O=FNMF.T=FNMF.</name><id>a2a1d430-c504-42cf-dd-9b-30d4a1a204c5</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>7043395</zid><path>/Partage/MX_DSI/DED/FAR_MUTEX</path>
+<trustee><name>.CN=Far_MUTEX_Ecr.OU=Groupes.OU=DSI.O=FNMF.T=FNMF.</name><id>2defe553-02b6-4a86-4d-9b-53e5ef2db602</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Far_MUTEX_Lec.OU=Groupes.OU=DSI.O=FNMF.T=FNMF.</name><id>6bf3e076-c036-4f61-b9-98-76e0f36b36c0</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>7043396</zid><path>/Partage/MX_DSI/DED/ACTIVITE</path>
+<trustee><name>.CN=MX_DSI_DED_Activite_Ecriture.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>e4bdca3b-d04d-4789-f3-86-3bcabde44dd0</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>7043398</zid><path>/Partage/MX_DSI/DED/DOCUMENTATION</path>
+<trustee><name>.CN=MX_DSI_DED_Documentation_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>cb1c8e93-86fa-4e8d-fb-97-938e1ccbfa86</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>7043399</zid><path>/Partage/MX_DSI/DED/Etude-Coord</path>
+<trustee><name>.CN=Etude-Coordination.OU=GROUPES.OU=DP.O=FNMF.T=FNMF.</name><id>76fbc300-cbad-11d6-bb-9d-000255470cad</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>7043400</zid><path>/Partage/MX_DSI/DED/DAOSI-Management</path>
+<trustee><name>.CN=DAOSI_Managemnt_Ecr.OU=GROUPES.OU=DP.O=FNMF.T=FNMF.</name><id>e6088c80-033a-11de-8b-eb-00096ba3cca4</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DAOSI_Managemnt_Lec.OU=GROUPES.OU=DP.O=FNMF.T=FNMF.</name><id>eacd4080-033a-11de-8b-eb-00096ba3cca4</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>7299523</zid><path>/Partage/MX_DSI/Methodes_Qualification&amp;MNSI</path>
+<trustee><name>.CN=Mx_DSI_Methodes_Qual&amp;MNSI_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>1ce5bf02-dd72-446a-83-9c-02bfe51c72dd</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.OU=DSI.O=FNMF.T=FNMF.</name><id>ea4b4407-5a24-11d3-b0-2e-ef2333109c6f</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>7299524</zid><path>/Partage/MX_DSI/CPE</path>
+<trustee><name>.CN=Mx_DSI_CPE_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>c1992eb5-388c-4d86-12-88-b52e99c18c38</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_CPE_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>eed72102-d19b-4df4-f2-88-0221d7ee9bd1</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>7413189</zid><path>/Partage/MX_DSI/DT/PROJET/Master/GPMF/Autres documents/liste des applications/TestATOS</path>
+<trustee><name>.CN=Bonjour.OU=DSI.O=FNMF.T=FNMF.</name><id>d659d397-3738-4a25-f4-b3-97d359d63837</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=expbull.OU=DSI.O=FNMF.T=FNMF.</name><id>ac1f224a-ed9e-416f-7a-a5-4a221fac9eed</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>7418438</zid><path>/Partage/MX_DSI/SECO/CLONAGE_NSI</path>
+<trustee><name>.CN=Mx_DSI_Seco_Clonage_Nsi_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>458a2507-634e-418f-54-be-07258a454e63</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DSI_Seco_Clonage_Nsi_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>76847960-75e5-4dbc-fb-89-60798476e575</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>7418439</zid><path>/Partage/MX_DSI/SECO/DB_Logs</path>
+<trustee><name>.CN=SECO_DB_Logs_ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>57be063a-01ec-4801-86-a5-3a06be57ec01</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>7519047</zid><path>/Partage/Dir_Developpement/Communication/PAO</path>
+<trustee><name>.CN=naspao.OU=Bindery.O=FNMF.T=FNMF.</name><id>dbb0e52d-3987-4d79-eb-87-2de5b0db8739</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Mx_DirDev_PAO_archives.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>b0775366-e8f5-46a4-da-9d-665377b0f5e8</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>7895496</zid><path>/Partage/MX_DSI/DT/AUDIT</path>
+<trustee><name>.CN=DT-AUDIT.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>5c6d36d5-22b3-4797-06-91-d5366d5cb322</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=DT-AUDIT-LEC.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>b50f1e6e-8b95-4f6e-98-a9-6e1e0fb5958b</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>7895623</zid><path>/Partage/MX_DSI/DT/TRANSF/EDITIQUE</path>
+<trustee><name>.CN=DT-TRANSF-EDIT.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>2e3a0e03-7c1d-410a-91-97-030e3a2e1d7c</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>7895624</zid><path>/Partage/MX_DSI/DT/TRANSF/SUPPORT</path>
+<trustee><name>.CN=DT-TRANSF-SUP.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>f0dcff9d-ad81-4952-86-92-9dffdcf081ad</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>8221000</zid><path>/Partage/MX_RH/Pilotage_RH</path>
+<trustee><name>.CN=Pilotage_RH_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>a776267f-805f-4f24-9b-91-7f2676a75f80</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+<trustee><name>.CN=Pilotage_RH_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name><id>d4bb7af6-86fe-4c19-77-8b-f67abbd4fe86</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>9128268</zid><path>/._NETWARE/.trustee_database.xml</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+</trusteeInfo>
+<userInfo>
+<user><id>00000003-0000-0000-00-00-000000000000</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>[Supervisor]</name>
+<idNotFound><time><utc>1475448578</utc><string>Oct 2, 2016  11:49:38 pm</string></time><numberOfTimes>5</numberOfTimes></idNotFound>
+</user>
+<user><id>000003e7-0000-0000-00-00-000000000000</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>FNMF</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>004ad32d-8a5c-4ca6-d1-8f-2dd34a005c8a</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bragard.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>008277d1-12f5-4758-25-a7-d1778200f512</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Interfaces_DSI_DP_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>0088e844-0c49-4eba-98-94-44e88800490c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Saintlouisaugustin.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>012a3b71-f9eb-480e-4a-8c-713b2a01ebf9</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Tafenscene_Ecr.OU=Groupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>0310d203-4a34-4429-32-97-03d21003344a</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_DIR_PMO_Ecriture.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>03bb1380-a7fe-11d3-a7-31-8db628f8105d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Rouvel.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>03c6c280-271e-11d9-bb-be-000476f68dd7</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bogard.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>044bd331-e20c-4a2b-16-9c-31d34b040ce2</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-Architecture.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>051db88b-5a25-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Gauthier.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>05611400-7c5a-11da-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=SCohen.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>05b64f24-5a25-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Berthelot.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>064ee58d-5a25-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Subitte.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>077a8343-2d36-4f5f-a4-bc-43837a07362d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Longevialle.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>0818a93d-5a25-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Pariset.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>0936ec4d-d919-4dd1-46-ae-4dec360919d9</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Forestier.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>0a9d4f20-0eaa-46fb-ef-bc-204f9d0aaa0e</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Outiane.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>0ae32b6f-f591-411a-85-b4-6f2be30a91f5</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Granier.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>0d122f6a-7346-46fc-db-96-6a2f120d4673</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Venot.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>110f16da-e5fa-495f-8c-b7-da160f11fae5</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_DIR_PMO_Lecture.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1120537e-8fa3-4c17-c1-a9-7e532011a38f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Jarno.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>11a5c59d-0b0b-487e-e9-86-9dc5a5110b0b</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Trepagny.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1367c6cf-0fd5-4694-b6-86-cfc66713d50f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Darras.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>13db5980-f64f-11d6-8d-71-c3a2fd63a719</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Gautron.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1475e787-ad41-4f94-f0-96-87e7751441ad</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_Com_ZoomFlash_E.OU=GROUPES.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1617615c-83a4-4230-13-b7-5c611716a483</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=calypso.OU=Bindery.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1622cadf-51dc-4c5e-af-ba-dfca2216dc51</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_CDSI_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>164b3bb9-27f4-406c-75-a1-b93b4b16f427</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=BULL_DC_BUILD_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>17a02553-3afc-411a-04-82-5325a017fc3a</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Ghelissi.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>19afa465-48ca-4584-ec-b3-65a4af19ca48</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bretagne.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1a165b80-392c-11dd-b1-92-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_Telephonie_Lec.OU=Groupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1ae7cf51-330a-449e-0a-80-51cfe71a0a33</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Interfaces_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1b1a4ab7-ceec-43e9-ff-9a-b74a1a1becce</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Datacenter_Projet.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1b693b1c-491c-49c2-4a-89-1c3b691b1c49</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Daverdin.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1b764780-3058-11d6-8d-91-0004acbdafaf</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Perrier.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1bab79a3-8915-4121-a9-be-a379ab1b1589</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-Responsable.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1cbd0524-2a1d-4f21-54-9b-2405bd1c1d2a</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-Admin.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1ce5bf02-dd72-446a-83-9c-02bfe51c72dd</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Methodes_Qual&amp;MNSI_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1edb0f80-392c-11dd-b1-92-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_Telephonie_Ecr.OU=Groupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1efef060-f996-40f1-c8-9b-60f0fe1e96f9</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Neveu.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1f785c7f-cae1-4c6a-a1-83-7f5c781fe1ca</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_Presta_Ecriture.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1fbf3e19-802d-468e-8a-b6-193ebf1f2d80</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Amrane.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1ff4aa80-efb8-11da-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Joulincai.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>209357e4-4605-425a-c2-a8-e45793200546</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Essakadouala.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>20e377df-656c-414b-09-85-df77e3206c65</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-SUP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>20f8bc19-f46b-4434-0c-b7-19bcf8206bf4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_MG_Chatillon_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>243c32b4-51f8-4128-90-bf-b4323c24f851</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MUTEX DSI_INFO DSI__DEPT_TECHNIQUE DPT.OU=Services.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>246cc080-95e6-11d3-b6-32-dd0aa8097606</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dubus.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>24ea2e35-b166-4367-aa-a1-352eea2466b1</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Suivi_clonage-Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>25775345-bc20-4d25-ea-a6-4553772520bc</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Chiha.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>25b50576-010d-4c21-cf-8c-7605b5250d01</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Seksik.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>2600affe-b55d-4f76-0d-a3-feaf00265db5</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_MG_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>26cc4563-e18c-4dd2-a2-a7-6345cc268ce1</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Reyes.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>26ceb038-6088-4321-9d-a1-38b0ce268860</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Chalony.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>2798ce80-4f3f-11d9-bb-be-000476f68dd7</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Candre.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>27afd400-263c-11dc-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DeFonseca.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>2bcc7280-b042-11da-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Cantin-Delaloye.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>2d19a31d-680c-4bf9-2e-90-1da3192d0c68</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Aroche.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>2d69f95a-af28-4825-4f-9a-5af9692d28af</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Prevel.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>2defe553-02b6-4a86-4d-9b-53e5ef2db602</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Far_MUTEX_Ecr.OU=Groupes.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>2e3a0e03-7c1d-410a-91-97-030e3a2e1d7c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-TRANSF-EDIT.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>300cb22a-ae0c-4393-21-8c-2ab20c300cae</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mcaron.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>30312fc3-808c-40a3-9c-ab-c32f31308c80</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Cychatel.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>30bf0f70-df3f-4ca8-57-be-700fbf303fdf</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Caillard.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>30f61e80-6cc7-11dc-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Albrecht.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>31867125-8f77-4dc2-75-ac-25718631778f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Letondor.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>32df8831-ce43-415f-82-93-3188df3243ce</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>334d7380-dc93-11dd-8b-eb-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Poisson.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>354aa400-2bc7-11d8-8d-99-0004acbdafaf</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Ghaz.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>363fade1-1c1a-4d24-cf-ae-e1ad3f361a1c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Ung.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>36a2a72c-f101-4cfe-24-a1-2ca7a23601f1</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Martinot.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>36b84384-135d-4eda-36-a3-8443b8365d13</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-Expertise.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>37a94017-2fd6-4de4-66-8f-1740a937d62f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=BULL_DC_BUILD_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>3819fab8-8c5a-4e33-36-82-b8fa19385a8c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=CLGPMF_MXREPPART.OU=Cluster.OU=Bindery.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>3853683e-b481-4593-1d-8f-3e68533881b4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MutexEtVous_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>38fee33a-7601-4d13-3e-8e-3ae3fe380176</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Stemplowski.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>3b313280-24b6-11dc-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=NT-Orsyp.OU=Bindery.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>3bdeef16-8ce0-496e-12-a8-16efde3be08c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Goyer.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>3cadfcf6-78d6-4670-44-82-f6fcad3cd678</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bibard.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>3cfea65e-41a3-4bfb-b6-93-5ea6fe3ca341</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=App_Coppelia_Adm.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>3d6d3335-834e-4851-0a-ab-35336d3d4e83</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dubreil.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>3f69be80-aef8-11dd-b1-92-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Boukersi.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>40211471-5277-4c80-79-9d-711421407752</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dotorschumann.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>405361e7-765b-46c3-f3-9d-e76153405b76</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Claude.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>40710024-48fd-44de-69-b9-24007140fd48</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Maze.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>423dd3c3-cdaa-4235-42-ad-c3d33d42aacd</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mazzotta.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>43a31d34-dea0-4084-8c-88-341da343a0de</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Ilic.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>44088a9f-342f-43c9-30-b4-9f8a08442f34</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Genest.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>44505a10-b2a9-4fc4-e3-9d-105a5044a9b2</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Biron.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>458a2507-634e-418f-54-be-07258a454e63</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Seco_Clonage_Nsi_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>47f3d480-8f18-11da-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Parodi.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>48bee300-28fd-11de-8b-eb-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Lejeune.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>49d099aa-96f2-4119-19-b9-aa99d049f296</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bachri.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>4a325de2-ac4f-44f2-e8-9b-e25d324a4fac</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Sellam.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>4c1c779c-5c2f-4512-ae-95-9c771c4c2f5c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Oger.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>4dfcfe5a-bc5b-40ac-12-93-5afefc4d5bbc</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Benrayana.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>4fbe6df7-d94f-41f1-50-ab-f76dbe4f4fd9</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bourasse.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>508613f0-3856-4c48-77-a8-f01386505638</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Nmouzoun.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>53492d00-400f-11d6-bb-9b-000255c61d9d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bourdel.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5530c7b4-e454-43bc-85-b0-b4c7305554e4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Blanchet.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5745000f-2ab5-4817-50-84-0f004557b52a</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mazelin.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>57be063a-01ec-4801-86-a5-3a06be57ec01</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=SECO_DB_Logs_ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>57ffaac4-f23f-4777-a5-b8-c4aaff573ff2</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Elamisse.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>580beca3-d816-498f-ee-a0-a3ec0b5816d8</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_Bull_Run.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>59d2942e-1bbf-4259-fd-a8-2e94d259bf1b</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MutexEtVous_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5a170e80-eaf3-11d4-bb-7a-8bdeb0809055</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Berradia.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5bc70f39-92d1-422a-18-86-390fc75bd192</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bressonc.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5c6d36d5-22b3-4797-06-91-d5366d5cb322</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-AUDIT.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5c91e9c5-fd1c-442d-50-a9-c5e9915c1cfd</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Madiallo.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5cfcb94e-aec8-4756-d2-8e-4eb9fc5cc8ae</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Fcaron.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5d0d0807-2614-4c32-4e-95-07080d5d1426</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Contrats_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5e7b447a-9ed3-4c2f-ca-ab-7a447b5ed39e</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Kheniche.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5e7bacb1-648e-4534-91-aa-b1ac7b5e8e64</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Smessaoudi.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5ef4581e-b95a-4c3d-d2-ae-1e58f45e5ab9</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Elkhodja.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5f30b664-a83e-4ff4-06-ac-64b6305f3ea8</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Datacenter_Etude.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5f34c226-ff88-4622-50-a3-26c2345f88ff</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Sharrache.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>61de2298-9a5c-4ad9-c2-96-9822de615c9a</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Piotto.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>645364db-51c8-4fd8-40-b6-db645364c851</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Aurora.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>651f2f00-8a42-11dd-b1-92-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Lanvin.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>65ebbb80-fe7a-11d4-8d-5d-e4540333bc70</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Abbassi.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>65f0aafa-835e-4191-27-a1-faaaf0655e83</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Polge.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>66354600-a483-11db-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Johan.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>663dcda6-705a-4308-f4-b0-a6cd3d665a70</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dlimi.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>67969c9d-b739-4620-ef-bf-9d9c966739b7</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Ciapcinski.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6821af80-dd18-11d6-8d-92-0004acbdafaf</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Demotchko.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>689cafbd-9188-463d-0e-b2-bdaf9c688891</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bombled.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>68fdade4-e0ed-41c8-48-b4-e4adfd68ede0</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Salmonm.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6b54a1e0-61fa-4275-14-b5-e0a1546bfa61</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Interfaces_DSI_DT_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6b586922-87a1-4e9b-5c-ae-2269586ba187</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Ouldbraham.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6bf3e076-c036-4f61-b9-98-76e0f36b36c0</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Far_MUTEX_Lec.OU=Groupes.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6d7ab562-b0ef-40bd-32-8b-62b57a6defb0</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Escande.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6e59beac-4b05-40c1-dc-b1-acbe596e054b</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Cortes.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6f66074d-755d-4a73-77-96-4d07666f5d75</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>6f9c71c7-8a03-4dd8-44-a3-c7719c6f038a</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Amdiallo.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6ff542f3-0138-41af-41-b7-f342f56f3801</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-PRO_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>707bc24e-6db7-406a-bc-bf-4ec27b70b76d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Diehl.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>70e72549-ad5d-48da-e0-88-4925e7705dad</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Girard.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>71247242-db63-4545-d2-8e-4272247163db</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_MG_BADGES_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>7179d488-1d15-4bcb-1d-85-88d47971151d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mengual.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>746d8100-88a2-11d4-bb-76-9578b414a542</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Chambon.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>761af9a8-37a3-4e4d-d9-b6-a8f91a76a337</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>76847960-75e5-4dbc-fb-89-60798476e575</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Seco_Clonage_Nsi_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>76fbc300-cbad-11d6-bb-9d-000255470cad</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Etude-Coordination.OU=GROUPES.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>787d8335-fa6d-4479-73-bd-35837d786dfa</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Chabouni.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>7a4819cc-8fb2-469d-d2-b8-cc19487ab28f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Baudry.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>7c12059b-dc0b-4189-e4-b1-9b05127c0bdc</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Datacenter_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>7c460ae8-51f2-4129-ce-bf-e80a467cf251</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Jeffali.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>7c50f398-515f-4c0d-ca-95-98f3507c5f51</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Agermain.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>7fb14b00-22a4-11de-8b-eb-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Sum.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>803ffd43-857f-4d74-9c-83-43fd3f807f85</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Corrotti.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>80596680-9539-11dd-b1-92-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Orfanoudis.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>826b8ff1-c278-4273-f3-bc-f18f6b8278c2</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Sécurité.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>83b3a4c3-3874-41b7-33-97-c3a4b3837438</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Tyfel.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>84509180-69c7-11d7-bb-ae-000476f68dd7</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Legigan.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>8560314c-4a86-44f2-af-8d-4c316085864a</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Usr_DSI_DT_SansPresta.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>8570c6db-ca97-4cce-c2-90-dbc6708597ca</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Azarraf.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>85a91b96-be28-4b91-94-9b-961ba98528be</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Anne.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>879f69e6-e9d4-402d-1d-b9-e6699f87d4e9</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Parpaite.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>8818d1b9-496e-4454-82-81-b9d118886e49</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Brandouy.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>88e1e04c-6c95-4203-e3-a2-4ce0e188956c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=SECO_RSI_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>8a24d282-400c-4251-8e-b3-82d2248a0c40</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_Presta_Lecture.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>8bb37700-77c7-11d6-8d-91-0004acbdafaf</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dhouailly.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>8c5f2d80-4ff2-11dc-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Domankiewicz.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>8d91da91-293b-4bc8-9f-88-91da918d3b29</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Saliba.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>8f80c6fa-0982-457a-f6-8a-fac6808f8209</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_DED_BUDGET.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>91c51b00-b229-11dd-b1-92-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Breton.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>91e71494-f507-4e57-60-9f-9414e79107f5</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Interfaces_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>924a6152-5da7-4756-a6-a0-52614a92a75d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Devoge.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>9406c007-8811-4929-84-bd-07c006941188</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Audrain.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>94338ff9-95c4-470f-df-8a-f98f3394c495</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Acolatse.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>94f18a38-2a1d-4ddf-61-97-388af1941d2a</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Sallet.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>9779722f-1d98-4346-a2-97-2f727997981d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Subtil.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>98698f80-765c-11d3-b6-31-aff853b11d37</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Aoun.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>99c9b800-31e4-11db-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Decarvalho.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>9a0db1ab-9628-455f-42-be-abb10d9a2896</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_DED_Lecture.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>9a6cdccd-8674-4ba2-f5-92-cddc6c9a7486</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Garbe.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>9cfeeb1d-ab4c-440d-d0-be-1debfe9c4cab</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Kuoch.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>9db53b3a-41f7-4139-0f-ad-3a3bb59df741</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Public_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>9ee9ff81-75a7-11d3-b6-31-aff853b11d37</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Marotta.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>9f9e1980-053f-11dd-b5-04-00145ea80e7c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Soret.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a0476264-39a8-424a-0b-ac-646247a0a839</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Rawet.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a0de8777-12c1-4d06-71-bc-7787dea0c112</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Grima.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a0e04100-6b18-11db-8d-9a-0004ac967f39</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Karassouloff.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a1848600-64d6-11df-8b-eb-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Production_te.OU=Groupes.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a2a1d430-c504-42cf-dd-9b-30d4a1a204c5</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Garnier.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a2b8980f-b29c-40a4-f6-af-0f98b8a29cb2</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Aune.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a319b4fa-a694-41ec-cf-b5-fab419a394a6</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Datacenter_Bull.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a380452f-5d8a-47fe-bd-b3-2f4580a38a5d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Martin.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a44650a6-b078-415a-04-97-a65046a478b0</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Fasquelle.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a44a3eda-eb01-485a-7a-b0-da3e4aa401eb</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Laaroussi.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a4a9deda-831e-41be-5c-b7-dadea9a41e83</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=App_Coppelia_User.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a4e93058-772f-4604-be-82-5830e9a42f77</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Gladieux.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a6324620-7d5f-446f-9d-98-204632a65f7d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Boumediene.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a6bcd018-242f-4de8-20-b9-18d0bca62f24</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Fgermain.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a776267f-805f-4f24-9b-91-7f2676a75f80</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Pilotage_RH_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a865c080-c296-11d3-bb-72-a079c55b432c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Girolami.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a9dc8b22-db8d-49dc-75-b0-228bdca98ddb</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Etan.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ab7a8365-ce4d-4d57-b7-ae-65837aab4dce</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-Editique_Repro.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ac0ab100-3141-11dd-b1-92-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Jdjandiomande.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ac1f224a-ed9e-416f-7a-a5-4a221fac9eed</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=expbull.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ac3a4f80-e894-11de-8b-eb-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Brasseur.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ad41d133-6b84-482b-73-bb-33d141ad846b</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Elkadiri.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>aeb983ba-af45-438e-4a-b0-ba83b9ae45af</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dupont.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>af2d7b89-222f-4007-80-9f-897b2daf2f22</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bricheux.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>af68e11a-7654-4282-eb-a9-1ae168af5476</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Osmani.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>afad051f-1fa7-40e0-4d-a3-1f05adafa71f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-Production.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b0775366-e8f5-46a4-da-9d-665377b0f5e8</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DirDev_PAO_archives.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b1db2731-b204-4335-d9-82-3127dbb104b2</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Vetchenou.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b2448d29-a538-4649-56-a7-298d44b238a5</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_MG_BADGES_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b30553e1-44f4-40f4-18-96-e15305b3f444</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bourrutlacouture.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b30daf36-857d-465a-76-98-36af0db37d85</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_DED_Ecriture.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b3354a00-4164-11da-bb-ca-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bernard.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b3b6fe80-e377-11dc-b1-92-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Thionville.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b4924126-371d-4446-f2-bc-264192b41d37</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Ramos.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b50f1e6e-8b95-4f6e-98-a9-6e1e0fb5958b</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-AUDIT-LEC.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b559b4ec-3e26-48bf-02-91-ecb459b5263e</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_CDSI_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b55de480-88d3-11de-8b-eb-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dlefebvre.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b6bc6524-d47d-49d4-4b-8a-2465bcb67dd4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Labarre.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b709ed00-b826-11da-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Obigand.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b757bd88-a4ca-4d6a-74-a6-88bd57b7caa4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Deoliveira.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b7d2cef4-7487-4d86-09-97-f4ced2b78774</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Pecqueux.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b81c3783-32c2-4cf5-33-be-83371cb8c232</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Kuppers.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b8297f56-6ea0-47e3-2f-bb-567f29b8a06e</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=cheops.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b923dd80-75a7-11d3-b6-31-aff853b11d37</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Goes_de_sa.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>bad9977d-08e9-43ae-a1-92-7d97d9bae908</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_MG_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>bb96d900-ae24-11d7-bb-b1-000476f68dd7</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Hompert.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>bc3925ad-dc30-4e1d-9c-b8-ad2539bc30dc</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_Bull_Run_Pub.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>bcf5843d-b001-4c0f-bf-99-3d84f5bc01b0</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_MG_Chatillon_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>bcfcd137-d4ae-49d8-f2-b6-37d1fcbcaed4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Doghri.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>be03ca13-3030-45f4-fb-96-13ca03be3030</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Ourari.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>be22be00-2182-11d4-90-da-c8f7e6f5c42d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dallois.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>be333287-caaa-4cc1-59-af-873233beaaca</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mutex_Personnel.OU=Groupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>be50795e-69b2-4142-26-be-5e7950beb269</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Tunorfe.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>bf8c3577-0017-4283-3f-a3-77358cbf1700</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Contrats_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>c1992eb5-388c-4d86-12-88-b52e99c18c38</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_CPE_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>c1b57e60-3a5d-4db2-66-a9-607eb5c15d3a</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Popot.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>c2495416-21d1-4b7d-f2-8b-165449c2d121</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Fmasson.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>c3f66c00-a7a5-11da-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Eudeline.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>c3f67780-af00-11d8-bb-ba-000476f68dd7</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Jacob.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>c5d371a7-e3ac-48a7-63-81-a771d3c5ace3</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Suivi_clonage-Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>c6790700-1b59-11d9-bb-be-000476f68dd7</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Cuzonberanger.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>c71101f1-967e-412e-55-b7-f10111c77e96</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-Support.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>c980ce11-163c-402c-86-ad-11ce80c93c16</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Interfaces_DSI_DT_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>cb1c8e93-86fa-4e8d-fb-97-938e1ccbfa86</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_DED_Documentation_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>cba35c02-5c7b-499e-de-ba-025ca3cb7b5c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MutexEco.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>cc583a80-8e02-11d4-bb-76-cc8274d5523f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dontenville.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>cf256e4b-5abe-4aaa-1f-bb-4b6e25cfbe5a</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Guillo.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>cf46a704-4ce7-46bf-f8-b9-04a746cfe74c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dias.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>cf553b9c-169e-46a2-d5-8d-9c3b55cf9e16</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-Projet.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>cf982a5c-8348-44cf-d7-99-5c2a98cf4883</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_Bull_Run_lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>cffbb5db-5cd8-4ecd-a6-be-dbb5fbcfd85c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Cote.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d03c3d68-133e-48b1-7f-ac-683d3cd03e13</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=EDegrelle.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d0e3e680-8905-11db-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bellilih.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d106ed05-c21d-4629-d4-88-05ed06d11dc2</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Ymonterocruz.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d18d2d80-206f-11da-bb-c9-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Cathalan.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d36ea6ea-e3e0-434b-ed-b4-eaa66ed3e0e3</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Corneillie.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d43d8600-263b-11dc-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Koskas.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d4bb7af6-86fe-4c19-77-8b-f67abbd4fe86</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Pilotage_RH_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d5540280-137e-11d9-bb-be-000476f68dd7</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Pavlic.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d5e99c00-7271-11dc-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Gareau.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d6530d35-11cf-4de5-6e-b0-350d53d6cf11</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Genisson.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d659d397-3738-4a25-f4-b3-97d359d63837</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bonjour.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d6cba587-1593-4800-88-ae-87a5cbd69315</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Wgarachon.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d76bf9b3-53dc-42c5-80-92-b3f96bd7dc53</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Public_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d7d8c9d5-befe-4238-1f-8c-d5c9d8d7febe</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Nherve.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d819767b-913d-4b2d-fd-9f-7b7619d83d91</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-PCIT.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d83b6900-5e36-11dd-b1-92-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Cazenave.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d9471be4-9ea8-40c1-cf-8c-e41b47d9a89e</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Interfaces_DSI_DP_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>db1b5600-1ab8-11de-8b-eb-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Selmet.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>dbb0e52d-3987-4d79-eb-87-2de5b0db8739</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=naspao.OU=Bindery.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>dc658180-6197-11df-8b-eb-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=SSOAdmin.OU=Bindery.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>dcaab66e-b3ac-4a22-99-82-6eb6aadcacb3</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Legros.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>dcbcd155-9c7c-4196-5d-b9-55d1bcdc7c9c</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Datacenter_Kpmg.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>df1245a8-95af-40b7-2f-84-a84512dfaf95</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Guillemot.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>e345aa1f-8254-41df-76-85-1faa45e35482</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_DIR_Ecriture.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>e4bdca3b-d04d-4789-f3-86-3bcabde44dd0</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_DED_Activite_Ecriture.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>e4f75e59-916b-4ffc-41-a2-595ef7e46b91</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Momo.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>e6088c80-033a-11de-8b-eb-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DAOSI_Managemnt_Ecr.OU=GROUPES.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>e7f32e65-7b37-4514-20-a1-652ef3e7377b</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Cissoko.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>e8818081-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Meisser.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ea4b4407-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ea4b4409-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Admin.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ea813954-afb2-48a1-64-8a-543981eab2af</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_Ecriture.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>eacd4080-033a-11de-8b-eb-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DAOSI_Managemnt_Lec.OU=GROUPES.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>eae3da84-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Everyone.OU=Groupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>eb53290b-a3d8-43d6-d6-8d-0b2953ebd8a3</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Elamri.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ee2f02fa-b05e-4dd9-74-99-fa022fee5eb0</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Fourdinier.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ee50dd11-40fc-47bf-49-b7-11dd50eefc40</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=secutest.OU=Groupes.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>eed72102-d19b-4df4-f2-88-0221d7ee9bd1</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_CPE_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ef3238a0-8db0-49eb-b6-a7-a03832efb08d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Arbaoui.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>efc234de-d184-486b-4b-b0-de34c2ef84d1</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-EXP_Manager.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f0372f7a-1781-46a2-8f-99-7a2f37f08117</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Chouchane.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f04f2e91-b264-4026-bb-b3-912e4ff064b2</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Baque.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f07dbd00-69cc-11dd-b1-92-00096ba3cca4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Pedronetto.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f0dcff9d-ad81-4952-86-92-9dffdcf081ad</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DT-TRANSF-SUP.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f1725206-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Chari.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f20ae88c-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Yang.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f2d020ec-913b-4bbf-32-b4-ec20d0f23b91</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Pguillaume.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f33c1587-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Papaphotiou.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f33dd290-e13e-4036-95-88-90d23df33ee1</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=MX_DSI_DIR_Lecture.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f52e2991-441c-47a3-0b-93-91292ef51c44</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Pelina.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f59df26f-e0ed-44ff-fb-86-6ff29df5ede0</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Tettamanti.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f7683307-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Rocher.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f7683308-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Jouan.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f768330e-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Lebivic.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f768330f-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Guedj.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fa632391-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Baiottocornil.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fafbba16-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=PetitAL.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fb9450a3-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Frayssinet.OU=DA.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fc2ce70b-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Brines.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fc61223d-c217-43e2-d0-bc-3d2261fc17c2</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Biancotti.OU=DP.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fca29b00-7003-11dc-bb-ce-00101800a190</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Guetor.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fce83178-8899-4f2c-7e-ad-7831e8fc9988</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=SECO_RSI_Ecr.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fd5e140b-5a24-11d3-b0-2e-ef2333109c6f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Blouin.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fdd59795-23e9-40fb-2b-92-9597d5fde923</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Granjo.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fe5df8ac-f13d-43a2-e4-be-acf85dfe3df1</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mx_DSI_Datacenter_Lec.OU=MxGroupes.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fffee7d0-3d4b-4e1e-ae-a3-d0e7feff4b3d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Heni.OU=DSI.O=FNMF.T=FNMF.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+</userInfo>
+<dirInfo>
+<directory><zid>17808</zid><path>\Partage\MX_DSI\BULL_DC_RUN</path><spaceUsed>0</spaceUsed><quotaAmount>524288000</quotaAmount></directory>
+<directory><zid>17809</zid><path>\Partage\MX_DSI\SECO</path><spaceUsed>3822776320</spaceUsed><quotaAmount>5169741824</quotaAmount></directory>
+<directory><zid>17810</zid><path>\Partage\MX_DSI\BULL_DC_BUILD</path><spaceUsed>0</spaceUsed><quotaAmount>262144000</quotaAmount></directory>
+<directory><zid>878861</zid><path>\Partage\MX_DSI\DT\ADMIN\WAN</path><spaceUsed>0</spaceUsed><quotaAmount>255852544</quotaAmount></directory>
+<directory><zid>968586</zid><path>\Partage\MX_Commun\MutexEco</path><spaceUsed>179548160</spaceUsed><quotaAmount>255852544</quotaAmount></directory>
+<directory><zid>5608528</zid><path>\Partage\Tafenscene</path><spaceUsed>4096</spaceUsed><quotaAmount>10737418240</quotaAmount></directory>
+<directory><zid>7043395</zid><path>\Partage\MX_DSI\DED\FAR_MUTEX</path><spaceUsed>3919872</spaceUsed><quotaAmount>524288000</quotaAmount></directory>
+<directory><zid>7043398</zid><path>\Partage\MX_DSI\DED\DOCUMENTATION</path><spaceUsed>8131923968</spaceUsed><quotaAmount>16447635456</quotaAmount></directory>
+<directory><zid>7299523</zid><path>\Partage\MX_DSI\Methodes_Qualification&amp;MNSI</path><spaceUsed>250572800</spaceUsed><quotaAmount>262144000</quotaAmount></directory>
+<directory><zid>7299524</zid><path>\Partage\MX_DSI\CPE</path><spaceUsed>88842240</spaceUsed><quotaAmount>268435456</quotaAmount></directory>
+<directory><zid>7413189</zid><path>\Partage\MX_DSI\DT\PROJET\Master\GPMF\Autres documents\liste des applications\TestATOS</path><spaceUsed>1579761664</spaceUsed><quotaAmount>5120000000</quotaAmount></directory>
+<directory><zid>7519046</zid><path>\Partage\Dir_Developpement\Communication\PAO_Courant</path><spaceUsed>0</spaceUsed><quotaAmount>409095634944</quotaAmount></directory>
+<directory><zid>7895495</zid><path>\Partage\MX_DSI\DT\TRANSF</path><spaceUsed>289497088</spaceUsed><quotaAmount>1073741824</quotaAmount></directory>
+<directory><zid>8221000</zid><path>\Partage\MX_RH\Pilotage_RH</path><spaceUsed>17653760</spaceUsed><quotaAmount>262144000</quotaAmount></directory>
+</dirInfo>
+</metadata>

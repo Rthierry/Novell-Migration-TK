@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 from pymongo import MongoClient
 import hashlib
+import pandas as pd
+
 
 class NSSVolume(object):
 
@@ -12,11 +14,18 @@ class NSSVolume(object):
 
         ### Change DB Name here
         NSSVolume.dbclient = self.client[NSSVolume.db]
-        NSSVolume.NTFSAceCollection = self.dbclient['NTFSAce']
+
+        ### OES NSS material import
         NSSVolume.NSSTrusteesCollection = self.dbclient['NSSTrustees']
+        NSSVolume.NSSIRFCollection = self.dbclient['NSSIrf']
+        NSSVolume.NSSQuotasCollection = self.dbclient['NSSQuotas']
+
+        ### Converted permission from previous runs
+        NSSVolume.NTFSAceCollection = self.dbclient['NTFSAce']
         NSSVolume.traverseFolderCollection = self.dbclient['TraverseFolderList']
         NSSVolume.traverseGroupMembershipCollection = self.dbclient['TraverseGroupMembership']
         NSSVolume.traverseRightsCollection = self.dbclient['TraverseRights']
+
 
         ##Import NSS Collection from DB
         NSSVolume.aceList = self.importCollectionFromDB(self.volname, self.NSSTrusteesCollection)
@@ -30,16 +39,28 @@ class NSSVolume(object):
         ##Import traverse group membership table
         NSSVolume.traverseGroupMembershipList = self.importCollectionFromDB(self.volname, self.traverseGroupMembershipCollection)
 
+        ##Import traverse right list
         NSSVolume.traverseRightsList = self.importCollectionFromDB(self.volname, self.traverseRightsCollection)
 
+        ##NSS Quotas list
+        NSSVolume.NSSQuotasList = self.importCollectionFromDB(self.volname, self.NSSQuotasCollection)
+
+        ##NSS IRF
+        NSSVolume.NSSIRFList = self.importCollectionFromDB(self.volname, self.NSSIRFCollection)
+
     def generateRights(self):
+
+        self.purgeCollectionByVolName(self.volname, self.NTFSAceCollection)
+        self.purgeCollectionByVolName(self.volname, self.traverseGroupMembershipCollection)
+        self.purgeCollectionByVolName(self.volname, self.traverseFolderCollection)
         self.convertToNTFS()
         self.generateTraverseGroup()
         self.generateTraverseRights()
 
 
-
-
+    # -----------------------------------------------
+    # -----------   Traverse Group ------------------
+    # -----------------------------------------------
     def generateTraverseGroup(self):
         print ("Generating Traverse path")
 
@@ -61,19 +82,6 @@ class NSSVolume(object):
                 self.insertLineToDB(post, self.traverseFolderCollection, 1)
                 self.traverseFolderCollection.update({"Path": previousPath}, {"$set": {"ParentFolder": currentPath, "MemberOf" : groupName}})
                 #print (post)
-
-
-    def getParentFolderList(self, path):
-
-        folderList = []
-        currentPath = path
-
-        while(currentPath.count("/") > 1 ):
-            currentPath = self.getParentFolder(currentPath)
-            folderList.append(currentPath)
-
-        return folderList
-
 
     #### Description  Add Trustee to traverse Group
     @classmethod
@@ -97,45 +105,18 @@ class NSSVolume(object):
                self.insertLineToDB({'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly" }, self.NTFSAceCollection, 1)
 
 
-
-
-
-
-
-
+    # -----------------------------------------------
+    # -----------   Extraction Method ---------------
+    # -----------------------------------------------
     @classmethod
-    def generateTraversePaths(self):
-        for row in NSSVolume.ntfsAceList:
-            #print ("Initial : " + row['Path'])
-            currentPath = self.getParentFolder(row['Path'])
-            while(currentPath.count("/") > 1 ):
-                currentPath = self.getParentFolder(currentPath)
-                #print("Parent Folder : " + currentPath)
-                post = { "Volume" : self.volname, "Path" : currentPath, "MemberOf" : "", "ParentFolder" : "" }
-                self.insertLineToDB(post, self.traverseFolderCollection, 1)
+    def importCollectionFromDB(self, volname, collection):
+        acelist = collection.find({ 'Volume' : volname})
+        return acelist
 
 
-    @classmethod
-    def generateTraverseGroupName(self, path):
-        ##Remove slash character from path
-        noslashpath = path.replace("/","")
-        noslashpath = path.replace(" ","")
-        hashpath = hashlib.md5(noslashpath.encode('utf-8')).hexdigest()
-
-        trunkpath = ""
-        for folder in path.split("/")[1:]:
-            trunkpath = trunkpath + folder[0:3]
-
-        return (trunkpath+"-"+hashpath[0:10])[0:60]
-
-
-
-    @classmethod
-    def getParentFolder(self,path):
-        parentFolder = path.rsplit("/",1)[0]
-        return parentFolder
-        #noslash = parentFolder.replace("/", "")
-        #print ("Noslash : "+noslash)
+    # -----------------------------------------------
+    # -------   Database Modification Method --------
+    # -----------------------------------------------
 
     @classmethod
     def purgeCollectionByVolName(self, volname, collection):
@@ -154,6 +135,7 @@ class NSSVolume(object):
             #post = { "Volume" : self.volname, "Path" : post['Path'], "Rights" : post['Rights'], "SAMAccountName" : post['SAMAccountName']}
             post_id = collection.insert_one(post).inserted_id
 
+    ##Insert an array of dictionary to MongoDB
     @classmethod
     def insertToDB(self, rowlist, collection, volname, filter=None):
         count = 0
@@ -169,24 +151,23 @@ class NSSVolume(object):
 
         print ("Inserted "+str(count)+" rows into for "+volname)
 
+    # -----------------------------------------------
+    # -------   Database Modification Method --------
+    # -----------------------------------------------
+
+
     @classmethod
     def convertToNTFS(self):
         convertedRights = []
         for trustee in self.aceList:
-            username = self.extractUserName(trustee['Trustee'])
-            path = trustee['Path']
-            right = self.aceToNTFS(trustee['Rights'])
+            username = self.extractUserName(trustee['name'])
+            path = trustee['path']
+            right = self.aceToNTFS(trustee['rights'])
             convertedRights.append( { 'Volume' : self.volname, 'Type' : 'ConvertedRight' ,'SAMAccountName' : username, 'Path' : path, 'Rights' : right, 'Scope' : 'ThisFolderSubFoldersAndFiles' })
 
         self.ntfsAceList = convertedRights
         self.purgeCollectionByVolName(self.volname, self.NTFSAceCollection)
         self.insertToDB(self.ntfsAceList, self.NTFSAceCollection, self.volname, "toto")
-
-    @classmethod
-    def importCollectionFromDB(self, volname, collection):
-        acelist = collection.find({ 'Volume' : volname})
-        return acelist
-
 
     ### Take NSS ACE string in and return NTFS ACE string
     @classmethod
@@ -230,7 +211,71 @@ class NSSVolume(object):
                     "FullAccess" : FullAccess
                 })
 
+
+    # -------------------------------------------------
+    # -------------   Conversion Method  --------------
+    # -------------------------------------------------
+
     @classmethod
     def extractUserName(self, fqdn):
-        username = fqdn.split(".")[1].split("=")[1]
-        return username
+
+        #print ("Extracting username from : "+fqdn)
+        try:
+            username = fqdn.split(".")[1].split("=")[1]
+            return username
+        except IndexError:
+            print ("Bad username : "+fqdn)
+            return "Unknown"
+
+
+    @classmethod
+    def getParentFolder(self,path):
+        parentFolder = path.rsplit("/",1)[0]
+        return parentFolder
+
+
+    @classmethod
+    def getParentFolderList(self, path):
+
+        folderList = []
+        currentPath = path
+
+        while(currentPath.count("/") > 1 ):
+            currentPath = self.getParentFolder(currentPath)
+            folderList.append(currentPath)
+
+        return folderList
+
+    @classmethod
+    def generateTraverseGroupName(self, path):
+        ##Remove slash character from path
+        noslashpath = path.replace("/","")
+        noslashpath = path.replace(" ","")
+        hashpath = hashlib.md5(noslashpath.encode('utf-8')).hexdigest()
+
+        trunkpath = ""
+        for folder in path.split("/")[1:]:
+            trunkpath = trunkpath + folder[0:3]
+
+        return (trunkpath+"-"+hashpath[0:10])[0:60]
+
+
+    # -------------------------------------------------
+    # -------------   Export Method  ------------------
+    # -------------------------------------------------
+
+    @classmethod
+    def exportToCSV(self):
+
+        pd.DataFrame(list(self.ntfsAceList)).to_csv(self.volname+"-ntfs.csv")
+        pd.DataFrame(list(self.aceList)).to_csv(self.volname+"-nss.csv")
+        pd.DataFrame(list(self.traverseFolderList)).to_csv(self.volname+"-travFolder.csv")
+        pd.DataFrame(list(self.traverseGroupMembershipList)).to_csv(self.volname+"-travGrpMembership.csv")
+        pd.DataFrame(list(self.NSSQuotasList)).to_csv(self.volname+"-quotas.csv")
+        pd.DataFrame(list(self.NSSIRFList)).to_csv(self.volname+"-irf.csv")
+
+        print ("NSS Permission : "+self.volname+"-nss.csv")
+        print ("NTFS Permission : "+self.volname+"-ntfs.csv")
+        print ("Traverse Group Membership : "+self.volname+"-travGrpMembership.csv")
+        print("NSS Quotas : "+self.volname+"-quotas.csv")
+        print("NSS IRF : "+self.volname+"-irf.csv")
