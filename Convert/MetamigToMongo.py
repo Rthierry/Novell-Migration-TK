@@ -11,7 +11,6 @@ import argparse
 
 
 def insertLineToDB(post, collection):
-
     post_id = collection.update_one(post, { '$set' : post }, upsert=True)
 
 
@@ -72,13 +71,22 @@ def main(argv):
 
     ### Import mode enable
     if (args.inject):
-        print ("Import",args.inputfile," in MongoDB for volume",args.volname)
         purgeCollectionByVolName(args.volname, NSSTrusteesCollection)
+        print ("Import",args.inputfile," in MongoDB for volume",args.volname)
+        lines = []
+        with open(args.inputfile) as infile, open (args.inputfile+"-charfixed",'w') as outfile:
+            for line in infile:
+                line = line.replace('&', '&amp;')
+                outfile.write(line)
 
         ### Import XML file
-        tree = etree.parse(args.inputfile)
+        tree = etree.parse(args.inputfile+"-charfixed")
 
         trusteerows = []
+
+        trusteecount = 0
+        irfcount = 0
+        quotaCount = 0
 
         for filenode in tree.xpath("trusteeInfo/file"):
             for path in filenode.xpath("path"):
@@ -89,14 +97,14 @@ def main(argv):
                 for trusteerights in trustee.xpath("rights"):
                     rights = trusteerights.get("value")
                     trusteerow = { 'Volume' : args.volname, 'path' : trusteepath , 'name' : name , 'rights' : rights }
+                    trusteecount = trusteecount + 1
                     insertLineToDB(trusteerow, NSSTrusteesCollection)
 
             for irf in filenode.xpath("inheritedRightsFilter"):
                 irfentry = irf.get("value")
                 irfrow = {'Volume' : args.volname, 'Path' : trusteepath, 'Filter' : irfentry }
                 insertLineToDB(irfrow, IRFCollection)
-
-
+                irfcount = irfcount + 1
 
         quotarows = []
 
@@ -104,14 +112,19 @@ def main(argv):
             for path in directory.xpath("path"):
                 currentPath = path.text
 
-
             for spaceUsed in directory.xpath("quotaAmount"):
                 if ((spaceUsed.text != "9223372036854775807")):
                     currentQuotas = spaceUsed.text
                     quotarow = { 'Volume' : args.volname, 'path' : currentPath, 'quota' : currentQuotas}
-
                     insertLineToDB(quotarow,NSSQuotasCollection)
+                    quotaCount = quotaCount + 1
 
+        print ("\nTotal : ")
+        print (str(trusteecount)+" trustees")
+        print (str(irfcount)+" irfs")
+        print (str(quotaCount)+" quotas")
+
+        print ("Run ")
 
 
 
