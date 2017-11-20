@@ -14,7 +14,9 @@ def main(self):
     parser = argparse.ArgumentParser()
     parser.add_argument("-b","--database", type=str, dest='dbname', help="DB Name")
     parser.add_argument("-v","--volname", type=str, dest='volname', help="Volume Name")
+    parser.add_argument("-l","--logfile", type=str, dest='logfile', help="Volume Name")
     parser.add_argument("--generateRights", help="Generate rights", action="store_true")
+    parser.add_argument("--verbose", help="Generate rights", action="store_true")
     parser.add_argument("--exportToCSV", help="Export rights to CSV", action="store_true")
     parser.add_argument("--showIrfs", help="Print Irfs", action="store_true")
     parser.add_argument("--showQuotas", help="Print Quotas", action="store_true")
@@ -32,7 +34,10 @@ def main(self):
         parser.print_help()
         sys.exit(1)
 
-    volume = NSSVolume(args.volname, args.dbname)
+    volume = NSSVolume(args.volname, args.dbname, args.verbose)
+
+#    if (args.verbose):
+#        volume.verbose = 1
 
     if (args.generateRights):
         volume.generateRights()

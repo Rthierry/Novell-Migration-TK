@@ -2,16 +2,20 @@
 from pymongo import MongoClient
 import hashlib
 import pandas as pd
+import re
 
 
 class NSSVolume(object):
 
     client = MongoClient()
+    errorLog = []
+    ADLanguage = "EN"
+    verbose = 0
 
-    def __init__(self, volname, db):
+    def __init__(self, volname, db, verbose):
         NSSVolume.volname = volname
         NSSVolume.db = db
-
+        NSSVolume.verbose = verbose
         ### Change DB Name here
         NSSVolume.dbclient = self.client[NSSVolume.db]
 
@@ -62,8 +66,8 @@ class NSSVolume(object):
     # -----------   Traverse Group ------------------
     # -----------------------------------------------
     def generateTraverseGroup(self):
-        print ("Generating Traverse path")
-
+        if (self.verbose): print ("Generating Traverse path")
+        count = 0
         for row in NSSVolume.ntfsAceList:
             currentPath = self.getParentFolder(row['Path'])
             while(currentPath.count("/") > 1 ):
@@ -79,14 +83,18 @@ class NSSVolume(object):
 
                 groupName = ("TRVGRP-"+trunkpath+"-"+hashpath[0:10])[0:60]
                 post = { "Volume" : self.volname, "Path" : currentPath, 'Group' : groupName }
+                count = count + 1
                 self.insertLineToDB(post, self.traverseFolderCollection, 1)
                 self.traverseFolderCollection.update({"Path": previousPath}, {"$set": {"ParentFolder": currentPath, "MemberOf" : groupName}})
-                #print (post)
+
+        print ("Added "+str(count)+" entry to traverse folder list")
+
 
     #### Description  Add Trustee to traverse Group
     @classmethod
     def generateTraverseRights(self):
-        print("Generating traverse rights")
+        count = 0
+        if (self.verbose): print("Generating traverse rights")
         ### For each row in NTFS ACE List
         for row in self.ntfsAceList:
 
@@ -94,15 +102,20 @@ class NSSVolume(object):
             parentFolder = self.traverseFolderCollection.find( { 'Path' : self.getParentFolder(row['Path']) })
             ### For the uniq result
             for f in parentFolder:
+                count = count + 1
                 self.insertLineToDB({ 'Volume' : self.volname ,'SAMAccountName' : row['SAMAccountName'], 'MemberOf' : f['Group']}, self.traverseGroupMembershipCollection, 1)
                 ### Add the trustee to the group
-                print ("Adding "+row['SAMAccountName']+" to : "+f['Group'])
+                if (self.verbose): print ("Adding "+row['SAMAccountName']+" to : "+f['Group'])
 
         for value in self.traverseFolderList:
             if "MemberOf" in value.keys():
-               print ("Group "+value['Group']+" member of "+value['MemberOf'])
-               self.insertLineToDB({ 'Volume' : self.volname, 'SAMAccountName' : value['Group'], 'MemberOf' : value['MemberOf']}, self.traverseGroupMembershipCollection, 1)
-               self.insertLineToDB({'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly" }, self.NTFSAceCollection, 1)
+                if (self.verbose): print ("Group "+value['Group']+" member of "+value['MemberOf'])
+                count = count + 1
+                self.insertLineToDB({ 'Volume' : self.volname, 'SAMAccountName' : value['Group'], 'MemberOf' : value['MemberOf']}, self.traverseGroupMembershipCollection, 1)
+                count = count + 1
+                self.insertLineToDB({'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly" }, self.NTFSAceCollection, 1)
+
+        print ("Added "+str(count)+" entry to GroupMembership collection")
 
 
     # -----------------------------------------------
@@ -120,7 +133,7 @@ class NSSVolume(object):
 
     @classmethod
     def purgeCollectionByVolName(self, volname, collection):
-        print ("Delete collection for",volname)
+        if (self.verbose): print ("Delete collection for",volname)
         result = collection.delete_many({ "Volume" : volname})
 
     @classmethod
@@ -149,7 +162,7 @@ class NSSVolume(object):
             else:
                 self.insertLineToDB(row,collection,1)
 
-        print ("Inserted "+str(count)+" rows into for "+volname)
+        print ("Inserted "+str(count)+" rows into database for "+volname)
 
     # -----------------------------------------------
     # -------   Database Modification Method --------
@@ -159,15 +172,25 @@ class NSSVolume(object):
     @classmethod
     def convertToNTFS(self):
         convertedRights = []
+        countNormal = 0
+        countOU = 0
         for trustee in self.aceList:
             username = self.extractUserName(trustee['name'])
             path = trustee['path']
             right = self.aceToNTFS(trustee['rights'])
-            convertedRights.append( { 'Volume' : self.volname, 'Type' : 'ConvertedRight' ,'SAMAccountName' : username, 'Path' : path, 'Rights' : right, 'Scope' : 'ThisFolderSubFoldersAndFiles' })
+
+            if (re.match("\.OU=.*T=.*",trustee['name'])):
+                countOU = countOU + 1
+                convertedRights.append( { 'Volume' : self.volname, 'Type' : 'OUConvertedRight' ,'SAMAccountName' : username, 'Path' : path, 'Rights' : right, 'Scope' : 'ThisFolderSubFoldersAndFiles' })
+            else:
+                countNormal = countNormal + 1
+                convertedRights.append( { 'Volume' : self.volname, 'Type' : 'UsualConvertedRight' ,'SAMAccountName' : username, 'Path' : path, 'Rights' : right, 'Scope' : 'ThisFolderSubFoldersAndFiles' })
 
         self.ntfsAceList = convertedRights
         self.purgeCollectionByVolName(self.volname, self.NTFSAceCollection)
         self.insertToDB(self.ntfsAceList, self.NTFSAceCollection, self.volname, "toto")
+        print ("Type : "+str(countNormal)+" standard ACE ")
+        print ("Type : "+str(countOU)+" OU ACE ")
 
     ### Take NSS ACE string in and return NTFS ACE string
     @classmethod
@@ -218,15 +241,23 @@ class NSSVolume(object):
 
     @classmethod
     def extractUserName(self, fqdn):
-
-        #print ("Extracting username from : "+fqdn)
-        try:
+        if (re.match("\.CN.*\.T=.*", fqdn)):
             username = fqdn.split(".")[1].split("=")[1]
             return username
-        except IndexError:
-            print ("Bad username : "+fqdn)
-            return "Unknown"
-
+        elif (re.match(".*\\\\.*",fqdn)):
+            username = fqdn.split("\\")[1]
+            return username
+        elif (re.match("\[.*\]",fqdn)):
+            if ( ("[Public]" in fqdn) or ("[Root]" in fqdn)):
+                if ("FR" in self.ADLanguage):
+                    return "Utilisa. du domaine"
+                elif("EN" in self.ADLanguage):
+                    return "Domain Users"
+        elif(re.match("\.OU=.*T=.*",fqdn)):
+            username = fqdn.split(".")[1].split("=")[1]
+            return ("grp-"+username)
+        else:
+            return "Unknown user"
 
     @classmethod
     def getParentFolder(self,path):
