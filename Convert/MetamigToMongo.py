@@ -124,7 +124,11 @@ def main(argv):
         print (str(irfcount)+" irfs")
         print (str(quotaCount)+" quotas")
 
-        print ("Run ")
+
+        print ("\nTo show result, run :  ")
+        print ("\t./NSSConverter.py -b "+args.dbname+" -v "+args.volname)
+        print ("\twith --showQuotas, --showIrfs or --showNSSTrustees option\n")
+
 
 
 
