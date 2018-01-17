@@ -61,7 +61,6 @@ class NSSVolume(object):
         self.generateTraverseGroup()
         self.generateTraverseRights()
 
-
     # -----------------------------------------------
     # -----------   Traverse Group ------------------
     # -----------------------------------------------
@@ -69,17 +68,19 @@ class NSSVolume(object):
         if (self.verbose): print ("Generating Traverse path")
         count = 0
         for row in NSSVolume.ntfsAceList:
-            currentPath = self.getParentFolder(row['Path'])
+            currentPath = row['Path']
             while(currentPath.count("/") > 1 ):
+                
                 previousPath = currentPath
                 currentPath = self.getParentFolder(currentPath)
                 noslashpath = currentPath.replace("/","")
                 noslashpath = currentPath.replace(" ","")
                 hashpath = hashlib.md5(noslashpath.encode('utf-8')).hexdigest()
 
+
                 trunkpath = ""
                 for folder in currentPath.split("/")[1:]:
-                    trunkpath = trunkpath + folder[0:3]
+                    trunkpath = trunkpath + folder[0:3].replace(" ","")
 
                 groupName = ("TRVGRP-"+trunkpath+"-"+hashpath[0:10])[0:60]
                 post = { "Volume" : self.volname, "Path" : currentPath, 'Group' : groupName }
@@ -167,8 +168,6 @@ class NSSVolume(object):
     # -----------------------------------------------
     # -------   Database Modification Method --------
     # -----------------------------------------------
-
-
     @classmethod
     def convertToNTFS(self):
         convertedRights = []
@@ -286,7 +285,7 @@ class NSSVolume(object):
 
         trunkpath = ""
         for folder in path.split("/")[1:]:
-            trunkpath = trunkpath + folder[0:3]
+            trunkpath = trunkpath + folder[0:3].replace(" ","")
 
         return (trunkpath+"-"+hashpath[0:10])[0:60]
 

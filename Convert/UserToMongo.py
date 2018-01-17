@@ -23,8 +23,11 @@ def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument("-i","--inject", help="Import Mode", action="store_true")
     parser.add_argument("-d","--delete", help="Delete Mode", action="store_true")
-    parser.add_argument("-t","--trustees", type=str, dest='inputfile', help="Fichier trustees metamig")
-    parser.add_argument("-v","--volname", type=str, dest='volname', help="Volume Name")
+
+    #parser.add_argument("-u","--user", help="Delete Mode", action="store_true")
+    #parser.add_argument("-g","--group", help="Delete Mode", action="store_true")
+
+    parser.add_argument("-f","--file", type=str, dest='inputfile', help="Fichier trustees metamig")
     parser.add_argument("-b","--database", type=str, dest='dbname', help="Database Name")
 
     if len(sys.argv)==1:
@@ -35,7 +38,7 @@ def main(argv):
     if ((args.inject) and (args.inputfile == "")):
         print ("Specify trustee file in import mode")
         parser.print_help()
-        sys.exit(1)
+        sys.exit(1)a
 
     if (args.volname == None):
         print ("Volume name not defined. -v mandatory")
@@ -67,8 +70,6 @@ def main(argv):
         print (args.delete)
         ### Purge records for volname
         purgeCollectionByVolName(args.volname, NSSTrusteesCollection)
-        purgeCollectionByVolName(args.volname, IRFCollection)
-        purgeCollectionByVolName(args.volname, NSSQuotasCollection)
 
     ### Import mode enable
     if (args.inject):

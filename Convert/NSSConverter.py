@@ -16,12 +16,14 @@ def main(self):
     parser.add_argument("-v","--volname", type=str, dest='volname', help="Volume Name")
     parser.add_argument("-l","--logfile", type=str, dest='logfile', help="Volume Name")
     parser.add_argument("--generateRights", help="Generate rights", action="store_true")
-    parser.add_argument("--verbose", help="Generate rights", action="store_true")
+    parser.add_argument("--verbose", help="Verbose Mode", action="store_true")
     parser.add_argument("--exportToCSV", help="Export rights to CSV", action="store_true")
     parser.add_argument("--showIrfs", help="Print Irfs", action="store_true")
     parser.add_argument("--showQuotas", help="Print Quotas", action="store_true")
     parser.add_argument("--showNSSTrustees", help="Print NSS Trustees", action="store_true")
     parser.add_argument("--showNTFSAce", help="Print NTFS Trustees", action="store_true")
+    parser.add_argument("--showTraverseFolderList", help="Show Traverse Folder List", action="store_true")
+    parser.add_argument("--showTraverseGroupMemberShip", help="Show Traverse Group Membership", action="store_true")
 
 
     if len(sys.argv)==1:
@@ -61,6 +63,14 @@ def main(self):
     if (args.showIrfs):
         for row in volume.NSSIRFList:
             print (row)
+
+    if (args.showTraverseFolderList):
+        for row in volume.traverseFolderList:
+            print(row)
+
+    if (args.showTraverseGroupMemberShip):
+        for row in volume.traverseGroupMembershipList:
+            print(row)
 
 if __name__ == "__main__":
     main(sys.argv[1:])
