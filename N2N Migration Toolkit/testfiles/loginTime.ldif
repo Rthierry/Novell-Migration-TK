@@ -1,0 +1,4625 @@
+dn: cn=lbetemps,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116145109Z
+surname: BETEMPS
+givenName: Lauriane
+uid: lbetemps
+cn: lbetemps
+
+dn: cn=vdolhin,ou=SERVICES,ou=SIEGE,o=STIF
+surname: DOLHIN
+givenName: Valerie
+uid: vdolhin
+cn: vdolhin
+
+dn: cn=pravier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114082159Z
+surname: RAVIER
+givenName: Pierre
+uid: pravier
+cn: pravier
+
+dn: cn=bsopel,ou=SERVICES,ou=SIEGE,o=STIF
+surname: SOPEL
+givenName: Bertrand
+uid: bsopel
+cn: bsopel
+
+dn: cn=bcartesse,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171027121358Z
+surname: CARTESSE
+givenName: Beatrice
+uid: bcartesse
+cn: bcartesse
+
+dn: cn=ehanen,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114171003Z
+surname: HANEN
+givenName: Elodie
+uid: ehanen
+cn: ehanen
+
+dn: cn=sdahan,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171003122742Z
+surname: DAHAN
+givenName: Sophie
+uid: sdahan
+cn: sdahan
+
+dn: cn=mpellet,ou=SERVICES,ou=SIEGE,o=STIF
+surname: PELLET
+givenName: Marianne
+uid: mpellet
+cn: mpellet
+
+dn: cn=rcizeron,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171031144622Z
+surname: CIZERON
+givenName: Romain
+uid: rcizeron
+cn: rcizeron
+
+dn: cn=cvacaru-gonssolin,ou=SERVICES,ou=SIEGE,o=STIF
+surname: VACARU-GONSSOLIN
+givenName: Carmen
+uid: cvacaru-gonssolin
+cn: cvacaru-gonssolin
+
+dn: cn=endour,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116123725Z
+surname: NDOUR
+givenName: Edouard
+uid: endour
+cn: endour
+
+dn: cn=ckrizoua,ou=SERVICES,ou=SIEGE,o=STIF
+surname: KRIZOUA
+givenName: Chimene
+uid: ckrizoua
+cn: ckrizoua
+
+dn: cn=clepretre,ou=SERVICES,ou=SIEGE,o=STIF
+surname: LEPRETRE
+givenName: Clotaire
+uid: clepretre
+cn: clepretre
+
+dn: cn=txnguyen,ou=SERVICES,ou=SIEGE,o=STIF
+surname: NGUYEN
+givenName: Thanh Xuan
+uid: txnguyen
+cn: txnguyen
+
+dn: cn=ndelaguillaumie,ou=SERVICES,ou=SIEGE,o=STIF
+surname: DELAGUILLAUMIE
+givenName: Nirina
+uid: ndelaguillaumie
+cn: ndelaguillaumie
+
+dn: cn=aobami-mongo,ou=SERVICES,ou=SIEGE,o=STIF
+surname: OBAMI-MONGO
+givenName: Astride
+uid: aobami-mongo
+cn: aobami-mongo
+
+dn: cn=cchaibou,ou=SERVICES,ou=SIEGE,o=STIF
+surname: CHAIBOU
+givenName: Chaharizade
+uid: cchaibou
+cn: cchaibou
+
+dn: cn=cpetit,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116135426Z
+surname: PETIT
+givenName: Coline
+uid: cpetit
+cn: cpetit
+
+dn: cn=cdiarra-chan,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171109135800Z
+surname: DIARRA-CHAN
+givenName: Christelle
+uid: cdiarra-chan
+cn: cdiarra-chan
+
+dn: cn=iqueiros,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114080921Z
+surname: QUEIROS
+givenName: Isabelle
+uid: iqueiros
+cn: iqueiros
+
+dn: cn=pgoubert-ext,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113082750Z
+surname: GOUBERT-EXT
+givenName: Pablo
+uid: pgoubert
+cn: pgoubert-ext
+
+dn: cn=pkrolikiewicz,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116080032Z
+surname: KROLIKIEWICZ
+givenName: Philippe
+uid: pkrolikiewicz
+cn: pkrolikiewicz
+
+dn: cn=ajourdan,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170726083022Z
+surname: JOURDAN
+givenName: Amelie
+uid: ajourdan
+cn: ajourdan
+
+dn: cn=pgaudias,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170905081736Z
+surname: GAUDIAS
+givenName: Philippe
+uid: pgaudias
+cn: pgaudias
+
+dn: cn=nbenzid,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171018133313Z
+surname: BENZID
+givenName: Nabil
+uid: nbenzid
+cn: nbenzid
+
+dn: cn=slesaout,ou=SERVICES,ou=SIEGE,o=STIF
+surname: LE-SAOUT
+givenName: Stevens
+uid: sle-saout
+cn: slesaout
+
+dn: cn=ichampagne,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171108100837Z
+surname: CHAMPAGNE
+givenName: Ingrid
+uid: ichampagne
+cn: ichampagne
+
+dn: cn=lcostenoble,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115154616Z
+surname: COSTENOBLE
+givenName: Louid
+uid: lcostenoble
+cn: lcostenoble
+
+dn: cn=snissihaka,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116092814Z
+surname: ISSIHAKA
+givenName: Siti Nafissa
+uid: snissihaka
+cn: snissihaka
+
+dn: cn=asimon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170828081453Z
+surname: SIMON
+givenName: Antoine
+uid: asimon
+cn: asimon
+
+dn: cn=sbenfaida,ou=SERVICES,ou=SIEGE,o=STIF
+surname: BENFAIDA
+givenName: Simohamed
+uid: sbenfaida
+cn: sbenfaida
+
+dn: cn=vrondeau-arnaud,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116092552Z
+surname: RONDEAU-ARNAUD
+givenName: Valentin
+uid: vrondeau-arnaud
+cn: vrondeau-arnaud
+
+dn: cn=presta-mc2i-qualite,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116084923Z
+surname: presta-mc2i-qualite
+givenName: presta-mc2i-qualite
+uid: presta-mc2i-qualite
+cn: presta-mc2i-qualite
+
+dn: cn=adiallo-le-camus,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170814134119Z
+surname: DIALLO-LE-CAMUS
+givenName: Aida
+uid: adiallo-le-camus
+cn: adiallo-le-camus
+
+dn: cn=tleonardo,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170821141859Z
+surname: LEONARDO
+givenName: Timothe
+uid: tleonardo
+cn: tleonardo
+
+dn: cn=tgensollen,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170421082337Z
+surname: GENSOLLEN
+givenName: Thibault
+uid: tgensollen
+cn: tgensollen
+
+dn: cn=jgirard,ou=SERVICES,ou=SIEGE,o=STIF
+surname: GIRARD
+givenName: Julien
+uid: jgirard
+cn: jgirard
+
+dn: cn=conier,ou=SERVICES,ou=SIEGE,o=STIF
+surname: ONIER
+givenName: Clara
+uid: conier
+cn: conier
+
+dn: cn=szidani,ou=SERVICES,ou=SIEGE,o=STIF
+surname: ZIDANI
+givenName: Sabine
+uid: szidani
+cn: szidani
+
+dn: cn=mescoffier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170822121917Z
+surname: ESCOFFIER
+givenName: Marianne
+uid: mescoffier
+cn: mescoffier
+
+dn: cn=mlerch,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170529074125Z
+surname: LERCH
+givenName: Marine
+uid: mlerch
+cn: mlerch
+
+dn: cn=hdomblides,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116075155Z
+surname: DOMBLIDES
+givenName: Houria
+uid: hdomblides
+cn: hdomblides
+
+dn: cn=lcherki,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170517073001Z
+surname: CHERKI
+givenName: Lea
+uid: lcherki
+cn: lcherki
+
+dn: cn=cgioria,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116101621Z
+surname: GIORIA
+givenName: Christian
+uid: cgioria
+cn: cgioria
+
+dn: cn=lhenriat,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170905081634Z
+surname: HENRIAT
+givenName: Lucas
+uid: lhenriat
+cn: lhenriat
+
+dn: cn=apaoli,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170809081536Z
+surname: PAOLI
+givenName: Andrea
+uid: apaoli
+cn: apaoli
+
+dn: cn=vszaleniec,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170619071705Z
+surname: SZALENIEC
+givenName: Vincent
+uid: vszaleniec
+cn: vszaleniec
+
+dn: cn=asudrot,ou=SERVICES,ou=SIEGE,o=STIF
+surname: SUDROT
+givenName: Amelie
+uid: asudrot
+cn: asudrot
+
+dn: cn=phyvernaud,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170825070304Z
+surname: HYVERNAUD
+givenName: Pierre
+uid: phyvernaud
+cn: phyvernaud
+
+dn: cn=ykarouach,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170728072536Z
+surname: KAROUACH
+givenName: Youssef
+uid: ykarouach
+cn: ykarouach
+
+dn: cn=yngueya,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170905065612Z
+surname: NGUEYA
+givenName: Yopo
+uid: yngueya
+cn: yngueya
+
+dn: cn=ederrien,ou=SERVICES,ou=SIEGE,o=STIF
+surname: DERRIEN
+givenName: Erwan
+uid: ederrien
+cn: ederrien
+
+dn: cn=kharassi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171108091025Z
+surname: HARASSI
+givenName: Khalida
+uid: kharassi
+cn: kharassi
+
+dn: cn=dcombettes,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170807065133Z
+surname: COMBETTES
+givenName: Dorine
+uid: dcombettes
+cn: dcombettes
+
+dn: cn=cdidier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113121128Z
+surname: DIDIER
+givenName: Caroline
+uid: cdidier
+cn: cdidier
+
+dn: cn=emarion,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170720071247Z
+surname: MARION
+givenName: Emmanuel
+uid: emarion
+cn: emarion
+
+dn: cn=lbonnot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170824081048Z
+surname: BONNOT
+givenName: Lauranne
+uid: lbonnot
+cn: lbonnot
+
+dn: cn=agrados,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170717074233Z
+surname: GRADOS
+givenName: Arnaud
+uid: agrados
+cn: agrados
+
+dn: cn=jlafon,ou=SERVICES,ou=SIEGE,o=STIF
+surname: LAFON
+givenName: Jordan
+uid: jlafon
+cn: jlafon
+
+dn: cn=jgouadain,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170313110723Z
+surname: GOUADAIN
+givenName: Jean
+uid: jgouadain
+cn: jgouadain
+
+dn: cn=pgolger,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170823133317Z
+surname: GOLGER
+givenName: Pamela
+uid: pgolger
+cn: pgolger
+
+dn: cn=tdeyherassary,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170531081308Z
+surname: DEYHERASSARY
+givenName: Tristan
+uid: tdeyherassary
+cn: tdeyherassary
+
+dn: cn=cmanna,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171030081313Z
+surname: MANNA
+givenName: Cyril
+uid: cmanna
+cn: cmanna
+
+dn: cn=dsylla,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170628132326Z
+surname: SYLLA
+givenName: Dado
+uid: dsylla
+cn: dsylla
+
+dn: cn=vschmidt,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170131083524Z
+surname: SCHMIDT
+givenName: Valentin
+uid: vschmidt
+cn: vschmidt
+
+dn: cn=pleloire,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161104083445Z
+surname: LELOIRE
+givenName: Patrick
+uid: pleloire
+cn: pleloire
+
+dn: cn=bnormand,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170531073129Z
+surname: NORMAND
+givenName: Baptiste
+uid: bnormand
+cn: bnormand
+
+dn: cn=srobbe,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161013072351Z
+surname: ROBBE
+givenName:: U8OpYmFzdGllbg==
+uid: srobbe
+cn: srobbe
+
+dn: cn=jnoel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171010143425Z
+surname: NOEL
+givenName: Julie
+uid: jnoel
+cn: jnoel
+
+dn: cn=aaouka,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116090326Z
+surname: AOUKA
+givenName: Amal
+uid: aaouka
+cn: aaouka
+
+dn: cn=malejeune,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170828134412Z
+surname: LEJEUNE
+givenName: Marie-Anne
+uid: malejeune
+cn: malejeune
+
+dn: cn=slouisy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116145035Z
+surname: LOUISY
+givenName: Sandra
+uid: slouisy
+cn: slouisy
+
+dn: cn=mppiszker,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113082155Z
+surname: PISZKER
+givenName: Marie-Pierre
+uid: mppiszker
+cn: mppiszker
+
+dn: cn=ggaland,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170928065058Z
+surname: GALAND
+givenName:: R2HDq2xsZQ==
+uid: ggaland
+cn: ggaland
+
+dn: cn=mtrouve,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161212160345Z
+surname: TROUVE
+givenName: Mallory
+uid: mtrouve
+cn: mtrouve
+
+dn: cn=presta-pwc_2,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170929084756Z
+surname: Presta
+givenName: pwc_2
+uid: presta-pwc_2
+cn: presta-pwc_2
+
+dn: cn=presta-pwc_1,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116090316Z
+surname: Presta
+givenName: pwc_1
+uid: presta-pwc_1
+cn: presta-pwc_1
+
+dn: cn=fbaroin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170823074323Z
+surname: BAROIN
+givenName: Fabienne
+uid: fbaroin
+cn: fbaroin
+
+dn: cn=alenoir,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171110121639Z
+surname: LENOIR
+givenName: Alexis
+uid: alenoir
+cn: alenoir
+
+dn: cn=pocarel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116083500Z
+surname: CAREL
+givenName: Pierre-Olivier
+uid: pocarel
+cn: pocarel
+
+dn: cn=fchaillan,ou=SERVICES,ou=SIEGE,o=STIF
+surname: CHAILLAN
+givenName: Frederic
+uid: fchaillan
+cn: fchaillan
+
+dn: cn=mbourdonnel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115145016Z
+surname: BOURDONNEL
+givenName: Maxime
+uid: mbourdonnel
+cn: mbourdonnel
+
+dn: cn=lramackers,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170922142825Z
+surname: RAMACKERS
+givenName: Lucile
+uid: lramackers
+cn: lramackers
+
+dn: cn=adelahodde,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170829081822Z
+surname: DELAHODDE
+givenName: Arthur
+uid: adelahodde
+cn: adelahodde
+
+dn: cn=adiakho,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161027072716Z
+surname: DIAKHO
+givenName: Adja
+uid: adiakho
+cn: adiakho
+
+dn: cn=sdulermo,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170418084045Z
+surname: DULERMO
+givenName:: U8OpYmFzdGllbg==
+uid: sdulermo
+cn: sdulermo
+
+dn: cn=ezimmermann,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116101402Z
+surname: ZIMMERMANN
+givenName: Emmanuel
+uid: ezimmermann
+cn: ezimmermann
+
+dn: cn=nmathis,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161027121839Z
+surname: MATHIS
+givenName: Nathalie
+uid: nmathis
+cn: nmathis
+
+dn: cn=ejovanovic,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114132325Z
+surname: JOVANOVIC
+givenName: Elisabeta
+uid: ejovanovic
+cn: ejovanovic
+
+dn: cn=cpontes,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116092836Z
+surname: PONTES
+givenName: Celia
+uid: cpontes
+cn: cpontes
+
+dn: cn=ale-brozec,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171031090606Z
+surname: LE-BROZEC
+givenName: Anselme
+uid: ale-brozec
+cn: ale-brozec
+
+dn: cn=mmakni,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114101602Z
+surname: MAKNI
+givenName: Meriem
+uid: mmakni
+cn: mmakni
+
+dn: cn=llegaie,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160919084835Z
+surname: LEGAIE
+givenName: Lionel
+uid: llegaie
+cn: llegaie
+
+dn: cn=bzidani,ou=SERVICES,ou=SIEGE,o=STIF
+surname: ZIDANI
+givenName: Barbara
+uid: bzidani
+cn: bzidani
+
+dn: cn=HSOULE,ou=SERVICES,ou=SIEGE,o=STIF
+surname: SOULE
+givenName: Hamza
+uid: HSOULE
+cn: HSOULE
+
+dn: cn=apequignot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170905081735Z
+surname: PEQUIGNOT
+givenName: Antoine
+uid: apequignot
+cn: apequignot
+
+dn: cn=sdumont,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170517072208Z
+surname: DUMONT
+givenName: Severine
+uid: sdumont
+cn: sdumont
+
+dn: cn=ckamara,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170905075316Z
+surname: KAMARA
+givenName: Coumba
+uid: ckamara
+cn: ckamara
+
+dn: cn=presta-n2ts,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170824131857Z
+surname: Statistiques TS
+givenName: Prestataires
+uid: presta-n2ts
+cn: presta-n2ts
+
+dn: cn=hliaoui,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116102821Z
+surname: LIAOUI
+givenName: Hafssa
+uid: hliaoui
+cn: hliaoui
+
+dn: cn=mdavigny,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116075012Z
+surname: DAVIGNY
+givenName: Marion
+uid: mdavigny
+cn: mdavigny
+
+dn: cn=pnghe,ou=SERVICES,ou=SIEGE,o=STIF
+surname: NGHE
+givenName: Pauline
+uid: pnghe
+cn: pnghe
+
+dn: cn=nshahat,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161102151236Z
+surname: SHAHAT
+givenName: Nesrine
+uid: nshahat
+cn: nshahat
+
+dn: cn=hduguet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116110534Z
+surname: DUGUET
+givenName:: SMOpbMOobmU=
+uid: hduguet
+cn: hduguet
+
+dn: cn=lgouablin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170602085302Z
+surname: GOUABLIN
+givenName: Leaticia
+uid: lgouablin
+cn: lgouablin
+
+dn: cn=cquint,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116104649Z
+surname: QUINT
+givenName: Charlotte
+uid: cquint
+cn: cquint
+
+dn: cn=bpasquet,ou=SERVICES,ou=SIEGE,o=STIF
+surname: PASQUET
+givenName: Baptiste
+uid: bpasquet
+cn: bpasquet
+
+dn: cn=aewilczynski,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160718065317Z
+surname: WILCZYNSKI
+givenName: Anne-Emmanuelle
+uid: aewilczynski
+cn: aewilczynski
+
+dn: cn=sbedjait,ou=SERVICES,ou=SIEGE,o=STIF
+surname: BEDJAIT
+givenName: Sabrina
+uid: sbedjait
+cn: sbedjait
+
+dn: cn=rwais,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161222082608Z
+surname: WAIS
+givenName: Ralya
+uid: rwais
+cn: rwais
+
+dn: cn=mjpierre,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170824071332Z
+surname: PIERRE
+givenName: Marie-Jude
+uid: mjpierre
+cn: mjpierre
+
+dn: cn=lnkouka,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170609083212Z
+surname: NKOUKA
+givenName: Laurella
+uid: lnkouka
+cn: lnkouka
+
+dn: cn=jbarbereau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160712102248Z
+surname: BARBEREAU
+givenName: Julie
+uid: jbarbereau
+cn: jbarbereau
+
+dn: cn=ccoriat,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170904143951Z
+surname: CORIAT
+givenName: Caroline
+uid: ccoriat
+cn: ccoriat
+
+dn: cn=cde-la-forest,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160628071252Z
+surname: DE LA FOREST
+givenName: Claire
+uid: cde-la-forest
+cn: cde-la-forest
+
+dn: cn=lprobst,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116130016Z
+surname: PROBST
+givenName: Laurent
+uid: lprobst
+cn: lprobst
+
+dn: cn=fgros,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170904082335Z
+surname: GROS
+givenName: Francois
+uid: fgros
+cn: fgros
+
+dn: cn=ftedeschi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115085338Z
+surname: TEDESCHI
+givenName: Florian
+uid: ftedeschi
+cn: ftedeschi
+
+dn: cn=ade-gottal,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160831073942Z
+surname: DE GOTTAL
+givenName: Arthur
+uid: ade-gottal
+cn: ade-gottal
+
+dn: cn=impged,ou=ADM,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20171109213004Z
+surname: JALIOS
+givenName: Ged
+uid: impged
+cn: impged
+
+dn: cn=cdonnez,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161222085016Z
+surname: DONNEZ
+givenName:: Q8OpY2lsZQ==
+uid: cdonnez
+cn: cdonnez
+
+dn: cn=mlafage,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170517075417Z
+surname: LAFAGE
+givenName: Maxime
+uid: mlafage
+cn: mlafage
+
+dn: cn=mshermann,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160711085548Z
+surname: HERMANN
+givenName: Marie-Sophie
+uid: mshermann
+cn: mshermann
+
+dn: cn=lgrassart,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160711082102Z
+surname: GRASSART
+givenName: Laura
+uid: lgrassart
+cn: lgrassart
+
+dn: cn=szorgati,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170818092931Z
+surname: ZORGATI
+givenName: Samira
+uid: szorgati
+cn: szorgati
+
+dn: cn=ndjian,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116083418Z
+surname: DJIAN
+givenName: Nathalie
+uid: ndjian
+cn: ndjian
+
+dn: cn=ecessy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114104020Z
+surname: CESSY
+givenName:: RWxvw69zZQ==
+uid: ecessy
+cn: ecessy
+
+dn: cn=lguillou,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170519065002Z
+surname:: R1VJTExPVQk=
+givenName: Laurine
+uid: lguillou
+cn: lguillou
+
+dn: cn=presta-mc2i02-geode,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170424073909Z
+surname: BRETON
+givenName: Maxime
+uid: presta-mc2i02-geode
+cn: presta-mc2i02-geode
+
+dn: cn=presta-mc2i01-geode,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160601141910Z
+surname: SCHADLER
+givenName: Vincent
+uid: presta-mc2i01-geode
+cn: presta-mc2i01-geode
+
+dn: cn=mmetge,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170719090736Z
+surname: METGE
+givenName: Marine
+uid: mmetge
+cn: mmetge
+
+dn: cn=mbonnet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170228110152Z
+surname: BONNET
+givenName: Maryse
+uid: mbonnet
+cn: mbonnet
+
+dn: cn=mdaoud,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171002121558Z
+surname: DAOUD
+givenName: Mohamed
+uid: mdaoud
+cn: mdaoud
+
+dn: cn=cchambeau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160622062713Z
+surname: CHAMBEAU
+givenName: Corinne
+uid: cchambeau
+cn: cchambeau
+
+dn: cn=mdemont,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160930154930Z
+surname: DEMONT
+givenName: Marion
+uid: mdemont
+cn: mdemont
+
+dn: cn=vapparcel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160804115348Z
+surname: APPARCEL
+givenName: Valentin
+uid: vapparcel
+cn: vapparcel
+
+dn: cn=adamy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116101518Z
+surname: DAMY
+givenName: Aude
+uid: adamy
+cn: adamy
+
+dn: cn=cskrzypcsak,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116080409Z
+surname: SKRZYPCSAK
+givenName: Clement
+uid: cskrzypcsak
+cn: cskrzypcsak
+
+dn: cn=cmargerie,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171027095557Z
+surname: MARGERIE
+givenName: Carole
+uid: cmargerie
+cn: cmargerie
+
+dn: cn=jbousquet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170331071126Z
+surname: BOUSQUET
+givenName: Juliette
+uid: jbousquet
+cn: jbousquet
+
+dn: cn=linnocent,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160930070507Z
+surname: INNOCENT
+givenName: Lucas
+uid: linnocent
+cn: linnocent
+
+dn: cn=wlecoq,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116140835Z
+surname: LECOQ
+givenName: William
+uid: wlecoq
+cn: wlecoq
+
+dn: cn=saba-airault,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170420132527Z
+surname: ABA-AIRAULT
+givenName: Sarra
+uid: saba-airault
+cn: saba-airault
+
+dn: cn=lizri,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171025080519Z
+surname: IZRI
+givenName: Lidia
+uid: lizri
+cn: lizri
+
+dn: cn=sbeschi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171109090154Z
+surname: BESCHI
+givenName:: U8OpYmFzdGllbg==
+uid: sbeschi
+cn: sbeschi
+
+dn: cn=lchatenet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170817122318Z
+surname: CHATENET
+givenName: Lucie
+uid: lchatenet
+cn: lchatenet
+
+dn: cn=slaboucheix,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171109143844Z
+surname: LABOUCHEIX
+givenName: Stephanie
+uid: slaboucheix
+cn: slaboucheix
+
+dn: cn=eech-chekhchakhi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171109091310Z
+surname: ECH-CHEKHCHAKHI
+givenName: Elias
+uid: EECH-CHEKHCHAKHI
+cn: eech-chekhchakhi
+
+dn: cn=amutlu,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160907081914Z
+surname: MUTLU
+givenName: Anthony
+uid: amutlu
+cn: amutlu
+
+dn: cn=sdarwiche,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160826072338Z
+surname: DARWICHE
+givenName: Sami
+uid: sdarwiche
+cn: sdarwiche
+
+dn: cn=vdesprez,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170328075707Z
+surname: DESPREZ
+givenName: Valentin
+uid: vdesprez
+cn: vdesprez
+
+dn: cn=icorriger,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170511085148Z
+surname: CORRIGER
+givenName: Isabelle
+uid: icorriger
+cn: icorriger
+
+dn: cn=lredon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160818082007Z
+surname: REDON
+givenName: Lionel
+uid: lredon
+cn: lredon
+
+dn: cn=vmalabre,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170828082217Z
+surname: MALABRE
+givenName: Virginie
+uid: vmalabre
+cn: vmalabre
+
+dn: cn=yghellis,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170103080843Z
+surname: GHELLIS
+givenName: Yohann
+uid: yghellis
+cn: yghellis
+
+dn: cn=jfberche,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161128080458Z
+surname: BERCHE
+givenName:: SmVhbi1GcmFuw6dvaXM=
+uid: jfberche
+cn: jfberche
+
+dn: cn=dchi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171020071045Z
+surname: CHI
+givenName: Donatienne
+uid: dchi
+cn: dchi
+
+dn: cn=egaydu,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170906094007Z
+surname: GAYDU
+givenName: Elodie
+uid: egaydu
+cn: egaydu
+
+dn: cn=mjmarignale,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161229145228Z
+surname: MARIGNALE
+givenName: Marie-Jocelyne
+uid: mjmarignale
+cn: mjmarignale
+
+dn: cn=spoupon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170831144522Z
+surname: POUPON
+givenName: Sandy
+uid: spoupon
+cn: spoupon
+
+dn: cn=nroyer,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161013073135Z
+surname: ROYER
+givenName: Noemie
+uid: nroyer
+cn: nroyer
+
+dn: cn=ymabika,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160729144041Z
+surname: MABIKA
+givenName: Yolande
+uid: ymabika
+cn: ymabika
+
+dn: cn=emooneesamy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160407092058Z
+surname: MOONEESAMY
+givenName: Eliette
+uid: emooneesamy
+cn: emooneesamy
+
+dn: cn=jbouillaguet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160615123327Z
+surname: BOUILLAGUET
+givenName: Joannes
+uid: jbouillaguet
+cn: jbouillaguet
+
+dn: cn=drobbe,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160712065712Z
+surname: ROBBE
+givenName: Didier
+uid: drobbe
+cn: drobbe
+
+dn: cn=fbeaume,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171002123122Z
+surname: BEAUME
+givenName: Florence
+uid: fbeaume
+cn: fbeaume
+
+dn: cn=cporlier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170705142518Z
+surname: PORLIER
+givenName: Christelle
+uid: cporlier
+cn: cporlier
+
+dn: cn=jlapierre,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170906113001Z
+surname: LAPIERRE
+givenName: Julien
+uid: jlapierre
+cn: jlapierre
+
+dn: cn=bbriasco,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170906072029Z
+surname: BRIASCO
+givenName: Benoit
+uid: bbriasco
+cn: bbriasco
+
+dn: cn=presta-mc2i01-rbos,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160902092015Z
+surname: RBOS
+givenName: Presta-mc2i01
+uid: presta-mc2i01-rbos
+cn: presta-mc2i01-rbos
+
+dn: cn=cdecosta,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170816055148Z
+surname: DECOSTA
+givenName: CLaude
+uid: cdecosta
+cn: cdecosta
+
+dn: cn=ada-silva,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170929095715Z
+surname: DA-SILVA
+givenName: Aurelie
+uid: ada-silva
+cn: ada-silva
+
+dn: cn=agrunbaum,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115141126Z
+surname: GRUNBAUM
+givenName: Ariana
+uid: agrunbaum
+cn: agrunbaum
+
+dn: cn=sdelacour,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160513073953Z
+surname: DELACOUR
+givenName: Sophie
+uid: sdelacour
+cn: sdelacour
+
+dn: cn=presta-explain02,ou=SERVICES,ou=SIEGE,o=STIF
+surname: explain02
+givenName: presta
+uid: presta-explain02
+cn: presta-explain02
+
+dn: cn=presta-explain01,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160211081656Z
+surname: explain01
+givenName: presta
+uid: presta-explain01
+cn: presta-explain01
+
+dn: cn=presta-jalios,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160614080938Z
+surname: presta-jalios
+givenName: Consultant
+uid: presta-jalios
+cn: presta-jalios
+
+dn: cn=lchabert,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171009085242Z
+surname: CHABERT
+givenName: Laure
+uid: lchabert
+cn: lchabert
+
+dn: cn=ajobert,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115101634Z
+surname: JOBERT
+givenName: Agathe
+uid: ajobert
+cn: ajobert
+
+dn: cn=lberton,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170918070343Z
+surname: BERTON
+givenName: Loic
+uid: lberton
+cn: lberton
+
+dn: cn=hcharrier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171026071812Z
+surname: CHARRIER
+givenName: Hyacinthe
+uid: hcharrier
+cn: hcharrier
+
+dn: cn=asors,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170818113152Z
+surname: SORS
+givenName: Amandine
+uid: asors
+cn: asors
+
+dn: cn=cfrancis,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160525070549Z
+surname: FRANCIS
+givenName: Cyril
+uid: cfrancis
+cn: cfrancis
+
+dn: cn=svignot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115132446Z
+surname: VIGNOT
+givenName: Sebastien
+uid: svignot
+cn: svignot
+
+dn: cn=lehret,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161006080010Z
+surname: EHRET
+givenName: Laure
+uid: lehret
+cn: lehret
+
+dn: cn=afinke,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160211080622Z
+surname: FINKE
+givenName: Anton
+uid: afinke
+cn: afinke
+
+dn: cn=fdemeulenaere,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170407154347Z
+surname: DEMEULENAERE
+givenName: Francois
+uid: fdemeulenaere
+cn: fdemeulenaere
+
+dn: cn=cdalbergue-cornelis,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151110102613Z
+surname: DALBERGUE-CORNELIS
+givenName: Claire
+uid: cdalbergue-cornelis
+cn: cdalbergue-cornelis
+
+dn: cn=kdubois,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150807081801Z
+surname: DUBOIS
+givenName: Kevin
+uid: kdubois
+cn: kdubois
+
+dn: cn=scheret,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116081416Z
+surname: CHERET
+givenName: Sabine
+uid: scheret
+cn: scheret
+
+dn: cn=ghimmi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161028065301Z
+surname: HIMMI
+givenName: Ghita
+uid: lhimmi
+cn: ghimmi
+
+dn: cn=btello,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116111059Z
+surname: TELLO
+givenName: Brigitte
+uid: btello
+cn: btello
+
+dn: cn=eraguin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116145803Z
+surname: RAGUIN
+givenName: Emilie
+uid: eraguin
+cn: eraguin
+
+dn: cn=nahlamine,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150910094646Z
+surname: AHLAMINE
+givenName: Nadia
+uid: nahlamine
+cn: nahlamine
+
+dn: cn=rkodjo,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150930150351Z
+surname: KODJO
+givenName: Ritchie
+uid: rkodjo
+cn: rkodjo
+
+dn: cn=salmosni,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115142210Z
+surname: ALMOSNI
+givenName: Steve
+uid: salmosni
+cn: salmosni
+
+dn: cn=fsaoudi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171011093332Z
+surname: SAOUDI
+givenName: Fatima
+uid: fsaoudi
+cn: fsaoudi
+
+dn: cn=kdesupan,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161208080719Z
+surname: DESUPAN
+givenName: Kisnaveni
+uid: kdesupan
+cn: kdesupan
+
+dn: cn=emendy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171106125254Z
+surname: MENDY
+givenName: Elisabeth
+uid: emendy
+cn: emendy
+
+dn: cn=mborval,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160205074835Z
+surname: BORVAL
+givenName: Melissa
+uid: mborval
+cn: mborval
+
+dn: cn=gcarmont,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160318074918Z
+surname: CARMONT
+givenName: Gabrielle
+uid: gcarmont
+cn: gcarmont
+
+dn: cn=lhorncastle,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151113102719Z
+surname: HORNCASTLE
+givenName: Lucy
+uid: lhorncastle
+cn: lhorncastle
+
+dn: cn=dsacko,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160826071438Z
+surname: SACKO
+givenName: Diouka
+uid: dsacko
+cn: dsacko
+
+dn: cn=hhelas,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116145752Z
+surname: HELAS
+givenName: Heloise
+uid: hhelas
+cn: hhelas
+
+dn: cn=smaurier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170615125647Z
+surname: MAURIER
+givenName:: U3TDqXBoYW5pZQ==
+uid: smaurier
+cn: smaurier
+
+dn: cn=lgournay,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160601074649Z
+surname: GOURNAY
+givenName: Laure
+uid: lgournay
+cn: lgournay
+
+dn: cn=dtoure,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151026095519Z
+surname: TOURE
+givenName: Dialika
+uid: dtoure
+cn: dtoure
+
+dn: cn=dsalgado,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151116084457Z
+surname: SALGADO
+givenName: Dominique
+uid: dsalgado
+cn: dsalgado
+
+dn: cn=rrancher,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160503135554Z
+surname: RANCHER
+givenName: Raphaelle
+uid: rrancher
+cn: rrancher
+
+dn: cn=npaolacci,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170830072717Z
+surname: PAOLACCI
+givenName: Nunzia
+uid: npaolacci
+cn: npaolacci
+
+dn: cn=smaillet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171110084019Z
+surname: MAILLET
+givenName:: U3TDqXBoYW5l
+uid: smaillet
+cn: smaillet
+
+dn: cn=ypellerin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170512061258Z
+surname: PELLERIN
+givenName: Yann
+uid: ypellerin
+cn: ypellerin
+
+dn: cn=hlemoine,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150731153955Z
+surname: LEMOINE
+givenName: Helene
+uid: hlemoine
+cn: hlemoine
+
+dn: cn=nnurmukhamedov,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160325161231Z
+surname: NURMUKHAMEDOV
+givenName: Nawelle
+uid: nnurmukhamedov
+cn: nnurmukhamedov
+
+dn: cn=hnana,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151117111027Z
+surname: NANA
+givenName: Heber
+uid: hnana
+cn: hnana
+
+dn: cn=ale-gall,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116132643Z
+surname: LE-GALL
+givenName: Anne
+uid: ale-gall
+cn: ale-gall
+
+dn: cn=vmargato,ou=SERVICES,ou=SIEGE,o=STIF
+surname: Margato
+givenName: Victor
+uid: vmargato
+cn: vmargato
+
+dn: cn=jliti,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150310080216Z
+surname: LITI
+givenName: Jamila
+uid: jliti
+cn: jliti
+
+dn: cn=mschwarz,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161028112420Z
+surname: SCHWARZ
+givenName: Mathieu
+uid: mschwarz
+cn: mschwarz
+
+dn: cn=sker,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150821114540Z
+surname: KER
+givenName: Sylvie
+uid: sker
+cn: sker
+
+dn: cn=eguerin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150619070235Z
+surname: GUERIN
+givenName: Etienne
+uid: eguerin
+cn: eguerin
+
+dn: cn=nmerikhi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151008071813Z
+surname: MERIKHI
+givenName: nassera
+uid: nmerikhi
+cn: nmerikhi
+
+dn: cn=mbaligand,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116070503Z
+surname: BALIGAND
+givenName: Muriel
+uid: mbaligand
+cn: mbaligand
+
+dn: cn=rmontillon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150831074114Z
+surname: MONTILLON
+givenName: Romain
+uid: rmontillon
+cn: rmontillon
+
+dn: cn=fjilani,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150807080436Z
+surname: JILANI
+givenName: Frej
+uid: fjilani
+cn: fjilani
+
+dn: cn=sdrou,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150731095519Z
+surname: DROU
+givenName: Sophie
+uid: sdrou
+cn: sdrou
+
+dn: cn=ldussarps,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150828080404Z
+surname: DUSSARPS
+givenName: Louis
+uid: ldussarps
+cn: ldussarps
+
+dn: cn=cjaubron,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150717074700Z
+surname: JAUBRON
+givenName: Celia
+uid: cjaubron
+cn: cjaubron
+
+dn: cn=troge,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150703072215Z
+surname: ROGE
+givenName: Tom
+uid: troge
+cn: troge
+
+dn: cn=imoubtassim,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170530054938Z
+surname: MOUBTASSIM
+givenName: Ilham
+uid: IMBOUTASSIM
+cn: imoubtassim
+
+dn: cn=abeitz,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170822132239Z
+surname: BEITZ
+givenName: Agnes
+uid: abeitz
+cn: abeitz
+
+dn: cn=yguenzet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160411091025Z
+surname: GUENZET
+givenName: Yacine
+uid: yguenzet
+cn: yguenzet
+
+dn: cn=presta-mc2i,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160331074017Z
+surname: presta-mc2i
+uid: presta-mc2i
+cn: presta-mc2i
+
+dn: cn=cpiquet-gauthier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151130132252Z
+surname: PIQUET-GAUTHIER
+givenName: Charles
+uid: cpiquet-gauthier
+cn: cpiquet-gauthier
+
+dn: cn=smiquel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116123715Z
+surname: MIQUEL
+givenName: Stephan
+uid: smiquel
+cn: smiquel
+
+dn: cn=cniangane,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115103311Z
+surname: NIANGANE
+givenName: Cydou
+uid: cniangane
+cn: cniangane
+
+dn: cn=volivier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115071511Z
+surname: OLIVIER
+givenName: Vanessa
+uid: volivier
+cn: volivier
+
+dn: cn=mchollet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170920083427Z
+surname: CHOLLET
+givenName: Marion
+uid: mchollet
+cn: mchollet
+
+dn: cn=aoblin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170906054734Z
+surname: OBLIN
+givenName: Amele
+uid: aoblin
+cn: aoblin
+
+dn: cn=gbois,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160622070528Z
+surname: BOIS
+givenName: Guillemette
+uid: gbois
+cn: gbois
+
+dn: cn=lgaillard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20141216080129Z
+surname: Gaillard
+givenName: Laurent
+uid: lgaillard
+cn: lgaillard
+
+dn: cn=gisidore,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170912155519Z
+surname: Isidore
+givenName:: R3LDqWdvaXJl
+uid: gisidore
+cn: gisidore
+
+dn: cn=clevacher,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116082233Z
+surname: Levacher
+givenName: Caroline
+uid: clevacher
+cn: clevacher
+
+dn: cn=azimmermann,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114173020Z
+surname: ZIMMERMANN
+givenName: Arnaud
+uid: azimmermann
+cn: azimmermann
+
+dn: cn=lthomas,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170810081155Z
+surname: THOMAS
+givenName: Louis
+uid: lthomas
+cn: lthomas
+
+dn: cn=eadjakly,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20140902071640Z
+surname: ADJAKLY
+givenName: Edith
+uid: eadjakly
+cn: eadjakly
+
+dn: cn=rolahafa,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151016072115Z
+surname: OLAHAFA
+givenName: Rachelle
+uid: rolahafa
+cn: rolahafa
+
+dn: cn=jmatabon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170428063836Z
+surname: Matabon
+givenName: Julien
+uid: jmatabon
+cn: jmatabon
+
+dn: cn=jtabit,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113131723Z
+surname: Tabit
+uid: jtabit
+cn: jtabit
+
+dn: cn=echarruau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116144652Z
+surname: CHARRUAU
+givenName: Emilie
+uid: echarruau
+cn: echarruau
+
+dn: cn=sbossard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170724081337Z
+surname: BOSSARD
+givenName: Sophie
+uid: sbossard
+cn: sbossard
+
+dn: cn=abernusset,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170102084804Z
+surname: BERNUSSET
+givenName: Alexandre
+uid: abernusset
+cn: abernusset
+
+dn: cn=avbandoki,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160902091744Z
+surname:: QkFORE9LSSA=
+givenName: Anne-Valerie
+uid: avbandoki
+cn: avbandoki
+
+dn: cn=elemaire,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170927123334Z
+surname: LEMAIRE
+givenName: Emilie
+uid: elemaire
+cn: elemaire
+
+dn: cn=cessayed-lachhab,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20141230081151Z
+surname: ESSAYED-LACHHAB
+givenName: Chahira
+uid: cessayed-lachhab
+cn: cessayed-lachhab
+
+dn: cn=adehoux,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116141046Z
+surname: DEHOUX
+givenName: Audrey
+uid: adehoux
+cn: adehoux
+
+dn: cn=arambosson,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171031103017Z
+surname: RAMBOSSON
+givenName: Alain
+uid: arambosson
+cn: arambosson
+
+dn: cn=cmassari,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170503085951Z
+surname: MASSARI
+givenName: Carole
+uid: cmassari
+cn: cmassari
+
+dn: cn=abaracand,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116074008Z
+surname: BARACAND
+givenName: Adele
+uid: abaracand
+cn: abaracand
+
+dn: cn=yfleites-gonzalez,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160808074044Z
+surname: FLEITES-GONZALEZ
+givenName: Yurisan
+uid: yfleites-gonzalez
+cn: yfleites-gonzalez
+
+dn: cn=bgelineau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171103110250Z
+surname: GELINEAU
+givenName: Baptiste
+uid: bgelineau
+cn: bgelineau
+
+dn: cn=fcombrie,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116095233Z
+surname: COMBRIE
+givenName: Fabrice
+uid: fcombrie
+cn: fcombrie
+
+dn: cn=pepaquel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115100916Z
+surname: PAQUEL
+givenName: Pierre-Etienne
+uid: pepaquel
+cn: pepaquel
+
+dn: cn=kpinto-delas,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170914073129Z
+surname: PINTO-DELAS
+givenName: Knut
+uid: kpinto-delas
+cn: kpinto-delas
+
+dn: cn=jpacaud-desbois,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116090051Z
+surname: PACAUD-DESBOIS
+givenName: Julien
+uid: jpacaud-desbois
+cn: jpacaud-desbois
+
+dn: cn=rbourget,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171030083130Z
+surname: BOURGET
+givenName: Romain
+uid: rbourget
+cn: rbourget
+
+dn: cn=cfourrel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150630064054Z
+surname: FOURREL
+givenName: Catherine
+uid: cfourrel
+cn: cfourrel
+
+dn: cn=mlamotte,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161104083445Z
+surname: LAMOTTE
+givenName: Marie
+uid: mlamotte
+cn: mlamotte
+
+dn: cn=presta-artimon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170918080841Z
+surname: Artimon2
+givenName: Presta
+uid: presta-artimon2
+cn: presta-artimon
+
+dn: cn=presta-cgi1,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170905080826Z
+surname: CGI1
+givenName: Presta
+uid: presta-artimon1
+cn: presta-cgi1
+
+dn: cn=phernandez-lerma,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151222095252Z
+surname: HERNANDEZ-LERMA
+givenName: Pedro
+uid: phernandez-lerma
+cn: phernandez-lerma
+
+dn: cn=evan-der-werf,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116131044Z
+surname: VAN-DER-WERF
+givenName: Ernst
+uid: evan-der-werf
+cn: evan-der-werf
+
+dn: cn=cpetillot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170912104556Z
+surname: PETILLOT
+givenName: Claire
+uid: cpetillot
+cn: cpetillot
+
+dn: cn=sdeyrat,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116095002Z
+surname: DEYRAT
+givenName: Sylvain
+uid: sdeyrat
+cn: sdeyrat
+
+dn: cn=Olfeo,ou=ADM,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20150825082255Z
+surname: Olfeo
+givenName: Backup
+uid: Olfeo
+cn: Olfeo
+
+dn: cn=mbourdim,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160115065554Z
+surname: BOURDIM
+givenName: Malika
+uid: mbourdim
+cn: mbourdim
+
+dn: cn=aemarie,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116073533Z
+surname: MARIE
+givenName: Ange-Eliane
+uid: aemarie
+cn: aemarie
+
+dn: cn=gpascal,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116084839Z
+surname: PASCAL
+givenName: Genevieve
+uid: gpascal
+cn: gpascal
+
+dn: cn=ndalal,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160520074109Z
+surname: DALAL
+givenName: Nathalie
+uid: ndalal
+cn: ndalal
+
+dn: cn=mlaurent,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170203140144Z
+surname: LAURENT
+givenName: Marie
+uid: mlaurent
+cn: mlaurent
+
+dn: cn=bquintas,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116080010Z
+surname: QUINTAS
+givenName: Beatriz
+uid: bquintas
+cn: bquintas
+
+dn: cn=vmichon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171106145534Z
+surname: MICHON
+givenName: Vivien
+uid: vmichon
+cn: vmichon
+
+dn: cn=fdupel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160630095836Z
+surname: DUPEL
+givenName: Fouzia
+uid: fdupel
+cn: fdupel
+
+dn: cn=ccabriolle,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116091809Z
+surname: CABRIOLLE
+givenName: Christelle
+uid: ccabriolle
+cn: ccabriolle
+
+dn: cn=vchaverot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20131220135207Z
+surname: CHAVEROT
+givenName: Victor
+uid: vchaverot
+cn: vchaverot
+
+dn: cn=tcadalen,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20131216103825Z
+surname: CADALEN
+givenName: Thomas
+uid: tcadalen
+cn: tcadalen
+
+dn: cn=etinot,ou=SERVICES,ou=SIEGE,o=STIF
+surname: TINOT
+givenName: Emeline
+uid: etinot
+cn: etinot
+
+dn: cn=cgallet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151014073856Z
+surname: GALLET
+givenName: Cecile
+uid: cgallet
+cn: cgallet
+
+dn: cn=csurowiec,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115114428Z
+surname: SUROWIEC
+givenName: Christophe
+uid: csurowiec
+cn: csurowiec
+
+dn: cn=pgautier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171024090822Z
+surname: GAUTIER
+givenName: Pauline
+uid: pgautier
+cn: pgautier
+
+dn: cn=fel-kadiri,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20140403063913Z
+surname: EL-KADIRI
+givenName: Fatiha
+uid: fel-kadiri
+cn: fel-kadiri
+
+dn: cn=presta-editorial,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150413162656Z
+surname: Editorial
+givenName: Presta
+uid: presta-editorial
+cn: presta-editorial
+
+dn: cn=ebourbon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170306084429Z
+surname: BOURBON
+givenName: Estelle
+uid: ebourdon
+cn: ebourbon
+
+dn: cn=mbogdan,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170421073828Z
+surname: BOGDAN
+givenName: Marina
+uid: mborderie
+cn: mbogdan
+
+dn: cn=vroucou-david,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160425063740Z
+surname: ROUCOU-DAVID
+givenName: Vincent
+uid: vroucou-david
+cn: vroucou-david
+
+dn: cn=eelizor,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20140814062022Z
+surname: ELIZOR
+givenName: Eve
+uid: eelizor
+cn: eelizor
+
+dn: cn=podurand,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170821075605Z
+surname: DURAND
+givenName: Pierre-Oliver
+uid: podurand
+cn: podurand
+
+dn: cn=vlecoq,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160126105209Z
+surname: LECOQ
+givenName: Vincent
+uid: vlecoq
+cn: vlecoq
+
+dn: cn=kboujraf,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20131220082630Z
+surname: BOUJRAF
+givenName: Karima
+uid: kboujraf
+cn: kboujraf
+
+dn: cn=pdia,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20131224081218Z
+surname: DIA
+givenName: Penda
+uid: pdia
+cn: pdia
+
+dn: cn=jguibourdin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171016132734Z
+surname: GUIBOURDIN
+givenName: Jessica
+uid: jguibourdin
+cn: jguibourdin
+
+dn: cn=rdufros,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20140725072831Z
+surname: DUFROS
+givenName: Romain
+uid: rdufros
+cn: rdufros
+
+dn: cn=scohignac,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170817073027Z
+surname: COHIGNAC
+givenName: Sandrine
+uid: scohignac
+cn: scohignac
+
+dn: cn=ahorrenberger,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170119083618Z
+surname: HORRENBERGER
+givenName: Adrien
+uid: ahorrenberger
+cn: ahorrenberger
+
+dn: cn=prommelaere,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171103124320Z
+surname: ROMMELAERE
+givenName: Philippe
+uid: prommelaere
+cn: prommelaere
+
+dn: cn=mlanfrey,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150626120123Z
+surname: LANFREY
+givenName: Maximilien
+uid: mlanfrey
+cn: mlanfrey
+
+dn: cn=egouhir,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150226133733Z
+surname: GOUHIR
+givenName: Elodie
+uid: egouhir
+cn: egouhir
+
+dn: cn=tsabourin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20130920072243Z
+surname: SABOURIN
+givenName: Tristan
+uid: tsabourin
+cn: tsabourin
+
+dn: cn=ccambon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161209075417Z
+surname: CAMBON
+givenName: Celine
+uid: ccambon
+cn: ccambon
+
+dn: cn=cdassy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171108085855Z
+surname: DASSY
+givenName: Claire
+uid: cdassy
+cn: cdassy
+
+dn: cn=madda,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160226100045Z
+surname: ADDA
+givenName: Marion
+uid: madda
+cn: madda
+
+dn: cn=mdiot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20130613075934Z
+surname: DIOT
+givenName: Magdalena
+uid: mdiot
+cn: mdiot
+
+dn: cn=rpocard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160812074352Z
+surname: POCARD
+givenName: Ronan
+uid: rpocard
+cn: rpocard
+
+dn: cn=cgiboulot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115095243Z
+surname: GIBOULOT
+givenName: Carine
+uid: cgiboulot
+cn: cgiboulot
+
+dn: cn=adescos,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160401113448Z
+surname: DESCOS
+givenName: Anne
+uid: adescos
+cn: adescos
+
+dn: cn=caubourg,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150512091612Z
+surname: AUBOURG
+givenName: Clement
+uid: caubourg
+cn: caubourg
+
+dn: cn=fle,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20131231112918Z
+surname: LE
+givenName: Francois
+uid: fle
+cn: fle
+
+dn: cn=aolofsson,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171106172647Z
+surname: OLOFSSON
+givenName: Aude
+uid: aolofsson
+cn: aolofsson
+
+dn: cn=ssissoko,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114091933Z
+surname: SISSOKO
+givenName: Sira
+uid: ssissoko
+cn: ssissoko
+
+dn: cn=vbugeaud,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116085932Z
+surname: BUGEAUD
+givenName: Vincent
+uid: vbugeaud
+cn: vbugeaud
+
+dn: cn=jpboixeda,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170904122933Z
+surname: BOIXEDA
+givenName: Jean-Philippe
+uid: jpboixeda
+cn: jpboixeda
+
+dn: cn=ccamilli,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171025081211Z
+surname: CAMILLI
+givenName: Claude
+uid: ccamilli
+cn: ccamilli
+
+dn: cn=fcolombo,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170515065711Z
+surname: COLOMBO
+givenName: Fabio
+uid: fcolombo
+cn: fcolombo
+
+dn: cn=mandriananja,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151209082339Z
+surname: ANDRIANANJA
+givenName: Michael
+uid: madriananja
+cn: mandriananja
+
+dn: cn=agouchet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116093650Z
+surname: GOUCHET
+givenName: Anne
+uid: agouchet
+cn: agouchet
+
+dn: cn=scrouigneau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171031090521Z
+surname: CROUIGNEAU
+givenName: Sophie
+uid: scrouigneau
+cn: scrouigneau
+
+dn: cn=asambake,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170804063212Z
+surname: SAMBAKE
+givenName: Aminata
+uid: asambake
+cn: asambake
+
+dn: cn=vsabouret-mateos,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170828064239Z
+surname: SABOURET-MATEOS
+givenName: Victoria
+uid: vsabouret-mateos
+cn: vsabouret-mateos
+
+dn: cn=lrabois,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20130308091718Z
+surname: RABOIS
+givenName: Laetitia
+uid: lrabois
+cn: lrabois
+
+dn: cn=mle-bail-collet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170728090118Z
+surname: LE-BAIL-COLLET
+givenName: Mathilde
+uid: mle-bail-collet
+cn: mle-bail-collet
+
+dn: cn=jbartoletti,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170824075653Z
+surname: BARTOLETTI
+givenName: Julien
+uid: jbartoletti
+cn: jbartoletti
+
+dn: cn=mfrouard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170825091631Z
+surname: FROUARD
+givenName: Marine
+uid: mfrouard
+cn: mfrouard
+
+dn: cn=spaysan,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170822074733Z
+surname: PAYSAN
+givenName: Sebastien
+uid: spaysan
+cn: spaysan
+
+dn: cn=mdonzel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20131218091827Z
+surname: DONZEL
+givenName: Marion
+uid: mdonzel
+cn: mdonzel
+
+dn: cn=twehrle,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151124142145Z
+surname: WEHRLE
+givenName: Thomas
+uid: twherle
+cn: twehrle
+
+dn: cn=fmendy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116083309Z
+surname: MENDY
+givenName: Francoise
+uid: fmendy
+cn: fmendy
+
+dn: cn=mrogliano,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20130115080609Z
+surname: ROGLIANO
+givenName: Mira
+uid: mrogliano
+cn: mrogliano
+
+dn: cn=elamoine,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160707092902Z
+surname: LAMOINE
+givenName: Erwan
+uid: elamoine
+cn: elamoine
+
+dn: cn=jguillard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116093009Z
+surname: GUILLARD
+givenName: Jerome
+uid: jguillard
+cn: jguillard
+
+dn: cn=jmhuchon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116100823Z
+surname: HUCHON
+givenName: Jeanne-Marie
+uid: jmhuchon
+cn: jmhuchon
+
+dn: cn=jlaille,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151006081214Z
+surname: LAILLE
+givenName: Jennifer
+uid: jlaille
+cn: jlaille
+
+dn: cn=cdael,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116101554Z
+surname: DAEL
+givenName: Catherine
+uid: cdael
+cn: cdael
+
+dn: cn=cmevel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160429070454Z
+surname: MEVEL
+givenName: Claire
+uid: cmevel
+cn: cmevel
+
+dn: cn=dthomason,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20131002113810Z
+surname: THOMASON
+givenName: David
+uid: dthomasson
+cn: dthomason
+
+dn: cn=elere,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113105315Z
+surname: LERE
+givenName: Etienne
+uid: elere
+cn: elere
+
+dn: cn=vviard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171026124946Z
+surname: VIARD
+givenName: Vincent
+uid: vviard
+cn: vviard
+
+dn: cn=cduchateau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171018124557Z
+surname: DUCHATEAU
+givenName: Cecile
+uid: cduchateau
+cn: cduchateau
+
+dn: cn=jdevay,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160128133022Z
+surname:: REVWQVkg
+givenName: Julie
+uid: jdevay
+cn: jdevay
+
+dn: cn=jrobin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20130726070331Z
+surname: ROBIN
+givenName: Jennifer
+uid: jrobin
+cn: jrobin
+
+dn: cn=tleger,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170927103020Z
+surname: LEGER
+givenName: Tony
+uid: tleger
+cn: tleger
+
+dn: cn=erouvreau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150930074713Z
+surname: ROUVREAU
+givenName: Eric
+uid: erouvreau
+cn: erouvreau
+
+dn: cn=mcollard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116133439Z
+surname: COLLARD
+givenName: Marlene
+uid: mcollard
+cn: mcollard
+
+dn: cn=jolivier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171110073941Z
+surname: OLIVIER
+givenName: Jeremy
+uid: jolivier
+cn: jolivier
+
+dn: cn=emallet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170302115837Z
+surname: MALLET
+givenName: Elisabeth
+uid: emallet
+cn: emallet
+
+dn: cn=jfeyssaguet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20121030075825Z
+surname: FEYSSAGUET
+givenName: Jennifer
+uid: jfeyssaguet
+cn: jfeyssaguet
+
+dn: cn=marnaud,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160309120350Z
+surname: ARNAUD
+givenName: Mikael
+uid: amikael
+cn: marnaud
+
+dn: cn=ckrugler-tinchon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150623065903Z
+surname: KRUGLER-TINCHON
+givenName: Celine
+uid: ckrugler-tinchon
+cn: ckrugler-tinchon
+
+dn: cn=atorracca,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116102803Z
+surname: TORRACCA
+givenName: Antoine
+uid: atorracca
+cn: atorracca
+
+dn: cn=stamisier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160805064625Z
+surname: TAMISIER
+givenName: Sylvie
+uid: stamisier
+cn: stamisier
+
+dn: cn=ptardy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116130921Z
+surname: TARDY
+givenName: Philippe
+uid: ptardy
+cn: ptardy
+
+dn: cn=jduteurtre-garnier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116123926Z
+surname: DUTEURTRE-GARNIER
+givenName: Julie
+uid: jduteurtre-garnier
+cn: jduteurtre-garnier
+
+dn: cn=cconception,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150529064148Z
+surname: CONCEPTION
+givenName: Christian
+uid: cconception
+cn: cconception
+
+dn: cn=mbenali,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150701092306Z
+surname: BENALI
+givenName: Maria
+uid: mbenali
+cn: mbenali
+
+dn: cn=acheikel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116084850Z
+surname: CHEIKEL
+givenName: Anne
+uid: acheikel
+cn: acheikel
+
+dn: cn=lbaucal,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171017073058Z
+surname: BAUCAL
+givenName: Louisiane
+uid: lbaucal
+cn: lbaucal
+
+dn: cn=abayle,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170518080947Z
+surname: PRUVOST
+givenName: Amelie
+uid: apruvost
+cn: abayle
+
+dn: cn=fchampagnac,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116075812Z
+surname: CHAMPAGNAC
+givenName: Francoise
+uid: fchampagnac
+cn: fchampagnac
+
+dn: cn=tgreffier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161219132354Z
+surname: GREFFIER
+givenName: Thomas
+uid: tgreffier
+cn: tgreffier
+
+dn: cn=jthibault,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170717083445Z
+surname: THIBAULT
+givenName: Jimmy
+uid: jthibault
+cn: jthibault
+
+dn: cn=vpisano-leroux,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160322131418Z
+surname: PISANO-LEROUX
+givenName: Vanessa
+uid: vpisano-leroux
+cn: vpisano-leroux
+
+dn: cn=clapointe,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116082221Z
+surname: LAPOINTE
+givenName: Charlotte
+uid: clapointe
+cn: clapointe
+
+dn: cn=mbenslimane,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160909092539Z
+surname: BENSLIMANE
+givenName: Menel
+uid: mbenslimane
+cn: mbenslimane
+
+dn: cn=presta-acmo,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20141215132051Z
+surname: Acmo
+givenName: Presta
+uid: presta-acmo
+cn: presta-acmo
+
+dn: cn=mvelasquez,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160419165633Z
+surname: VELASQUEZ
+givenName: Martha
+uid: mvelasquez
+cn: mvelasquez
+
+dn: cn=gautier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171106155207Z
+surname: AUTIER
+givenName: Guillaume
+uid: gautier
+cn: gautier
+
+dn: cn=mbroussan,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20131018131045Z
+surname: BROUSSAN
+givenName: Mathieu
+uid: mbroussan
+cn: mbroussan
+
+dn: cn=lpoupat,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116091100Z
+surname: POUPAT
+givenName: Lionel
+uid: lpoupat
+cn: lpoupat
+
+dn: cn=mchevrant-breton,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114074606Z
+surname: CHEVRANT-BRETON
+givenName: Michele
+uid: mchevrant-breton
+cn: mchevrant-breton
+
+dn: cn=cbardy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170707090716Z
+surname: BARDY
+givenName: Catherine
+uid: cbarby
+cn: cbardy
+
+dn: cn=tbretin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160310082811Z
+surname: BRETIN
+givenName: Tiphaine
+uid: tbretin
+cn: tbretin
+
+dn: cn=ofrancois,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116095723Z
+surname: FRANCOIS
+givenName: Olivier
+uid: ofrancois
+cn: ofrancois
+
+dn: cn=cdelaire,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170718132729Z
+surname: DELAIRE
+givenName: Claire
+uid: cdelaire
+cn: cdelaire
+
+dn: cn=sgasne,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150805081928Z
+surname: GASNE
+givenName: Sophie
+uid: sgasne
+cn: sgasne
+
+dn: cn=nle-bihan,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116085518Z
+surname: LE-BIHAN
+givenName: Nathalie
+uid: nle-bihan
+cn: nle-bihan
+
+dn: cn=nzoungrana,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160205080646Z
+surname: ZOUNGRANA
+givenName: Nadine
+uid: nzoungrana
+cn: nzoungrana
+
+dn: cn=aclement,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171110142816Z
+surname: CLEMENT
+givenName: Antoine
+uid: aclement
+cn: aclement
+
+dn: cn=cboury,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116091316Z
+surname: BOURY
+givenName: Cathy
+uid: cboury
+cn: cboury
+
+dn: cn=bhuyssen,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160122092712Z
+surname: HUYSSEN
+givenName: Benjamin
+uid: bhuyssen
+cn: bhuyssen
+
+dn: cn=sboutaric,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113082033Z
+surname: BOUTARIC
+givenName: Sylvie
+uid: sboutaric
+cn: sboutaric
+
+dn: cn=sfernier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170906103500Z
+surname: FERNIER
+givenName: Sophie
+uid: sfernier
+cn: sfernier
+
+dn: cn=lgrelet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160401161851Z
+surname: GRELET
+givenName: Ludovic
+uid: lgrelet
+cn: lgrelet
+
+dn: cn=mmorand,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20120306081202Z
+surname: MORAND
+givenName: Magali
+uid: mmorand
+cn: mmorand
+
+dn: cn=sheude,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171016084442Z
+surname: HEUDE
+givenName: Sandrine
+uid: sheude
+cn: sheude
+
+dn: cn=jgrisard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151126081014Z
+surname: GRISARD
+givenName: Jeremie
+uid: jgrisard
+cn: jgrisard
+
+dn: cn=rpichot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116102051Z
+surname: PICHOT
+givenName: Romain
+uid: rpichot
+cn: rpichot
+
+dn: cn=emonnier-gonnord,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20120123104333Z
+surname: MONNIER-GONNORD
+givenName: Emilie
+uid: egonnard
+cn: emonnier-gonnord
+
+dn: cn=akiaku,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151023070240Z
+surname: KIAKU
+givenName: Aline
+uid: akiaku
+cn: akiaku
+
+dn: cn=jlperrin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170616082132Z
+surname: PERRIN
+givenName: Jean-Louis
+uid: jlperrin
+cn: jlperrin
+
+dn: cn=cpene,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150904073935Z
+surname: PENE
+givenName: Clemence
+uid: cpene
+cn: cpene
+
+dn: cn=hdussieux,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170821075826Z
+surname: DUSSIEUX
+givenName: Hugues
+uid: hdussieux
+cn: hdussieux
+
+dn: cn=kcastel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116075235Z
+surname: CASTEL
+givenName: Karine
+uid: kcastel
+cn: kcastel
+
+dn: cn=lfoglia,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150102093824Z
+surname: FOGLIA
+givenName: Laura
+uid: lfoglia
+cn: lfoglia
+
+dn: cn=sgauthier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160504072753Z
+surname: GAUTHIER
+givenName: Simon
+uid: sgauthier
+cn: sgauthier
+
+dn: cn=ycamara,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170721064939Z
+surname: CAMARA
+givenName: Youssouf
+uid: ycamara
+cn: ycamara
+
+dn: cn=lcaby,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150610073641Z
+surname: CABY
+givenName: Ludivine
+uid: lcaby
+cn: lcaby
+
+dn: cn=jzerdoun,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160224123827Z
+surname: ZERDOUN
+givenName: Jonathan
+uid: jzerdoun
+cn: jzerdoun
+
+dn: cn=dossiele,ou=SERVICES,ou=SIEGE,o=STIF
+surname: OSSIELE
+givenName: Dorothee
+uid: dossiele
+cn: dossiele
+
+dn: cn=aemeret-conti,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116081030Z
+surname: MERET-CONTI
+givenName: Anne-Eole
+uid: aemeret-conti
+cn: aemeret-conti
+
+dn: cn=cchenot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20131114093717Z
+surname: CHENOT
+givenName: Cedric
+uid: cchenot
+cn: cchenot
+
+dn: cn=lpommeraud,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150526061850Z
+surname: POMMERAUD
+givenName: Laure
+uid: lpommeraud
+cn: lpommeraud
+
+dn: cn=presta-accenture2,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20111104092801Z
+surname: Accenture2
+givenName: Presta
+uid: presta-accenture2
+cn: presta-accenture2
+
+dn: cn=presta-accenture1,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20131002122637Z
+surname: Accenture1
+givenName: Presta
+uid: presta-accenture1
+cn: presta-accenture1
+
+dn: cn=soabakrim,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20130612062934Z
+surname: OABAKRIM
+givenName: Sabrina
+uid: soabakrim
+cn: soabakrim
+
+dn: cn=tgoeury,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116150721Z
+surname: GOEURY
+givenName: Taous
+uid: tgoeury
+cn: tgoeury
+
+dn: cn=mcleuet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161123080722Z
+surname: CLEUET
+givenName: Marie
+uid: mcleuet
+cn: mcleuet
+
+dn: cn=fchartrain,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116122445Z
+surname: CHARTRAIN
+givenName: Frederic
+uid: fchartrain
+cn: fchartrain
+
+dn: cn=xbaudaillier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115110837Z
+surname: BAUDAILLIER
+givenName: Xavier
+uid: xbaudaillier
+cn: xbaudaillier
+
+dn: cn=mbendjaballah,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116094022Z
+surname: BENDJABALLAH
+givenName: Madjid
+uid: mbenjaballah
+cn: mbendjaballah
+
+dn: cn=cdelonca,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171107073829Z
+surname: DELONCA
+givenName: Cyril
+uid: cdelonca
+cn: cdelonca
+
+dn: cn=presta-pmp,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20120821141715Z
+surname: PMP
+givenName: Presta
+uid: presta-pmp
+cn: presta-pmp
+
+dn: cn=ccourty,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170223164639Z
+surname: COURTY
+givenName: Caroline
+uid: ccourty
+cn: ccourty
+
+dn: cn=mcde-vry,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20121231080418Z
+surname: de-VRY
+givenName: Marie-Christine
+uid: mcde-vry
+cn: mcde-vry
+
+dn: cn=sresve,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170831061420Z
+surname: RESVE
+givenName: Sandrine
+uid: sresve
+cn: sresve
+
+dn: cn=emauperon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171106073846Z
+surname: MAUPERON
+givenName: Eric
+uid: emauperon
+cn: emauperon
+
+dn: cn=vcourthial,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170817073249Z
+surname: COURTHIAL
+givenName: Veronique
+uid: vcourthial
+cn: vcourthial
+
+dn: cn=adiallo-toure,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171109135755Z
+surname: DIALLO-TOURE
+givenName: Aissatou
+uid: adiallo-toure
+cn: adiallo-toure
+
+dn: cn=cmaillard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160504091228Z
+surname: MAILLARD
+givenName: Clotilde
+uid: cmaillard
+cn: cmaillard
+
+dn: cn=claval,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171107155931Z
+surname: LAVAL
+givenName: Caroline
+uid: claval
+cn: claval
+
+dn: cn=jdarvier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113154202Z
+surname: DARVIER
+givenName: Julie
+uid: jdarvier
+cn: jdarvier
+
+dn: cn=mtdang,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115092616Z
+surname: DANG
+givenName: Minh-Thuan
+uid: mtdang
+cn: mtdang
+
+dn: cn=csautel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170831091835Z
+surname: SAUTEL
+givenName: Christian
+uid: csautel
+cn: csautel
+
+dn: cn=igodicheau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170509065830Z
+surname: GODICHEAU
+givenName: Isabelle
+uid: igodicheau
+cn: igodicheau
+
+dn: cn=omathieu,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171106170904Z
+surname: MAHIEU
+givenName: Olivier
+uid: omathieu
+cn: omathieu
+
+dn: cn=kletrouit,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170531074053Z
+surname: LETROUIT
+givenName: Karine
+uid: kletrouit
+cn: kletrouit
+
+dn: cn=ccasco,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170704080613Z
+surname: CASCO
+givenName: Charlotte
+uid: ccasco
+cn: ccasco
+
+dn: cn=presta-schogun,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20120725154832Z
+surname: SCHOGUN
+givenName: presta
+uid: presta-schogun
+cn: presta-schogun
+
+dn: cn=mchalus,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171009080222Z
+surname: CHALUS
+givenName: May
+uid: mchalus
+cn: mchalus
+
+dn: cn=pmarine-villata,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171005093542Z
+surname: MARINE-VILLATA
+givenName: Patrica
+uid: pmarine-villata
+cn: pmarine-villata
+
+dn: cn=fguyot-perrin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171103102011Z
+surname: GUYOT-PERRIN
+givenName: Floriane
+uid: fguyot-perrin
+cn: fguyot-perrin
+
+dn: cn=pdruesne,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20111117083800Z
+surname: DRUESNE
+givenName: Pauline
+uid: pdruesne
+cn: pdruesne
+
+dn: cn=ksemsoum,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170103085827Z
+surname: SEMSOUM
+givenName: Karim
+uid: ksemsoum
+cn: ksemsoum
+
+dn: cn=nmeqdad,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116124659Z
+surname: meqdad
+givenName: Nadia
+uid: nmeqdad
+cn: nmeqdad
+
+dn: cn=cperrot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116095455Z
+surname: PERROT
+givenName: Cedric
+uid: cperrot
+cn: cperrot
+
+dn: cn=cnouri,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160614070920Z
+surname: NOURI
+givenName: Christophe
+uid: cnouri
+cn: cnouri
+
+dn: cn=aroy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160801173603Z
+surname: ROY
+givenName: Alexandra
+uid: aroy
+cn: aroy
+
+dn: cn=jrivat,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150331154532Z
+surname: RIVAT
+givenName: Julien
+uid: jrivat
+cn: jrivat
+
+dn: cn=mfolliot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170926130849Z
+surname: FOLLIOT
+givenName: Mickael
+uid: mfolliot
+cn: mfolliot
+
+dn: cn=pchateau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116084028Z
+surname: CHATEAU
+givenName: Pascal
+uid: pchateau
+cn: pchateau
+
+dn: cn=kmellou,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114084519Z
+surname: MELLOU
+givenName: Kevin
+uid: kmellou
+cn: kmellou
+
+dn: cn=srodrigues,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20110707130900Z
+surname: RODRIGUES
+givenName: Sofia
+uid: srodrigues
+cn: srodrigues
+
+dn: cn=gfourt,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171109082718Z
+surname: FOURT
+givenName: Gilles
+uid: gfourt
+cn: gfourt
+
+dn: cn=sstevanin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160616154112Z
+surname: STEVANIN
+givenName: Simone
+uid: sstevanin
+cn: sstevanin
+
+dn: cn=jpaulais,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160129084213Z
+surname: PAULAIS
+givenName: Julien
+uid: jpaulais
+cn: jpaulais
+
+dn: cn=njalil,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170612082209Z
+surname: JALIL
+givenName: Noelle
+uid: njalil
+cn: njalil
+
+dn: cn=sdebruyne,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170405072601Z
+surname: DEBRUYNE
+givenName: Sylvie
+uid: sdebruyne
+cn: sdebruyne
+
+dn: cn=trosenbaum,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116083749Z
+surname: ROSENBAUM
+givenName: Thomas
+uid: trosenbaum
+cn: trosenbaum
+
+dn: cn=ecroiset,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116101309Z
+surname: CROISET
+givenName: Emilie
+uid: ecroiset
+cn: ecroiset
+
+dn: cn=lmacoin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20140814074351Z
+surname: MACOIN
+givenName: Line
+uid: lmacoin
+cn: lmacoin
+
+dn: cn=fpouschat,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171109144517Z
+surname: POUSCHAT
+givenName: Frederic
+uid: fpouschat
+cn: fpouschat
+
+dn: cn=do-neill,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171108100124Z
+surname: O-NEILL
+givenName: David
+uid: do-neill
+cn: do-neill
+
+dn: cn=smadi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116074308Z
+surname: MADI
+givenName: Sabrina
+uid: smadi
+cn: smadi
+
+dn: cn=msuel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116102138Z
+surname: SUEL
+givenName: Marion
+uid: msuel
+cn: msuel
+
+dn: cn=cpierre,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170811064021Z
+surname: PIERRE
+givenName: Christelle
+uid: cpierre
+cn: cpierre
+
+dn: cn=cbouvard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20130130093722Z
+surname: BOUVARD
+givenName: Clement
+uid: cbouvard
+cn: cbouvard
+
+dn: cn=shamrioui,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20110614064923Z
+surname: HAMRIOUI
+givenName: Salima
+uid: shamrioui
+cn: shamrioui
+
+dn: cn=amourali,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115092945Z
+surname: MOURALI
+givenName: Aya
+uid: amourali
+cn: amourali
+
+dn: cn=llombard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160223074824Z
+surname: LOMBARD
+givenName: Laurence
+uid: llombard
+cn: llombard
+
+dn: cn=jypignal,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170420095145Z
+surname: PIGNAL
+givenName: Jean-Yves
+uid: jypignal
+cn: jypignal
+
+dn: cn=fbardon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20130828115759Z
+surname: BARDON
+givenName: Florent
+uid: fbardon
+cn: fbardon
+
+dn: cn=pnom,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150915114235Z
+surname: NOM
+givenName: Prenom
+uid: pnom
+cn: pnom
+
+dn: cn=gle-genissel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170202113948Z
+surname: LE-GENISSEL
+givenName: Gaelle
+uid: gle-genissel
+cn: gle-genissel
+
+dn: cn=dsoulas,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20110729071715Z
+surname: SOULAS
+givenName: Damien
+uid: dsoulas
+cn: dsoulas
+
+dn: cn=iwalukiewicz,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170214081020Z
+surname: WALUKIEWICZ
+givenName: Isabelle
+uid: iwalukiewicz
+cn: iwalukiewicz
+
+dn: cn=alopez-antolin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170728064244Z
+surname: LOPEZ-ANTOLIN
+givenName: Ana
+uid: alopez-antolin
+cn: alopez-antolin
+
+dn: cn=rdestriez,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20130627072848Z
+surname: DESTRIEZ
+givenName: Romain
+uid: rdestriez
+cn: rdestriez
+
+dn: cn=alguimas,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20120925080728Z
+surname: GUIMAS
+givenName: Anne-Lise
+uid: almesnier
+cn: alguimas
+
+dn: cn=classe,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170906082150Z
+surname: LASSE
+givenName: Catherine
+uid: classe
+cn: classe
+
+dn: cn=lcharbonnier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116100350Z
+surname: CHARBONNIER
+givenName: Liselotte
+uid: lcharbonnier
+cn: lcharbonnier
+
+dn: cn=jfroques,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160816063040Z
+surname: ROQUES
+givenName: Jean-Francois
+uid: jfroques
+cn: jfroques
+
+dn: cn=fmassenot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20120726082317Z
+surname: MASSENOT
+givenName: Florence
+uid: fmassenot
+cn: fmassenot
+
+dn: cn=copieur,ou=ADM,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20171116143828Z
+surname: copieur
+givenName: copieur
+uid: copieur
+cn: copieur
+
+dn: cn=cmarie-jeanne,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170817124632Z
+surname: MARIE-JEANNE
+givenName: Christelle
+uid: cmarie-jeanne
+cn: cmarie-jeanne
+
+dn: cn=rbenga,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20121024083006Z
+surname: BENGA
+givenName: Rokhaya
+uid: brokhaya
+cn: rbenga
+
+dn: cn=sdelagarde,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170831121302Z
+surname: DELAGARDE
+givenName: Sophie
+uid: sdelagarde
+cn: sdelagarde
+
+dn: cn=sthebaud,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20111125091201Z
+surname: THEBAUD
+givenName: Sarah
+uid: sthebaud
+cn: sthebaud
+
+dn: cn=blequeux,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170831071001Z
+surname: LEQUEUX
+givenName: Brigitte
+uid: blequeux
+cn: blequeux
+
+dn: cn=gpoirier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161215132620Z
+surname: POIRIER
+givenName: Germain
+uid: gpoirier
+cn: gpoirier
+
+dn: cn=slelievre,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170908074158Z
+surname: LELIEVRE
+givenName: Sarah
+uid: ssudrot
+cn: slelievre
+
+dn: cn=cplumecoq,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20140207072454Z
+surname: PLUMECOQ
+givenName: Christine
+uid: cplumecoq
+cn: cplumecoq
+
+dn: cn=nhersent,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170906071041Z
+surname: HERSENT
+givenName: Nadine
+uid: nhersent
+cn: nhersent
+
+dn: cn=adamenez,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161107081048Z
+surname: DAMENEZ
+givenName: Anne
+uid: adamenez
+cn: adamenez
+
+dn: cn=mcoucaud,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171025070936Z
+surname: COUCAUD
+givenName: Melanie
+uid: mcoucaud
+cn: mcoucaud
+
+dn: cn=gplanchais,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171013123539Z
+surname: PLANCHAIS
+givenName: Gregory
+uid: gplanchais
+cn: gplanchais
+
+dn: cn=npauget,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116133252Z
+surname: PAUGET
+givenName: Nicolas
+uid: npauget
+cn: npauget
+
+dn: cn=mda-cruz,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160205075721Z
+surname: DA-CRUZ
+givenName: Magdalena
+uid: mda-cruz
+cn: mda-cruz
+
+dn: cn=sbeghoul,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170927082319Z
+surname: BEGHOUL
+givenName: Sonia
+uid: sbeghoul
+cn: sbeghoul
+
+dn: cn=cdeniau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171108154921Z
+surname: DENIAU
+givenName: Christophe
+uid: cdeniau
+cn: cdeniau
+
+dn: cn=fmeerts,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170825143216Z
+surname: MEERTS
+givenName: Fabien
+uid: fmeerts
+cn: fmeerts
+
+dn: cn=asbouanane,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116084101Z
+surname: BOUANANE
+givenName: Anne-Sophie
+uid: asbouanane
+cn: asbouanane
+
+dn: cn=alramey,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170912072637Z
+surname: RAMEY
+givenName: Anne-Laure
+uid: alramey
+cn: alramey
+
+dn: cn=hlambert,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171025161818Z
+surname: LAMBERT
+givenName: Helene
+uid: hlambert
+cn: hlambert
+
+dn: cn=bkhodabocus,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170811062424Z
+surname: KHODABOCUS
+givenName: Bilkiss
+uid: bkhodabocus
+cn: bkhodabocus
+
+dn: cn=plutonnw,ou=ADM,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20171112051909Z
+surname: plutonnw
+givenName: plutonnw
+uid: plutonnw
+cn: plutonnw
+
+dn: cn=aquillien,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171106144040Z
+surname: QUILLIEN
+givenName: Armelle
+uid: aquillien
+cn: aquillien
+
+dn: cn=ginfante,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171110145008Z
+surname: INFANTE
+givenName: Giuseppe
+uid: ginfante
+cn: ginfante
+
+dn: cn=admin-SIG,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171003154858Z
+surname: SIG
+givenName: Admin
+uid: admin-SIG
+cn: admin-SIG
+
+dn: cn=cgenton,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113143338Z
+surname: GENTON
+givenName: Cedric
+uid: cgenton
+cn: cgenton
+
+dn: cn=vcolombier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161220110318Z
+surname: COLOMBIER
+givenName: Valerie
+uid: vcolombier
+cn: vcolombier
+
+dn: cn=rle-roux,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116075056Z
+surname: LE-ROUX
+givenName: Rozenn
+uid: rle-roux
+cn: rle-roux
+
+dn: cn=ccastro,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170825065514Z
+surname: CASTRO
+givenName: Claudine
+uid: ccastro
+cn: ccastro
+
+dn: cn=jaguillou,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170907090217Z
+surname: GUILLOU
+givenName: Jean-Alexis
+uid: jaguillou
+cn: jaguillou
+
+dn: cn=jhuguet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160413085220Z
+surname: HUGUET
+givenName: Jacqueline
+uid: jhuguet
+cn: jhuguet
+
+dn: cn=cpelletier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171108083001Z
+surname: PELLETIER
+givenName: Catherine
+uid: cpelletier
+cn: cpelletier
+
+dn: cn=asaid,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116085332Z
+surname: SAID
+givenName: Amina
+uid: asaid
+cn: asaid
+
+dn: cn=cgeorge,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160212092327Z
+surname: GEORGE
+givenName: Caroline
+uid: cgeorge
+cn: cgeorge
+
+dn: cn=kfeuillard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116082008Z
+surname: FEUILLARD
+givenName: Karine
+uid: kfeuillard
+cn: kfeuillard
+
+dn: cn=bacchusnw,ou=ADM,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20171115202626Z
+surname: bacchusnw
+givenName: bacchusnw
+uid: bacchusnw
+cn: bacchusnw
+
+dn: cn=gdelagrange,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20120906093109Z
+surname: DELAGRANGE
+givenName: Gabrielle
+uid: gdelagrange
+cn: gdelagrange
+
+dn: cn=ppernot-lecocq,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160316171320Z
+surname: PERNOT-LECOCQ
+givenName: Pauline
+uid: plecocq
+cn: ppernot-lecocq
+
+dn: cn=lguillot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171020121152Z
+surname: GUILLOT
+givenName: Ludovic
+uid: lguillot
+cn: lguillot
+
+dn: cn=rolandberger,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20100329114944Z
+surname: Roland Berger
+uid: rolandberger
+cn: rolandberger
+
+dn: cn=logica_tlb2,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20100217082024Z
+surname: Bozec
+givenName: Pierre-Yves
+uid: logica_tlb2
+cn: logica_tlb2
+
+dn: cn=dwh,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20080415150918Z
+surname: dwh
+givenName: dwh
+uid: dwh
+cn: dwh
+
+dn: cn=olefebvre,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115080849Z
+surname: LEFEBVRE
+givenName: Olivier
+uid: olefebvre
+cn: olefebvre
+
+dn: cn=vjordana,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171019080535Z
+surname: JORDANA
+givenName: Virginie
+uid: vjordana
+cn: vjordana
+
+dn: cn=vtrinquet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113094545Z
+surname: TRINQUET
+givenName: Veronique
+uid: vtrinquet
+cn: vtrinquet
+
+dn: cn=mtpardo,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170927073144Z
+surname: PARDO
+givenName: Marie-Therese
+uid: mtpardo
+cn: mtpardo
+
+dn: cn=mgvincent,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170904073617Z
+surname: VINCENT
+givenName: Marie-Guylene
+uid: mgvincent
+cn: mgvincent
+
+dn: cn=mranaivo,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171031143516Z
+surname: RANAIVO
+givenName: mamisoa
+uid: mranaivo
+cn: mranaivo
+
+dn: cn=mrenou,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150602104849Z
+surname: RENOU
+givenName: Maite
+uid: mrenou
+cn: mrenou
+
+dn: cn=jlgeuffroy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150930074533Z
+surname: GEUFFROY
+givenName: Jean-Luc
+uid: jlgeuffroy
+cn: jlgeuffroy
+
+dn: cn=gcarbonnier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20081119064905Z
+surname: CARBONNIER
+givenName: Geoffrey
+uid: gcarbonnier
+cn: gcarbonnier
+
+dn: cn=fmahe,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116075339Z
+surname: MAHE
+givenName: Frederic
+uid: fmahe
+cn: fmahe
+
+dn: cn=ebailly,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161206085247Z
+surname: BAILLY
+givenName: Eric
+uid: ebailly
+cn: ebailly
+
+dn: cn=elapierre,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171110081138Z
+surname: LAPIERRE
+givenName: Elisabeth
+uid: elapierre
+cn: elapierre
+
+dn: cn=dlegay,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171106092708Z
+surname: LEGAY
+givenName: David
+uid: dlegay
+cn: dlegay
+
+dn: cn=claroche-joubert,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150519074711Z
+surname: LAROCHE-JOUBERT
+givenName: Clemence
+uid: claroche-joubert
+cn: claroche-joubert
+
+dn: cn=bsilliau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116085342Z
+surname: SILLIAU
+givenName: Brigitte
+uid: bsilliau
+cn: bsilliau
+
+dn: cn=gboudoux,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171003093251Z
+surname: BOUDOUX
+givenName: Guillaume
+uid: gboudoux
+cn: gboudoux
+
+dn: cn=creastif,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20091208120043Z
+surname: creastif
+givenName: creastif
+uid: creastif
+cn: creastif
+
+dn: cn=logica_tlb1,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20130819075309Z
+surname: Khim
+givenName: Helaine
+uid: logica_tlb1
+cn: logica_tlb1
+
+dn: cn=mbrunet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170613150412Z
+surname: BRUNET
+givenName: michele
+uid: mbrunet
+cn: mbrunet
+
+dn: cn=jlprat,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113083701Z
+surname: PRAT
+givenName: Jean-Luc
+uid: jlprat
+cn: jlprat
+
+dn: cn=logica_qualite1,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116083222Z
+surname: qualite1
+givenName: logica
+uid: logica_qualite1
+cn: logica_qualite1
+
+dn: cn=presta-cgi2,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113075520Z
+surname: CGI2
+givenName: Presta
+uid: logica_amo2
+cn: presta-cgi2
+
+dn: cn=gmendes,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115122020Z
+surname: MENDES
+givenName: Georgina
+uid: gmendes
+cn: gmendes
+
+dn: cn=ngeorgescu,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170904152102Z
+surname: GEORGESCU
+givenName: Nicolas
+uid: ngeorgescu
+cn: ngeorgescu
+
+dn: cn=skaplan,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150519085507Z
+surname: KAPLAN
+givenName: Sandra
+uid: skaplan
+cn: skaplan
+
+dn: cn=cguillaume,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160719073216Z
+surname: GUILLAUME
+givenName: Caroline
+uid: cguillaume
+cn: cguillaume
+
+dn: cn=hbenelfakir,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116095119Z
+surname: BENELFAKIR
+givenName: Hinda
+uid: hbenelfakir
+cn: hbenelfakir
+
+dn: cn=jdalquier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116083810Z
+surname: ALQUIER
+givenName: Jean-Daniel
+uid: jdalquier
+cn: jdalquier
+
+dn: cn=vgoudou,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116073401Z
+surname: GOUDOU
+givenName: Venise
+uid: vgoudou
+cn: vgoudou
+
+dn: cn=eGuidePublicUser63678,o=STIF
+surname: eGuidePublicUser63678
+cn: eGuidePublicUser63678
+
+dn: cn=eGuidePublicUser48698,o=STIF
+loginTime: 20080716161238Z
+surname: eGuidePublicUser48698
+cn: eGuidePublicUser48698
+
+dn: cn=tlesaulnier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160503073952Z
+surname: LESAULNIER
+givenName: Therese
+uid: tlesaulnier
+cn: tlesaulnier
+
+dn: cn=lpgiraldo,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171027140647Z
+surname: GIRALDO
+givenName: Lia-Patricia
+uid: lpgiraldo
+cn: lpgiraldo
+
+dn: cn=cmonnier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116114911Z
+surname: MONNIER
+givenName: Christelle
+uid: cvergnes
+cn: cmonnier
+
+dn: cn=lchebli,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171025093614Z
+surname: CHEBLI
+givenName: Lina
+uid: lchebli
+cn: lchebli
+
+dn: cn=cpaulo,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116134243Z
+surname: PAULO
+givenName: Christelle
+uid: cpaulo
+cn: cpaulo
+
+dn: cn=sfages,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160930155425Z
+surname: FAGES
+givenName: Sebastien
+uid: sfages
+cn: sfages
+
+dn: cn=smatias-nunes,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170713081822Z
+surname: MATIAS-NUNES
+givenName: Sylvie
+uid: smatias-nunes
+cn: smatias-nunes
+
+dn: cn=mpgrondin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160404063642Z
+surname: GRONDIN
+givenName: Marie-Pierre
+uid: mpgrondin
+cn: mpgrondin
+
+dn: cn=llegay,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115082730Z
+surname: LEGAY
+givenName: Ludivine
+uid: llegay
+cn: llegay
+
+dn: cn=jchaverot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113120202Z
+surname: CHAVEROT
+givenName: Jacques
+uid: jchaverot
+cn: jchaverot
+
+dn: cn=adancoisne,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116075047Z
+surname: DANCOISNE
+givenName: Alice
+uid: adancoisne
+cn: adancoisne
+
+dn: cn=ejulin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160809064718Z
+surname: ejulin
+givenName: JULIN
+uid: ejulin
+cn: ejulin
+
+dn: cn=bboute,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113101241Z
+surname: BOUTE
+givenName: Benoit
+uid: bboute
+cn: bboute
+
+dn: cn=hjeridi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170821065216Z
+surname: JERIDI
+givenName: Hasni
+uid: hjeridi
+cn: hjeridi
+
+dn: cn=mbarres,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170919150158Z
+surname: BARRES
+givenName: Mathieu
+uid: mbarres
+cn: mbarres
+
+dn: cn=cnathhorst,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171031122047Z
+surname: NATHHORST
+givenName: Christian
+uid: cnathhorst
+cn: cnathhorst
+
+dn: cn=acommien,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170616091537Z
+surname: COMMIEN
+givenName: Audrey
+uid: acommien
+cn: acommien
+
+dn: cn=mhmercier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170901062641Z
+surname: MERCIER
+givenName: Marie-Helene
+uid: mhmartin
+cn: mhmercier
+
+dn: cn=asalonia,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116090322Z
+surname: SALONIA
+givenName: Anne
+uid: asalonia
+cn: asalonia
+
+dn: cn=sbernard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170918095755Z
+surname: BERNARD
+givenName: Serge
+uid: sbernard
+cn: sbernard
+
+dn: cn=dguilet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113153302Z
+surname: GUILET
+givenName: Didier
+uid: dguilet
+cn: dguilet
+
+dn: cn=drascol,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115093347Z
+surname: RASCOL
+givenName: Dominique
+uid: drascol
+cn: drascol
+
+dn: cn=mbreas,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113102945Z
+surname: BREAS
+givenName: Marielle
+uid: mbreas
+cn: mbreas
+
+dn: cn=psaint-blancard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20140902191309Z
+surname: SAINT-BLANCARD
+givenName: Patrice
+uid: psaint-blancard
+cn: psaint-blancard
+
+dn: cn=ftinot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161123100813Z
+surname: TINOT
+givenName: Fabrice
+uid: ftinot
+cn: ftinot
+
+dn: cn=ldebrincat,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116134125Z
+surname: DEBRINCAT
+givenName: Laurence
+uid: ldebrincat
+cn: ldebrincat
+
+dn: cn=cseiller,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171003155151Z
+surname: SEILLER
+givenName: Christelle
+uid: cmerkez
+cn: cseiller
+
+dn: cn=cgabella-latreille,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170821082603Z
+surname: gabella-latreille
+givenName: Celine
+uid: cgabella-latreille
+cn: cgabella-latreille
+
+dn: cn=mfleisch,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170224083512Z
+surname: FLEISCH
+givenName: Marie
+uid: mfleisch
+cn: mfleisch
+
+dn: cn=cho-thanh,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150313092858Z
+surname: HO-THANH
+givenName: Catherine
+uid: cho-thanh
+cn: cho-thanh
+
+dn: cn=fbah,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170907091834Z
+surname: BAH
+givenName: Fatoumata
+uid: fbah
+cn: fbah
+
+dn: cn=tsimeon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113141138Z
+surname: SIMEON
+givenName: Thierry
+uid: tsimeon
+cn: tsimeon
+
+dn: cn=scascalheira,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116102333Z
+surname: CASCALHEIRA
+givenName: Sandra
+uid: scascalheira
+cn: scascalheira
+
+dn: cn=sviolet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170928124248Z
+surname: VIOLET
+givenName: Severine
+uid: sviolet
+cn: sviolet
+
+dn: cn=mquiniou,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171109104532Z
+surname: QUINIOU
+givenName: Martine
+uid: mquiniou
+cn: mquiniou
+
+dn: cn=eboursalian,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160105155236Z
+surname: BOURSALIAN
+givenName: Elisabeth
+uid: eboursalian
+cn: eboursalian
+
+dn: cn=mnait-saidi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170828071916Z
+surname: NAIT-SAIDI
+givenName: Myriam
+uid: mnait-saidi
+cn: mnait-saidi
+
+dn: cn=alescent,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160527065057Z
+surname: LESCENT
+givenName: Annie
+uid: alescent
+cn: alescent
+
+dn: cn=cmenant,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150702072250Z
+surname: MENANT
+givenName: Christophe
+uid: cmenant
+cn: cmenant
+
+dn: cn=aboiteau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171003065701Z
+surname: BOITEAU
+givenName: Alexandra
+uid: aboiteau
+cn: aboiteau
+
+dn: cn=sroca,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170914073140Z
+surname: ROCA
+givenName:: U3Tor6hhbmU=
+uid: sroca
+cn: sroca
+
+dn: cn=htsan,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160127090545Z
+surname: SAN
+givenName: Hayra-Tha
+uid: htsan
+cn: htsan
+
+dn: cn=mle-francois,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20151113101356Z
+surname: LE-FRANCOIS
+givenName: Maxime
+uid: mle-francois
+cn: mle-francois
+
+dn: cn=jlassissi,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116082556Z
+surname: LASSISSI
+givenName: Julie
+uid: jlassissi
+cn: jlassissi
+
+dn: cn=caillaud,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116084008Z
+surname: AILLAUD
+givenName: Cyril
+uid: caillaud
+cn: caillaud
+
+dn: cn=jconnan,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160415070840Z
+surname: CONNAN
+givenName: Jeanne
+uid: jconnan
+cn: jconnan
+
+dn: cn=fmajeste,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116135052Z
+surname: MAJESTE-LABOURDENNE
+givenName: Fabien
+uid: fmajeste-labourdenne
+cn: fmajeste
+
+dn: cn=sybernard,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116101631Z
+surname: BERNARD
+givenName: Sylvie
+uid: smoutin
+cn: sybernard
+
+dn: cn=ged,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171110074313Z
+surname: ged
+givenName: ged
+uid: ged
+cn: ged
+
+dn: cn=fnonga,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114092421Z
+surname: NONGA
+givenName: Francis
+uid: fnonga
+cn: fnonga
+
+dn: cn=egrandjean,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170712072717Z
+surname: GRANDJEAN
+givenName: Emmanuel
+uid: egrandjean
+cn: egrandjean
+
+dn: cn=smabille,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113083317Z
+surname: MABILLE
+givenName: Sebastien
+uid: smabille
+cn: smabille
+
+dn: cn=accueil,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20100921140346Z
+surname: accueil
+givenName: accueil
+uid: accueil
+cn: accueil
+
+dn: cn=onalin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170803091522Z
+surname: NALIN
+givenName: Olivier
+uid: onalin
+cn: onalin
+
+dn: cn=dmazouz,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20150715075609Z
+surname: MAZOUZ
+givenName: Djilali
+uid: dmazouz
+cn: dmazouz
+
+dn: cn=cdacruz-valent,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170720085510Z
+surname: DACRUZ-VALENT
+givenName: Cecile
+uid: cdacruz-valent
+cn: cdacruz-valent
+
+dn: cn=cweiss,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170821135835Z
+surname: WEISS
+givenName: Celine
+uid: cweiss
+cn: cweiss
+
+dn: cn=tle-goff,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115071223Z
+surname: LE GOFF
+givenName: Thuy
+uid: tle-goff
+cn: tle-goff
+
+dn: cn=dchevallier,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116081657Z
+surname: CHEVALLIER
+givenName: Didier
+uid: dchevallier
+cn: dchevallier
+
+dn: cn=cragot,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116073855Z
+surname: RAGOT
+givenName: Christelle
+uid: cragot
+cn: cragot
+
+dn: cn=eplisson,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114121311Z
+surname: PLISSON
+givenName: Eleonore
+uid: eplisson
+cn: eplisson
+
+dn: cn=dmuller,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170918073137Z
+surname: MULLER
+givenName: Dominique
+uid: dmuller
+cn: dmuller
+
+dn: cn=floisel,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171016072219Z
+surname: LOISEL
+givenName: Fabien
+uid: floisel
+cn: floisel
+
+dn: cn=nsamak,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116141718Z
+surname: SAMAK
+givenName: Nicole
+uid: nsamak
+cn: nsamak
+
+dn: cn=ajouhanneau,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114073003Z
+surname: JOUHANNEAU
+givenName: Alice
+uid: ajouhanneau
+cn: ajouhanneau
+
+dn: cn=cmery,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170308140811Z
+surname: MERY
+givenName: Chantal
+uid: cmery
+cn: cmery
+
+dn: cn=mlregent,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171103123931Z
+surname: REGENT
+givenName: Marie-Louise
+uid: mlregent
+cn: mlregent
+
+dn: cn=clamour,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170210090454Z
+surname: LAMOUR
+givenName: Christine
+uid: clamour
+cn: clamour
+
+dn: cn=cle-gall,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170907102617Z
+surname: LE-GALL
+givenName: Catherine
+uid: cle-gall
+cn: cle-gall
+
+dn: cn=rliberman,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116103458Z
+surname: LIBERMAN
+givenName: Rebecca
+uid: rliberman
+cn: rliberman
+
+dn: cn=sartis,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115101348Z
+surname: ARTIS
+givenName: Sandrine
+uid: sartis
+cn: sartis
+
+dn: cn=cgonnord,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170905084933Z
+surname: GONNORD
+givenName: Christelle
+uid: cgonnord
+cn: cgonnord
+
+dn: cn=namovin,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160706121142Z
+surname: AMOVIN-CAMUS
+givenName: Nicole
+uid: namovin-camus
+cn: namovin
+
+dn: cn=mroy,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170425143131Z
+surname: ROY
+givenName: Melanie
+uid: mroy
+cn: mroy
+
+dn: cn=mrobert,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115090413Z
+surname: ROBERT
+givenName: Magali
+uid: mrobert
+cn: mrobert
+
+dn: cn=mchappe,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116113257Z
+surname: CHAPPE
+givenName: Martine
+uid: mchappe
+cn: mchappe
+
+dn: cn=vdecerle,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160923062526Z
+surname: DECERLE
+givenName: Viviane
+uid: vdecerle
+cn: vdecerle
+
+dn: cn=jcmonnet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171106185536Z
+surname: MONNET
+givenName: Jean-Christophe
+uid: jcmonnet
+cn: jcmonnet
+
+dn: cn=mhbugeaud,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116093122Z
+surname: BUGEAUD
+givenName: Marie-Helene
+uid: mhbugeaud
+cn: mhbugeaud
+
+dn: cn=yblyt,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170828080229Z
+surname: BLYT
+givenName: Yolaine
+uid: yblyt
+cn: yblyt
+
+dn: cn=ahaudebourg,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160112123355Z
+surname: HAUDEBOURG
+givenName: Annick
+uid: ahaudebourg
+cn: ahaudebourg
+
+dn: cn=sboudinet,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116083847Z
+surname: BOUDINET
+givenName: Sarah
+uid: sboudinet
+cn: sboudinet
+
+dn: cn=smichelon,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160209181054Z
+surname: MICHELON
+givenName: Sylvain
+uid: smichelon
+cn: smichelon
+
+dn: cn=csoulat,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171012144709Z
+surname: SOULAT
+givenName: Christine
+uid: csoulat
+cn: csoulat
+
+dn: cn=bsekhraoui,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171027133214Z
+surname: SEKHRAOUI
+givenName: Baya
+uid: bsekhraoui
+cn: bsekhraoui
+
+dn: cn=kakrouf,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171020112959Z
+surname: AKHROUF
+givenName: Khadidja
+uid: kakrouf
+cn: kakrouf
+
+dn: cn=dtrinh,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171109072618Z
+surname: TRINH
+givenName: Dung
+uid: dtrinh
+cn: dtrinh
+
+dn: cn=glazennec,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170629063048Z
+surname: LAZENNEC
+givenName: Gaelle
+uid: gtreguer
+cn: glazennec
+
+dn: cn=ovacheret,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171108143919Z
+surname: VACHERET
+givenName: Olivier
+uid: ovacheret
+cn: ovacheret
+
+dn: cn=cbeaucourt,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116150618Z
+surname: BEAUCOURT
+givenName: Christophe
+uid: cbeaucourt
+cn: cbeaucourt
+
+dn: cn=mdiebold,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116083903Z
+surname: DIEBOLD
+givenName: Martin
+uid: mdiebold
+cn: mdiebold
+
+dn: cn=jlecleire,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114145637Z
+surname: LECLEIRE
+givenName: Jerome
+uid: jlecleire
+cn: jlecleire
+
+dn: cn=imagaud,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171114091344Z
+surname: MAGAUD
+givenName: Isabelle
+uid: imagaud
+cn: imagaud
+
+dn: cn=ikane,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20161216095928Z
+surname: KANE
+givenName: Isabelle
+uid: ikane
+cn: ikane
+
+dn: cn=bgabiron,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170818072853Z
+surname: GABIRON
+givenName: Benjamin
+uid: bgabiron
+cn: bgabiron
+
+dn: cn=ibriend,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160406135643Z
+surname: BRIEND
+givenName: Isabelle
+uid: ibriend
+cn: ibriend
+
+dn: cn=vandre,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171116101113Z
+surname: ANDRE
+givenName: Veronique
+uid: vandre
+cn: vandre
+
+dn: cn=sesteve,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171115095201Z
+surname: ESTEVE
+givenName: Sophie
+uid: sesteve
+cn: sesteve
+
+dn: cn=aguerdad,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171113104703Z
+surname: GUERDAD
+givenName: Aline
+uid: aguerdad
+cn: aguerdad
+
+dn: cn=obarbosa,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20170927100301Z
+surname: BARBOSA
+givenName: Olivier
+uid: obarbosa
+cn: obarbosa
+
+dn: cn=NFAUUser,ou=SRV-HELIOS,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20090801134730Z
+surname: NFAUUser
+uid: NFAUUser
+cn: NFAUUser
+
+dn: cn=NFAUUser,ou=SRV-HERA,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20090731154353Z
+surname: NFAUUser
+uid: NFAUUser
+cn: NFAUUser
+
+dn: cn=NFAUUser,ou=SRV-ZEUS,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20090731150502Z
+surname: NFAUUser
+uid: NFAUUser
+cn: NFAUUser
+
+dn: cn=ezvuser,ou=ADM,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20160325104034Z
+surname: ezvuser
+uid: ezvuser
+cn: ezvuser
+
+dn: cn=magellan,ou=ADM,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20150319082111Z
+surname: magellan
+givenName: magellan
+uid: magellan
+cn: magellan
+
+dn: cn=ccanon,ou=ADM,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20120926140754Z
+surname: canon
+givenName: copieur
+uid: ccanon
+cn: ccanon
+
+dn: cn=dgauvain,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20171026135126Z
+surname: GAUVAIN
+givenName: Daniel
+uid: dgauvain
+cn: dgauvain
+
+dn: cn=edelamarre,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20160912143425Z
+surname: DELAMARRE
+givenName: Erick
+uid: edelamarre
+cn: edelamarre
+
+dn: cn=superbis,ou=SERVICES,ou=SIEGE,o=STIF
+loginTime: 20080509120713Z
+surname: superbis
+givenName: superbis
+uid: superbis
+cn: superbis
+
+dn: cn=admin,ou=ADM,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20171116130717Z
+surname: admin
+givenName: admin
+uid: admin
+cn: admin
+
+dn: cn=iFolder_ServerAgent,o=STIF
+loginTime: 20171116151336Z
+surname: iFolder_ServerAgent
+cn: iFolder_ServerAgent
+
+dn: cn=LDAP_Proxy,ou=ADM,ou=RESSOURCES,ou=SIEGE,o=STIF
+loginTime: 20171109144732Z
+surname: LDAP_Proxy
+uid: LDAP_Proxy
+cn: LDAP_Proxy
+
+dn: cn=admin,o=STIF
+loginTime: 20171116151414Z
+surname: admin
+uid: admin
+cn: admin
+
