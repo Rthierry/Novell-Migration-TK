@@ -71,3 +71,12 @@ class DirectoryDB(object):
 
                         else:
                             if self.verbose : print("No match for "+user)
+
+    # -----------------------------------------------
+    # ----------------   Reporting ------------------
+    # -----------------------------------------------
+
+    @classmethod
+    def getUserPermissionsOnVol(self, username, volname):
+        groupMatch = self.GroupMemberCollection.find({ 'uid' : username})
+        return groupMatch

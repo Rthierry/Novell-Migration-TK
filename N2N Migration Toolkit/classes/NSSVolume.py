@@ -23,6 +23,7 @@ class NSSVolume(object):
         NSSVolume.NSSTrusteesCollection = self.dbclient['NSSTrustees']
         NSSVolume.NSSIRFCollection = self.dbclient['NSSIrf']
         NSSVolume.NSSQuotasCollection = self.dbclient['NSSQuotas']
+        NSSVolume.NSSTrusteesVersionCollection = self.dbclient['NSSTrusteesVersion']
 
         ### Converted permission from previous runs
         NSSVolume.NTFSAceCollection = self.dbclient['NTFSAce']
@@ -30,6 +31,8 @@ class NSSVolume(object):
         NSSVolume.traverseGroupMembershipCollection = self.dbclient['TraverseGroupMembership']
         NSSVolume.traverseRightsCollection = self.dbclient['TraverseRights']
 
+        ##NSS version
+        NSSVolume.currentVersion = self.NSSTrusteesVersionCollection.find_one({'Status' : 'Current', 'Volume' : self.volname })['Version']
 
         ##Import NSS Collection from DB
         NSSVolume.aceList = self.importCollectionFromDB(self.volname, self.NSSTrusteesCollection)
@@ -52,6 +55,8 @@ class NSSVolume(object):
         ##NSS IRF
         NSSVolume.NSSIRFList = self.importCollectionFromDB(self.volname, self.NSSIRFCollection)
 
+
+
     def generateRights(self):
 
         self.purgeCollectionByVolName(self.volname, self.NTFSAceCollection)
@@ -61,6 +66,8 @@ class NSSVolume(object):
         self.generateTraverseGroup()
         self.generateTraverseRights()
 
+
+
     # -----------------------------------------------
     # -----------   Traverse Group ------------------
     # -----------------------------------------------
@@ -69,8 +76,8 @@ class NSSVolume(object):
         count = 0
         for row in NSSVolume.ntfsAceList:
             currentPath = row['Path']
-            while(currentPath.count("/") > 1 ):
-                
+            while(currentPath.count("/") >= 1 ):
+
                 previousPath = currentPath
                 currentPath = self.getParentFolder(currentPath)
                 noslashpath = currentPath.replace("/","")
@@ -83,7 +90,8 @@ class NSSVolume(object):
                     trunkpath = trunkpath + folder[0:3].replace(" ","")
 
                 groupName = ("TRVGRP-"+trunkpath+"-"+hashpath[0:10])[0:60]
-                post = { "Volume" : self.volname, "Path" : currentPath, 'Group' : groupName }
+
+                post = { "Volume" : self.volname, "Path" : currentPath, 'Group' : groupName, 'Version' : self.currentVersion }
                 count = count + 1
                 self.insertLineToDB(post, self.traverseFolderCollection, 1)
                 self.traverseFolderCollection.update({"Path": previousPath}, {"$set": {"ParentFolder": currentPath, "MemberOf" : groupName}})
@@ -100,11 +108,11 @@ class NSSVolume(object):
         for row in self.ntfsAceList:
 
             ### Query the Traverse Folder DB with the path of the permission parent Folder
-            parentFolder = self.traverseFolderCollection.find( { 'Path' : self.getParentFolder(row['Path']) })
+            parentFolder = self.traverseFolderCollection.find( { 'Path' : self.getParentFolder(row['Path']), 'Version' : self.currentVersion })
             ### For the uniq result
             for f in parentFolder:
                 count = count + 1
-                self.insertLineToDB({ 'Volume' : self.volname ,'SAMAccountName' : row['SAMAccountName'], 'MemberOf' : f['Group']}, self.traverseGroupMembershipCollection, 1)
+                self.insertLineToDB({ 'Volume' : self.volname ,'SAMAccountName' : row['SAMAccountName'], 'MemberOf' : f['Group'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
                 ### Add the trustee to the group
                 if (self.verbose): print ("Adding "+row['SAMAccountName']+" to : "+f['Group'])
 
@@ -112,9 +120,9 @@ class NSSVolume(object):
             if "MemberOf" in value.keys():
                 if (self.verbose): print ("Group "+value['Group']+" member of "+value['MemberOf'])
                 count = count + 1
-                self.insertLineToDB({ 'Volume' : self.volname, 'SAMAccountName' : value['Group'], 'MemberOf' : value['MemberOf']}, self.traverseGroupMembershipCollection, 1)
+                self.insertLineToDB({ 'Volume' : self.volname, 'SAMAccountName' : value['Group'], 'MemberOf' : value['MemberOf'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
                 count = count + 1
-                self.insertLineToDB({'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly" }, self.NTFSAceCollection, 1)
+                self.insertLineToDB({'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly", 'Version' : self.currentVersion }, self.NTFSAceCollection, 1)
 
         print ("Added "+str(count)+" entry to GroupMembership collection")
 
@@ -124,8 +132,14 @@ class NSSVolume(object):
     # -----------------------------------------------
     @classmethod
     def importCollectionFromDB(self, volname, collection):
-        acelist = collection.find({ 'Volume' : volname})
+
+        acelist = collection.find({ 'Volume' : volname, 'Version' : self.currentVersion})
         return acelist
+
+
+    def requestTrusteesDict(self, query):
+        result = self.NSSTrusteesCollection.find(query, { '_id' : False, 'Version' : False})
+        return result
 
 
     # -----------------------------------------------
@@ -180,10 +194,10 @@ class NSSVolume(object):
 
             if (re.match("\.OU=.*T=.*",trustee['name'])):
                 countOU = countOU + 1
-                convertedRights.append( { 'Volume' : self.volname, 'Type' : 'OUConvertedRight' ,'SAMAccountName' : username, 'Path' : path, 'Rights' : right, 'Scope' : 'ThisFolderSubFoldersAndFiles' })
+                convertedRights.append( { 'Volume' : self.volname, 'Type' : 'OUConvertedRight' ,'SAMAccountName' : username, 'Path' : path, 'Rights' : right, 'Scope' : 'ThisFolderSubFoldersAndFiles', 'Version' : self.currentVersion })
             else:
                 countNormal = countNormal + 1
-                convertedRights.append( { 'Volume' : self.volname, 'Type' : 'UsualConvertedRight' ,'SAMAccountName' : username, 'Path' : path, 'Rights' : right, 'Scope' : 'ThisFolderSubFoldersAndFiles' })
+                convertedRights.append( { 'Volume' : self.volname, 'Type' : 'UsualConvertedRight' ,'SAMAccountName' : username, 'Path' : path, 'Rights' : right, 'Scope' : 'ThisFolderSubFoldersAndFiles', 'Version' : self.currentVersion })
 
         self.ntfsAceList = convertedRights
         self.purgeCollectionByVolName(self.volname, self.NTFSAceCollection)
@@ -293,6 +307,8 @@ class NSSVolume(object):
     # -------------------------------------------------
     # -------------   Export Method  ------------------
     # -------------------------------------------------
+
+
 
     @classmethod
     def exportToCSV(self):

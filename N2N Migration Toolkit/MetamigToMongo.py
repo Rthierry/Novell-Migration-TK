@@ -11,7 +11,11 @@ import argparse
 
 
 def insertLineToDB(post, collection):
-    post_id = collection.update_one(post, { '$set' : post }, upsert=True)
+    post_id = collection.update_one( post, { '$set' : post }, upsert=True)
+
+def updateLineInDB(match, post, collection):
+    post_id = collection.update_one(match, { "$set" : post}, upsert=False)
+
 
 def purgeCollectionByVolName(volname, collection):
     print ("Delete collection for",volname)
@@ -22,6 +26,7 @@ def purgeCollectionByVolName(volname, collection):
 def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument("-i","--inject", help="Import Mode", action="store_true")
+    parser.add_argument("--test", help="Test Mode for dev, not to be used", action="store_true")
     parser.add_argument("-d","--delete", help="Delete Mode", action="store_true")
     parser.add_argument("-t","--trustees", type=str, dest='inputfile', help="Fichier trustees metamig")
     parser.add_argument("-v","--volname", type=str, dest='volname', help="Volume Name")
@@ -62,6 +67,25 @@ def main(argv):
     NSSTrusteesCollection = db['NSSTrustees']
     NSSQuotasCollection = db['NSSQuotas']
     IRFCollection = db['NSSIrf']
+    NSSTrusteesVersionCollection = db['NSSTrusteesVersion']
+
+
+    ### Test mode, not to be used
+    if (args.test):
+        oldversion = NSSTrusteesVersionCollection.find_one({'Status' : 'Current', 'Volume' : args.volname })
+        if ( oldversion == None ):
+            post = { 'Status' : 'Current', 'Version' : 1}
+            insertLineToDB (post, NSSTrusteesVersionCollection)
+        else:
+            print ("Last version was "+ str(oldversion['Version']))
+            match = { 'Status' : 'Current', 'Volume' : args.volname }
+            updateLineInDB(match, {'Status' : 'Old'}, NSSTrusteesVersionCollection)
+
+            newversion = int(oldversion['Version']) + 1
+            post = { 'Status' : 'Current', 'Version' : newversion, 'Volume' : args.volname  }
+            insertLineToDB(post, NSSTrusteesVersionCollection)
+
+
 
     if (args.delete):
         print (args.delete)
@@ -72,7 +96,28 @@ def main(argv):
 
     ### Import mode enable
     if (args.inject):
-        purgeCollectionByVolName(args.volname, NSSTrusteesCollection)
+
+#        purgeCollectionByVolName(args.volname, NSSTrusteesCollection)
+
+        oldversion = NSSTrusteesVersionCollection.find_one({'Status' : 'Current', 'Volume' : args.volname })
+        if ( oldversion == None ):
+            post = { 'Status' : 'Current', 'Version' : 1, 'Volume' : args.volname }
+            insertLineToDB (post, NSSTrusteesVersionCollection)
+            newversion = 1
+            print ("Updating version number to "+str(newversion))
+        else:
+            print ("Last version was "+ str(oldversion['Version']))
+            newversion = int(oldversion['Version']) + 1
+            match = { 'Status' : 'Current' , 'Volume' : args.volname  }
+            updateLineInDB(match, {'Status' : 'Old'}, NSSTrusteesVersionCollection)
+
+            post = { 'Status' : 'Current', 'Version' : newversion, 'Volume' : args.volname  }
+            print ("Updating version number to "+str(newversion))
+            insertLineToDB(post, NSSTrusteesVersionCollection)
+
+
+
+
         print ("Import",args.inputfile," in MongoDB for volume",args.volname)
         lines = []
         with open(args.inputfile) as infile, open (args.inputfile+"-charfixed",'w') as outfile:
@@ -90,20 +135,26 @@ def main(argv):
         quotaCount = 0
 
         for filenode in tree.xpath("trusteeInfo/file"):
+
+
             for path in filenode.xpath("path"):
                 trusteepath = path.text
             for trustee in filenode.xpath("trustee"):
                 for trusteename in trustee.xpath("name"):
                     name = trusteename.text
+
+                for trusteeid in trustee.xpath("id"):
+                    tid = trusteeid.text
+
                 for trusteerights in trustee.xpath("rights"):
                     rights = trusteerights.get("value")
-                    trusteerow = { 'Volume' : args.volname, 'path' : trusteepath , 'name' : name , 'rights' : rights }
+                    trusteerow = { 'Volume' : args.volname, 'path' : trusteepath , 'name' : name , 'rights' : rights, 'Version' : newversion, 'TID' : tid }
                     trusteecount = trusteecount + 1
                     insertLineToDB(trusteerow, NSSTrusteesCollection)
 
             for irf in filenode.xpath("inheritedRightsFilter"):
                 irfentry = irf.get("value")
-                irfrow = {'Volume' : args.volname, 'Path' : trusteepath, 'Filter' : irfentry }
+                irfrow = {'Volume' : args.volname, 'Path' : trusteepath, 'Filter' : irfentry, 'Version' : newversion}
                 insertLineToDB(irfrow, IRFCollection)
                 irfcount = irfcount + 1
 
@@ -116,7 +167,7 @@ def main(argv):
             for spaceUsed in directory.xpath("quotaAmount"):
                 if ((spaceUsed.text != "9223372036854775807")):
                     currentQuotas = spaceUsed.text
-                    quotarow = { 'Volume' : args.volname, 'path' : currentPath, 'quota' : currentQuotas}
+                    quotarow = { 'Volume' : args.volname, 'path' : currentPath, 'quota' : currentQuotas, 'Version' : newversion}
                     insertLineToDB(quotarow,NSSQuotasCollection)
                     quotaCount = quotaCount + 1
 
@@ -129,6 +180,9 @@ def main(argv):
         print ("\nTo show result, run :  ")
         print ("\t./NSSConverter.py -b "+args.dbname+" -v "+args.volname)
         print ("\twith --showQuotas, --showIrfs or --showNSSTrustees option\n")
+
+
+
 
 
 
