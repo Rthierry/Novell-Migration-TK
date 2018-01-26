@@ -3,6 +3,7 @@ from pymongo import MongoClient
 import hashlib
 import pandas as pd
 import re
+import pprint
 
 
 class NSSVolume(object):
@@ -30,6 +31,7 @@ class NSSVolume(object):
         NSSVolume.traverseFolderCollection = self.dbclient['TraverseFolderList']
         NSSVolume.traverseGroupMembershipCollection = self.dbclient['TraverseGroupMembership']
         NSSVolume.traverseRightsCollection = self.dbclient['TraverseRights']
+        NSSVolume.overrideCollection = self.dbclient['OverrideTrustees']
 
         ##NSS version
         NSSVolume.currentVersion = self.NSSTrusteesVersionCollection.find_one({'Status' : 'Current', 'Volume' : self.volname })['Version']
@@ -55,6 +57,8 @@ class NSSVolume(object):
         ##NSS IRF
         NSSVolume.NSSIRFList = self.importCollectionFromDB(self.volname, self.NSSIRFCollection)
 
+        ##Override List
+        NSSVolume.overrideList = self.importCollectionFromDB(self.volname, self.overrideCollection)
 
 
     def generateRights(self):
@@ -93,7 +97,7 @@ class NSSVolume(object):
 
                 post = { "Volume" : self.volname, "Path" : currentPath, 'Group' : groupName, 'Version' : self.currentVersion }
                 count = count + 1
-                self.insertLineToDB(post, self.traverseFolderCollection, 1)
+                self.self.insertLineToDB(post, self.traverseFolderCollection, 1)
                 self.traverseFolderCollection.update({"Path": previousPath}, {"$set": {"ParentFolder": currentPath, "MemberOf" : groupName}})
 
         print ("Added "+str(count)+" entry to traverse folder list")
@@ -112,7 +116,7 @@ class NSSVolume(object):
             ### For the uniq result
             for f in parentFolder:
                 count = count + 1
-                self.insertLineToDB({ 'Volume' : self.volname ,'SAMAccountName' : row['SAMAccountName'], 'MemberOf' : f['Group'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
+                self.self.insertLineToDB({ 'Volume' : self.volname ,'SAMAccountName' : row['SAMAccountName'], 'MemberOf' : f['Group'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
                 ### Add the trustee to the group
                 if (self.verbose): print ("Adding "+row['SAMAccountName']+" to : "+f['Group'])
 
@@ -120,12 +124,14 @@ class NSSVolume(object):
             if "MemberOf" in value.keys():
                 if (self.verbose): print ("Group "+value['Group']+" member of "+value['MemberOf'])
                 count = count + 1
-                self.insertLineToDB({ 'Volume' : self.volname, 'SAMAccountName' : value['Group'], 'MemberOf' : value['MemberOf'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
+                self.self.insertLineToDB({ 'Volume' : self.volname, 'SAMAccountName' : value['Group'], 'MemberOf' : value['MemberOf'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
                 count = count + 1
-                self.insertLineToDB({'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly", 'Version' : self.currentVersion }, self.NTFSAceCollection, 1)
+                self.self.insertLineToDB({'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly", 'Version' : self.currentVersion }, self.NTFSAceCollection, 1)
+
+
+        self.detectAclOverride()
 
         print ("Added "+str(count)+" entry to GroupMembership collection")
-
 
     # -----------------------------------------------
     # -----------   Extraction Method ---------------
@@ -136,11 +142,9 @@ class NSSVolume(object):
         acelist = collection.find({ 'Volume' : volname, 'Version' : self.currentVersion})
         return acelist
 
-
     def requestTrusteesDict(self, query):
         result = self.NSSTrusteesCollection.find(query, { '_id' : False, 'Version' : False})
         return result
-
 
     # -----------------------------------------------
     # -------   Database Modification Method --------
@@ -173,9 +177,9 @@ class NSSVolume(object):
             #post = { "Volume" : volname, "Path" : row['Path'], "Rights" : row['Rights'], "SAMAccountName" : row['SAMAccountName']}
 
             if (filter is None):
-                self.insertLineToDB(row, collection)
+                self.self.insertLineToDB(row, collection)
             else:
-                self.insertLineToDB(row,collection,1)
+                self.self.insertLineToDB(row,collection,1)
 
         print ("Inserted "+str(count)+" rows into database for "+volname)
 
@@ -303,6 +307,49 @@ class NSSVolume(object):
 
         return (trunkpath+"-"+hashpath[0:10])[0:60]
 
+    @classmethod
+    def detectAclOverride(self):
+        for trustee in self.aceList:
+            parentFolders = self.getParentFolderList(trustee['path'])
+
+            print ("ACL Override detection ran")
+            override = 0
+            for folder in parentFolders:
+                parentTrustee = self.NSSTrusteesCollection.find_one({ 'path' : folder, 'name' : trustee['name'] })
+
+                if (parentTrustee != None):
+                    post = { 'Type' : 'InitialFolder', 'Path' : trustee['path'], 'Name' : trustee['name'], 'Right' : trustee['rights'], 'Volume' : self.volname, 'Version' : self.currentVersion }
+                    self.insertLineToDB(post, self.overrideCollection)
+                    if ( self.verbose): print ("Initial Folder :"+trustee['path'],"for",trustee['name'],"and right",trustee['rights'])
+                    post = { 'Type' : 'Override', 'Path' : parentTrustee['path'], 'Name' : parentTrustee['name'], 'Right' : parentTrustee['rights'], 'Volume' : self.volname, 'Version' : self.currentVersion }
+                    self.insertLineToDB(post, self.overrideCollection)
+                    if ( self.verbose): print ("Override : ",parentTrustee['path'],"for",parentTrustee['name'],"with acl",parentTrustee['rights'])
+                    override = 1
+
+            if (override == 1):
+                for folder in parentFolders:
+                    irf = self.NSSIRFCollection.find_one({'Path' : folder})
+                    if (irf != None):
+                        post = { 'Type' : 'IRF', 'Path' : folder, 'Right' : irf['Filter'], 'Volume' : self.volname, 'Version' : self.currentVersion  }
+                        self.insertLineToDB(post, self.overrideCollection)
+                        if ( self.verbose): print("Found IRF on "+folder+" with filter :",irf['Filter'])
+                override = 0
+
+            print ("Result exported to OverrideTrustees collection.")
+
+
+
+
+                #if (parentTrustee != None):
+
+
+
+
+
+
+
+
+
 
     # -------------------------------------------------
     # -------------   Export Method  ------------------
@@ -319,9 +366,11 @@ class NSSVolume(object):
         pd.DataFrame(list(self.traverseGroupMembershipList)).to_csv(self.volname+"-travGrpMembership.csv")
         pd.DataFrame(list(self.NSSQuotasList)).to_csv(self.volname+"-quotas.csv")
         pd.DataFrame(list(self.NSSIRFList)).to_csv(self.volname+"-irf.csv")
+        pd.DataFrame(list(self.overrideList)).to_csv(self.volname+"-override.csv")
 
         print ("NSS Permission : "+self.volname+"-nss.csv")
         print ("NTFS Permission : "+self.volname+"-ntfs.csv")
         print ("Traverse Group Membership : "+self.volname+"-travGrpMembership.csv")
         print("NSS Quotas : "+self.volname+"-quotas.csv")
         print("NSS IRF : "+self.volname+"-irf.csv")
+        print("Override List : "+self.volname+"-override.csv")

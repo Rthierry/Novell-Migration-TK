@@ -24,6 +24,7 @@ def main(self):
     parser.add_argument("--showNTFSAce", help="Print NTFS Trustees", action="store_true")
     parser.add_argument("--showTraverseFolderList", help="Show Traverse Folder List", action="store_true")
     parser.add_argument("--showTraverseGroupMemberShip", help="Show Traverse Group Membership", action="store_true")
+    parser.add_argument("--detectAclOverride", help="Detect Trustee Override", action="store_true")
 
 
     if len(sys.argv)==1:
@@ -71,6 +72,10 @@ def main(self):
     if (args.showTraverseGroupMemberShip):
         for row in volume.traverseGroupMembershipList:
             print(row)
+
+
+    if (args.detectAclOverride):
+        volume.detectAclOverride()
 
 if __name__ == "__main__":
     main(sys.argv[1:])
