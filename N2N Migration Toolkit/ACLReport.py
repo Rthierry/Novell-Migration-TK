@@ -69,7 +69,7 @@ def main(self):
     volume = NSSVolume(args.volname, args.dbname, args.verbose)
 
     if (args.user):
-        permissions = directory.getUserPermissionsOnVol(args.user, args.volume)
+        permissions = directory.getUserPermissionsOnVol(args.user, args.volname)
         for element in permissions:
             #print ("Looking for "+element['groupid']+" in database.")
             for ace in volume.NTFSAceCollection.find({'SAMAccountName' : element['groupid']}):
@@ -95,33 +95,19 @@ def main(self):
     #    for record in postrecord.values():
     #        print (record)
 
-        for element in added:
+        #changelist = []
+        for element in added:            
             print ("Added : ", volume.NSSTrusteesCollection.find_one({'TID' : element})['path'])
-
-
         for element in same:
             print ("Same : ",volume.NSSTrusteesCollection.find_one({'TID' : element})['path'])
-
         for element in removed:
             print ("Removed : ", volume.NSSTrusteesCollection.find_one({'TID' : element})['path'])
-        #print ("added:", added)
-        #print ("removed:", removed)
         for element in modified:
             print ("Modified : ", volume.NSSTrusteesCollection.find_one({'TID' : element})['path']  )
-        #print ("same:", same)
-
-
-
-
-
+    
 
 #        for element in volume.aceList:
 #            print (element)
-
-
-
-
-
 
 if __name__ == "__main__":
     main(sys.argv[1:])

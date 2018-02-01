@@ -97,7 +97,7 @@ class NSSVolume(object):
 
                 post = { "Volume" : self.volname, "Path" : currentPath, 'Group' : groupName, 'Version' : self.currentVersion }
                 count = count + 1
-                self.self.insertLineToDB(post, self.traverseFolderCollection, 1)
+                self.insertLineToDB(post, self.traverseFolderCollection, 1)
                 self.traverseFolderCollection.update({"Path": previousPath}, {"$set": {"ParentFolder": currentPath, "MemberOf" : groupName}})
 
         print ("Added "+str(count)+" entry to traverse folder list")
@@ -116,7 +116,7 @@ class NSSVolume(object):
             ### For the uniq result
             for f in parentFolder:
                 count = count + 1
-                self.self.insertLineToDB({ 'Volume' : self.volname ,'SAMAccountName' : row['SAMAccountName'], 'MemberOf' : f['Group'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
+                self.insertLineToDB({ 'Volume' : self.volname ,'SAMAccountName' : row['SAMAccountName'], 'MemberOf' : f['Group'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
                 ### Add the trustee to the group
                 if (self.verbose): print ("Adding "+row['SAMAccountName']+" to : "+f['Group'])
 
@@ -124,9 +124,9 @@ class NSSVolume(object):
             if "MemberOf" in value.keys():
                 if (self.verbose): print ("Group "+value['Group']+" member of "+value['MemberOf'])
                 count = count + 1
-                self.self.insertLineToDB({ 'Volume' : self.volname, 'SAMAccountName' : value['Group'], 'MemberOf' : value['MemberOf'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
+                self.insertLineToDB({ 'Volume' : self.volname, 'SAMAccountName' : value['Group'], 'MemberOf' : value['MemberOf'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
                 count = count + 1
-                self.self.insertLineToDB({'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly", 'Version' : self.currentVersion }, self.NTFSAceCollection, 1)
+                self.insertLineToDB({'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly", 'Version' : self.currentVersion }, self.NTFSAceCollection, 1)
 
 
         self.detectAclOverride()
@@ -177,9 +177,9 @@ class NSSVolume(object):
             #post = { "Volume" : volname, "Path" : row['Path'], "Rights" : row['Rights'], "SAMAccountName" : row['SAMAccountName']}
 
             if (filter is None):
-                self.self.insertLineToDB(row, collection)
+                self.insertLineToDB(row, collection)
             else:
-                self.self.insertLineToDB(row,collection,1)
+                self.insertLineToDB(row,collection,1)
 
         print ("Inserted "+str(count)+" rows into database for "+volname)
 
