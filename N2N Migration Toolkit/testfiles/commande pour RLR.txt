@@ -1,0 +1,14 @@
+Les commandes suivantes sont à executer sur un serveur Windows avec le module NTFSSecurity
+Groupe d'ou à créer avant imports des droits: fichier ImportPiloteGRPOU.csv
+.\N2N-CreateGroup.ps1 -groupList "chemin vers le fichier d'import des groupes" -ADBaseDN "OU=,OU=,DC=,DC=" -groupcol "group" -membercol "uid"
+
+
+Groupe d'ou à créer avant imports des droits: fichiers vmposeteCAPIT-travGrpMembership.csv, vmposeteCRAC-travGrpMembership.csv, vmposeteREGY-travGrpMembership.csv, vmposeteRICHELIEU-travGrpMembership.csv
+.\N2N-CreateGroup.ps1 -groupList "chemin vers le fichier d'import des groupes de traverse" -ADBaseDN "OU=,OU=,DC=,DC=" -groupcol "MemberOf" -membercol "SAMAccountName"
+
+
+Placement des droits NTFS: fichiers vmposeteCAPIT-ntfs.csv, vmposeteCRAC-ntfs.csv, vmposeteREGY-ntfs.csv, vmposeteRICHELIEU-ntfs.csv
+.\N2N-SetRights.ps1 -rightsList "chemin vers le fichier d'import des groupes de traverse" -rootPath "D:\partage" -domain "RMP\" -Delimiter ","
+
+Application des cassages d'héritages: fichiers vmposeteCAPIT-irf.csv, vmposeteCRAC-irf.csv, vmposeteREGY-irf.csv, vmposeteRICHELIEU-irf.csv
+Manuellement

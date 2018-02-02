@@ -1,0 +1,628 @@
+PS C:\grpntfs> .\N2N-CreateGroup.ps1 -groupList "C:\grpntfs\ImportPiloteGRPeDir.csv" -ADBaseDN "OU=LR-Groups,OU=LR,DC=RPM,DC=LOC" -groupcol "group" -membercol "uid"
+02/01/2018 15:38:57 --- Group Ponts_Personnel already exist
+02/01/2018 15:38:57 --- Group novlxtier already exist
+02/01/2018 15:38:57 --- Group www already exist
+02/01/2018 15:38:57 --- Group DRHMarins already exist
+02/01/2018 15:38:57 --- Group Triton already exist
+02/01/2018 15:38:57 --- Group Apisoft_REGY already exist
+02/01/2018 15:38:57 --- Group Dev_prospective already exist
+02/01/2018 15:38:57 --- Group Dev_Programmation already exist
+02/01/2018 15:38:57 --- Group Dev_subdivision already exist
+02/01/2018 15:38:57 --- Group Infra_pilotage already exist
+02/01/2018 15:38:57 --- Group Dev_service already exist
+02/01/2018 15:38:57 --- Group Ponts already exist
+02/01/2018 15:38:57 --- Group Loi_sur_l'eau already exist
+02/01/2018 15:38:57 --- Group Infrastructure already exist
+02/01/2018 15:38:57 --- Group ComptaAna already exist
+02/01/2018 15:38:57 --- Group Atelier already exist
+02/01/2018 15:38:57 --- Group Armement already exist
+02/01/2018 15:38:57 --- Group APISOFT_RICHELIEU already exist
+02/01/2018 15:38:57 --- Group T-Echange already exist
+02/01/2018 15:38:57 --- Group GESTIM already exist
+02/01/2018 15:38:57 --- Group GESTOPA already exist
+02/01/2018 15:38:57 --- Group DOM already exist
+02/01/2018 15:38:57 --- Group Consultation_L already exist
+02/01/2018 15:38:57 --- Group Consultation_E already exist
+02/01/2018 15:38:57 --- Group Infra_service already exist
+02/01/2018 15:38:57 --- Group Infra_etudes already exist
+02/01/2018 15:38:57 --- Adding Bohec_k to Ponts_Personnel
+02/01/2018 15:38:57 --- Adding Loup_j to Ponts_Personnel
+02/01/2018 15:38:57 --- Adding Nouailles_a to Ponts_Personnel
+02/01/2018 15:38:57 --- Adding Tudesq_jf to Ponts_Personnel
+02/01/2018 15:38:58 --- Adding Gallon_d to Ponts_Personnel
+02/01/2018 15:38:58 --- Adding Taioni_c to Ponts_Personnel
+02/01/2018 15:38:58 --- Adding Nadal_p to Ponts_Personnel
+02/01/2018 15:38:58 --- Adding novlxregd to novlxtier
+02/01/2018 15:38:58 --- Adding novlxsrvd to novlxtier
+02/01/2018 15:38:58 --- Adding wwwrun to novlxtier
+02/01/2018 15:38:58 --- Adding wwwrun to www
+02/01/2018 15:38:58 --- Adding novlxsrvd to www
+02/01/2018 15:38:58 --- Adding Auvergne_k to DRHMarins
+02/01/2018 15:38:58 --- Adding Nouailles_a to DRHMarins
+02/01/2018 15:38:58 --- Adding Loup_j to DRHMarins
+02/01/2018 15:38:58 --- Adding Bohec_k to DRHMarins
+02/01/2018 15:38:58 --- Adding Gallon_d to DRHMarins
+02/01/2018 15:38:59 --- Adding Taioni_c to DRHMarins
+02/01/2018 15:38:59 --- Adding Leblond_v to DRHMarins
+02/01/2018 15:38:59 --- Adding Moutte_d to DRHMarins
+02/01/2018 15:38:59 --- Adding Laurent_jt to DRHMarins
+02/01/2018 15:38:59 --- Adding Nadal_p to DRHMarins
+02/01/2018 15:38:59 --- Adding Molina-Agniel_e to Triton
+02/01/2018 15:38:59 --- Adding Driget_p to Apisoft_REGY
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Driget_p » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Driget_p:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:38:59 --- Adding Dronneau_m to Apisoft_REGY
+02/01/2018 15:38:59 --- Adding Guillaume_p to Apisoft_REGY
+02/01/2018 15:38:59 --- Adding Taioni_c to Apisoft_REGY
+02/01/2018 15:38:59 --- Adding Chevalier_m to Dev_prospective
+02/01/2018 15:38:59 --- Adding Taioni_c to Dev_prospective
+02/01/2018 15:38:59 --- Adding Nougarede_n to Dev_prospective
+02/01/2018 15:39:00 --- Adding Le-Roux_j to Dev_prospective
+02/01/2018 15:39:00 --- Adding Villepreux_j to Dev_prospective
+02/01/2018 15:39:00 --- Adding Le-Roux_jy to Dev_prospective
+02/01/2018 15:39:00 --- Adding Molina-Agniel_e to Dev_prospective
+02/01/2018 15:39:00 --- Adding Chalut-natal_jl to Dev_Programmation
+02/01/2018 15:39:00 --- Adding Chassary_mh to Dev_Programmation
+02/01/2018 15:39:00 --- Adding Gallon_d to Dev_Programmation
+02/01/2018 15:39:00 --- Adding Ournac_j to Dev_Programmation
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Ournac_j » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Ournac_j:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:00 --- Adding Taioni_c to Dev_Programmation
+02/01/2018 15:39:00 --- Adding Le-Roux_j to Dev_Programmation
+02/01/2018 15:39:00 --- Adding Le-Roux_jy to Dev_Programmation
+02/01/2018 15:39:00 --- Adding Moutte_d to Dev_Programmation
+02/01/2018 15:39:01 --- Adding Nadal_p to Dev_Programmation
+02/01/2018 15:39:01 --- Adding Bremond-Laux_d to Dev_subdivision
+02/01/2018 15:39:01 --- Adding Miane_p to Dev_subdivision
+02/01/2018 15:39:01 --- Adding Recouvreur_g to Dev_subdivision
+02/01/2018 15:39:01 --- Adding Taioni_c to Dev_subdivision
+02/01/2018 15:39:01 --- Adding Le-Roux_j to Dev_subdivision
+02/01/2018 15:39:01 --- Adding Gallon_d to Dev_subdivision
+02/01/2018 15:39:01 --- Adding Pietrobon_m to Dev_subdivision
+02/01/2018 15:39:01 --- Adding Le-Roux_jy to Dev_subdivision
+02/01/2018 15:39:01 --- Adding Moutte_d to Dev_subdivision
+02/01/2018 15:39:01 --- Adding Nadal_p to Dev_subdivision
+02/01/2018 15:39:01 --- Adding Bosch_jp to Infra_pilotage
+02/01/2018 15:39:01 --- Adding Driget_p to Infra_pilotage
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Driget_p » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Driget_p:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:02 --- Adding Max_o to Infra_pilotage
+02/01/2018 15:39:02 --- Adding Stahl_p to Infra_pilotage
+02/01/2018 15:39:02 --- Adding Taioni_c to Infra_pilotage
+02/01/2018 15:39:02 --- Adding Valez_p to Infra_pilotage
+02/01/2018 15:39:02 --- Adding Befve_a to Infra_pilotage
+02/01/2018 15:39:02 --- Adding Taioni_c to Dev_service
+02/01/2018 15:39:02 --- Adding Le-Roux_j to Dev_service
+02/01/2018 15:39:02 --- Adding Le-Roux_jy to Dev_service
+02/01/2018 15:39:02 --- Adding Lombardo_jm to Ponts
+02/01/2018 15:39:02 --- Adding Loup_j to Ponts
+02/01/2018 15:39:02 --- Adding Tudesq_jf to Ponts
+02/01/2018 15:39:03 --- Adding Taioni_c to Ponts
+02/01/2018 15:39:03 --- Adding Bohec_k to Ponts
+02/01/2018 15:39:03 --- Adding Lepinoy_p to Ponts
+02/01/2018 15:39:03 --- Adding Mougin_t to Ponts
+02/01/2018 15:39:03 --- Adding Alazet_c to Ponts
+02/01/2018 15:39:03 --- Adding Nouailles_a to Ponts
+02/01/2018 15:39:03 --- Adding Busicchia_c to Ponts
+02/01/2018 15:39:03 --- Adding Auvergne_k to Ponts
+02/01/2018 15:39:03 --- Adding Leguen_y to Ponts
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:03 --- Adding Candore_m to Ponts
+02/01/2018 15:39:03 --- Adding Felices_h to Ponts
+02/01/2018 15:39:03 --- Adding Leblond_v to Ponts
+02/01/2018 15:39:03 --- Adding Rouge_g to Ponts
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:04 --- Adding Laurent_jt to Ponts
+02/01/2018 15:39:04 --- Adding Crasset_e to Ponts
+02/01/2018 15:39:04 --- Adding Butterbach_j to Ponts
+02/01/2018 15:39:04 --- Adding Potin_a to Ponts
+02/01/2018 15:39:04 --- Adding Mistoco_l to Ponts
+02/01/2018 15:39:04 --- Adding Loup_j to Loi_sur_l'eau
+02/01/2018 15:39:04 --- Adding Tudesq_jf to Loi_sur_l'eau
+02/01/2018 15:39:04 --- Adding Taioni_c to Loi_sur_l'eau
+02/01/2018 15:39:04 --- Adding Bohec_k to Loi_sur_l'eau
+02/01/2018 15:39:04 --- Adding Potin_a to Loi_sur_l'eau
+02/01/2018 15:39:04 --- Adding Nouailles_a to Loi_sur_l'eau
+02/01/2018 15:39:05 --- Adding Lombardo_jm to Loi_sur_l'eau
+02/01/2018 15:39:05 --- Adding Busicchia_c to Loi_sur_l'eau
+02/01/2018 15:39:05 --- Adding Auvergne_k to Loi_sur_l'eau
+02/01/2018 15:39:05 --- Adding Leguen_y to Loi_sur_l'eau
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:05 --- Adding Leblond_v to Loi_sur_l'eau
+02/01/2018 15:39:05 --- Adding Rouge_g to Loi_sur_l'eau
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:05 --- Adding Laurent_jt to Loi_sur_l'eau
+02/01/2018 15:39:05 --- Adding Crasset_e to Loi_sur_l'eau
+02/01/2018 15:39:05 --- Adding Butterbach_j to Loi_sur_l'eau
+02/01/2018 15:39:05 --- Adding Taioni_c to Infrastructure
+02/01/2018 15:39:05 --- Adding Bohec_k to Infrastructure
+02/01/2018 15:39:05 --- Adding Tudesq_jf to Infrastructure
+02/01/2018 15:39:06 --- Adding Potin_a to Infrastructure
+02/01/2018 15:39:06 --- Adding Nouailles_a to Infrastructure
+02/01/2018 15:39:06 --- Adding Loup_j to Infrastructure
+02/01/2018 15:39:06 --- Adding Lombardo_jm to Infrastructure
+02/01/2018 15:39:06 --- Adding Busicchia_c to Infrastructure
+02/01/2018 15:39:06 --- Adding Auvergne_k to Infrastructure
+02/01/2018 15:39:06 --- Adding Leguen_y to Infrastructure
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:06 --- Adding Leblond_v to Infrastructure
+02/01/2018 15:39:06 --- Adding Rouge_g to Infrastructure
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:06 --- Adding Laurent_jt to Infrastructure
+02/01/2018 15:39:06 --- Adding Crasset_e to Infrastructure
+02/01/2018 15:39:07 --- Adding Butterbach_j to Infrastructure
+02/01/2018 15:39:07 --- Adding Loup_j to ComptaAna
+02/01/2018 15:39:07 --- Adding Notardonato_j to ComptaAna
+02/01/2018 15:39:07 --- Adding Potin_a to ComptaAna
+02/01/2018 15:39:07 --- Adding Fournier_f to ComptaAna
+02/01/2018 15:39:07 --- Adding Lombardo_jm to ComptaAna
+02/01/2018 15:39:07 --- Adding Tudesq_jf to ComptaAna
+02/01/2018 15:39:07 --- Adding Busicchia_c to ComptaAna
+02/01/2018 15:39:07 --- Adding Taioni_c to ComptaAna
+02/01/2018 15:39:07 --- Adding Bohec_k to ComptaAna
+02/01/2018 15:39:07 --- Adding Nouailles_a to ComptaAna
+02/01/2018 15:39:07 --- Adding Auvergne_k to ComptaAna
+02/01/2018 15:39:07 --- Adding Leguen_y to ComptaAna
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:08 --- Adding Leblond_v to ComptaAna
+02/01/2018 15:39:08 --- Adding Rouge_g to ComptaAna
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:08 --- Adding Laurent_jt to ComptaAna
+02/01/2018 15:39:08 --- Adding Crasset_e to ComptaAna
+02/01/2018 15:39:08 --- Adding Butterbach_j to ComptaAna
+02/01/2018 15:39:08 --- Adding Tudesq_jf to Atelier
+02/01/2018 15:39:08 --- Adding Lombardo_jm to Atelier
+02/01/2018 15:39:08 --- Adding Busicchia_c to Atelier
+02/01/2018 15:39:08 --- Adding Loup_j to Atelier
+02/01/2018 15:39:08 --- Adding Urosevic_m to Atelier
+02/01/2018 15:39:08 --- Adding Pron_d to Atelier
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Pron_d » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Pron_d:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:08 --- Adding Milhaud_a to Atelier
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Milhaud_a » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Milhaud_a:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:09 --- Adding Laguens_jm to Atelier
+02/01/2018 15:39:09 --- Adding Taioni_c to Atelier
+02/01/2018 15:39:09 --- Adding Bohec_k to Atelier
+02/01/2018 15:39:09 --- Adding Potin_a to Atelier
+02/01/2018 15:39:09 --- Adding Nouailles_a to Atelier
+02/01/2018 15:39:09 --- Adding Auvergne_k to Atelier
+02/01/2018 15:39:09 --- Adding Leguen_y to Atelier
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:09 --- Adding Mougin_t to Atelier
+02/01/2018 15:39:09 --- Adding Roustan_r to Atelier
+02/01/2018 15:39:09 --- Adding Mourouvin_s to Atelier
+02/01/2018 15:39:09 --- Adding Leblond_v to Atelier
+02/01/2018 15:39:09 --- Adding Rouge_g to Atelier
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:10 --- Adding Laurent_jt to Atelier
+02/01/2018 15:39:10 --- Adding Crasset_e to Atelier
+02/01/2018 15:39:10 --- Adding Butterbach_j to Atelier
+02/01/2018 15:39:10 --- Adding Loup_j to Armement
+02/01/2018 15:39:10 --- Adding Tudesq_jf to Armement
+02/01/2018 15:39:10 --- Adding Busicchia_c to Armement
+02/01/2018 15:39:10 --- Adding Taioni_c to Armement
+02/01/2018 15:39:10 --- Adding Bohec_k to Armement
+02/01/2018 15:39:10 --- Adding Potin_a to Armement
+02/01/2018 15:39:10 --- Adding Nouailles_a to Armement
+02/01/2018 15:39:10 --- Adding Lombardo_jm to Armement
+02/01/2018 15:39:10 --- Adding Auvergne_k to Armement
+02/01/2018 15:39:11 --- Adding Leguen_y to Armement
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:11 --- Adding Leblond_v to Armement
+02/01/2018 15:39:11 --- Adding Rouge_g to Armement
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:11 --- Adding Laurent_jt to Armement
+02/01/2018 15:39:11 --- Adding Crasset_e to Armement
+02/01/2018 15:39:11 --- Adding Butterbach_j to Armement
+02/01/2018 15:39:11 --- Adding Bertrand_m to APISOFT_RICHELIEU
+02/01/2018 15:39:11 --- Adding Tudesq_jf to APISOFT_RICHELIEU
+02/01/2018 15:39:11 --- Adding Lombardo_jm to APISOFT_RICHELIEU
+02/01/2018 15:39:11 --- Adding Fournier_f to APISOFT_RICHELIEU
+02/01/2018 15:39:11 --- Adding Loup_j to APISOFT_RICHELIEU
+02/01/2018 15:39:11 --- Adding Notardonato_j to APISOFT_RICHELIEU
+02/01/2018 15:39:12 --- Adding Busicchia_c to APISOFT_RICHELIEU
+02/01/2018 15:39:12 --- Adding Laguens_jm to APISOFT_RICHELIEU
+02/01/2018 15:39:12 --- Adding Taioni_c to APISOFT_RICHELIEU
+02/01/2018 15:39:12 --- Adding Bohec_k to APISOFT_RICHELIEU
+02/01/2018 15:39:12 --- Adding Auvergne_k to APISOFT_RICHELIEU
+02/01/2018 15:39:12 --- Adding Nouailles_a to APISOFT_RICHELIEU
+02/01/2018 15:39:12 --- Adding Potin_a to APISOFT_RICHELIEU
+02/01/2018 15:39:12 --- Adding Leguen_y to APISOFT_RICHELIEU
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:12 --- Adding Mougin_t to APISOFT_RICHELIEU
+02/01/2018 15:39:12 --- Adding Roustan_r to APISOFT_RICHELIEU
+02/01/2018 15:39:12 --- Adding Mourouvin_s to APISOFT_RICHELIEU
+02/01/2018 15:39:13 --- Adding Leblond_v to APISOFT_RICHELIEU
+02/01/2018 15:39:13 --- Adding Rouge_g to APISOFT_RICHELIEU
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:13 --- Adding Crasset_e to APISOFT_RICHELIEU
+02/01/2018 15:39:13 --- Adding Butterbach_j to APISOFT_RICHELIEU
+02/01/2018 15:39:13 --- Adding Bosch_jp to T-Echange
+02/01/2018 15:39:13 --- Adding Dronneau_m to T-Echange
+02/01/2018 15:39:13 --- Adding Le-Roux_j to T-Echange
+02/01/2018 15:39:13 --- Adding Midoux_v to T-Echange
+02/01/2018 15:39:13 --- Adding Ournac_j to T-Echange
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Ournac_j » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Ournac_j:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:13 --- Adding Schwebel_m to T-Echange
+02/01/2018 15:39:13 --- Adding Szczot_s to T-Echange
+02/01/2018 15:39:13 --- Adding Taioni_c to T-Echange
+02/01/2018 15:39:13 --- Adding Auvergne_k to T-Echange
+02/01/2018 15:39:14 --- Adding Bohec_k to T-Echange
+02/01/2018 15:39:14 --- Adding Potin_a to T-Echange
+02/01/2018 15:39:14 --- Adding Nouailles_a to T-Echange
+02/01/2018 15:39:14 --- Adding Loup_j to T-Echange
+02/01/2018 15:39:14 --- Adding Lombardo_jm to T-Echange
+02/01/2018 15:39:14 --- Adding Tudesq_jf to T-Echange
+02/01/2018 15:39:14 --- Adding Busicchia_c to T-Echange
+02/01/2018 15:39:14 --- Adding Leguen_y to T-Echange
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:14 --- Adding Gallon_d to T-Echange
+02/01/2018 15:39:14 --- Adding Le-Roux_jy to T-Echange
+02/01/2018 15:39:14 --- Adding Leblond_v to T-Echange
+02/01/2018 15:39:14 --- Adding Moutte_d to T-Echange
+02/01/2018 15:39:15 --- Adding Rouge_g to T-Echange
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:15 --- Adding Laurent_jt to T-Echange
+02/01/2018 15:39:15 --- Adding Crasset_e to T-Echange
+02/01/2018 15:39:15 --- Adding Butterbach_j to T-Echange
+02/01/2018 15:39:15 --- Adding Nouxet_v to T-Echange
+02/01/2018 15:39:15 --- Adding Nadal_p to T-Echange
+02/01/2018 15:39:15 --- Adding Fournier_f to GESTIM
+02/01/2018 15:39:15 --- Adding Loup_j to GESTIM
+02/01/2018 15:39:15 --- Adding Tudesq_jf to GESTIM
+02/01/2018 15:39:15 --- Adding Busicchia_c to GESTIM
+02/01/2018 15:39:15 --- Adding Auvergne_k to GESTIM
+02/01/2018 15:39:15 --- Adding Taioni_c to GESTIM
+02/01/2018 15:39:16 --- Adding Bohec_k to GESTIM
+02/01/2018 15:39:16 --- Adding Potin_a to GESTIM
+02/01/2018 15:39:16 --- Adding Nouailles_a to GESTIM
+02/01/2018 15:39:16 --- Adding Lombardo_jm to GESTIM
+02/01/2018 15:39:16 --- Adding Leguen_y to GESTIM
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:16 --- Adding Leblond_v to GESTIM
+02/01/2018 15:39:16 --- Adding Rouge_g to GESTIM
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:16 --- Adding Laurent_jt to GESTIM
+02/01/2018 15:39:16 --- Adding Crasset_e to GESTIM
+02/01/2018 15:39:16 --- Adding Butterbach_j to GESTIM
+02/01/2018 15:39:16 --- Adding Lombardo_jm to GESTOPA
+02/01/2018 15:39:17 --- Adding Loup_j to GESTOPA
+02/01/2018 15:39:17 --- Adding Notardonato_j to GESTOPA
+02/01/2018 15:39:17 --- Adding Tudesq_jf to GESTOPA
+02/01/2018 15:39:17 --- Adding Nouailles_a to GESTOPA
+02/01/2018 15:39:17 --- Adding Auvergne_k to GESTOPA
+02/01/2018 15:39:17 --- Adding Taioni_c to GESTOPA
+02/01/2018 15:39:17 --- Adding Bohec_k to GESTOPA
+02/01/2018 15:39:17 --- Adding Potin_a to GESTOPA
+02/01/2018 15:39:17 --- Adding Busicchia_c to GESTOPA
+02/01/2018 15:39:17 --- Adding Leguen_y to GESTOPA
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:17 --- Adding Leblond_v to GESTOPA
+02/01/2018 15:39:17 --- Adding Rouge_g to GESTOPA
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:18 --- Adding Laurent_jt to GESTOPA
+02/01/2018 15:39:18 --- Adding Crasset_e to GESTOPA
+02/01/2018 15:39:18 --- Adding Butterbach_j to GESTOPA
+02/01/2018 15:39:18 --- Adding Bertrand_m to DOM
+02/01/2018 15:39:18 --- Adding Fournier_f to DOM
+02/01/2018 15:39:18 --- Adding Gallinaro_r to DOM
+02/01/2018 15:39:18 --- Adding Lombardo_jm to DOM
+02/01/2018 15:39:18 --- Adding Loup_j to DOM
+02/01/2018 15:39:18 --- Adding Notardonato_j to DOM
+02/01/2018 15:39:18 --- Adding Potin_a to DOM
+02/01/2018 15:39:19 --- Adding Tudesq_jf to DOM
+02/01/2018 15:39:19 --- Adding Caminade_e to DOM
+02/01/2018 15:39:19 --- Adding Scaphandrier to DOM
+02/01/2018 15:39:19 --- Adding Busicchia_c to DOM
+02/01/2018 15:39:19 --- Adding Nouailles_a to DOM
+02/01/2018 15:39:19 --- Adding Brothier_c to DOM
+02/01/2018 15:39:19 --- Adding Urosevic_m to DOM
+02/01/2018 15:39:19 --- Adding Pron_d to DOM
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Pron_d » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Pron_d:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:19 --- Adding Milhaud_a to DOM
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Milhaud_a » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Milhaud_a:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:19 --- Adding Auvergne_k to DOM
+02/01/2018 15:39:19 --- Adding Laguens_jm to DOM
+02/01/2018 15:39:19 --- Adding Taioni_c to DOM
+02/01/2018 15:39:19 --- Adding Bohec_k to DOM
+02/01/2018 15:39:20 --- Adding Paris_p to DOM
+02/01/2018 15:39:20 --- Adding Mourouvin_s to DOM
+02/01/2018 15:39:20 --- Adding Varais_c to DOM
+02/01/2018 15:39:20 --- Adding Touhami_y to DOM
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Touhami_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Touhami_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:20 --- Adding Rouge_g to DOM
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:20 --- Adding Butterbach_j to DOM
+02/01/2018 15:39:20 --- Adding Dom-armement to Consultation_L
+02/01/2018 15:39:20 --- Adding Dom-atelier to Consultation_L
+02/01/2018 15:39:20 --- Adding Dom-ponts to Consultation_L
+02/01/2018 15:39:20 --- Adding Bertrand_m to Consultation_L
+02/01/2018 15:39:20 --- Adding Brothier_c to Consultation_L
+02/01/2018 15:39:20 --- Adding Busicchia_c to Consultation_L
+02/01/2018 15:39:20 --- Adding Caminade_e to Consultation_L
+02/01/2018 15:39:21 --- Adding Fournier_f to Consultation_L
+02/01/2018 15:39:21 --- Adding Gallinaro_r to Consultation_L
+02/01/2018 15:39:21 --- Adding Lombardo_jm to Consultation_L
+02/01/2018 15:39:21 --- Adding Loup_j to Consultation_L
+02/01/2018 15:39:21 --- Adding Milhaud_a to Consultation_L
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Milhaud_a » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Milhaud_a:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:21 --- Adding Notardonato_j to Consultation_L
+02/01/2018 15:39:21 --- Adding Nouailles_a to Consultation_L
+02/01/2018 15:39:21 --- Adding Potin_a to Consultation_L
+02/01/2018 15:39:21 --- Adding Pron_d to Consultation_L
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Pron_d » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Pron_d:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:21 --- Adding Scaphandrier to Consultation_L
+02/01/2018 15:39:21 --- Adding Tudesq_jf to Consultation_L
+02/01/2018 15:39:21 --- Adding Urosevic_m to Consultation_L
+02/01/2018 15:39:22 --- Adding Auvergne_k to Consultation_L
+02/01/2018 15:39:22 --- Adding Laguens_jm to Consultation_L
+02/01/2018 15:39:22 --- Adding Paris_p to Consultation_L
+02/01/2018 15:39:22 --- Adding Leguen_y to Consultation_L
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:22 --- Adding Mourouvin_s to Consultation_L
+02/01/2018 15:39:22 --- Adding Varais_c to Consultation_L
+02/01/2018 15:39:22 --- Adding Nouailles_a to Consultation_E
+02/01/2018 15:39:22 --- Adding Auvergne_k to Consultation_E
+02/01/2018 15:39:22 --- Adding Taioni_c to Consultation_E
+02/01/2018 15:39:22 --- Adding Bohec_k to Consultation_E
+02/01/2018 15:39:22 --- Adding Tudesq_jf to Consultation_E
+02/01/2018 15:39:22 --- Adding Potin_a to Consultation_E
+02/01/2018 15:39:22 --- Adding Loup_j to Consultation_E
+02/01/2018 15:39:23 --- Adding Lombardo_jm to Consultation_E
+02/01/2018 15:39:23 --- Adding Busicchia_c to Consultation_E
+02/01/2018 15:39:23 --- Adding Leguen_y to Consultation_E
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Leguen_y » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Leguen_y:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:23 --- Adding Leblond_v to Consultation_E
+02/01/2018 15:39:23 --- Adding Rouge_g to Consultation_E
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Rouge_g » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Rouge_g:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:23 --- Adding Laurent_jt to Consultation_E
+02/01/2018 15:39:23 --- Adding Crasset_e to Consultation_E
+02/01/2018 15:39:23 --- Adding Butterbach_j to Consultation_E
+02/01/2018 15:39:23 --- Adding Pietrobon_m to Infra_service
+02/01/2018 15:39:23 --- Adding Szczot_s to Infra_service
+02/01/2018 15:39:24 --- Adding Taioni_c to Infra_service
+02/01/2018 15:39:24 --- Adding Le-Roux_j to Infra_service
+02/01/2018 15:39:24 --- Adding Boniface_l to Infra_service
+02/01/2018 15:39:24 --- Adding Bosch_jp to Infra_service
+02/01/2018 15:39:24 --- Adding Cazenave_f to Infra_service
+02/01/2018 15:39:24 --- Adding Dronneau_m to Infra_service
+02/01/2018 15:39:24 --- Adding Gautheret_p to Infra_service
+02/01/2018 15:39:24 --- Adding Guillaume_p to Infra_service
+02/01/2018 15:39:24 --- Adding Midoux_v to Infra_service
+02/01/2018 15:39:24 --- Adding Schwebel_m to Infra_service
+02/01/2018 15:39:24 --- Adding Vachey_g to Infra_service
+02/01/2018 15:39:24 --- Adding Valez_p to Infra_service
+02/01/2018 15:39:24 --- Adding Vielly_b to Infra_service
+02/01/2018 15:39:25 --- Adding Ricard_j to Infra_service
+02/01/2018 15:39:25 --- Adding Le-Roux_jy to Infra_service
+02/01/2018 15:39:25 --- Adding Befve_a to Infra_service
+02/01/2018 15:39:25 --- Adding Nouxet_v to Infra_service
+02/01/2018 15:39:25 --- Adding Cazenave_f to Infra_etudes
+02/01/2018 15:39:25 --- Adding Clastre_mc to Infra_etudes
+02/01/2018 15:39:25 --- Adding Cros_m to Infra_etudes
+Add-ADGroupMember : Impossible de trouver un objet avec l’identité « Cros_m » sous : « DC=rmp,DC=loc ».
+Au caractère C:\grpntfs\N2N-CreateGroup.ps1:47 : 5
++     Add-ADGroupMember -Members $member $group
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Cros_m:ADPrincipal) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : SetADGroupMember.ValidateMembersParameter,Microsoft.ActiveDirectory.Management.Commands.AddADGroupMember
+ 
+02/01/2018 15:39:25 --- Adding Dronneau_m to Infra_etudes
+02/01/2018 15:39:25 --- Adding Gautheret_p to Infra_etudes
+02/01/2018 15:39:25 --- Adding Guillaume_p to Infra_etudes
+02/01/2018 15:39:25 --- Adding Vachey_g to Infra_etudes
+02/01/2018 15:39:25 --- Adding Vielly_b to Infra_etudes
+02/01/2018 15:39:26 --- Adding Midoux_v to Infra_etudes
+02/01/2018 15:39:26 --- Adding Roig_a to Infra_etudes
+02/01/2018 15:39:26 --- Adding Bosch_jp to Infra_etudes
+02/01/2018 15:39:26 --- Adding Taioni_c to Infra_etudes
+02/01/2018 15:39:26 --- Adding Schwebel_m to Infra_etudes
+02/01/2018 15:39:26 --- Adding Valez_p to Infra_etudes
+02/01/2018 15:39:26 --- Adding Boniface_l to Infra_etudes
+02/01/2018 15:39:26 --- Adding Befve_a to Infra_etudes

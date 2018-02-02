@@ -1,0 +1,187 @@
+<metadata>
+<trusteeInfo>
+<file>
+<zid>127</zid><path>/</path>
+<inheritedRightsFilter value=""></inheritedRightsFilter>
+</file>
+<file>
+<zid>128</zid><path>/~DFSINFO.8-P</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>129</zid><path>/._NETWARE</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>130</zid><path>/Datas</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>711fd385-82aa-4136-35-9c-85d31f71aa82</id><rights value="rf"><read/><fileScan/></rights></trustee>
+</file>
+<file>
+<zid>131</zid><path>/Homedir</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>384</zid><path>/Datas/Direction</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=R_CRAC_Direction.OU=Group.OU=Service.O=CR.T=RLR.</name><id>fa954231-9dcf-411f-6e-ba-314295facf9d</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>385</zid><path>/Datas/Service</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>711fd385-82aa-4136-35-9c-85d31f71aa82</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>1664</zid><path>/Homedir/Carpentier_m</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Carpentier_m.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>56713720-ee56-01db-80-8c-00145e3c3f79</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>1666</zid><path>/Homedir/Noel_c</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Noel_c.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>01e0f600-ee56-01db-80-8c-00145e3c3f79</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>1667</zid><path>/Homedir/Redon_k</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Redon_k.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>3cce41f0-ee56-01db-80-8c-00145e3c3f79</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>1668</zid><path>/Homedir/Rossignol_v</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Rossignol_v.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>6f111430-ee56-01db-80-8c-00145e3c3f79</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>1669</zid><path>/Homedir/Siess_f</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Siess_f.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>a3723500-fb61-11d8-ad-06-0002b3b3bb13</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>1670</zid><path>/Homedir/testcrac</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>1671</zid><path>/Homedir/Tissier_n</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>1672</zid><path>/Homedir/Bonjour_p</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Bonjour_p.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>d19f7200-ee55-01db-80-8c-00145e3c3f79</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>1673</zid><path>/Homedir/Comito_m</path>
+<trustee><name>.CN=Comito_m.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>20be1d50-ee56-01db-80-8c-00145e3c3f79</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>1682</zid><path>/Homedir/Caumet_s</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Caumet_s.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>37357316-e039-4261-9e-9d-1673353739e0</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>640647</zid><path>/._NETWARE/.trustee_database.xml</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+</trusteeInfo>
+<userInfo>
+<user><id>00000003-0000-0000-00-00-000000000000</id><spaceUsed>53248</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>[Supervisor]</name>
+<idNotFound><time><utc>1285844041</utc><string>Sep 30, 2010  11:54:01 am</string></time><numberOfTimes>230</numberOfTimes></idNotFound>
+</user>
+<user><id>000003e7-0000-0000-00-00-000000000000</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>RLR</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>01e0f600-ee56-01db-80-8c-00145e3c3f79</id><spaceUsed>3723370496</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Noel_c.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>0a145500-4d09-11da-9d-da-0002b3b3ba99</id><spaceUsed>265449472</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Coves_c.OU=Service_Informatique.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>11307393-1ed6-4fbe-a9-81-93733011d61e</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>20be1d50-ee56-01db-80-8c-00145e3c3f79</id><spaceUsed>36735180800</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Comito_m.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>37357316-e039-4261-9e-9d-1673353739e0</id><spaceUsed>12660359168</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Caumet_s.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>3cce41f0-ee56-01db-80-8c-00145e3c3f79</id><spaceUsed>10894123008</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Redon_k.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>56713720-ee56-01db-80-8c-00145e3c3f79</id><spaceUsed>34512896</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Carpentier_m.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6a2c26f7-bb96-479a-64-8c-f7262c6a96bb</id><spaceUsed>81920</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>6f111430-ee56-01db-80-8c-00145e3c3f79</id><spaceUsed>5849911296</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Rossignol_v.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>711fd385-82aa-4136-35-9c-85d31f71aa82</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>7570c9bc-1bf6-4e53-0e-aa-bcc97075f61b</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>7a533836-c00d-49e5-51-90-3638537a0dc0</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=vmposete_CRAC.OU=Service.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>88022529-50c4-4294-b6-b4-29250288c450</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Billot_b.OU=Service_Informatique.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>88ca9ea0-ee56-01db-80-8c-00145e3c3f79</id><spaceUsed>897282048</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>96c60c00-ffa4-11d7-ad-03-0002b3b3bb13</id><spaceUsed>587321344</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Honvault_c.OU=Service_Informatique.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>a3723500-fb61-11d8-ad-06-0002b3b3bb13</id><spaceUsed>1655128064</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Siess_f.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b66f2a80-888b-11d8-ad-04-0002b3b3bb13</id><spaceUsed>557056</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Pedrosa_v.OU=Service_Informatique.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d030c502-e7f1-11d6-8d-a5-0030052b5158</id><spaceUsed>425984</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Admin.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d19f7200-ee55-01db-80-8c-00145e3c3f79</id><spaceUsed>13433552896</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bonjour_p.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fa954231-9dcf-411f-6e-ba-314295facf9d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=R_CRAC_Direction.OU=Group.OU=Service.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fddd99d0-b402-4995-d0-92-d099ddfd02b4</id><spaceUsed>2125123584</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Tanguy_m.OU=Users_CRAC.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+</userInfo>
+<dirInfo>
+<directory><zid>1664</zid><path>\Homedir\Carpentier_m</path><spaceUsed>4096</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>1666</zid><path>\Homedir\Noel_c</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>1667</zid><path>\Homedir\Redon_k</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>1668</zid><path>\Homedir\Rossignol_v</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>1669</zid><path>\Homedir\Siess_f</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>1670</zid><path>\Homedir\testcrac</path><spaceUsed>81920</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>1671</zid><path>\Homedir\Tissier_n</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>1672</zid><path>\Homedir\Bonjour_p</path><spaceUsed>593018880</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>1673</zid><path>\Homedir\Comito_m</path><spaceUsed>1022910464</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+</dirInfo>
+</metadata>

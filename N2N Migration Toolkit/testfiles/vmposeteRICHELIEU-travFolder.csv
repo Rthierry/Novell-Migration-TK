@@ -1,0 +1,7 @@
+,Group,MemberOf,ParentFolder,Path,Version,Volume,_id
+0,TRVGRP--d41d8cd98f,,,,2,vmposeteRICHELIEU,5a7194178b35cb93226c5dee
+1,TRVGRP-Dat-5bbb4c1838,,,/Datas,2,vmposeteRICHELIEU,5a7194178b35cb93226c5df3
+2,TRVGRP-DatInf-1ac517a9ef,,,/Datas/Infrastructure,2,vmposeteRICHELIEU,5a7194178b35cb93226c5df8
+3,TRVGRP-DatInfDOM-f855f98efb,TRVGRP-DatInf-1ac517a9ef,/Datas/Infrastructure,/Datas/Infrastructure/DOM,2,vmposeteRICHELIEU,5a7194178b35cb93226c5dff
+4,TRVGRP-DatInfDOMPon-2cb234f088,TRVGRP-DatInfDOM-f855f98efb,/Datas/Infrastructure/DOM,/Datas/Infrastructure/DOM/Ponts,2,vmposeteRICHELIEU,5a7194178b35cb93226c5e38
+5,TRVGRP-Hom-89cfcd73d3,,,/Homedir,2,vmposeteRICHELIEU,5a7194178b35cb93226c5e43

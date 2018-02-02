@@ -1,0 +1,98 @@
+<metadata>
+<trusteeInfo>
+<file>
+<zid>127</zid><path>/</path>
+<inheritedRightsFilter value=""></inheritedRightsFilter>
+</file>
+<file>
+<zid>128</zid><path>/~DFSINFO.8-P</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>129</zid><path>/._NETWARE</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>130</zid><path>/DOSSIERS</path>
+<trustee><name>.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>10224195-661b-466e-b7-83-954122101b66</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>287</zid><path>/._NETWARE/.trustee_database.xml</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+</trusteeInfo>
+<userInfo>
+<user><id>00000003-0000-0000-00-00-000000000000</id><spaceUsed>307200</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>[Supervisor]</name>
+<idNotFound><time><utc>1350837625</utc><string>Oct 21, 2012   5:40:25 pm</string></time><numberOfTimes>177</numberOfTimes></idNotFound>
+</user>
+<user><id>000003e7-0000-0000-00-00-000000000000</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>RLR</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>038c3401-f1d7-4bc8-13-97-01348c03d7f1</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Besenwald_e.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>10224195-661b-466e-b7-83-954122101b66</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>18b96a06-ae34-4d1f-aa-82-066ab91834ae</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Lesgourgues_jj.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>315600c2-2447-4daa-8f-8e-c20056314724</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Grandin_p.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>455cc8f5-ece2-49d2-a8-a3-f5c85c45e2ec</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Delaforest_m.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>61ef00cd-dd86-4d21-9a-b5-cd00ef6186dd</id><spaceUsed>18364420096</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Costa_a.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>7aa1e8d0-1b18-4929-99-93-d0e8a17a181b</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>80995a7c-9ff0-45c0-9b-9a-7c5a9980f09f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>8ed55de7-9820-459f-23-a4-e75dd58e2098</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=vmposete_CAPIT.OU=Service.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>96c60c00-ffa4-11d7-ad-03-0002b3b3bb13</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Honvault_c.OU=Service_Informatique.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ab175785-a276-4301-4d-b7-855717ab76a2</id><spaceUsed>10919936</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Lezin_g.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ad3dcfed-4022-4821-7e-80-edcf3dad2240</id><spaceUsed>8192</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Friboulet_p.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b0ef8b58-f71f-41b9-ec-94-588befb01ff7</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bettinger_j.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>c41c0a10-d2a7-42b2-46-84-100a1cc4a7d2</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Magania_p.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d030c502-e7f1-11d6-8d-a5-0030052b5158</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Admin.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fd7956a4-665f-48f6-68-a6-a45679fd5f66</id><spaceUsed>4689920</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Cara_j.OU=Users_CAPIT.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+</userInfo>
+<dirInfo>
+</dirInfo>
+</metadata>

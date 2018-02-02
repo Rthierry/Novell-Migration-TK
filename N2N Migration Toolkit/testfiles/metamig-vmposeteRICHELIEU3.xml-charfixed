@@ -1,0 +1,711 @@
+<metadata>
+<trusteeInfo>
+<file>
+<zid>127</zid><path>/</path>
+<inheritedRightsFilter value=""></inheritedRightsFilter>
+</file>
+<file>
+<zid>128</zid><path>/~DFSINFO.8-P</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>129</zid><path>/._NETWARE</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>130</zid><path>/Datas</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>5ef602b4-5f46-48a4-b0-88-b402f65e465f</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>131</zid><path>/Homedir</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>132</zid><path>/DRHMarins</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=DRHMarins.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>e092d043-b627-41be-d3-b8-43d092e027b6</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>384</zid><path>/Datas/Commun</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>385</zid><path>/Datas/Infrastructure</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Infrastructure.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>ed8c0bf0-2301-01dc-80-be-00145e3c3f79</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>512</zid><path>/Datas/Infrastructure/DOM</path>
+<trustee><name>.CN=DOM.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>d4a0a6f0-2301-01dc-80-be-00145e3c3f79</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>653</zid><path>/Datas/Infrastructure/DOM/APISOFT</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=APISOFT.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>b3557aa0-3f41-01dc-80-07-00145e3c3f79</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>654</zid><path>/Datas/Infrastructure/DOM/Armement</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Armement.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>3f3f7620-3f41-01dc-80-07-00145e3c3f79</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>655</zid><path>/Datas/Infrastructure/DOM/Atelier</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Atelier.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>58c4d130-3f41-01dc-80-07-00145e3c3f79</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>657</zid><path>/Datas/Infrastructure/DOM/ComptaAna</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=ComptaAna.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>d409fa00-3f41-01dc-80-07-00145e3c3f79</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>666</zid><path>/Datas/Infrastructure/DOM/GESTOPA</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=GESTOPA.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>2b569c00-3f42-01dc-80-07-00145e3c3f79</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>668</zid><path>/Datas/Infrastructure/DOM/Loi sur l'eau</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Loi_sur_l'eau.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>5aa95330-3f42-01dc-80-07-00145e3c3f79</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>672</zid><path>/Datas/Infrastructure/DOM/Ponts</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Ponts.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>83be4060-3f41-01dc-80-07-00145e3c3f79</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>668088</zid><path>/Datas/Infrastructure/DOM/Ponts/Personnel</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Ponts_Personnel.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>4c1e5dec-a596-473b-a1-9e-ec5d1e4c96a5</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710156</zid><path>/Homedir/Auvergne_k</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Auvergne_k.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>ce05fef0-2fcb-4701-c8-b1-f0fe05cecb2f</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710157</zid><path>/Homedir/Balmes_jp</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710158</zid><path>/Homedir/Bertrand_m</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Bertrand_m.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>a97ecf00-9013-11db-bd-23-000e0c610b55</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710159</zid><path>/Homedir/Brothier_c</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Brothier_c.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>c25bee55-a01d-4ac4-53-85-55ee5bc21da0</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710160</zid><path>/Homedir/Busicchia_c</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Busicchia_c.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>6af98270-8eaf-01dc-80-ff-0011254a2892</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710161</zid><path>/Homedir/Caminade_e</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Caminade_e.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>96156af0-71a9-01dc-80-4d-00145e3c3f92</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710162</zid><path>/Homedir/Clement_p</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710163</zid><path>/Homedir/Cwick_s</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710164</zid><path>/Homedir/Dom-armement</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Dom-armement.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>39ca3a90-0535-4dc8-b7-9d-903aca393505</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710165</zid><path>/Homedir/Dom-atelier</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Dom-atelier.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>eecf4ac3-588e-45e5-a7-ae-c34acfee8e58</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710166</zid><path>/Homedir/Dom-ponts</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Dom-ponts.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>300a8e29-b659-4f92-72-82-298e0a3059b6</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710167</zid><path>/Homedir/Fournier_f</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Fournier_f.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>7e2aea00-91a3-11db-ad-0a-0002b3b3bb13</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710168</zid><path>/Homedir/Gallinaro_r</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Gallinaro_r.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>18115c00-9017-11db-bd-23-000e0c610b55</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710169</zid><path>/Homedir/Gerbert_g</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710170</zid><path>/Homedir/Grandcler_jm</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710171</zid><path>/Homedir/Honiat_j</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710172</zid><path>/Homedir/Laguens_jm</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Laguens_jm.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>223a708d-a4fd-4fc6-a4-bf-8d703a22fda4</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710173</zid><path>/Homedir/Leguen_y</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710174</zid><path>/Homedir/Lombardo_jm</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Lombardo_jm.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>8acf0700-9018-11db-bd-23-000e0c610b55</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710175</zid><path>/Homedir/Loup_j</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Loup_j.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>acc88980-9018-11db-bd-23-000e0c610b55</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710176</zid><path>/Homedir/Mattossi_jp</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710177</zid><path>/Homedir/Midoux_jl</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710178</zid><path>/Homedir/Milhaud_a</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710179</zid><path>/Homedir/Notardonato_j</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Notardonato_j.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>1308d880-9028-11db-bd-23-000e0c610b55</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710180</zid><path>/Homedir/Nouailles_a</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Nouailles_a.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>1c800fc0-2729-01dd-80-04-00145e3c3f92</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710181</zid><path>/Homedir/Olascuaga_c</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Olascuaga_c.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>30165836-b4ce-4c48-f8-b7-36581630ceb4</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710182</zid><path>/Homedir/Potin_a</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Potin_a.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>975b5b80-9028-11db-bd-23-000e0c610b55</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710183</zid><path>/Homedir/Pron_d</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710184</zid><path>/Homedir/Sarotti_m</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710185</zid><path>/Homedir/Scaphandrier</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Scaphandrier.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>d1815cc0-71a9-01dc-80-4d-00145e3c3f92</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710186</zid><path>/Homedir/Studer_c</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710187</zid><path>/Homedir/Talon_r</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Talon_r.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>98d95380-9029-11db-bd-23-000e0c610b55</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710188</zid><path>/Homedir/Master_seven</path>
+<trustee><name>.CN=Master_seven.O=CR.T=RLR.</name><id>009f028a-b3b6-418c-37-a6-8a029f00b6b3</id><rights value="rwcefm"><read/><write/><create/><erase/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710189</zid><path>/Homedir/Tudesq_jf</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Tudesq_jf.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>b3133180-9029-11db-bd-23-000e0c610b55</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710190</zid><path>/Homedir/Tyrou_p</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710191</zid><path>/Homedir/Urosevic_m</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Urosevic_m.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>22268dbd-080c-4415-d3-b2-bd8d26220c08</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710192</zid><path>/Homedir/Zen7</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+<file>
+<zid>710193</zid><path>/Homedir/Bohec_k</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Bohec_k.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>22754114-448f-4562-e6-a5-144175228f44</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710194</zid><path>/Homedir/Mougin_t</path>
+<trustee><name>.CN=Mougin_t.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>6b50805f-09d9-423d-19-b2-5f80506bd909</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710195</zid><path>/Homedir/Roustan_r</path>
+<inheritedRightsFilter value="rwcefs"><read/><write/><create/><erase/><fileScan/><supervisor/></inheritedRightsFilter>
+<trustee><name>.CN=Roustan_r.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>0d5ef509-b356-46cd-94-88-09f55e0d56b3</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710197</zid><path>/Homedir/Aigoin_k</path>
+<trustee><name>.CN=Aigoin_k.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>90e016dc-7e72-4aeb-da-bf-dc16e090727e</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710198</zid><path>/Homedir/Candore_m</path>
+<trustee><name>.CN=Candore_m.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>7e0a6a5d-2de2-4437-82-9f-5d6a0a7ee22d</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710199</zid><path>/Homedir/Felices_h</path>
+<trustee><name>.CN=Felices_h.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>6596c444-fdab-40ff-86-96-44c49665abfd</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710202</zid><path>/Homedir/Gonzalez-Zapata_f</path>
+<trustee><name>.CN=Gonzalez-Zapata_f.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>fcdfa265-84b4-4550-c6-ad-65a2dffcb484</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710203</zid><path>/Homedir/Leblond_v</path>
+<trustee><name>.CN=Leblond_v.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>98feb760-c557-4825-9b-a0-60b7fe9857c5</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710204</zid><path>/Homedir/Lechien_b</path>
+<trustee><name>.CN=Lechien_b.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>014d7ace-c00c-47f2-00-a1-ce7a4d010cc0</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710205</zid><path>/Homedir/Legrand_c</path>
+<trustee><name>.CN=Legrand_c.OU=Users.OU=PLN.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>7e8170b2-38e4-4859-e9-b1-b270817ee438</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710206</zid><path>/Homedir/Lepinoy_p</path>
+<trustee><name>.CN=Lepinoy_p.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>d0e84b9b-ecf0-48b5-19-9b-9b4be8d0f0ec</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710207</zid><path>/Homedir/Molina_j</path>
+<trustee><name>.CN=Molina_j.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>d0b6a699-c690-424d-6e-b0-99a6b6d090c6</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710209</zid><path>/Homedir/Paris_p</path>
+<trustee><name>.CN=Paris_p.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>5528c103-974e-4a35-3d-b6-03c128554e97</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710210</zid><path>/Homedir/Potoine_b</path>
+<trustee><name>.CN=Potoine_b.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>afbef809-1b19-40b2-e4-a5-09f8beaf191b</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710211</zid><path>/Homedir/Lenoble_d</path>
+<trustee><name>.CN=Lenoble_d.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>5d93a75c-f554-42c1-84-b1-5ca7935d54f5</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710212</zid><path>/Homedir/Royer_e</path>
+<trustee><name>.CN=Royer_e.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>ccb5915f-c47c-4dd1-ac-ad-5f91b5cc7cc4</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710213</zid><path>/Homedir/Laurent_jt</path>
+<trustee><name>.CN=Laurent_jt.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>df57927d-aadf-4768-ab-b1-7d9257dfdfaa</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710214</zid><path>/Homedir/Crasset_e</path>
+<trustee><name>.CN=Crasset_e.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>c7152d75-5b36-4073-b4-bd-752d15c7365b</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710215</zid><path>/Homedir/Butterbach_j</path>
+<trustee><name>.CN=Butterbach_j.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>d1553dd9-e9b0-46ca-32-94-d93d55d1b0e9</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>710216</zid><path>/Homedir/Mistoco_l</path>
+<trustee><name>.CN=Mistoco_l.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name><id>07ffb57e-ab47-4e36-0d-8d-7eb5ff0747ab</id><rights value="rwceafm"><read/><write/><create/><erase/><accessControl/><fileScan/><modify/></rights></trustee>
+</file>
+<file>
+<zid>3778403</zid><path>/._NETWARE/.trustee_database.xml</path>
+<inheritedRightsFilter value="s"><supervisor/></inheritedRightsFilter>
+</file>
+</trusteeInfo>
+<userInfo>
+<user><id>00000003-0000-0000-00-00-000000000000</id><spaceUsed>483328</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>[Supervisor]</name>
+<idNotFound><time><utc>1285844033</utc><string>Sep 30, 2010  11:53:53 am</string></time><numberOfTimes>230</numberOfTimes></idNotFound>
+</user>
+<user><id>000003e7-0000-0000-00-00-000000000000</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>RLR</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>009f028a-b3b6-418c-37-a6-8a029f00b6b3</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Master_seven.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>014d7ace-c00c-47f2-00-a1-ce7a4d010cc0</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Lechien_b.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>04f4e1c0-9c26-01dc-80-ef-0011254a2892</id><spaceUsed>253952</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>07ffb57e-ab47-4e36-0d-8d-7eb5ff0747ab</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mistoco_l.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>0868e257-3bed-4115-4f-b5-57e26808ed3b</id><spaceUsed>12759040</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>0d5ef509-b356-46cd-94-88-09f55e0d56b3</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Roustan_r.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>0f64adc0-3f42-01dc-80-07-00145e3c3f79</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=GESTIM.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1308d880-9028-11db-bd-23-000e0c610b55</id><spaceUsed>806785024</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Notardonato_j.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>18115c00-9017-11db-bd-23-000e0c610b55</id><spaceUsed>905216</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Gallinaro_r.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>1c800fc0-2729-01dd-80-04-00145e3c3f92</id><spaceUsed>1976991744</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Nouailles_a.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>22268dbd-080c-4415-d3-b2-bd8d26220c08</id><spaceUsed>245760</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Urosevic_m.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>223a708d-a4fd-4fc6-a4-bf-8d703a22fda4</id><spaceUsed>260681728</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Laguens_jm.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>22754114-448f-4562-e6-a5-144175228f44</id><spaceUsed>25459236864</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bohec_k.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>268d6eef-0468-4d81-c5-9f-ef6e8d266804</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Urbach_f.OU=Service_Hotline.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>2b569c00-3f42-01dc-80-07-00145e3c3f79</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=GESTOPA.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>2e5f40c0-3d2d-01dd-80-24-0011254a2892</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Moutte_d.OU=Users_REGY.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>300a8e29-b659-4f92-72-82-298e0a3059b6</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dom-ponts.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>30165836-b4ce-4c48-f8-b7-36581630ceb4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Olascuaga_c.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>324b3a00-9017-11db-bd-23-000e0c610b55</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Gallon_d.OU=Users_REGY.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>39ca3a90-0535-4dc8-b7-9d-903aca393505</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dom-armement.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>3e5185e7-761a-40c9-48-b2-e785513e1a76</id><spaceUsed>31789056</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>3f3f7620-3f41-01dc-80-07-00145e3c3f79</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Armement.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>4728cd00-9019-11db-bd-23-000e0c610b55</id><spaceUsed>1725759488</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>4c16e6de-3094-462e-12-a0-dee6164c9430</id><spaceUsed>4907008</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>4c1e5dec-a596-473b-a1-9e-ec5d1e4c96a5</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Ponts_Personnel.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5528c103-974e-4a35-3d-b6-03c128554e97</id><spaceUsed>536576</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Paris_p.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>58c4d130-3f41-01dc-80-07-00145e3c3f79</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Atelier.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5aa95330-3f42-01dc-80-07-00145e3c3f79</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Loi_sur_l'eau.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5b5fb1a3-d66d-429e-ff-96-a3b15f5b6dd6</id><spaceUsed>8171528192</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>5d93a75c-f554-42c1-84-b1-5ca7935d54f5</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Lenoble_d.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>5ef602b4-5f46-48a4-b0-88-b402f65e465f</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6596c444-fdab-40ff-86-96-44c49665abfd</id><spaceUsed>8192</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Felices_h.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6af98270-8eaf-01dc-80-ff-0011254a2892</id><spaceUsed>4420206592</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Busicchia_c.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>6b07baf0-2ba1-01dc-80-07-00145e3c3f79</id><spaceUsed>343871488</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>6b50805f-09d9-423d-19-b2-5f80506bd909</id><spaceUsed>20480</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mougin_t.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>7e0a6a5d-2de2-4437-82-9f-5d6a0a7ee22d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Candore_m.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>7e2aea00-91a3-11db-ad-0a-0002b3b3bb13</id><spaceUsed>344064</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Fournier_f.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>7e8170b2-38e4-4859-e9-b1-b270817ee438</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Legrand_c.OU=Users.OU=PLN.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>83be4060-3f41-01dc-80-07-00145e3c3f79</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Ponts.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>85ea2310-271a-01dd-80-04-00145e3c3f92</id><spaceUsed>530399232</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Taioni_c.OU=Users_REGY.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>86b69a8d-dda4-492f-39-82-8d9ab686a4dd</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=vmposete_RICHELIEU.OU=Service.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>8acf0700-9018-11db-bd-23-000e0c610b55</id><spaceUsed>16488448000</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Lombardo_jm.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>90e016dc-7e72-4aeb-da-bf-dc16e090727e</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Aigoin_k.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>9148b92b-bf44-4374-65-9a-2bb9489144bf</id><spaceUsed>183652352</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>96156af0-71a9-01dc-80-4d-00145e3c3f92</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Caminade_e.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>96c60c00-ffa4-11d7-ad-03-0002b3b3bb13</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Honvault_c.OU=Service_Informatique.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>975b5b80-9028-11db-bd-23-000e0c610b55</id><spaceUsed>2362077184</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Potin_a.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>98d95380-9029-11db-bd-23-000e0c610b55</id><spaceUsed>442720256</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Talon_r.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>98feb760-c557-4825-9b-a0-60b7fe9857c5</id><spaceUsed>140226560</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Leblond_v.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>9a47aaf5-7dd5-4983-7b-8e-f5aa479ad57d</id><spaceUsed>1408327680</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>a89e080a-aed0-4418-ea-8e-0a089ea8d0ae</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>a97ecf00-9013-11db-bd-23-000e0c610b55</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Bertrand_m.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>aa3d611d-0eb0-4aa5-00-93-1d613daab00e</id><spaceUsed>28672</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Noguera_r.OU=Service_Informatique.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>acc88980-9018-11db-bd-23-000e0c610b55</id><spaceUsed>68570750976</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Loup_j.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>afbef809-1b19-40b2-e4-a5-09f8beaf191b</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Potoine_b.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b0a7dc00-9017-11db-bd-23-000e0c610b55</id><spaceUsed>5829107712</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>b3133180-9029-11db-bd-23-000e0c610b55</id><spaceUsed>36631490560</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Tudesq_jf.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b3557aa0-3f41-01dc-80-07-00145e3c3f79</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=APISOFT.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>b66f2a80-888b-11d8-ad-04-0002b3b3bb13</id><spaceUsed>1850884096</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Pedrosa_v.OU=Service_Informatique.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>bcf5a9f0-4dba-4991-88-8f-f0a9f5bcba4d</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>c0cc9fe1-2221-4b27-5a-ac-e19fccc02122</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>c25bee55-a01d-4ac4-53-85-55ee5bc21da0</id><spaceUsed>180207616</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Brothier_c.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>c7152d75-5b36-4073-b4-bd-752d15c7365b</id><spaceUsed>4638134272</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Crasset_e.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ca428b19-0670-41ec-f5-90-198b42ca7006</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Consultation_L.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ccb5915f-c47c-4dd1-ac-ad-5f91b5cc7cc4</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Royer_e.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ce05fef0-2fcb-4701-c8-b1-f0fe05cecb2f</id><spaceUsed>2304622592</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Auvergne_k.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d030c502-e7f1-11d6-8d-a5-0030052b5158</id><spaceUsed>673120256</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Admin.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d0b6a699-c690-424d-6e-b0-99a6b6d090c6</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Molina_j.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d0c95b9b-e7f1-11d6-8d-a5-0030052b5158</id><spaceUsed>1097728</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=hotline.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d0e84b9b-ecf0-48b5-19-9b-9b4be8d0f0ec</id><spaceUsed>4710400</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Lepinoy_p.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d1553dd9-e9b0-46ca-32-94-d93d55d1b0e9</id><spaceUsed>992550912</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Butterbach_j.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d1815cc0-71a9-01dc-80-4d-00145e3c3f92</id><spaceUsed>108797952</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Scaphandrier.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d409fa00-3f41-01dc-80-07-00145e3c3f79</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=ComptaAna.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d4a0a6f0-2301-01dc-80-be-00145e3c3f79</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DOM.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>d9204691-dbc3-4265-39-85-914620d9c3db</id><spaceUsed>1481822208</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>df57927d-aadf-4768-ab-b1-7d9257dfdfaa</id><spaceUsed>275501056</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Laurent_jt.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>e092d043-b627-41be-d3-b8-43d092e027b6</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=DRHMarins.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>e7c3b8d0-41f8-44c9-bc-b2-d0b8c3e7f841</id><spaceUsed>765952</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Varais_c.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>ec0ace60-e539-01dc-80-db-00145e3c2e22</id><spaceUsed>12926976</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>ed8c0bf0-2301-01dc-80-be-00145e3c3f79</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Infrastructure.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>eecf4ac3-588e-45e5-a7-ae-c34acfee8e58</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Dom-atelier.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>f462749c-983b-44d6-b4-a9-9c7462f43b98</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>unknown</name>
+</user>
+<user><id>f4a3ba86-3425-4539-90-bd-86baa3f42534</id><spaceUsed>4096</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Mourouvin_s.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fcdfa265-84b4-4550-c6-ad-65a2dffcb484</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Gonzalez-Zapata_f.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+<user><id>fdf5d4a5-211f-4866-6a-9a-a5d4f5fd1f21</id><spaceUsed>0</spaceUsed><quotaAmount>9223372036854775807</quotaAmount>
+<name>.CN=Consultation_E.OU=Users_RICHELIEU.OU=SETE.OU=CR-DISTANTS.O=CR.T=RLR.</name>
+<idNotFound><time><utc>0</utc><string>Invalid UTC Time</string></time><numberOfTimes>0</numberOfTimes></idNotFound>
+</user>
+</userInfo>
+<dirInfo>
+<directory><zid>710156</zid><path>\Homedir\Auvergne_k</path><spaceUsed>876863488</spaceUsed><quotaAmount>1073741824</quotaAmount></directory>
+<directory><zid>710157</zid><path>\Homedir\Balmes_jp</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710158</zid><path>\Homedir\Bertrand_m</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710159</zid><path>\Homedir\Brothier_c</path><spaceUsed>180207616</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710160</zid><path>\Homedir\Busicchia_c</path><spaceUsed>90599424</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710161</zid><path>\Homedir\Caminade_e</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710162</zid><path>\Homedir\Clement_p</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710163</zid><path>\Homedir\Cwick_s</path><spaceUsed>139997184</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710164</zid><path>\Homedir\Dom-armement</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710165</zid><path>\Homedir\Dom-atelier</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710166</zid><path>\Homedir\Dom-ponts</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710167</zid><path>\Homedir\Fournier_f</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710168</zid><path>\Homedir\Gallinaro_r</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710169</zid><path>\Homedir\Gerbert_g</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710170</zid><path>\Homedir\Grandcler_jm</path><spaceUsed>1023074304</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710171</zid><path>\Homedir\Honiat_j</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710172</zid><path>\Homedir\Laguens_jm</path><spaceUsed>3723264</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710173</zid><path>\Homedir\Leguen_y</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710174</zid><path>\Homedir\Lombardo_jm</path><spaceUsed>73682944</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710175</zid><path>\Homedir\Loup_j</path><spaceUsed>901939200</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710176</zid><path>\Homedir\Mattossi_jp</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710177</zid><path>\Homedir\Midoux_jl</path><spaceUsed>15904768</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710178</zid><path>\Homedir\Milhaud_a</path><spaceUsed>106496</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710179</zid><path>\Homedir\Notardonato_j</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710180</zid><path>\Homedir\Nouailles_a</path><spaceUsed>408576000</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710181</zid><path>\Homedir\Olascuaga_c</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710182</zid><path>\Homedir\Potin_a</path><spaceUsed>618496</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710183</zid><path>\Homedir\Pron_d</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710185</zid><path>\Homedir\Scaphandrier</path><spaceUsed>108802048</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710186</zid><path>\Homedir\Studer_c</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710187</zid><path>\Homedir\Talon_r</path><spaceUsed>24367104</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710189</zid><path>\Homedir\Tudesq_jf</path><spaceUsed>774426624</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710190</zid><path>\Homedir\Tyrou_p</path><spaceUsed>50978816</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710191</zid><path>\Homedir\Urosevic_m</path><spaceUsed>0</spaceUsed><quotaAmount>1024000000</quotaAmount></directory>
+<directory><zid>710214</zid><path>\Homedir\Crasset_e</path><spaceUsed>57565184</spaceUsed><quotaAmount>1073741824</quotaAmount></directory>
+<directory><zid>710215</zid><path>\Homedir\Butterbach_j</path><spaceUsed>0</spaceUsed><quotaAmount>1073741824</quotaAmount></directory>
+<directory><zid>710216</zid><path>\Homedir\Mistoco_l</path><spaceUsed>0</spaceUsed><quotaAmount>1073741824</quotaAmount></directory>
+</dirInfo>
+</metadata>
