@@ -72,10 +72,10 @@ def main(self):
         permissions = directory.getUserPermissionsOnVol(args.user, args.volname)
         for element in permissions:
             #print ("Looking for "+element['groupid']+" in database.")
-            for ace in volume.NTFSAceCollection.find({'SAMAccountName' : element['groupid']}):
+            for ace in volume.NTFSAceCollection.find({'SAMAccountName' : element['groupid'], 'Volume' : args.volname}):
                 print ("GROUP ACE --- "+ace['Path']+" : From "+element['groupid']+" with "+ace['Rights'])
 
-        for ace in volume.NTFSAceCollection.find({'SAMAccountName' : args.user}):
+        for ace in volume.NTFSAceCollection.find({'SAMAccountName' : args.user, 'Volume' : args.volname}):
             print ("USER ACE --- "+ace['Path']+" : "+ace['Rights'])
 
 

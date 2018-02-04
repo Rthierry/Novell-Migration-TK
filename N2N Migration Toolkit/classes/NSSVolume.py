@@ -80,25 +80,14 @@ class NSSVolume(object):
         count = 0
         for row in NSSVolume.ntfsAceList:
             currentPath = row['Path']
-            while(currentPath.count("/") >= 1 ):
-
+            while(currentPath.count("/") >= 1 ):                
                 previousPath = currentPath
                 currentPath = self.getParentFolder(currentPath)
-                noslashpath = currentPath.replace("/","")
-                noslashpath = currentPath.replace(" ","")
-                hashpath = hashlib.md5(noslashpath.encode('utf-8')).hexdigest()
-
-
-                trunkpath = ""
-                for folder in currentPath.split("/")[1:]:
-                    trunkpath = trunkpath + folder[0:3].replace(" ","")
-
-                groupName = ("TRVGRP-"+trunkpath+"-"+hashpath[0:10])[0:60]
-
+                groupName = self.generateTraverseGroupName(currentPath)
                 post = { "Volume" : self.volname, "Path" : currentPath, 'Group' : groupName, 'Version' : self.currentVersion }
                 count = count + 1
                 self.insertLineToDB(post, self.traverseFolderCollection, 1)
-                self.traverseFolderCollection.update({"Path": previousPath}, {"$set": {"ParentFolder": currentPath, "MemberOf" : groupName}})
+                self.traverseFolderCollection.update({"Path": previousPath, "Volume" : self.volname }, {"$set": {"ParentFolder": currentPath, "MemberOf" : groupName}})
 
         print ("Added "+str(count)+" entry to traverse folder list")
 
@@ -112,7 +101,7 @@ class NSSVolume(object):
         for row in self.ntfsAceList:
 
             ### Query the Traverse Folder DB with the path of the permission parent Folder
-            parentFolder = self.traverseFolderCollection.find( { 'Path' : self.getParentFolder(row['Path']), 'Version' : self.currentVersion })
+            parentFolder = self.traverseFolderCollection.find( { 'Path' : self.getParentFolder(row['Path']), 'Version' : self.currentVersion, 'Volume' : self.volname })
             ### For the uniq result
             for f in parentFolder:
                 count = count + 1
@@ -121,12 +110,13 @@ class NSSVolume(object):
                 if (self.verbose): print ("Adding "+row['SAMAccountName']+" to : "+f['Group'])
 
         for value in self.traverseFolderList:
+            print (value.keys())
             if "MemberOf" in value.keys():
                 if (self.verbose): print ("Group "+value['Group']+" member of "+value['MemberOf'])
                 count = count + 1
                 self.insertLineToDB({ 'Volume' : self.volname, 'SAMAccountName' : value['Group'], 'MemberOf' : value['MemberOf'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
-                count = count + 1
-                self.insertLineToDB({'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly", 'Version' : self.currentVersion }, self.NTFSAceCollection, 1)
+                post = {'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly", 'Version' : self.currentVersion }                
+                self.insertLineToDB(post, self.NTFSAceCollection, 1)
 
 
         self.detectAclOverride()
@@ -258,20 +248,40 @@ class NSSVolume(object):
 
     @classmethod
     def extractUserName(self, fqdn):
+
+        ### Usual CN
         if (re.match("\.CN.*\.T=.*", fqdn)):
             username = fqdn.split(".")[1].split("=")[1]
             return username
+
+
+        ### If username is "\\", then it might come from AD integration
         elif (re.match(".*\\\\.*",fqdn)):
             username = fqdn.split("\\")[1]
             return username
+
+        ### If between [], then check for special trustee
         elif (re.match("\[.*\]",fqdn)):
             if ( ("[Public]" in fqdn) or ("[Root]" in fqdn)):
                 if ("FR" in self.ADLanguage):
                     return "Utilisa. du domaine"
                 elif("EN" in self.ADLanguage):
                     return "Domain Users"
-        elif(re.match("\.OU=.*T=.*",fqdn)):
-            username = fqdn.split(".")[1].split("=")[1]
+
+        ## If trustee is OU        
+        elif(re.match("\.OU=.*T=.*",fqdn)):            
+            ## Then generate group using whole fqdn -> grp--ou-ou-ou-o 
+            username = ""
+
+            ## Skip first cell in array because null, and stop before treename -> [1:-2]
+            for part in fqdn.split(".")[1:-2]:
+
+                ## if string isn't empty then add to group name
+                if ( part != "" ):
+                    print ( str(part.split("=")) )
+                    username = username + "-" +part.split("=")[1]
+
+            
             return ("grp-"+username)
         else:
             return "Unknown user"
@@ -296,16 +306,18 @@ class NSSVolume(object):
 
     @classmethod
     def generateTraverseGroupName(self, path):
+
         ##Remove slash character from path
         noslashpath = path.replace("/","")
         noslashpath = path.replace(" ","")
+        noslashpath = self.volname + noslashpath
         hashpath = hashlib.md5(noslashpath.encode('utf-8')).hexdigest()
 
         trunkpath = ""
         for folder in path.split("/")[1:]:
-            trunkpath = trunkpath + folder[0:3].replace(" ","")
+            trunkpath = trunkpath + folder[0:3].replace(" ","")            
 
-        return (trunkpath+"-"+hashpath[0:10])[0:60]
+        return (self.volname+"-"+trunkpath+"-"+hashpath[0:10])[0:60]
 
     @classmethod
     def detectAclOverride(self):
@@ -336,17 +348,6 @@ class NSSVolume(object):
                 override = 0
 
             print ("Result exported to OverrideTrustees collection.")
-
-
-
-
-                #if (parentTrustee != None):
-
-
-
-
-
-
 
 
 
