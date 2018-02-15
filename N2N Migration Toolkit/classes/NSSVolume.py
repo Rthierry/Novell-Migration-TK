@@ -69,6 +69,9 @@ class NSSVolume(object):
         self.convertToNTFS()
         self.generateTraverseGroup()
         self.generateTraverseRights()
+        self.detectAclOverride()
+
+        print ("Known bug : You might want to rerun NSSConverter with --detectAclOverride instead, because it does not work on the first run.")
 
 
 
@@ -87,7 +90,7 @@ class NSSVolume(object):
                 post = { "Volume" : self.volname, "Path" : currentPath, 'Group' : groupName, 'Version' : self.currentVersion }
                 count = count + 1
                 self.insertLineToDB(post, self.traverseFolderCollection, 1)
-                self.traverseFolderCollection.update({"Path": previousPath, "Volume" : self.volname }, {"$set": {"ParentFolder": currentPath, "MemberOf" : groupName}})
+                self.traverseFolderCollection.update({"Path": previousPath, "Volume" : self.volname, "Version" : self.currentVersion }, {"$set": {"ParentFolder": currentPath, "MemberOf" : groupName, "Version" : self.currentVersion}})
 
         print ("Added "+str(count)+" entry to traverse folder list")
 
@@ -110,16 +113,14 @@ class NSSVolume(object):
                 if (self.verbose): print ("Adding "+row['SAMAccountName']+" to : "+f['Group'])
 
         for value in self.traverseFolderList:
-            print (value.keys())
+            #print (value.keys())
             if "MemberOf" in value.keys():
                 if (self.verbose): print ("Group "+value['Group']+" member of "+value['MemberOf'])
                 count = count + 1
                 self.insertLineToDB({ 'Volume' : self.volname, 'SAMAccountName' : value['Group'], 'MemberOf' : value['MemberOf'], 'Version' : self.currentVersion}, self.traverseGroupMembershipCollection, 1)
                 post = {'Volume' : self.volname, 'Type' : "TraverseRights", 'SAMAccountName' : value['Group'], 'Path' : value['Path'], 'Rights' : "Read,ReadAndExecute,Synchronize", 'Scope' : "ThisFolderOnly", 'Version' : self.currentVersion }                
                 self.insertLineToDB(post, self.NTFSAceCollection, 1)
-
-
-        self.detectAclOverride()
+        
 
         print ("Added "+str(count)+" entry to GroupMembership collection")
 
@@ -132,6 +133,7 @@ class NSSVolume(object):
         acelist = collection.find({ 'Volume' : volname, 'Version' : self.currentVersion})
         return acelist
 
+    @classmethod
     def requestTrusteesDict(self, query):
         result = self.NSSTrusteesCollection.find(query, { '_id' : False, 'Version' : False})
         return result
@@ -247,6 +249,53 @@ class NSSVolume(object):
     # -------------------------------------------------
 
     @classmethod
+    def dict_compare(self, d1, d2):
+        d1_keys = set(d1.keys())
+        d2_keys = set(d2.keys())
+        intersect_keys = d1_keys.intersection(d2_keys)
+        added = d1_keys - d2_keys
+        removed = d2_keys - d1_keys
+        modified = {o : (d1[o], d2[o]) for o in intersect_keys if d1[o] != d2[o]}
+        same = set(o for o in intersect_keys if d1[o] == d2[o])
+        return added, removed, modified, same
+
+
+    @classmethod
+    def showDifferences(self,preversion, postversion):        
+        preTrustees = self.requestTrusteesDict({'Volume' : self.volname, 'Version' : int(preversion)})
+        postTrustees = self.requestTrusteesDict({'Volume' : self.volname, 'Version' : int(postversion)})
+        changelist = []
+
+        for element in preTrustees:
+            query = { 'Volume' : self.volname, 'Version' : int(postversion), 'TID' : element['TID'], 'path' : element['path']}
+            result = self.NSSTrusteesCollection.find_one(query) 
+
+            if (result == None):
+                change = { 'Status' : 'Removed', 'Path' : element['path'], 'Rights' : element['rights'], 'Name' : element['name'] }
+                changelist.append(change)
+            else:
+                if ( result['rights'] not in element['rights']):
+                    change = { 'Status' : 'Modified', 'Path' : result['path'], 'Rights' : result['rights'], 'OldRights' : element['rights'], 'Name' : result['name'] }
+                    changelist.append(change)
+            
+        for element in postTrustees:
+            query = { 'Volume' : self.volname, 'Version' : int(preversion), 'TID' : element['TID'], 'path' : element['path']}
+            result = self.NSSTrusteesCollection.find_one(query) 
+            if (result == None):  
+                change = { 'Status' : 'Added', 'Path' : element['path'], 'Rights' : element['rights'], 'Name' : element['name'] }              
+                changelist.append(change)
+        
+        pd.DataFrame(list(changelist)).to_csv(self.volname+"-diff.csv")
+
+        if ( self.verbose ):
+            for element in changelist:
+                print (element)
+
+        
+
+
+
+    @classmethod
     def extractUserName(self, fqdn):
 
         ### Usual CN
@@ -278,7 +327,7 @@ class NSSVolume(object):
 
                 ## if string isn't empty then add to group name
                 if ( part != "" ):
-                    print ( str(part.split("=")) )
+                    #print ( str(part.split("=")) )
                     username = username + "-" +part.split("=")[1]
 
             
@@ -321,10 +370,9 @@ class NSSVolume(object):
 
     @classmethod
     def detectAclOverride(self):
+        print ("ACL Override detection ran")
         for trustee in self.aceList:
-            parentFolders = self.getParentFolderList(trustee['path'])
-
-            print ("ACL Override detection ran")
+            parentFolders = self.getParentFolderList(trustee['path'])            
             override = 0
             for folder in parentFolders:
                 parentTrustee = self.NSSTrusteesCollection.find_one({ 'path' : folder, 'name' : trustee['name'] })
@@ -347,7 +395,7 @@ class NSSVolume(object):
                         if ( self.verbose): print("Found IRF on "+folder+" with filter :",irf['Filter'])
                 override = 0
 
-            print ("Result exported to OverrideTrustees collection.")
+        print ("Result exported to OverrideTrustees collection.")
 
 
 

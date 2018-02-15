@@ -18,16 +18,6 @@ def purgeUserBase(volname, collection):
     print ("Delete collection for",volname)
     result = collection.delete_many()
 
-def dict_compare(d1, d2):
-    d1_keys = set(d1.keys())
-    d2_keys = set(d2.keys())
-    intersect_keys = d1_keys.intersection(d2_keys)
-    added = d1_keys - d2_keys
-    removed = d2_keys - d1_keys
-    modified = {o : (d1[o], d2[o]) for o in intersect_keys if d1[o] != d2[o]}
-    same = set(o for o in intersect_keys if d1[o] == d2[o])
-    return added, removed, modified, same
-
 def main(self):
 
     parser = argparse.ArgumentParser()
@@ -37,6 +27,7 @@ def main(self):
     parser.add_argument("-u","--user", type=str, dest='user', help="User reporting")
     parser.add_argument("-g","--group", type=str, dest='group', help="Group reporting")
     parser.add_argument("--diff", help="Diff Mode", action="store_true")
+    parser.add_argument("--newdiff", help="Diff Mode v2", action="store_true")
     parser.add_argument("--pre", type=str, dest='pre', help="Used in differential mode, define initial version")
     parser.add_argument("--post", type=str, dest='post', help="Used in differential mode, define target version")
     parser.add_argument("--verbose", help="Verbose Mode", action="store_true")
@@ -80,34 +71,8 @@ def main(self):
 
 
     if (args.diff):
-
-        volume = NSSVolume(args.volname, args.dbname, 0)
-        preTrustees = volume.requestTrusteesDict({'Volume' : args.volname, 'Version' : int(args.pre)})
-        postTrustees = volume.requestTrusteesDict({'Volume' : args.volname, 'Version' : int(args.post)})
-
-        prerecord = dict((record['TID'], record) for record in preTrustees)
-        postrecord = dict((record['TID'], record) for record in postTrustees)
-        added, removed, modified, same = dict_compare(prerecord, postrecord)
-
-    #    for record in prerecord.values():
-    #        print (record)
-
-    #    for record in postrecord.values():
-    #        print (record)
-
-        #changelist = []
-        for element in added:            
-            print ("Added : ", volume.NSSTrusteesCollection.find_one({'TID' : element})['path'])
-        for element in same:
-            print ("Same : ",volume.NSSTrusteesCollection.find_one({'TID' : element})['path'])
-        for element in removed:
-            print ("Removed : ", volume.NSSTrusteesCollection.find_one({'TID' : element})['path'])
-        for element in modified:
-            print ("Modified : ", volume.NSSTrusteesCollection.find_one({'TID' : element})['path']  )
+        volume = NSSVolume(args.volname, args.dbname, args.verbose)
+        volume.showDifferences(args.pre, args.post)
     
-
-#        for element in volume.aceList:
-#            print (element)
-
 if __name__ == "__main__":
     main(sys.argv[1:])
