@@ -261,28 +261,44 @@ class NSSVolume(object):
 
 
     @classmethod
+    def compareRights(self, a, b):
+        for x in zip(a):
+            if ( str(x) not in b):
+                return False
+        
+        return True
+            
+
+
+    @classmethod
     def showDifferences(self,preversion, postversion):        
+        
         preTrustees = self.requestTrusteesDict({'Volume' : self.volname, 'Version' : int(preversion)})
         postTrustees = self.requestTrusteesDict({'Volume' : self.volname, 'Version' : int(postversion)})
         changelist = []
 
         for element in preTrustees:
-            query = { 'Volume' : self.volname, 'Version' : int(postversion), 'TID' : element['TID'], 'path' : element['path']}
-            result = self.NSSTrusteesCollection.find_one(query) 
+            
+            query = { 'Volume' : self.volname, 'Version' : int(postversion), 'path' : element['path'], 'name' : element['name']}
+            result = self.NSSTrusteesCollection.find_one(query)
+            print ("looking for "+str(query))
 
             if (result == None):
-                change = { 'Status' : 'Removed', 'Path' : element['path'], 'Rights' : element['rights'], 'Name' : element['name'] }
+                change = { 'Status' : 'Removed', 'Path' : element['path'], 'Rights' : element['rights'], 'name' : element['name'] }
+                print ("Not found :"+str(change))
                 changelist.append(change)
-            else:
-                if ( result['rights'] not in element['rights']):
-                    change = { 'Status' : 'Modified', 'Path' : result['path'], 'Rights' : result['rights'], 'OldRights' : element['rights'], 'Name' : result['name'] }
+            else:                                                        
+                if ( self.compareRights(result['rights'], element['rights'])):
+                    change = { 'Status' : 'Modified', 'Path' : result['path'], 'Rights' : result['rights'], 'OldRights' : element['rights'], 'name' : result['name'] }
+                    print ("Modified "+str(change))
                     changelist.append(change)
+
             
         for element in postTrustees:
-            query = { 'Volume' : self.volname, 'Version' : int(preversion), 'TID' : element['TID'], 'path' : element['path']}
+            query = { 'Volume' : self.volname, 'Version' : int(preversion), 'path' : element['path']}
             result = self.NSSTrusteesCollection.find_one(query) 
             if (result == None):  
-                change = { 'Status' : 'Added', 'Path' : element['path'], 'Rights' : element['rights'], 'Name' : element['name'] }              
+                change = { 'Status' : 'Added', 'Path' : element['path'], 'Rights' : element['rights'], 'name' : element['name'] }              
                 changelist.append(change)
         
         pd.DataFrame(list(changelist)).to_csv(self.volname+"-diff.csv")
@@ -360,13 +376,15 @@ class NSSVolume(object):
         noslashpath = path.replace("/","")
         noslashpath = path.replace(" ","")
         noslashpath = self.volname + noslashpath
+        
         hashpath = hashlib.md5(noslashpath.encode('utf-8')).hexdigest()
 
         trunkpath = ""
         for folder in path.split("/")[1:]:
             trunkpath = trunkpath + folder[0:3].replace(" ","")            
 
-        return (self.volname+"-"+trunkpath+"-"+hashpath[0:10])[0:60]
+        #return ("TRVGRP-"+trunkpath+"-"+hashpath[0:10])[0:60]
+        return (self.volname+trunkpath+"-"+hashpath[0:10])[0:60]
 
     @classmethod
     def detectAclOverride(self):
