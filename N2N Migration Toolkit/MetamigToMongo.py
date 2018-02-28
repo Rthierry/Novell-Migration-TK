@@ -217,7 +217,8 @@ def main(argv):
 
             ### Get right in rights tab
             for trusteerights in trustee.xpath("rights"):
-                rights = trusteerights.text.lower()
+                if (trusteerights.text != None ):
+                    rights = trusteerights.text.lower()
 
 
             ### Build JSON post
